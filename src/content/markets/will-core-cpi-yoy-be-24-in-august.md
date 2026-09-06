@@ -3,7 +3,7 @@ title: "Will Core CPI YoY be 2.4% in August?"
 description: "Will Core CPI YoY be 2.4% in August? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Core CPI YoY be 2.4% in August?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-06
 expiryDate: 2026-09-11
 tags: ["economics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
+title: "Will Shailene Woodley – “Paradise” win Emmys 2026: Outstanding guest actress in a drama series?"
+description: "Will Shailene Woodley – “Paradise” win Emmys 2026: Outstanding guest actress in a drama series? Odds: 57.8% YES on Polymarket. See live prices and trade this..."
+marketQuestion: "Will Shailene Woodley – “Paradise” win Emmys 2026: Outstanding guest actress in a drama series?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-06
-expiryDate: 2026-10-01
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 98830
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026-20260622185050766"
+expiryDate: 2026-09-14
+tags: ["ai", "entertainment", "politics", "polymarket"]
+polymarketYes: 57.8
+polymarketNo: 42.2
+polymarketVolume: 9987
+polymarketUrl: "https://polymarket.com/event/will-shailene-woodley-paradise-win-emmys-2026-outstanding-guest-actress-in-a-drama-series-20260709174234340"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 57.8% | 42.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"?
+### What are the current odds for "Will Shailene Woodley – “Paradise” win Emmys 2026: Outstanding guest actress in a drama series?"?
 
-As of September 06, 2026, Polymarket prices YES at 0.1%.
+As of September 06, 2026, Polymarket prices YES at 57.8%.
 
 ### Where can I trade on this prediction market?
 

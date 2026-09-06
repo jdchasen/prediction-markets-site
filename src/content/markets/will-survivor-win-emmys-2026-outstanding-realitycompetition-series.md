@@ -3,7 +3,7 @@ title: "Will “Survivor” win Emmys 2026: Outstanding reality/competition seri
 description: "Will “Survivor” win Emmys 2026: Outstanding reality/competition series? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will “Survivor” win Emmys 2026: Outstanding reality/competition series?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-06
 expiryDate: 2026-09-14
 tags: ["entertainment", "politics", "polymarket"]

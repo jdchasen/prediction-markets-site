@@ -1,15 +1,15 @@
 ---
 title: "Will Solana dip to $50 in September?"
-description: "Will Solana dip to $50 in September? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Solana dip to $50 in September? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $50 in September?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-06
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 9877
+polymarketYes: 1.5
+polymarketNo: 98.6
+polymarketVolume: 9897
 polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-50-in-september-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-solana-dip-to-50-in-september-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Solana dip to $50 in September?"?
 
-As of September 05, 2026, Polymarket prices YES at 0.6%.
+As of September 06, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

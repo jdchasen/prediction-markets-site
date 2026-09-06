@@ -3,7 +3,7 @@ title: "Will XRP reach $2.40 in September?"
 description: "Will XRP reach $2.40 in September? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP reach $2.40 in September?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-06
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Will Trump meet with Delcy Rodríguez by December 31, 2026?"
-description: "Will Trump meet with Delcy Rodríguez by December 31, 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Delcy Rodríguez by December 31, 2026? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Delcy Rodríguez by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-06
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 22.5
-polymarketNo: 77.5
-polymarketVolume: 9886
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-delcy-rodrguez-by-december-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-delcy-rodrguez
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 13% YES
+- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
-- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump meet with Delcy Rodríguez by December 31, 2026?"?
 
-As of September 06, 2026, Polymarket prices YES at 22.5%.
+As of September 06, 2026, Polymarket prices YES at 28.5%.
 
 ### Where can I trade on this prediction market?
 

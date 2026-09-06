@@ -3,13 +3,13 @@ title: "Will the Republican Party win the AL-06 House seat?"
 description: "Will the Republican Party win the AL-06 House seat? Odds: 94.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AL-06 House seat?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-09-01
+status: "active"
+lastUpdated: 2026-09-06
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.0
 polymarketNo: 6.0
-polymarketVolume: 9856
+polymarketVolume: 9906
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Will the Democrats win the 2028 US Presidential Election?](/odds/will-the-democrats-win-the-2028-us-presidential-election) — 59% YES
-- [US-Iran Hormuz Agreement by September 30?](/odds/us-iran-hormuz-agreement-by-september-30) — 10% YES
+- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
+- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
 
-As of September 01, 2026, Polymarket prices YES at 94.0%.
+As of September 06, 2026, Polymarket prices YES at 94.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Lacy and Marlon have 100 or more Fortnite deaths during the maratho
 description: "Will Lacy and Marlon have 100 or more Fortnite deaths during the marathon? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lacy and Marlon have 100 or more Fortnite deaths during the marathon?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-06
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]

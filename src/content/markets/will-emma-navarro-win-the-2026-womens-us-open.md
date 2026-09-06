@@ -3,7 +3,7 @@ title: "Will Emma Navarro win the 2026 Women’s US Open?"
 description: "Will Emma Navarro win the 2026 Women’s US Open? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Emma Navarro win the 2026 Women’s US Open?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-06
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]

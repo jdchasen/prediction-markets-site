@@ -3,7 +3,7 @@ title: "Will Tottenham win the 2026-27 English Premier League (EPL) Championship
 description: "Will Tottenham win the 2026-27 English Premier League (EPL) Championship? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tottenham win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-06
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]

@@ -1,15 +1,15 @@
 ---
 title: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
-description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
 category: "economics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-06
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
-polymarketYes: 0.6
-polymarketNo: 99.4
-polymarketVolume: 9650
+polymarketYes: 3.9
+polymarketNo: 96.1
+polymarketVolume: 9715
 polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026-be-between-0pt4-and-0pt7-20260731151541471"
 ---
 
@@ -17,13 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the September meeting?](/odds/will-the-central-bank-of-colombia-increase-the-monetary-policy-interest-rate-by-) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"?
 
-As of September 05, 2026, Polymarket prices YES at 0.6%.
+As of September 06, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 

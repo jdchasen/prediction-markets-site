@@ -1,15 +1,15 @@
 ---
 title: "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the September meeting?"
-description: "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the September meeting? Odds: 3.8% YES on Polymarket. See live price..."
+description: "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the September meeting? Odds: 1.6% YES on Polymarket. See live price..."
 marketQuestion: "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the September meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-09-06
 expiryDate: 2026-09-30
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 3.8
-polymarketNo: 96.2
-polymarketVolume: 9709
+polymarketYes: 1.6
+polymarketNo: 98.5
+polymarketVolume: 9821
 polymarketUrl: "https://polymarket.com/event/will-the-central-bank-of-colombia-increase-the-monetary-policy-interest-rate-by-25-bps-at-the-september-meeting-20260630004645249"
 ---
 
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-the-central-bank-of-colombia-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Core CPI YoY be 2.4% in August?](/odds/will-core-cpi-yoy-be-24-in-august) — 47% YES
+- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the September meeting?"?
 
-As of September 06, 2026, Polymarket prices YES at 3.8%.
+As of September 06, 2026, Polymarket prices YES at 1.6%.
 
 ### Where can I trade on this prediction market?
 

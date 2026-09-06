@@ -1,14 +1,14 @@
 ---
 title: "Will Dr. Daniel Santos win the Governor of Pará election?"
-description: "Will Dr. Daniel Santos win the Governor of Pará election? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Dr. Daniel Santos win the Governor of Pará election? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dr. Daniel Santos win the Governor of Pará election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-06
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 44.0
-polymarketNo: 56.0
+polymarketYes: 43.5
+polymarketNo: 56.5
 polymarketVolume: 9901
 polymarketUrl: "https://polymarket.com/event/will-drpt-daniel-santos-win-the-governor-of-para-election-20260609154624114"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-drpt-daniel-santos-win-the-gov
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 13% YES
+- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
-- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Dr. Daniel Santos win the Governor of Pará election?"?
 
-As of September 06, 2026, Polymarket prices YES at 44.0%.
+As of September 06, 2026, Polymarket prices YES at 43.5%.
 
 ### Where can I trade on this prediction market?
 
