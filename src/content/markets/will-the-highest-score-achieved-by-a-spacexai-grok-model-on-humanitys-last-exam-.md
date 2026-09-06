@@ -3,8 +3,8 @@ title: "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s
 description: "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 50% or higher? Odds: 58.5% YES on Polymarket. See live prices and..."
 marketQuestion: "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 50% or higher?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-09-05
+status: "settled"
+lastUpdated: 2026-09-06
 expiryDate: 2027-01-01
 tags: ["ai", "polymarket", "tech"]
 polymarketYes: 58.5

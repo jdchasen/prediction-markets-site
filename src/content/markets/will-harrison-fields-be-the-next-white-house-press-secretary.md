@@ -4,12 +4,12 @@ description: "Will Harrison Fields be the next White House Press Secretary? Odds
 marketQuestion: "Will Harrison Fields be the next White House Press Secretary?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-05
+lastUpdated: 2026-09-06
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 9882
+polymarketVolume: 9898
 polymarketUrl: "https://polymarket.com/event/will-harrison-fields-be-the-next-white-house-press-secretary-20260812210720659"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-harrison-fields-be-the-next-wh
 
 ## Related Markets
 
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 13% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Harrison Fields be the next White House Press Secretary?"?
 
-As of September 05, 2026, Polymarket prices YES at 0.4%.
+As of September 06, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

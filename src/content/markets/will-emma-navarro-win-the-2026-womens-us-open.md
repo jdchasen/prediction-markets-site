@@ -1,23 +1,23 @@
 ---
-title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
-description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
+title: "Will Emma Navarro win the 2026 Women’s US Open?"
+description: "Will Emma Navarro win the 2026 Women’s US Open? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Emma Navarro win the 2026 Women’s US Open?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-06
-expiryDate: 2026-10-01
+expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 100.0
-polymarketVolume: 98830
-polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026-20260622185050766"
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 98829
+polymarketUrl: "https://polymarket.com/event/will-emma-navarro-win-the-2026-womens-us-open"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"?
+### What are the current odds for "Will Emma Navarro win the 2026 Women’s US Open?"?
 
-As of September 06, 2026, Polymarket prices YES at 0.1%.
+As of September 06, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

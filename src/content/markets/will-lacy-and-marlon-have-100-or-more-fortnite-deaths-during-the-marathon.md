@@ -1,23 +1,23 @@
 ---
-title: "Will Emmanuel Macron be the next leader out before 2027?"
-description: "Will Emmanuel Macron be the next leader out before 2027? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Emmanuel Macron be the next leader out before 2027?"
+title: "Will Lacy and Marlon have 100 or more Fortnite deaths during the marathon?"
+description: "Will Lacy and Marlon have 100 or more Fortnite deaths during the marathon? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Lacy and Marlon have 100 or more Fortnite deaths during the marathon?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-06
-expiryDate: 2027-01-01
+expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.3
-polymarketVolume: 9988
-polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-leader-out-before-2027-20260630194627364"
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9962
+polymarketUrl: "https://polymarket.com/event/will-lacy-and-marlon-have-100-or-more-fortnite-deaths-during-the-marathon"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-emmanuel-macron-be-the-next-le
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Emmanuel Macron be the next leader out before 2027?"?
+### What are the current odds for "Will Lacy and Marlon have 100 or more Fortnite deaths during the marathon?"?
 
-As of September 06, 2026, Polymarket prices YES at 1.7%.
+As of September 06, 2026, Polymarket prices YES at 5.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Grüne win less than 14% of all valid second votes?"
 description: "Will Grüne win less than 14% of all valid second votes? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grüne win less than 14% of all valid second votes?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-05
+status: "settled"
+lastUpdated: 2026-09-06
 expiryDate: 2026-09-20
 tags: ["politics", "polymarket"]
 polymarketYes: 21.0

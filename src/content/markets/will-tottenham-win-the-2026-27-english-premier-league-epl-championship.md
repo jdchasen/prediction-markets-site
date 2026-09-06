@@ -4,12 +4,12 @@ description: "Will Tottenham win the 2026-27 English Premier League (EPL) Champi
 marketQuestion: "Will Tottenham win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-09-05
+lastUpdated: 2026-09-06
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7
 polymarketNo: 99.3
-polymarketVolume: 998665
+polymarketVolume: 999174
 polymarketUrl: "https://polymarket.com/event/will-tottenham-win-the-2026-27-english-premier-league-epl-championship-20260701200428765"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-tottenham-win-the-2026-27-engl
 
 ### What are the current odds for "Will Tottenham win the 2026-27 English Premier League (EPL) Championship?"?
 
-As of September 05, 2026, Polymarket prices YES at 0.7%.
+As of September 06, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 

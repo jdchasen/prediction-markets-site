@@ -3,8 +3,8 @@ title: "Will Solana dip to $50 in September?"
 description: "Will Solana dip to $50 in September? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $50 in September?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-05
+status: "settled"
+lastUpdated: 2026-09-06
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6

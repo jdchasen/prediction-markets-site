@@ -3,8 +3,8 @@ title: "Will Anthropic have the best AI Agent at the end of October 2026?"
 description: "Will Anthropic have the best AI Agent at the end of October 2026? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best AI Agent at the end of October 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-05
+status: "settled"
+lastUpdated: 2026-09-06
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 77.5

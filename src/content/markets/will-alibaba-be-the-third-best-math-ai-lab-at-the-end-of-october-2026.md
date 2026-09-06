@@ -3,8 +3,8 @@ title: "Will Alibaba be the third-best Math AI lab at the end of October 2026?"
 description: "Will Alibaba be the third-best Math AI lab at the end of October 2026? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba be the third-best Math AI lab at the end of October 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-05
+status: "settled"
+lastUpdated: 2026-09-06
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 24.0
