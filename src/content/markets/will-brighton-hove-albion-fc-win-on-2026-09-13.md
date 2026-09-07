@@ -3,7 +3,7 @@ title: "Will Brighton & Hove Albion FC win on 2026-09-13?"
 description: "Will Brighton & Hove Albion FC win on 2026-09-13? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brighton & Hove Albion FC win on 2026-09-13?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-07
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]

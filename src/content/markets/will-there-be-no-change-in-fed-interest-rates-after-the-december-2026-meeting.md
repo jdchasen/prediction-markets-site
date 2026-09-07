@@ -9,7 +9,7 @@ expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 47.5
 polymarketNo: 52.5
-polymarketVolume: 97752
+polymarketVolume: 97978
 polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635"
 ---
 
@@ -21,7 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-inte
 
 ## Related Markets
 
-- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 6% YES
+- [Will monthly inflation increase by 0.4% in August?](/odds/will-monthly-inflation-increase-by-04-in-august) — 48% YES
+- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 17% YES
 
 ## Frequently Asked Questions
 

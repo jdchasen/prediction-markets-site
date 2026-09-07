@@ -3,7 +3,7 @@ title: "Will the median home value in NYC be between $663,000 and $689,000 on Se
 description: "Will the median home value in NYC be between $663,000 and $689,000 on September 30? Odds: 40.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the median home value in NYC be between $663,000 and $689,000 on September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-07
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

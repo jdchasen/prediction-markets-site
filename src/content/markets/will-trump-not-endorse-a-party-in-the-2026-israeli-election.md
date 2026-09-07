@@ -3,7 +3,7 @@ title: "Will Trump not endorse a Party in the 2026 Israeli Election?"
 description: "Will Trump not endorse a Party in the 2026 Israeli Election? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump not endorse a Party in the 2026 Israeli Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-07
 expiryDate: 2026-10-28
 tags: ["elections", "politics", "polymarket", "trump"]

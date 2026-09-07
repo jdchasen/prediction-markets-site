@@ -1,14 +1,14 @@
 ---
 title: "Will Chainlink reach $20 by December 31, 2026?"
-description: "Will Chainlink reach $20 by December 31, 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Chainlink reach $20 by December 31, 2026? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Chainlink reach $20 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-07
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
+polymarketYes: 20.5
+polymarketNo: 79.5
 polymarketVolume: 9948
 polymarketUrl: "https://polymarket.com/event/will-chainlink-reach-20-by-december-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-chainlink-reach-20-by-december
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-chainlink-reach-20-by-december
 
 ### What are the current odds for "Will Chainlink reach $20 by December 31, 2026?"?
 
-As of September 07, 2026, Polymarket prices YES at 22.5%.
+As of September 07, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 

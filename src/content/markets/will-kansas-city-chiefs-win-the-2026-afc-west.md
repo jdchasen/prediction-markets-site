@@ -1,35 +1,35 @@
 ---
-title: "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?"
-description: "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?"
+title: "Will Kansas City Chiefs win the 2026 AFC West?"
+description: "Will Kansas City Chiefs win the 2026 AFC West? Odds: 35.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kansas City Chiefs win the 2026 AFC West?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-07
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 58.5
-polymarketNo: 41.5
-polymarketVolume: 9927854
-polymarketUrl: "https://polymarket.com/event/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election"
+expiryDate: 2027-01-04
+tags: ["politics", "polymarket"]
+polymarketYes: 35.0
+polymarketNo: 65.0
+polymarketVolume: 9963
+polymarketUrl: "https://polymarket.com/event/will-kansas-city-chiefs-win-the-2026-afc-west"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 58.5% | 41.5% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](/odds/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election) — 58% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
-- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 15% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?"?
+### What are the current odds for "Will Kansas City Chiefs win the 2026 AFC West?"?
 
-As of September 07, 2026, Polymarket prices YES at 58.5%.
+As of September 07, 2026, Polymarket prices YES at 35.0%.
 
 ### Where can I trade on this prediction market?
 

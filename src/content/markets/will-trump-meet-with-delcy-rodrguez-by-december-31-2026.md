@@ -1,14 +1,14 @@
 ---
 title: "Will Trump meet with Delcy Rodríguez by December 31, 2026?"
-description: "Will Trump meet with Delcy Rodríguez by December 31, 2026? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump meet with Delcy Rodríguez by December 31, 2026? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump meet with Delcy Rodríguez by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-07
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 25.0
-polymarketNo: 75.0
+polymarketYes: 26.0
+polymarketNo: 74.0
 polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-delcy-rodrguez-by-december-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-delcy-rodrguez
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.0% | 75.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.0% | 74.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-delcy-rodrguez
 
 ### What are the current odds for "Will Trump meet with Delcy Rodríguez by December 31, 2026?"?
 
-As of September 07, 2026, Polymarket prices YES at 25.0%.
+As of September 07, 2026, Polymarket prices YES at 26.0%.
 
 ### Where can I trade on this prediction market?
 

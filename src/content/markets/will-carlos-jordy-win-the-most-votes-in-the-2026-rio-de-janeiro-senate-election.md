@@ -1,14 +1,14 @@
 ---
 title: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"
-description: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-07
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 11.0
-polymarketNo: 89.0
+polymarketYes: 9.0
+polymarketNo: 91.0
 polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-carlos-jordy-win-the-most-votes-in-the-2026-rio-de-janeiro-senate-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-jordy-win-the-most-vote
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-jordy-win-the-most-vote
 
 ### What are the current odds for "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"?
 
-As of September 07, 2026, Polymarket prices YES at 11.0%.
+As of September 07, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

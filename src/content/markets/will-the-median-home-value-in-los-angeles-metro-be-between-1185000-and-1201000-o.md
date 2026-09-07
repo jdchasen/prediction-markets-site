@@ -1,23 +1,23 @@
 ---
-title: "Will Dr. Daniel Santos win the Governor of Pará election?"
-description: "Will Dr. Daniel Santos win the Governor of Pará election? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Dr. Daniel Santos win the Governor of Pará election?"
+title: "Will the median home value in Los Angeles Metro be between $1,185,000 and $1,201,000 on September 30?"
+description: "Will the median home value in Los Angeles Metro be between $1,185,000 and $1,201,000 on September 30? Odds: 5.9% YES on Polymarket. See live prices and trade..."
+marketQuestion: "Will the median home value in Los Angeles Metro be between $1,185,000 and $1,201,000 on September 30?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-07
-expiryDate: 2026-10-05
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9924
-polymarketUrl: "https://polymarket.com/event/will-drpt-daniel-santos-win-the-governor-of-para-election-20260609154624114"
+expiryDate: 2026-09-30
+tags: ["politics", "polymarket"]
+polymarketYes: 5.9
+polymarketNo: 94.2
+polymarketVolume: 9919
+polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-los-angeles-be-between-1185000-and-1201000-20260630173101996"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-drpt-daniel-santos-win-the-gov
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Dr. Daniel Santos win the Governor of Pará election?"?
+### What are the current odds for "Will the median home value in Los Angeles Metro be between $1,185,000 and $1,201,000 on September 30?"?
 
-As of September 07, 2026, Polymarket prices YES at 43.5%.
+As of September 07, 2026, Polymarket prices YES at 5.9%.
 
 ### Where can I trade on this prediction market?
 
