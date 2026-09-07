@@ -3,8 +3,8 @@ title: "Will Shailene Woodley – “Paradise” win Emmys 2026: Outstanding gue
 description: "Will Shailene Woodley – “Paradise” win Emmys 2026: Outstanding guest actress in a drama series? Odds: 57.8% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will Shailene Woodley – “Paradise” win Emmys 2026: Outstanding guest actress in a drama series?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-09-14
 tags: ["ai", "entertainment", "politics", "polymarket"]
 polymarketYes: 57.8

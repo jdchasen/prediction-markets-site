@@ -3,8 +3,8 @@ title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September
 description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

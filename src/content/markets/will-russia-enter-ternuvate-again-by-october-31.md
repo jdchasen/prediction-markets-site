@@ -3,8 +3,8 @@ title: "Will Russia enter Ternuvate again by October 31?"
 description: "Will Russia enter Ternuvate again by October 31? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia enter Ternuvate again by October 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 97.9

@@ -1,15 +1,15 @@
 ---
 title: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
-description: "Will the median home value in Austin Metro be at least $486,000 on September 30? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the median home value in Austin Metro be at least $486,000 on September 30? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-06
+lastUpdated: 2026-09-07
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 0.9
+polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9906
+polymarketVolume: 9956
 polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austin-metro-be-at-least-486000-on-september-30-20260630180633314"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
+- [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](/odds/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election) — 58% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the median home value in Austin Metro be at least $486,000 on September 30?"?
 
-As of September 06, 2026, Polymarket prices YES at 0.9%.
+As of September 07, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

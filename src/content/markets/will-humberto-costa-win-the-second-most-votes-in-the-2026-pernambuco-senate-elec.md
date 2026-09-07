@@ -4,7 +4,7 @@ description: "Will Humberto Costa win the second-most votes in the 2026 Pernambu
 marketQuestion: "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-06
+lastUpdated: 2026-09-07
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 37.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-humberto-costa-win-the-second-
 
 ## Related Markets
 
-- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
+- [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](/odds/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election) — 58% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election?"?
 
-As of September 06, 2026, Polymarket prices YES at 37.5%.
+As of September 07, 2026, Polymarket prices YES at 37.5%.
 
 ### Where can I trade on this prediction market?
 

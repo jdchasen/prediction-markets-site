@@ -1,14 +1,14 @@
 ---
 title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the US federal government take a stake in The Boeing Company? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-06
+lastUpdated: 2026-09-07
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
+polymarketYes: 7.0
+polymarketNo: 93.0
 polymarketVolume: 9971
 polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
+- [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](/odds/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election) — 58% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
 
-As of September 06, 2026, Polymarket prices YES at 6.5%.
+As of September 07, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 

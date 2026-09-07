@@ -3,8 +3,8 @@ title: "Will the Republican Party win the AR-03 House seat?"
 description: "Will the Republican Party win the AR-03 House seat? Odds: 94.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AR-03 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 94.5

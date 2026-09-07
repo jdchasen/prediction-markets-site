@@ -1,23 +1,23 @@
 ---
-title: "Will Dr. Daniel Santos win the Governor of Pará election?"
-description: "Will Dr. Daniel Santos win the Governor of Pará election? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Dr. Daniel Santos win the Governor of Pará election?"
+title: "Will the median home value in NYC be between $663,000 and $689,000 on September 30?"
+description: "Will the median home value in NYC be between $663,000 and $689,000 on September 30? Odds: 40.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the median home value in NYC be between $663,000 and $689,000 on September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-07
-expiryDate: 2026-10-05
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 43.5
-polymarketNo: 56.5
-polymarketVolume: 9924
-polymarketUrl: "https://polymarket.com/event/will-drpt-daniel-santos-win-the-governor-of-para-election-20260609154624114"
+expiryDate: 2026-09-30
+tags: ["politics", "polymarket"]
+polymarketYes: 40.2
+polymarketNo: 59.9
+polymarketVolume: 9918
+polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-nyc-be-between-663000-and-689000-on-september-30-20260630180215441"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.2% | 59.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-drpt-daniel-santos-win-the-gov
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Dr. Daniel Santos win the Governor of Pará election?"?
+### What are the current odds for "Will the median home value in NYC be between $663,000 and $689,000 on September 30?"?
 
-As of September 07, 2026, Polymarket prices YES at 43.5%.
+As of September 07, 2026, Polymarket prices YES at 40.2%.
 
 ### Where can I trade on this prediction market?
 

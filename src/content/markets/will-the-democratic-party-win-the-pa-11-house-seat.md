@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the PA-11 House seat?"
 description: "Will the Democratic Party win the PA-11 House seat? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the PA-11 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

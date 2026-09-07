@@ -3,8 +3,8 @@ title: "Lindsay Clancy sentenced to prison time in 2026?"
 description: "Lindsay Clancy sentenced to prison time in 2026? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lindsay Clancy sentenced to prison time in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5

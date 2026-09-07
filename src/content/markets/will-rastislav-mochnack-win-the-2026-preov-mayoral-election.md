@@ -3,8 +3,8 @@ title: "Will Rastislav Mochnacký win the 2026 Prešov mayoral election?"
 description: "Will Rastislav Mochnacký win the 2026 Prešov mayoral election? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rastislav Mochnacký win the 2026 Prešov mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-10-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 29.5

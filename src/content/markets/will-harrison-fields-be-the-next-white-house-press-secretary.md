@@ -3,8 +3,8 @@ title: "Will Harrison Fields be the next White House Press Secretary?"
 description: "Will Harrison Fields be the next White House Press Secretary? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Harrison Fields be the next White House Press Secretary?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-06
+status: "settled"
+lastUpdated: 2026-09-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

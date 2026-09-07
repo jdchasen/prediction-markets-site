@@ -1,23 +1,23 @@
 ---
-title: "Will Trump not endorse a Party in the 2026 Israeli Election?"
-description: "Will Trump not endorse a Party in the 2026 Israeli Election? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump not endorse a Party in the 2026 Israeli Election?"
+title: "Will Brighton & Hove Albion FC win on 2026-09-13?"
+description: "Will Brighton & Hove Albion FC win on 2026-09-13? Odds: 52.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Brighton & Hove Albion FC win on 2026-09-13?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-07
-expiryDate: 2026-10-28
-tags: ["elections", "politics", "polymarket", "trump"]
-polymarketYes: 70.5
-polymarketNo: 29.5
-polymarketVolume: 9937
-polymarketUrl: "https://polymarket.com/event/will-trump-endorse-party-a-in-the-2026-israeli-election-20260608183908871"
+expiryDate: 2026-09-13
+tags: ["politics", "polymarket"]
+polymarketYes: 52.5
+polymarketNo: 47.5
+polymarketVolume: 9935
+polymarketUrl: "https://polymarket.com/event/epl-cov-bri-2026-09-13-bri"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 70.5% | 29.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.5% | 47.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-trump-endorse-party-a-in-the-2
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump not endorse a Party in the 2026 Israeli Election?"?
+### What are the current odds for "Will Brighton & Hove Albion FC win on 2026-09-13?"?
 
-As of September 07, 2026, Polymarket prices YES at 70.5%.
+As of September 07, 2026, Polymarket prices YES at 52.5%.
 
 ### Where can I trade on this prediction market?
 
