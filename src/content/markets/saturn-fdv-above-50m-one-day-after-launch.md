@@ -4,7 +4,7 @@ description: "Saturn FDV above $50M one day after launch Odds: 70.0% YES on Poly
 marketQuestion: "Saturn FDV above $50M one day after launch"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-07
+lastUpdated: 2026-09-08
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 70.0
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/saturn-fdv-above-50m-one-day-after-
 
 ### What are the current odds for "Saturn FDV above $50M one day after launch"?
 
-As of September 07, 2026, Polymarket prices YES at 70.0%.
+As of September 08, 2026, Polymarket prices YES at 70.0%.
 
 ### Where can I trade on this prediction market?
 

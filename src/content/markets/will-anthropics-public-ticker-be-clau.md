@@ -3,8 +3,8 @@ title: "Will Anthropic's public ticker be $CLAU?"
 description: "Will Anthropic's public ticker be $CLAU? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's public ticker be $CLAU?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-07
+status: "settled"
+lastUpdated: 2026-09-08
 expiryDate: 2027-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7

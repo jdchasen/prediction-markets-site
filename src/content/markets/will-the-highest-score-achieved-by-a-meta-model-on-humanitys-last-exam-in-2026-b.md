@@ -1,23 +1,23 @@
 ---
-title: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"
-description: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"
+title: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"
+description: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher? Odds: 25.5% YES on Polymarket. See live prices and trade th..."
+marketQuestion: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-08
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 9959
-polymarketUrl: "https://polymarket.com/event/will-carlos-jordy-win-the-most-votes-in-the-2026-rio-de-janeiro-senate-election"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 25.5
+polymarketNo: 74.5
+polymarketVolume: 9951
+polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-a-meta-model-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723191934219"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.5% | 74.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-jordy-win-the-most-vote
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"?
+### What are the current odds for "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"?
 
-As of September 08, 2026, Polymarket prices YES at 9.5%.
+As of September 08, 2026, Polymarket prices YES at 25.5%.
 
 ### Where can I trade on this prediction market?
 

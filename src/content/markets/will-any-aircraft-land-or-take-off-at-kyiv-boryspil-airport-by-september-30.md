@@ -1,23 +1,23 @@
 ---
-title: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
-description: "Will the median home value in Austin Metro be at least $486,000 on September 30? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
+title: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
+description: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-08
 expiryDate: 2026-09-30
-tags: ["politics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
-polymarketVolume: 9956
-polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austin-metro-be-at-least-486000-on-september-30-20260630180633314"
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 3.5
+polymarketNo: 96.5
+polymarketVolume: 9936
+polymarketUrl: "https://polymarket.com/event/will-any-aircraft-land-or-take-off-at-kyiv-boryspil-airport-by-september-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-austi
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the median home value in Austin Metro be at least $486,000 on September 30?"?
+### What are the current odds for "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"?
 
-As of September 08, 2026, Polymarket prices YES at 0.5%.
+As of September 08, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

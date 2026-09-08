@@ -1,23 +1,23 @@
 ---
-title: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"
-description: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"
+title: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?"
+description: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-08
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 9959
-polymarketUrl: "https://polymarket.com/event/will-carlos-jordy-win-the-most-votes-in-the-2026-rio-de-janeiro-senate-election"
+expiryDate: 2026-10-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 25.0
+polymarketNo: 75.0
+polymarketVolume: 9968
+polymarketUrl: "https://polymarket.com/event/will-moonshot-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722220024428"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 25.0% | 75.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-carlos-jordy-win-the-most-vote
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Carlos Jordy win the most votes in the 2026 Rio de Janeiro Senate election?"?
+### What are the current odds for "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?"?
 
-As of September 08, 2026, Polymarket prices YES at 9.5%.
+As of September 08, 2026, Polymarket prices YES at 25.0%.
 
 ### Where can I trade on this prediction market?
 

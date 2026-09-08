@@ -3,8 +3,8 @@ title: "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential elec
 description: "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-07
+status: "settled"
+lastUpdated: 2026-09-08
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 58.5

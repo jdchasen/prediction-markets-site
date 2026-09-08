@@ -1,15 +1,15 @@
 ---
 title: "Trump x Greenland deal signed by December 31?"
-description: "Trump x Greenland deal signed by December 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
+description: "Trump x Greenland deal signed by December 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump x Greenland deal signed by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-07
+lastUpdated: 2026-09-08
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 15.0
-polymarketNo: 85.0
-polymarketVolume: 99368
+polymarketYes: 14.5
+polymarketNo: 85.5
+polymarketVolume: 99483
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-december-31"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.0% | 85.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?](/odds/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election) — 58% YES
-- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
+- [Will Alexander Zverev win the 2026 Men's US Open?](/odds/will-alexander-zverev-win-the-2026-mens-us-open) — 27% YES
+- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 1% YES
+- [Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?](/odds/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-dece) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Trump x Greenland deal signed by December 31?"?
 
-As of September 07, 2026, Polymarket prices YES at 15.0%.
+As of September 08, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 
