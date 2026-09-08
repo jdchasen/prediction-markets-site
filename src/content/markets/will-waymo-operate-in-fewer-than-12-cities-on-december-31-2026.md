@@ -1,23 +1,23 @@
 ---
-title: "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election?"
-description: "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election?"
+title: "Will Waymo operate in fewer than 12 cities on December 31 2026?"
+description: "Will Waymo operate in fewer than 12 cities on December 31 2026? Odds: 46.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Waymo operate in fewer than 12 cities on December 31 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-08
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 37.5
-polymarketNo: 62.5
-polymarketVolume: 9924
-polymarketUrl: "https://polymarket.com/event/will-humberto-costa-win-the-second-most-votes-in-the-2026-pernambuco-senate-election"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 46.3
+polymarketNo: 53.7
+polymarketVolume: 9948
+polymarketUrl: "https://polymarket.com/event/untitled-market-1-20260626203046428"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 37.5% | 62.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.3% | 53.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-humberto-costa-win-the-second-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election?"?
+### What are the current odds for "Will Waymo operate in fewer than 12 cities on December 31 2026?"?
 
-As of September 08, 2026, Polymarket prices YES at 37.5%.
+As of September 08, 2026, Polymarket prices YES at 46.3%.
 
 ### Where can I trade on this prediction market?
 

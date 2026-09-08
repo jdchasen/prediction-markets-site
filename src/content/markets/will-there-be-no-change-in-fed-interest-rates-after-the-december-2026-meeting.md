@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-change-in-fed-inte
 
 ## Related Markets
 
+- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 16% YES
 - [Will monthly inflation increase by 0.4% in August?](/odds/will-monthly-inflation-increase-by-04-in-august) — 48% YES
-- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 17% YES
 - [Bank of England increases interest rates by 25 bps after November 2026 meeting?](/odds/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting) — 26% YES
 
 ## Frequently Asked Questions

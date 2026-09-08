@@ -3,7 +3,7 @@ title: "Will the Centre Party (C) win the sixth most seats in the 2026 Swedish p
 description: "Will the Centre Party (C) win the sixth most seats in the 2026 Swedish parliamentary election? Odds: 23.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will the Centre Party (C) win the sixth most seats in the 2026 Swedish parliamentary election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-08
 expiryDate: 2026-09-13
 tags: ["elections", "politics", "polymarket"]

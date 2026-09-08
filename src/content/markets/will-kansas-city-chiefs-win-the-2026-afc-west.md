@@ -3,7 +3,7 @@ title: "Will Kansas City Chiefs win the 2026 AFC West?"
 description: "Will Kansas City Chiefs win the 2026 AFC West? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kansas City Chiefs win the 2026 AFC West?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-08
 expiryDate: 2027-01-04
 tags: ["politics", "polymarket"]

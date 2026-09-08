@@ -3,7 +3,7 @@ title: "Harris Dickinson announced as next James Bond?"
 description: "Harris Dickinson announced as next James Bond? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Harris Dickinson announced as next James Bond?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-08
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

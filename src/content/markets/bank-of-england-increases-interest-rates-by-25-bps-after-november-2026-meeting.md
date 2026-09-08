@@ -9,7 +9,7 @@ expiryDate: 2026-11-05
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 26.5
 polymarketNo: 73.5
-polymarketVolume: 9760
+polymarketVolume: 9763
 polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/bank-of-england-increases-interest-
 ## Related Markets
 
 - [Will there be no change in Fed interest rates after the December 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting) — 48% YES
+- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 16% YES
 - [Will monthly inflation increase by 0.4% in August?](/odds/will-monthly-inflation-increase-by-04-in-august) — 48% YES
-- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 17% YES
 
 ## Frequently Asked Questions
 

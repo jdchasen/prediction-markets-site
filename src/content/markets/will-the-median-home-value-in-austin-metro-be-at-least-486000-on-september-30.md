@@ -3,7 +3,7 @@ title: "Will the median home value in Austin Metro be at least $486,000 on Septe
 description: "Will the median home value in Austin Metro be at least $486,000 on September 30? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the median home value in Austin Metro be at least $486,000 on September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-08
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

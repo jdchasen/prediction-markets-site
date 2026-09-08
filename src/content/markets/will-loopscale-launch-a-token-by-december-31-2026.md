@@ -21,6 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ## Related Markets
 
+- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 - [Saturn FDV above $50M one day after launch](/odds/saturn-fdv-above-50m-one-day-after-launch) — 70% YES
 
 ## Frequently Asked Questions

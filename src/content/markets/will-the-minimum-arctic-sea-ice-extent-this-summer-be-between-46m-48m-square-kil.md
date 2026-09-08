@@ -1,23 +1,23 @@
 ---
-title: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
-description: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
+title: "Will the minimum Arctic sea ice extent this summer be between 4.6m & 4.8m square kilometers?"
+description: "Will the minimum Arctic sea ice extent this summer be between 4.6m & 4.8m square kilometers? Odds: 5.1% YES on Polymarket. See live prices and trade this mar..."
+marketQuestion: "Will the minimum Arctic sea ice extent this summer be between 4.6m & 4.8m square kilometers?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-08
-expiryDate: 2026-09-30
-tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9936
-polymarketUrl: "https://polymarket.com/event/will-any-aircraft-land-or-take-off-at-kyiv-boryspil-airport-by-september-30"
+expiryDate: 2026-10-01
+tags: ["politics", "polymarket"]
+polymarketYes: 5.1
+polymarketNo: 94.9
+polymarketVolume: 9974
+polymarketUrl: "https://polymarket.com/event/will-the-minimum-arctic-sea-ice-extent-this-summer-be-between-4pt6m-4pt8m-square-kilometers"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.1% | 94.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-any-aircraft-land-or-take-off-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"?
+### What are the current odds for "Will the minimum Arctic sea ice extent this summer be between 4.6m & 4.8m square kilometers?"?
 
-As of September 08, 2026, Polymarket prices YES at 3.5%.
+As of September 08, 2026, Polymarket prices YES at 5.1%.
 
 ### Where can I trade on this prediction market?
 

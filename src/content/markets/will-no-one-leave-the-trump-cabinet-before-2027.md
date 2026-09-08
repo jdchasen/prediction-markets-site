@@ -3,7 +3,7 @@ title: "Will no one leave the Trump Cabinet before 2027?"
 description: "Will no one leave the Trump Cabinet before 2027? Odds: 50.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no one leave the Trump Cabinet before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-08
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
