@@ -4,12 +4,12 @@ description: "Will the Fed Pause–Pause–Cut in the next three decisions (Jun�
 marketQuestion: "Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-08
+lastUpdated: 2026-09-09
 expiryDate: 2026-09-16
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 99970
+polymarketVolume: 99978
 polymarketUrl: "https://polymarket.com/event/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-pausepausecut-in-the-n
 
 ## Related Markets
 
-- [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election) — 45% YES
-- [Will Alexander Zverev win the 2026 Men's US Open?](/odds/will-alexander-zverev-win-the-2026-mens-us-open) — 28% YES
+- [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election) — 46% YES
 - [Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?](/odds/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-dece) — 4% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?"?
 
-As of September 08, 2026, Polymarket prices YES at 0.5%.
+As of September 09, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
-description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 16.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 14.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-09-08
+lastUpdated: 2026-09-09
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
-polymarketYes: 16.1
-polymarketNo: 84.0
+polymarketYes: 14.7
+polymarketNo: 85.3
 polymarketVolume: 9847
 polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026-be-between-0pt4-and-0pt7-20260731151541471"
 ---
@@ -17,19 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.1% | 84.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [Will there be no change in Fed interest rates after the December 2026 meeting?](/odds/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting) — 48% YES
-- [Will monthly inflation increase by 0.4% in August?](/odds/will-monthly-inflation-increase-by-04-in-august) — 48% YES
-- [Bank of England increases interest rates by 25 bps after November 2026 meeting?](/odds/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting) — 26% YES
+| Polymarket | 14.7% | 85.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"?
 
-As of September 08, 2026, Polymarket prices YES at 16.1%.
+As of September 09, 2026, Polymarket prices YES at 14.7%.
 
 ### Where can I trade on this prediction market?
 

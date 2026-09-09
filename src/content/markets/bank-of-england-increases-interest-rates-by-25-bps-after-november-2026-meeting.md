@@ -3,8 +3,8 @@ title: "Bank of England increases interest rates by 25 bps after November 2026 m
 description: "Bank of England increases interest rates by 25 bps after November 2026 meeting? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of England increases interest rates by 25 bps after November 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-08
+status: "settled"
+lastUpdated: 2026-09-09
 expiryDate: 2026-11-05
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 26.5

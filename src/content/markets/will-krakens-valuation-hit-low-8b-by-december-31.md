@@ -1,23 +1,23 @@
 ---
-title: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
-description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this..."
-marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
+title: "Will Kraken's valuation hit (LOW) $8B by December 31?"
+description: "Will Kraken's valuation hit (LOW) $8B by December 31? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Kraken's valuation hit (LOW) $8B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
-expiryDate: 2028-01-01
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 99527
-polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-december-31-2027-20260629142909679"
+polymarketYes: 32.0
+polymarketNo: 68.0
+polymarketVolume: 9959
+polymarketUrl: "https://polymarket.com/event/will-krakens-valuation-hit-low-8b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.0% | 68.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
+### What are the current odds for "Will Kraken's valuation hit (LOW) $8B by December 31?"?
 
-As of September 09, 2026, Polymarket prices YES at 12.5%.
+As of September 09, 2026, Polymarket prices YES at 32.0%.
 
 ### Where can I trade on this prediction market?
 

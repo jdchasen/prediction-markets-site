@@ -3,8 +3,8 @@ title: "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Sen
 description: "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Humberto Costa win the second-most votes in the 2026 Pernambuco Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-08
+status: "settled"
+lastUpdated: 2026-09-09
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 37.5

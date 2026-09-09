@@ -1,15 +1,15 @@
 ---
 title: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
-description: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-08
+lastUpdated: 2026-09-09
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9936
+polymarketYes: 3.4
+polymarketNo: 96.6
+polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-any-aircraft-land-or-take-off-at-kyiv-boryspil-airport-by-september-30"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-any-aircraft-land-or-take-off-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election) — 45% YES
-- [Will Alexander Zverev win the 2026 Men's US Open?](/odds/will-alexander-zverev-win-the-2026-mens-us-open) — 28% YES
+- [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election) — 46% YES
 - [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?](/odds/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-dece) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"?
 
-As of September 08, 2026, Polymarket prices YES at 3.5%.
+As of September 09, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

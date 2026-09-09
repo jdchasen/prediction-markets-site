@@ -3,8 +3,8 @@ title: "Will Waymo operate in fewer than 12 cities on December 31 2026?"
 description: "Will Waymo operate in fewer than 12 cities on December 31 2026? Odds: 46.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Waymo operate in fewer than 12 cities on December 31 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-08
+status: "settled"
+lastUpdated: 2026-09-09
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 46.3

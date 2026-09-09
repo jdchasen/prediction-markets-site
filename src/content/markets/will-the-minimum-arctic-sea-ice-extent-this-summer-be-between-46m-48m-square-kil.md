@@ -3,8 +3,8 @@ title: "Will the minimum Arctic sea ice extent this summer be between 4.6m & 4.8
 description: "Will the minimum Arctic sea ice extent this summer be between 4.6m & 4.8m square kilometers? Odds: 5.1% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will the minimum Arctic sea ice extent this summer be between 4.6m & 4.8m square kilometers?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-08
+status: "settled"
+lastUpdated: 2026-09-09
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 5.1

@@ -3,8 +3,8 @@ title: "Will there be no change in Fed interest rates after the December 2026 me
 description: "Will there be no change in Fed interest rates after the December 2026 meeting? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no change in Fed interest rates after the December 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-08
+status: "settled"
+lastUpdated: 2026-09-09
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 48.5

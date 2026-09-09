@@ -3,8 +3,8 @@ title: "Will monthly inflation increase by 0.4% in August?"
 description: "Will monthly inflation increase by 0.4% in August? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.4% in August?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-08
+status: "settled"
+lastUpdated: 2026-09-09
 expiryDate: 2026-09-11
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 48.5
