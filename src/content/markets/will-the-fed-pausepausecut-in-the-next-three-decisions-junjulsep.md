@@ -3,7 +3,7 @@ title: "Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul�
 description: "Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-09
 expiryDate: 2026-09-16
 tags: ["federal-reserve", "politics", "polymarket"]

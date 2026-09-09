@@ -1,23 +1,23 @@
 ---
-title: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"
-description: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher? Odds: 27.0% YES on Polymarket. See live prices and trade th..."
-marketQuestion: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"
+title: "Will the Swedish Social Democratic Party (S) win 105-109 seats in the 2026 Swedish parliamentary election?"
+description: "Will the Swedish Social Democratic Party (S) win 105-109 seats in the 2026 Swedish parliamentary election? Odds: 23.0% YES on Polymarket. See live prices and..."
+marketQuestion: "Will the Swedish Social Democratic Party (S) win 105-109 seats in the 2026 Swedish parliamentary election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket"]
-polymarketYes: 27.0
-polymarketNo: 73.0
-polymarketVolume: 9972
-polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-a-meta-model-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723191934219"
+expiryDate: 2026-09-13
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 23.0
+polymarketNo: 77.0
+polymarketVolume: 9931
+polymarketUrl: "https://polymarket.com/event/will-the-swedish-social-democratic-party-s-win-105-109-seats-in-the-2026-swedish-parliamentary-election-20260805192827771"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.0% | 73.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.0% | 77.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"?
+### What are the current odds for "Will the Swedish Social Democratic Party (S) win 105-109 seats in the 2026 Swedish parliamentary election?"?
 
-As of September 09, 2026, Polymarket prices YES at 27.0%.
+As of September 09, 2026, Polymarket prices YES at 23.0%.
 
 ### Where can I trade on this prediction market?
 

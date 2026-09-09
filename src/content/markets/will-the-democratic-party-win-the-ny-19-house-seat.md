@@ -1,23 +1,23 @@
 ---
-title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
-description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia? Odds: 97.9% YES on Polymarket. See live prices and trade thi..."
-marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
+title: "Will the Democratic Party win the NY-19 House seat?"
+description: "Will the Democratic Party win the NY-19 House seat? Odds: 94.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the NY-19 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9908
-polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-rondonia"
+expiryDate: 2026-11-04
+tags: ["politics", "polymarket"]
+polymarketYes: 94.3
+polymarketNo: 5.7
+polymarketVolume: 9988
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-ny-19-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.3% | 5.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"?
+### What are the current odds for "Will the Democratic Party win the NY-19 House seat?"?
 
-As of September 09, 2026, Polymarket prices YES at 97.9%.
+As of September 09, 2026, Polymarket prices YES at 94.3%.
 
 ### Where can I trade on this prediction market?
 

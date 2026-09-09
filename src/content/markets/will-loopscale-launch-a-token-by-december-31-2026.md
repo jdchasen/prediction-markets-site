@@ -21,6 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ## Related Markets
 
+- [Will Bitcoin reach $92,500 in September?](/odds/will-bitcoin-reach-92500-in-september) — 8% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions

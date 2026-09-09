@@ -1,23 +1,23 @@
 ---
-title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
-description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia? Odds: 97.9% YES on Polymarket. See live prices and trade thi..."
-marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
+title: "Will the total domestic gross for Spider-Man: Brand New Day be between 940m and 950m by September 30?"
+description: "Will the total domestic gross for Spider-Man: Brand New Day be between 940m and 950m by September 30? Odds: 24.5% YES on Polymarket. See live prices and trad..."
+marketQuestion: "Will the total domestic gross for Spider-Man: Brand New Day be between 940m and 950m by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9908
-polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-rondonia"
+expiryDate: 2026-10-01
+tags: ["politics", "polymarket"]
+polymarketYes: 24.5
+polymarketNo: 75.5
+polymarketVolume: 99458
+polymarketUrl: "https://polymarket.com/event/will-the-total-domestic-gross-for-spider-man-brand-new-day-be-between-940m-and-950m-by-september-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 24.5% | 75.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"?
+### What are the current odds for "Will the total domestic gross for Spider-Man: Brand New Day be between 940m and 950m by September 30?"?
 
-As of September 09, 2026, Polymarket prices YES at 97.9%.
+As of September 09, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "US Open ATP: Karen Khachanov vs Alexander Blockx"
 description: "US Open ATP: Karen Khachanov vs Alexander Blockx Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US Open ATP: Karen Khachanov vs Alexander Blockx"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-09
 expiryDate: 2026-09-16
 tags: ["politics", "polymarket"]

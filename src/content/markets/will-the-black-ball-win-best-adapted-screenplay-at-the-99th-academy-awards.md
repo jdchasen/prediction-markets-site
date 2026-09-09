@@ -3,7 +3,7 @@ title: "Will The Black Ball win Best Adapted Screenplay at the 99th Academy Awar
 description: "Will The Black Ball win Best Adapted Screenplay at the 99th Academy Awards? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Black Ball win Best Adapted Screenplay at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-09
 expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]

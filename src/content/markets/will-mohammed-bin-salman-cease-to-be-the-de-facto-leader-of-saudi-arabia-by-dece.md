@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.9
 polymarketNo: 96.2
-polymarketVolume: 99662
+polymarketVolume: 99671
 polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-december-31-2026"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-mohammed-bin-salman-cease-to-b
 
 ## Related Markets
 
-- [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election) — 46% YES
-- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Israel x Lebanon diplomatic meeting by September 30, 2026?](/odds/israel-x-lebanon-diplomatic-meeting-by-september-30-2026) — 68% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
 
 ## Frequently Asked Questions
 

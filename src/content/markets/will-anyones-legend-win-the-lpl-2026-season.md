@@ -1,23 +1,23 @@
 ---
-title: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"
-description: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher? Odds: 27.0% YES on Polymarket. See live prices and trade th..."
-marketQuestion: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"
+title: "Will Anyone's Legend win the LPL 2026 season?"
+description: "Will Anyone's Legend win the LPL 2026 season? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anyone's Legend win the LPL 2026 season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
-expiryDate: 2027-01-01
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 27.0
-polymarketNo: 73.0
-polymarketVolume: 9972
-polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-a-meta-model-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723191934219"
+polymarketYes: 9.5
+polymarketNo: 90.5
+polymarketVolume: 99190
+polymarketUrl: "https://polymarket.com/event/will-anyones-legend-win-the-lpl-2026-season"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 27.0% | 73.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.5% | 90.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-highest-score-achieved-by-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"?
+### What are the current odds for "Will Anyone's Legend win the LPL 2026 season?"?
 
-As of September 09, 2026, Polymarket prices YES at 27.0%.
+As of September 09, 2026, Polymarket prices YES at 9.5%.
 
 ### Where can I trade on this prediction market?
 

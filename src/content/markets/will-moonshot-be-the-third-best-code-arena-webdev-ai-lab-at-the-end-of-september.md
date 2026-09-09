@@ -1,15 +1,15 @@
 ---
 title: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?"
-description: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 21.5
-polymarketNo: 78.5
-polymarketVolume: 9968
+polymarketYes: 21.0
+polymarketNo: 79.0
+polymarketVolume: 9969
 polymarketUrl: "https://polymarket.com/event/will-moonshot-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722220024428"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-moonshot-be-the-third-best-cod
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 21.5% | 78.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 21.0% | 79.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election) — 46% YES
-- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Israel x Lebanon diplomatic meeting by September 30, 2026?](/odds/israel-x-lebanon-diplomatic-meeting-by-september-30-2026) — 68% YES
 - [Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?](/odds/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-dece) — 4% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?"?
 
-As of September 09, 2026, Polymarket prices YES at 21.5%.
+As of September 09, 2026, Polymarket prices YES at 21.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?"
 description: "Will Flávio Bolsonaro win the 2026 Brazilian presidential election? Odds: 45.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-09
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

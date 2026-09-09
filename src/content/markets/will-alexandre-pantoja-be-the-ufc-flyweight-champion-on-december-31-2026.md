@@ -1,15 +1,15 @@
 ---
 title: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?"
-description: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 51.0
-polymarketNo: 49.0
-polymarketVolume: 9973
+polymarketYes: 50.5
+polymarketNo: 49.5
+polymarketVolume: 9976
 polymarketUrl: "https://polymarket.com/event/will-alexandre-pantoja-be-the-ufc-flyweight-champion-on-december-31-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-alexandre-pantoja-be-the-ufc-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.0% | 49.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 50.5% | 49.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Flávio Bolsonaro win the 2026 Brazilian presidential election?](/odds/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election) — 46% YES
-- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Israel x Lebanon diplomatic meeting by September 30, 2026?](/odds/israel-x-lebanon-diplomatic-meeting-by-september-30-2026) — 68% YES
 - [Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?](/odds/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-dece) — 4% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?"?
 
-As of September 09, 2026, Polymarket prices YES at 51.0%.
+As of September 09, 2026, Polymarket prices YES at 50.5%.
 
 ### Where can I trade on this prediction market?
 

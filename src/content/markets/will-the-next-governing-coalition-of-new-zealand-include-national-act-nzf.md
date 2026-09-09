@@ -1,23 +1,23 @@
 ---
-title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
-description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia? Odds: 97.9% YES on Polymarket. See live prices and trade thi..."
-marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
+title: "Will the next governing coalition of New Zealand include National + ACT + NZF?"
+description: "Will the next governing coalition of New Zealand include National + ACT + NZF? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the next governing coalition of New Zealand include National + ACT + NZF?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9908
-polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-rondonia"
+expiryDate: 2026-11-07
+tags: ["politics", "polymarket"]
+polymarketYes: 47.5
+polymarketNo: 52.5
+polymarketVolume: 9921
+polymarketUrl: "https://polymarket.com/event/will-the-next-governing-coalition-of-new-zealand-include-national-act-nzf"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 47.5% | 52.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"?
+### What are the current odds for "Will the next governing coalition of New Zealand include National + ACT + NZF?"?
 
-As of September 09, 2026, Polymarket prices YES at 97.9%.
+As of September 09, 2026, Polymarket prices YES at 47.5%.
 
 ### Where can I trade on this prediction market?
 

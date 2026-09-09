@@ -1,23 +1,23 @@
 ---
-title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
-description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia? Odds: 97.9% YES on Polymarket. See live prices and trade thi..."
-marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
+title: "Will Centre Party (C) win between 7% and 9% of all valid votes?"
+description: "Will Centre Party (C) win between 7% and 9% of all valid votes? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Centre Party (C) win between 7% and 9% of all valid votes?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-09
-expiryDate: 2026-10-04
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9908
-polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-rondonia"
+expiryDate: 2026-09-13
+tags: ["politics", "polymarket"]
+polymarketYes: 58.5
+polymarketNo: 41.5
+polymarketVolume: 9914
+polymarketUrl: "https://polymarket.com/event/will-centre-party-c-win-between-7-and-9-of-all-valid-votes-20260812172636463"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 58.5% | 41.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"?
+### What are the current odds for "Will Centre Party (C) win between 7% and 9% of all valid votes?"?
 
-As of September 09, 2026, Polymarket prices YES at 97.9%.
+As of September 09, 2026, Polymarket prices YES at 58.5%.
 
 ### Where can I trade on this prediction market?
 
