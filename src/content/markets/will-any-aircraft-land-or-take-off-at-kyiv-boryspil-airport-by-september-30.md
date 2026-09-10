@@ -3,7 +3,7 @@ title: "Will any aircraft land or take off at Kyiv Boryspil Airport by September
 description: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-10
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]

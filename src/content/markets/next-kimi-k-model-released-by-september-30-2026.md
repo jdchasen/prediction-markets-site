@@ -1,14 +1,14 @@
 ---
 title: "Next Kimi K model released by September 30, 2026?"
-description: "Next Kimi K model released by September 30, 2026? Odds: 84.8% YES on Polymarket. See live prices and trade this market."
+description: "Next Kimi K model released by September 30, 2026? Odds: 85.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Kimi K model released by September 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-10
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 84.8
-polymarketNo: 15.2
+polymarketYes: 85.2
+polymarketNo: 14.8
 polymarketVolume: 9943
 polymarketUrl: "https://polymarket.com/event/next-kimi-k-model-released-by-september-30-2026-20260722183157725-377-148"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/next-kimi-k-model-released-by-septe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 84.8% | 15.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 85.2% | 14.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Iran-Oman Hormuz Agreement by October 31?](/odds/iran-oman-hormuz-agreement-by-october-31) — 46% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 - [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will Trump meet with Delcy Rodríguez by December 31, 2026?](/odds/will-trump-meet-with-delcy-rodrguez-by-december-31-2026) — 24% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Next Kimi K model released by September 30, 2026?"?
 
-As of September 10, 2026, Polymarket prices YES at 84.8%.
+As of September 10, 2026, Polymarket prices YES at 85.2%.
 
 ### Where can I trade on this prediction market?
 

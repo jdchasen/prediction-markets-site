@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 14.5
 polymarketNo: 85.5
-polymarketVolume: 99489
+polymarketVolume: 99491
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-december-31"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 ## Related Markets
 
-- [Iran-Oman Hormuz Agreement by October 31?](/odds/iran-oman-hormuz-agreement-by-october-31) — 46% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?](/odds/will-alexandre-pantoja-be-the-ufc-flyweight-champion-on-december-31-2026) — 51% YES
+- [Will Trump meet with Delcy Rodríguez by December 31, 2026?](/odds/will-trump-meet-with-delcy-rodrguez-by-december-31-2026) — 24% YES
+- [Next Kimi K model released by September 30, 2026?](/odds/next-kimi-k-model-released-by-september-30-2026) — 85% YES
 
 ## Frequently Asked Questions
 

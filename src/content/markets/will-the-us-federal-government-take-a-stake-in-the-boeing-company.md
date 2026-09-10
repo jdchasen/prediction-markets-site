@@ -3,7 +3,7 @@ title: "Will the US federal government take a stake in The Boeing Company?"
 description: "Will the US federal government take a stake in The Boeing Company? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-10
 expiryDate: 2026-12-31
 tags: ["federal-reserve", "politics", "polymarket"]

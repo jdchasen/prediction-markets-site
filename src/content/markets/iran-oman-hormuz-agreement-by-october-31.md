@@ -3,7 +3,7 @@ title: "Iran-Oman Hormuz Agreement by October 31?"
 description: "Iran-Oman Hormuz Agreement by October 31? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran-Oman Hormuz Agreement by October 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-10
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]

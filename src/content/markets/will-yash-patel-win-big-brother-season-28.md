@@ -3,7 +3,7 @@ title: "Will Yash Patel win Big Brother season 28?"
 description: "Will Yash Patel win Big Brother season 28? Odds: 26.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yash Patel win Big Brother season 28?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-10
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]

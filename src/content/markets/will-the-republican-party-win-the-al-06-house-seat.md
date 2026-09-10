@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Related Markets
 
-- [Iran-Oman Hormuz Agreement by October 31?](/odds/iran-oman-hormuz-agreement-by-october-31) — 46% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 - [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
+- [Will Trump meet with Delcy Rodríguez by December 31, 2026?](/odds/will-trump-meet-with-delcy-rodrguez-by-december-31-2026) — 24% YES
 
 ## Frequently Asked Questions
 

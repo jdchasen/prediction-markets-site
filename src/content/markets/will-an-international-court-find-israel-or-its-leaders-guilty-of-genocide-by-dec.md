@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Related Markets
 
-- [Iran-Oman Hormuz Agreement by October 31?](/odds/iran-oman-hormuz-agreement-by-october-31) — 46% YES
 - [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
-- [Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?](/odds/will-alexandre-pantoja-be-the-ufc-flyweight-champion-on-december-31-2026) — 51% YES
+- [Will Trump meet with Delcy Rodríguez by December 31, 2026?](/odds/will-trump-meet-with-delcy-rodrguez-by-december-31-2026) — 24% YES
+- [Next Kimi K model released by September 30, 2026?](/odds/next-kimi-k-model-released-by-september-30-2026) — 85% YES
 
 ## Frequently Asked Questions
 

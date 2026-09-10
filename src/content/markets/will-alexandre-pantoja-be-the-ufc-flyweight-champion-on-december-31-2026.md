@@ -3,7 +3,7 @@ title: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 202
 description: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
