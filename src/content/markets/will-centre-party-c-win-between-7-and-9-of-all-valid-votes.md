@@ -3,8 +3,8 @@ title: "Will Centre Party (C) win between 7% and 9% of all valid votes?"
 description: "Will Centre Party (C) win between 7% and 9% of all valid votes? Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Centre Party (C) win between 7% and 9% of all valid votes?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-09-13
 tags: ["politics", "polymarket"]
 polymarketYes: 58.5

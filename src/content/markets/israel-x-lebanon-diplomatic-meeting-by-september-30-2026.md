@@ -3,8 +3,8 @@ title: "Israel x Lebanon diplomatic meeting by September 30, 2026?"
 description: "Israel x Lebanon diplomatic meeting by September 30, 2026? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel x Lebanon diplomatic meeting by September 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 68.0

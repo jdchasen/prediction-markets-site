@@ -4,7 +4,7 @@ description: "Will Flavio Bolsonaro win the most votes in the next Brazil presid
 marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-09
+lastUpdated: 2026-09-10
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 97.9
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-
 
 ## Related Markets
 
-- [Israel x Lebanon diplomatic meeting by September 30, 2026?](/odds/israel-x-lebanon-diplomatic-meeting-by-september-30-2026) — 68% YES
-- [Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?](/odds/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-dece) — 4% YES
+- [Iran-Oman Hormuz Agreement by October 31?](/odds/iran-oman-hormuz-agreement-by-october-31) — 46% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"?
 
-As of September 09, 2026, Polymarket prices YES at 97.9%.
+As of September 10, 2026, Polymarket prices YES at 97.9%.
 
 ### Where can I trade on this prediction market?
 

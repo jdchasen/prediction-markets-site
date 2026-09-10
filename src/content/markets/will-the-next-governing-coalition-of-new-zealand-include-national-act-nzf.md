@@ -3,8 +3,8 @@ title: "Will the next governing coalition of New Zealand include National + ACT 
 description: "Will the next governing coalition of New Zealand include National + ACT + NZF? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next governing coalition of New Zealand include National + ACT + NZF?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 47.5

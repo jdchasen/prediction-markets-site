@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the NY-19 House seat?"
 description: "Will the Democratic Party win the NY-19 House seat? Odds: 94.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NY-19 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 94.3

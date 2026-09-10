@@ -1,23 +1,23 @@
 ---
-title: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?"
-description: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?"
+title: "Next Kimi K model released by September 30, 2026?"
+description: "Next Kimi K model released by September 30, 2026? Odds: 84.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Next Kimi K model released by September 30, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-10
-expiryDate: 2027-01-01
+expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 51.0
-polymarketNo: 49.0
-polymarketVolume: 9976
-polymarketUrl: "https://polymarket.com/event/will-alexandre-pantoja-be-the-ufc-flyweight-champion-on-december-31-2026"
+polymarketYes: 84.8
+polymarketNo: 15.2
+polymarketVolume: 9943
+polymarketUrl: "https://polymarket.com/event/next-kimi-k-model-released-by-september-30-2026-20260722183157725-377-148"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.0% | 49.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.8% | 15.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-alexandre-pantoja-be-the-ufc-f
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?"?
+### What are the current odds for "Next Kimi K model released by September 30, 2026?"?
 
-As of September 10, 2026, Polymarket prices YES at 51.0%.
+As of September 10, 2026, Polymarket prices YES at 84.8%.
 
 ### Where can I trade on this prediction market?
 

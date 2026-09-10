@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
+title: "Will Adrián de la Garza Santos win the 2027 Nuevo León Governor Election?"
+description: "Will Adrián de la Garza Santos win the 2027 Nuevo León Governor Election? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Adrián de la Garza Santos win the 2027 Nuevo León Governor Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-10
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9971
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
+expiryDate: 2027-06-06
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9907
+polymarketUrl: "https://polymarket.com/event/will-adrian-de-la-garza-santos-win-the-2027-nuevo-leon-governor-election-20260803173854402"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
+### What are the current odds for "Will Adrián de la Garza Santos win the 2027 Nuevo León Governor Election?"?
 
-As of September 10, 2026, Polymarket prices YES at 12.5%.
+As of September 10, 2026, Polymarket prices YES at 28.5%.
 
 ### Where can I trade on this prediction market?
 

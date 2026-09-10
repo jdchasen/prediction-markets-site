@@ -1,14 +1,14 @@
 ---
 title: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
-description: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
+description: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-09
+lastUpdated: 2026-09-10
 expiryDate: 2026-09-30
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 3.4
-polymarketNo: 96.7
+polymarketYes: 3.7
+polymarketNo: 96.3
 polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-any-aircraft-land-or-take-off-at-kyiv-boryspil-airport-by-september-30"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-any-aircraft-land-or-take-off-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.4% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.7% | 96.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Israel x Lebanon diplomatic meeting by September 30, 2026?](/odds/israel-x-lebanon-diplomatic-meeting-by-september-30-2026) — 68% YES
-- [Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?](/odds/will-mohammed-bin-salman-cease-to-be-the-de-facto-leader-of-saudi-arabia-by-dece) — 4% YES
+- [Iran-Oman Hormuz Agreement by October 31?](/odds/iran-oman-hormuz-agreement-by-october-31) — 46% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will any aircraft land or take off at Kyiv Boryspil Airport by September 30?"?
 
-As of September 09, 2026, Polymarket prices YES at 3.4%.
+As of September 10, 2026, Polymarket prices YES at 3.7%.
 
 ### Where can I trade on this prediction market?
 

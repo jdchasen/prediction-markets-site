@@ -3,8 +3,8 @@ title: "Will Anyone's Legend win the LPL 2026 season?"
 description: "Will Anyone's Legend win the LPL 2026 season? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anyone's Legend win the LPL 2026 season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 9.5

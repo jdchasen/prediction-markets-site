@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
+title: "Will Yash Patel win Big Brother season 28?"
+description: "Will Yash Patel win Big Brother season 28? Odds: 26.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Yash Patel win Big Brother season 28?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-10
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9971
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
+expiryDate: 2026-10-01
+tags: ["politics", "polymarket"]
+polymarketYes: 26.1
+polymarketNo: 73.9
+polymarketVolume: 9943
+polymarketUrl: "https://polymarket.com/event/will-yash-patel-win-big-brother-season-28-20260708173711858"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.1% | 73.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
+### What are the current odds for "Will Yash Patel win Big Brother season 28?"?
 
-As of September 10, 2026, Polymarket prices YES at 12.5%.
+As of September 10, 2026, Polymarket prices YES at 26.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the highest score achieved by a Meta model on Humanity’s Last Exa
 description: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher? Odds: 27.0% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 27.0

@@ -3,8 +3,8 @@ title: "Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia
 description: "Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this m..."
 marketQuestion: "Will Mohammed bin Salman cease to be the de facto leader of Saudi Arabia by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.9

@@ -4,7 +4,7 @@ description: "Ventuals FDV above $2B one day after launch? Odds: 1.8% YES on Pol
 marketQuestion: "Ventuals FDV above $2B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-09
+lastUpdated: 2026-09-10
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 1.8
@@ -21,14 +21,13 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after
 
 ## Related Markets
 
-- [Will Bitcoin reach $92,500 in September?](/odds/will-bitcoin-reach-92500-in-september) — 8% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Ventuals FDV above $2B one day after launch?"?
 
-As of September 09, 2026, Polymarket prices YES at 1.8%.
+As of September 10, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

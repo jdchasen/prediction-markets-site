@@ -3,8 +3,8 @@ title: "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)"
 description: "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main) Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-09-13
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 69.5

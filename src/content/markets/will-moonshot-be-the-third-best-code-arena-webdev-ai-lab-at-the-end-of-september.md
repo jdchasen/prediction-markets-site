@@ -3,8 +3,8 @@ title: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of
 description: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 21.0

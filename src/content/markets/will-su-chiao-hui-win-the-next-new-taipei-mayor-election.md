@@ -1,23 +1,23 @@
 ---
-title: "Will the US federal government take a stake in The Boeing Company?"
-description: "Will the US federal government take a stake in The Boeing Company? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the US federal government take a stake in The Boeing Company?"
+title: "Will Su Chiao-hui win the next New Taipei Mayor election?"
+description: "Will Su Chiao-hui win the next New Taipei Mayor election? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Su Chiao-hui win the next New Taipei Mayor election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-10
-expiryDate: 2026-12-31
-tags: ["federal-reserve", "politics", "polymarket"]
-polymarketYes: 12.5
-polymarketNo: 87.5
-polymarketVolume: 9971
-polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-the-boeing-company"
+expiryDate: 2027-06-30
+tags: ["ai", "elections", "politics", "polymarket"]
+polymarketYes: 20.0
+polymarketNo: 80.0
+polymarketVolume: 9915
+polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.0% | 80.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-us-federal-government-take
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the US federal government take a stake in The Boeing Company?"?
+### What are the current odds for "Will Su Chiao-hui win the next New Taipei Mayor election?"?
 
-As of September 10, 2026, Polymarket prices YES at 12.5%.
+As of September 10, 2026, Polymarket prices YES at 20.0%.
 
 ### Where can I trade on this prediction market?
 

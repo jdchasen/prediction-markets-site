@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $92,500 in September?"
 description: "Will Bitcoin reach $92,500 in September? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $92,500 in September?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-09-09
+status: "settled"
+lastUpdated: 2026-09-10
 expiryDate: 2026-10-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 7.5
