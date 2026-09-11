@@ -1,15 +1,15 @@
 ---
 title: "Trump x Greenland deal signed by December 31?"
-description: "Trump x Greenland deal signed by December 31? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Trump x Greenland deal signed by December 31? Odds: 15.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump x Greenland deal signed by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-10
+lastUpdated: 2026-09-11
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 99491
+polymarketYes: 15.0
+polymarketNo: 85.0
+polymarketVolume: 99991
 polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-december-31"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 15.0% | 85.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Trump meet with Delcy Rodríguez by December 31, 2026?](/odds/will-trump-meet-with-delcy-rodrguez-by-december-31-2026) — 24% YES
-- [Next Kimi K model released by September 30, 2026?](/odds/next-kimi-k-model-released-by-september-30-2026) — 85% YES
+- [Will Trump meet with Delcy Rodríguez by December 31, 2026?](/odds/will-trump-meet-with-delcy-rodrguez-by-december-31-2026) — 26% YES
+- [Will Michael Katz be the Republican nominee for Senate in Delaware?](/odds/will-michael-katz-be-the-republican-nominee-for-senate-in-delaware) — 89% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Trump x Greenland deal signed by December 31?"?
 
-As of September 10, 2026, Polymarket prices YES at 14.5%.
+As of September 11, 2026, Polymarket prices YES at 15.0%.
 
 ### Where can I trade on this prediction market?
 

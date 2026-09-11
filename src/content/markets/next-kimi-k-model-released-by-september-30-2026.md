@@ -3,8 +3,8 @@ title: "Next Kimi K model released by September 30, 2026?"
 description: "Next Kimi K model released by September 30, 2026? Odds: 85.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Kimi K model released by September 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-10
+status: "settled"
+lastUpdated: 2026-09-11
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 85.2

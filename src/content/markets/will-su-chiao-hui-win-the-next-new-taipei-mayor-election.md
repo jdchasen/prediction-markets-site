@@ -3,8 +3,8 @@ title: "Will Su Chiao-hui win the next New Taipei Mayor election?"
 description: "Will Su Chiao-hui win the next New Taipei Mayor election? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Su Chiao-hui win the next New Taipei Mayor election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-10
+status: "settled"
+lastUpdated: 2026-09-11
 expiryDate: 2027-06-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 20.0

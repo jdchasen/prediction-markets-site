@@ -3,8 +3,8 @@ title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential
 description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia? Odds: 97.9% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-10
+status: "settled"
+lastUpdated: 2026-09-11
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 97.9

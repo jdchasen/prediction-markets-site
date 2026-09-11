@@ -3,8 +3,8 @@ title: "Will Lake Mead's minimum elevation fall below 1,028 ft?"
 description: "Will Lake Mead's minimum elevation fall below 1,028 ft? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lake Mead's minimum elevation fall below 1,028 ft?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-10
+status: "settled"
+lastUpdated: 2026-09-11
 expiryDate: 2027-04-15
 tags: ["politics", "polymarket"]
 polymarketYes: 45.5

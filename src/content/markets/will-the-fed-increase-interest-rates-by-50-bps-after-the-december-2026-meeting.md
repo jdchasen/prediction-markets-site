@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?"
-description: "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-09-10
+lastUpdated: 2026-09-11
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
-polymarketVolume: 97904
+polymarketYes: 2.4
+polymarketNo: 97.6
+polymarketVolume: 98203
 polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637"
 ---
 
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-increase-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.4% | 97.6% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting) — 1% YES
 - [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 15% YES
-- [Reserve Bank of New Zealand increases interest rates by 25 bps at the October 2026 meeting?](/odds/reserve-bank-of-new-zealand-increases-interest-rates-by-25-bps-at-the-october-20) — 14% YES
+- [Will US GDP growth in 2026 be between 2.0% and 2.5%?](/odds/will-us-gdp-growth-in-2026-be-between-20-and-25) — 42% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?"?
 
-As of September 10, 2026, Polymarket prices YES at 2.6%.
+As of September 11, 2026, Polymarket prices YES at 2.4%.
 
 ### Where can I trade on this prediction market?
 

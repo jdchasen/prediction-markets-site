@@ -3,8 +3,8 @@ title: "Reserve Bank of New Zealand increases interest rates by 25 bps at the Oc
 description: "Reserve Bank of New Zealand increases interest rates by 25 bps at the October 2026 meeting? Odds: 13.5% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Reserve Bank of New Zealand increases interest rates by 25 bps at the October 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-10
+status: "settled"
+lastUpdated: 2026-09-11
 expiryDate: 2026-10-28
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 13.5
