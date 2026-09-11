@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/trump-x-greenland-deal-signed-by-de
 
 ## Related Markets
 
+- [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
+- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 27% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
-- [Will Trump meet with Delcy Rodríguez by December 31, 2026?](/odds/will-trump-meet-with-delcy-rodrguez-by-december-31-2026) — 26% YES
-- [Will Michael Katz be the Republican nominee for Senate in Delaware?](/odds/will-michael-katz-be-the-republican-nominee-for-senate-in-delaware) — 89% YES
 
 ## Frequently Asked Questions
 

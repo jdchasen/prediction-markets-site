@@ -1,23 +1,23 @@
 ---
-title: "Will Sassuolo win the 2026-27 Serie A Championship?"
-description: "Will Sassuolo win the 2026-27 Serie A Championship? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sassuolo win the 2026-27 Serie A Championship?"
+title: "Will Styvenson Valentim win the most votes in the 2026 Rio Grande do Norte Senate election?"
+description: "Will Styvenson Valentim win the most votes in the 2026 Rio Grande do Norte Senate election? Odds: 76.0% YES on Polymarket. See live prices and trade this mar..."
+marketQuestion: "Will Styvenson Valentim win the most votes in the 2026 Rio Grande do Norte Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-11
-expiryDate: 2027-05-30
-tags: ["politics", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9947
-polymarketUrl: "https://polymarket.com/event/will-sassuolo-win-the-2026-27-serie-a-championship-20260701200118405"
+expiryDate: 2026-10-04
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 76.0
+polymarketNo: 24.0
+polymarketVolume: 9957
+polymarketUrl: "https://polymarket.com/event/will-styvenson-valentim-win-the-most-votes-in-the-2026-rio-grande-do-norte-senate-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.0% | 24.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sassuolo-win-the-2026-27-serie
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sassuolo win the 2026-27 Serie A Championship?"?
+### What are the current odds for "Will Styvenson Valentim win the most votes in the 2026 Rio Grande do Norte Senate election?"?
 
-As of September 11, 2026, Polymarket prices YES at 0.1%.
+As of September 11, 2026, Polymarket prices YES at 76.0%.
 
 ### Where can I trade on this prediction market?
 

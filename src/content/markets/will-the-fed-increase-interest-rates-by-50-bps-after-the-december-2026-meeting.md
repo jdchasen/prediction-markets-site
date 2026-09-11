@@ -3,7 +3,7 @@ title: "Will the Fed increase interest rates by 50+ bps after the December 2026 
 description: "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-11
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

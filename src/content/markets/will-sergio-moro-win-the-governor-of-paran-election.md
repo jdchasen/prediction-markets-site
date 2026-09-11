@@ -1,23 +1,23 @@
 ---
-title: "Will Su Chiao-hui win the next New Taipei Mayor election?"
-description: "Will Su Chiao-hui win the next New Taipei Mayor election? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Su Chiao-hui win the next New Taipei Mayor election?"
+title: "Will Sergio Moro win the Governor of Paraná election?"
+description: "Will Sergio Moro win the Governor of Paraná election? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Sergio Moro win the Governor of Paraná election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-11
-expiryDate: 2027-06-30
-tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 9915
-polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202"
+expiryDate: 2026-10-05
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 82.0
+polymarketNo: 18.0
+polymarketVolume: 99293
+polymarketUrl: "https://polymarket.com/event/will-sergio-moro-win-the-governor-of-parana-election-20260608205122817"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 82.0% | 18.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Su Chiao-hui win the next New Taipei Mayor election?"?
+### What are the current odds for "Will Sergio Moro win the Governor of Paraná election?"?
 
-As of September 11, 2026, Polymarket prices YES at 20.5%.
+As of September 11, 2026, Polymarket prices YES at 82.0%.
 
 ### Where can I trade on this prediction market?
 

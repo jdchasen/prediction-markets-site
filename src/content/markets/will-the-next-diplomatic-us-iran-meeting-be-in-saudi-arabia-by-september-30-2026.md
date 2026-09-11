@@ -3,13 +3,13 @@ title: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September
 description: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-09-07
+status: "active"
+lastUpdated: 2026-09-11
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 98830
+polymarketVolume: 99830
 polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026-20260622185050766"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Russia enter Ternuvate again by October 31?](/odds/will-russia-enter-ternuvate-again-by-october-31) — 98% YES
-- [Will the Fed Pause–Pause–Cut in the next three decisions (Jun–Jul–Sep)?](/odds/will-the-fed-pausepausecut-in-the-next-three-decisions-junjulsep) — 0% YES
+- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 15% YES
+- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 27% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?"?
 
-As of September 06, 2026, Polymarket prices YES at 0.1%.
+As of September 11, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

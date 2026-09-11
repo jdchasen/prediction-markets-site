@@ -1,23 +1,23 @@
 ---
-title: "Will Su Chiao-hui win the next New Taipei Mayor election?"
-description: "Will Su Chiao-hui win the next New Taipei Mayor election? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Su Chiao-hui win the next New Taipei Mayor election?"
+title: "Will Apple release a foldable iPhone by September 30?"
+description: "Will Apple release a foldable iPhone by September 30? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Apple release a foldable iPhone by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-11
-expiryDate: 2027-06-30
-tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 9915
-polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202"
+expiryDate: 2026-09-30
+tags: ["politics", "polymarket"]
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 99288
+polymarketUrl: "https://polymarket.com/event/will-apple-release-a-foldable-iphone-by-september-30-453-458"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Su Chiao-hui win the next New Taipei Mayor election?"?
+### What are the current odds for "Will Apple release a foldable iPhone by September 30?"?
 
-As of September 11, 2026, Polymarket prices YES at 20.5%.
+As of September 11, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

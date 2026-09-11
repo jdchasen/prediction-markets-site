@@ -1,35 +1,34 @@
 ---
-title: "Will US GDP growth in 2026 be between 2.0% and 2.5%?"
-description: "Will US GDP growth in 2026 be between 2.0% and 2.5%? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will US GDP growth in 2026 be between 2.0% and 2.5%?"
+title: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026?"
+description: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026?"
 category: "economics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-11
-expiryDate: 2027-01-29
+expiryDate: 2027-02-12
 tags: ["economics", "polymarket"]
-polymarketYes: 42.5
-polymarketNo: 57.5
-polymarketVolume: 9853
-polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-between-2pt0-and-2pt5"
+polymarketYes: 8.8
+polymarketNo: 91.2
+polymarketVolume: 9722
+polymarketUrl: "https://polymarket.com/event/will-japans-core-core-cpi-increase-by-between-2pt5-and-2pt9-in-2026-20260617223730872"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.8% | 91.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting) — 2% YES
 - [Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting) — 1% YES
 - [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 15% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will US GDP growth in 2026 be between 2.0% and 2.5%?"?
+### What are the current odds for "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026?"?
 
-As of September 11, 2026, Polymarket prices YES at 42.5%.
+As of September 11, 2026, Polymarket prices YES at 8.8%.
 
 ### Where can I trade on this prediction market?
 

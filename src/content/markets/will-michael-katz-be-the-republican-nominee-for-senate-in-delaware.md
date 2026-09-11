@@ -3,7 +3,7 @@ title: "Will Michael Katz be the Republican nominee for Senate in Delaware?"
 description: "Will Michael Katz be the Republican nominee for Senate in Delaware? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael Katz be the Republican nominee for Senate in Delaware?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-11
 expiryDate: 2026-09-15
 tags: ["politics", "polymarket"]

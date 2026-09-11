@@ -1,23 +1,23 @@
 ---
-title: "Will Su Chiao-hui win the next New Taipei Mayor election?"
-description: "Will Su Chiao-hui win the next New Taipei Mayor election? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Su Chiao-hui win the next New Taipei Mayor election?"
+title: "Will Leonardo Montañez Castro win the 2027 Aguascalientes Governor Election?"
+description: "Will Leonardo Montañez Castro win the 2027 Aguascalientes Governor Election? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Leonardo Montañez Castro win the 2027 Aguascalientes Governor Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-11
-expiryDate: 2027-06-30
-tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 20.5
-polymarketNo: 79.5
-polymarketVolume: 9915
-polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202"
+expiryDate: 2027-06-06
+tags: ["elections", "politics", "polymarket"]
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 9949
+polymarketUrl: "https://polymarket.com/event/will-leonardo-montanez-castro-win-the-2027-aguascalientes-governor-election-20260803173849649"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Su Chiao-hui win the next New Taipei Mayor election?"?
+### What are the current odds for "Will Leonardo Montañez Castro win the 2027 Aguascalientes Governor Election?"?
 
-As of September 11, 2026, Polymarket prices YES at 20.5%.
+As of September 11, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

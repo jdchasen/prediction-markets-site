@@ -3,7 +3,7 @@ title: "Will Adrián de la Garza Santos win the 2027 Nuevo León Governor Electi
 description: "Will Adrián de la Garza Santos win the 2027 Nuevo León Governor Election? Odds: 27.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adrián de la Garza Santos win the 2027 Nuevo León Governor Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-11
 expiryDate: 2027-06-06
 tags: ["elections", "politics", "polymarket"]

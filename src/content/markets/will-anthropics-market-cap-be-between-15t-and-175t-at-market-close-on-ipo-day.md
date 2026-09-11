@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?"
-description: "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day? Odds: 7.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-09-11
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 7.6
-polymarketNo: 92.3
-polymarketVolume: 99369
+polymarketYes: 7.1
+polymarketNo: 92.9
+polymarketVolume: 99686
 polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-between-1pt5t-and-1pt75t-at-market-close-on-ipo-day"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-market-cap-be-betwe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.6% | 92.3% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.1% | 92.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?"?
 
-As of September 11, 2026, Polymarket prices YES at 7.6%.
+As of September 11, 2026, Polymarket prices YES at 7.1%.
 
 ### Where can I trade on this prediction market?
 
