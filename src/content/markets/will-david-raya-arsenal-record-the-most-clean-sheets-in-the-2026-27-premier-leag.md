@@ -3,7 +3,7 @@ title: "Will David Raya (Arsenal) record the most clean sheets in the 2026-27 Pr
 description: "Will David Raya (Arsenal) record the most clean sheets in the 2026-27 Premier League season? Odds: 69.0% YES on Polymarket. See live prices and trade this ma..."
 marketQuestion: "Will David Raya (Arsenal) record the most clean sheets in the 2026-27 Premier League season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-12
 expiryDate: 2027-05-31
 tags: ["polymarket", "sports"]

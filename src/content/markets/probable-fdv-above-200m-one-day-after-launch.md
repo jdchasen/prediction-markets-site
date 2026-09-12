@@ -1,23 +1,23 @@
 ---
-title: "Ventuals FDV above $2B one day after launch?"
-description: "Ventuals FDV above $2B one day after launch? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Ventuals FDV above $2B one day after launch?"
+title: "Probable FDV above $200M one day after launch?"
+description: "Probable FDV above $200M one day after launch? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Probable FDV above $200M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-09-12
-expiryDate: 2027-01-01
+expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.3
-polymarketVolume: 9971
-polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after-launch-314"
+polymarketYes: 8.1
+polymarketNo: 91.9
+polymarketVolume: 9892
+polymarketUrl: "https://polymarket.com/event/probable-fdv-above-200m-one-day-after-launch"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.1% | 91.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Ventuals FDV above $2B one day after launch?"?
+### What are the current odds for "Probable FDV above $200M one day after launch?"?
 
-As of September 12, 2026, Polymarket prices YES at 1.7%.
+As of September 12, 2026, Polymarket prices YES at 8.1%.
 
 ### Where can I trade on this prediction market?
 

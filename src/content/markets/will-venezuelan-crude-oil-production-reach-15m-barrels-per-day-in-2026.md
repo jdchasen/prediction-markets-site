@@ -1,15 +1,15 @@
 ---
 title: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?"
-description: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026? Odds: 5.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-08-29
+status: "active"
+lastUpdated: 2026-09-12
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
-polymarketYes: 5.4
-polymarketNo: 94.6
-polymarketVolume: 9840
+polymarketYes: 5.7
+polymarketNo: 94.3
+polymarketVolume: 9900
 polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-venezuelan-crude-oil-productio
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.4% | 94.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.7% | 94.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 US Presidential Election?](/odds/will-donald-trump-win-the-2028-us-presidential-election) — 2% YES
-- [Strait of Hormuz traffic returns to normal by December 31?](/odds/strait-of-hormuz-traffic-returns-to-normal-by-december-31) — 32% YES
-- [Will Tom Cotton win the 2028 Republican presidential nomination?](/odds/will-tom-cotton-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Pau Cubarsi win the 2026 Ballon d'Or?](/odds/will-pau-cubarsi-win-the-2026-ballon-dor) — 0% YES
+- [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
+- [Israel x Iran ceasefire continues through September 15?](/odds/israel-x-iran-ceasefire-continues-through-september-15) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?"?
 
-As of August 29, 2026, Polymarket prices YES at 5.4%.
+As of September 12, 2026, Polymarket prices YES at 5.7%.
 
 ### Where can I trade on this prediction market?
 

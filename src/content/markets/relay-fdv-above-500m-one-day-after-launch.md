@@ -1,15 +1,15 @@
 ---
 title: "Relay FDV above $500M one day after launch?"
-description: "Relay FDV above $500M one day after launch? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
+description: "Relay FDV above $500M one day after launch? Odds: 28.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Relay FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-09-12
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 32.0
-polymarketNo: 68.0
-polymarketVolume: 9986
+polymarketYes: 28.5
+polymarketNo: 71.5
+polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/relay-fdv-above-500m-one-day-after-launch"
 ---
 
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/relay-fdv-above-500m-one-day-after-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.0% | 68.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 28.5% | 71.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
+- [Will the price of Bitcoin be above $80,000 on September 16?](/odds/will-the-price-of-bitcoin-be-above-80000-on-september-16) — 14% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Relay FDV above $500M one day after launch?"?
 
-As of September 12, 2026, Polymarket prices YES at 32.0%.
+As of September 12, 2026, Polymarket prices YES at 28.5%.
 
 ### Where can I trade on this prediction market?
 

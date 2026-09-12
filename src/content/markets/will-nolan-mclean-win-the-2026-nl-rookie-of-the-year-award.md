@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-nolan-mclean-win-the-2026-nl-r
 ## Related Markets
 
 - [Will the Seattle Seahawks win the 2027 NFL league championship?](/odds/will-the-seattle-seahawks-win-the-2027-nfl-league-championship) — 8% YES
-- [Will David Raya (Arsenal) record the most clean sheets in the 2026-27 Premier League season?](/odds/will-david-raya-arsenal-record-the-most-clean-sheets-in-the-2026-27-premier-leag) — 69% YES
 
 ## Frequently Asked Questions
 

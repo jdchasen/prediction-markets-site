@@ -21,7 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ## Related Markets
 
-- [Relay FDV above $500M one day after launch?](/odds/relay-fdv-above-500m-one-day-after-launch) — 32% YES
+- [Will the price of Bitcoin be above $80,000 on September 16?](/odds/will-the-price-of-bitcoin-be-above-80000-on-september-16) — 14% YES
+- [Relay FDV above $500M one day after launch?](/odds/relay-fdv-above-500m-one-day-after-launch) — 28% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions

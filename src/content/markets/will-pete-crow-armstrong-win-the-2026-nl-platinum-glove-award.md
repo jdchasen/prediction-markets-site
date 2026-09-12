@@ -9,7 +9,7 @@ expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 87.8
 polymarketNo: 12.2
-polymarketVolume: 9912
+polymarketVolume: 9953
 polymarketUrl: "https://polymarket.com/event/will-pete-crow-armstrong-win-the-2026-nl-platinum-glove-award"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-pete-crow-armstrong-win-the-20
 ## Related Markets
 
 - [Will Pau Cubarsi win the 2026 Ballon d'Or?](/odds/will-pau-cubarsi-win-the-2026-ballon-dor) — 0% YES
-- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 15% YES
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
+- [Israel x Iran ceasefire continues through September 15?](/odds/israel-x-iran-ceasefire-continues-through-september-15) — 96% YES
 
 ## Frequently Asked Questions
 

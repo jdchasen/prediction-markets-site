@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 ## Related Markets
 
 - [Will Pau Cubarsi win the 2026 Ballon d'Or?](/odds/will-pau-cubarsi-win-the-2026-ballon-dor) — 0% YES
-- [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 15% YES
-- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 27% YES
+- [Israel x Iran ceasefire continues through September 15?](/odds/israel-x-iran-ceasefire-continues-through-september-15) — 96% YES
+- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 26% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026?"
 description: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-12
 expiryDate: 2027-02-12
 tags: ["economics", "polymarket"]

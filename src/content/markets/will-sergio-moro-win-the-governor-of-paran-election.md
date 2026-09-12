@@ -3,7 +3,7 @@ title: "Will Sergio Moro win the Governor of Paraná election?"
 description: "Will Sergio Moro win the Governor of Paraná election? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sergio Moro win the Governor of Paraná election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-12
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]

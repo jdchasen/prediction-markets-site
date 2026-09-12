@@ -9,7 +9,7 @@ expiryDate: 2027-03-31
 tags: ["polymarket", "sports"]
 polymarketYes: 7.5
 polymarketNo: 92.5
-polymarketVolume: 991140
+polymarketVolume: 993640
 polymarketUrl: "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship"
 ---
 
@@ -17,12 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.5% | 92.5% | $991K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Nolan McLean win the 2026 NL Rookie of the Year award?](/odds/will-nolan-mclean-win-the-2026-nl-rookie-of-the-year-award) — 1% YES
-- [Will David Raya (Arsenal) record the most clean sheets in the 2026-27 Premier League season?](/odds/will-david-raya-arsenal-record-the-most-clean-sheets-in-the-2026-27-premier-leag) — 69% YES
 
 ## Frequently Asked Questions
 

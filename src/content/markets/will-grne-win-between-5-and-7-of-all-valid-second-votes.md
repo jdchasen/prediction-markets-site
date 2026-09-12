@@ -3,7 +3,7 @@ title: "Will Grüne win between 5% and 7% of all valid second votes?"
 description: "Will Grüne win between 5% and 7% of all valid second votes? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grüne win between 5% and 7% of all valid second votes?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-12
 expiryDate: 2026-09-20
 tags: ["politics", "polymarket"]
