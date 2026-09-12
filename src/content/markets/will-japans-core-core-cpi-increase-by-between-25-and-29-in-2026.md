@@ -4,12 +4,12 @@ description: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 202
 marketQuestion: "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-09-11
+lastUpdated: 2026-09-12
 expiryDate: 2027-02-12
 tags: ["economics", "polymarket"]
 polymarketYes: 8.8
-polymarketNo: 91.2
-polymarketVolume: 9722
+polymarketNo: 91.1
+polymarketVolume: 9770
 polymarketUrl: "https://polymarket.com/event/will-japans-core-core-cpi-increase-by-between-2pt5-and-2pt9-in-2026-20260617223730872"
 ---
 
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-japans-core-core-cpi-increase-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.8% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting) — 1% YES
-- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 15% YES
+- [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 16% YES
+- [Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?](/odds/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-november-202) — 29% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Japan's core-core CPI increase by between 2.5 and 2.9% in 2026?"?
 
-As of September 11, 2026, Polymarket prices YES at 8.8%.
+As of September 12, 2026, Polymarket prices YES at 8.8%.
 
 ### Where can I trade on this prediction market?
 

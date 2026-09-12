@@ -3,8 +3,8 @@ title: "Will Leonardo Montañez Castro win the 2027 Aguascalientes Governor Elec
 description: "Will Leonardo Montañez Castro win the 2027 Aguascalientes Governor Election? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Leonardo Montañez Castro win the 2027 Aguascalientes Governor Election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-11
+status: "settled"
+lastUpdated: 2026-09-12
 expiryDate: 2027-06-06
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 23.5

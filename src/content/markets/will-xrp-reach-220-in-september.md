@@ -4,7 +4,7 @@ description: "Will XRP reach $2.20 in September? Odds: 2.8% YES on Polymarket. S
 marketQuestion: "Will XRP reach $2.20 in September?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-11
+lastUpdated: 2026-09-12
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.8
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2pt2-in-september-20
 
 ## Related Markets
 
+- [Will Pau Cubarsi win the 2026 Ballon d'Or?](/odds/will-pau-cubarsi-win-the-2026-ballon-dor) — 0% YES
 - [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 15% YES
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
-- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 27% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will XRP reach $2.20 in September?"?
 
-As of September 11, 2026, Polymarket prices YES at 2.8%.
+As of September 12, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Sergio Moro win the Governor of Paraná election?"
-description: "Will Sergio Moro win the Governor of Paraná election? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Sergio Moro win the Governor of Paraná election?"
+title: "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election?"
+description: "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-12
-expiryDate: 2026-10-05
+expiryDate: 2027-06-06
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 82.5
-polymarketNo: 17.5
-polymarketVolume: 99425
-polymarketUrl: "https://polymarket.com/event/will-sergio-moro-win-the-governor-of-parana-election-20260608205122817"
+polymarketYes: 31.5
+polymarketNo: 68.5
+polymarketVolume: 9940
+polymarketUrl: "https://polymarket.com/event/will-ismael-burgueno-ruiz-win-the-2027-baja-california-governor-election-20260803173850227"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 82.5% | 17.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.5% | 68.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-sergio-moro-win-the-governor-o
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Sergio Moro win the Governor of Paraná election?"?
+### What are the current odds for "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election?"?
 
-As of September 12, 2026, Polymarket prices YES at 82.5%.
+As of September 12, 2026, Polymarket prices YES at 31.5%.
 
 ### Where can I trade on this prediction market?
 

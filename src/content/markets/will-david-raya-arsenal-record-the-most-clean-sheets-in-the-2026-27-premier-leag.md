@@ -4,7 +4,7 @@ description: "Will David Raya (Arsenal) record the most clean sheets in the 2026
 marketQuestion: "Will David Raya (Arsenal) record the most clean sheets in the 2026-27 Premier League season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-09-11
+lastUpdated: 2026-09-12
 expiryDate: 2027-05-31
 tags: ["polymarket", "sports"]
 polymarketYes: 69.0
@@ -19,11 +19,16 @@ polymarketUrl: "https://polymarket.com/event/will-david-raya-arsenal-record-the-
 |----------|-----|-----|--------|-------|
 | Polymarket | 69.0% | 31.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will the Seattle Seahawks win the 2027 NFL league championship?](/odds/will-the-seattle-seahawks-win-the-2027-nfl-league-championship) — 8% YES
+- [Will Nolan McLean win the 2026 NL Rookie of the Year award?](/odds/will-nolan-mclean-win-the-2026-nl-rookie-of-the-year-award) — 1% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will David Raya (Arsenal) record the most clean sheets in the 2026-27 Premier League season?"?
 
-As of September 11, 2026, Polymarket prices YES at 69.0%.
+As of September 12, 2026, Polymarket prices YES at 69.0%.
 
 ### Where can I trade on this prediction market?
 

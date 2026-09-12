@@ -1,23 +1,23 @@
 ---
-title: "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026?"
-description: "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026?"
+title: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"
+description: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award? Odds: 87.8% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-12
-expiryDate: 2027-01-01
-tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 96.5
-polymarketNo: 3.5
-polymarketVolume: 9947
-polymarketUrl: "https://polymarket.com/event/will-kevin-warsh-be-confirmed-as-fed-chair-and-will-rates-stay-above-2pt5-in-2026-958"
+expiryDate: 2026-12-19
+tags: ["politics", "polymarket"]
+polymarketYes: 87.8
+polymarketNo: 12.2
+polymarketVolume: 9912
+polymarketUrl: "https://polymarket.com/event/will-pete-crow-armstrong-win-the-2026-nl-platinum-glove-award"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.5% | 3.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 87.8% | 12.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-kevin-warsh-be-confirmed-as-fe
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026?"?
+### What are the current odds for "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"?
 
-As of September 12, 2026, Polymarket prices YES at 96.5%.
+As of September 12, 2026, Polymarket prices YES at 87.8%.
 
 ### Where can I trade on this prediction market?
 

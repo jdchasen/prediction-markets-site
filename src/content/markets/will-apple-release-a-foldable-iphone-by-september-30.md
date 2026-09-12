@@ -3,8 +3,8 @@ title: "Will Apple release a foldable iPhone by September 30?"
 description: "Will Apple release a foldable iPhone by September 30? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple release a foldable iPhone by September 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-11
+status: "settled"
+lastUpdated: 2026-09-12
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7

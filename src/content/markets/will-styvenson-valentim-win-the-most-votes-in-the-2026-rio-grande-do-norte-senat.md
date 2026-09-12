@@ -3,8 +3,8 @@ title: "Will Styvenson Valentim win the most votes in the 2026 Rio Grande do Nor
 description: "Will Styvenson Valentim win the most votes in the 2026 Rio Grande do Norte Senate election? Odds: 76.0% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will Styvenson Valentim win the most votes in the 2026 Rio Grande do Norte Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-11
+status: "settled"
+lastUpdated: 2026-09-12
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 76.0

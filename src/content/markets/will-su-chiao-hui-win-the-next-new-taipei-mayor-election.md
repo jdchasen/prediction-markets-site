@@ -4,7 +4,7 @@ description: "Will Su Chiao-hui win the next New Taipei Mayor election? Odds: 20
 marketQuestion: "Will Su Chiao-hui win the next New Taipei Mayor election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-11
+lastUpdated: 2026-09-12
 expiryDate: 2027-06-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 20.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-su-chiao-hui-win-the-next-new-
 
 ## Related Markets
 
+- [Will Pau Cubarsi win the 2026 Ballon d'Or?](/odds/will-pau-cubarsi-win-the-2026-ballon-dor) — 0% YES
 - [Trump x Greenland deal signed by December 31?](/odds/trump-x-greenland-deal-signed-by-december-31) — 15% YES
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
-- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 27% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Su Chiao-hui win the next New Taipei Mayor election?"?
 
-As of September 11, 2026, Polymarket prices YES at 20.5%.
+As of September 12, 2026, Polymarket prices YES at 20.5%.
 
 ### Where can I trade on this prediction market?
 
