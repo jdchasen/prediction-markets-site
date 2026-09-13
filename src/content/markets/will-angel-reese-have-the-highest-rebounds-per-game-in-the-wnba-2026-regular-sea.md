@@ -1,23 +1,23 @@
 ---
-title: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"
-description: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award? Odds: 87.8% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"
+title: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
+description: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season? Odds: 97.3% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-13
-expiryDate: 2026-12-19
-tags: ["politics", "polymarket"]
-polymarketYes: 87.8
-polymarketNo: 12.2
-polymarketVolume: 9953
-polymarketUrl: "https://polymarket.com/event/will-pete-crow-armstrong-win-the-2026-nl-platinum-glove-award"
+expiryDate: 2026-09-24
+tags: ["politics", "polymarket", "sports"]
+polymarketYes: 97.3
+polymarketNo: 2.7
+polymarketVolume: 9916
+polymarketUrl: "https://polymarket.com/event/will-angel-reese-have-the-highest-rebounds-per-game-in-the-wnba-2026-regular-season"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 87.8% | 12.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.3% | 2.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-pete-crow-armstrong-win-the-20
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"?
+### What are the current odds for "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"?
 
-As of September 13, 2026, Polymarket prices YES at 87.8%.
+As of September 13, 2026, Polymarket prices YES at 97.3%.
 
 ### Where can I trade on this prediction market?
 

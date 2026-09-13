@@ -3,8 +3,8 @@ title: "Will CDU win between 8% and 11% of all valid second votes?"
 description: "Will CDU win between 8% and 11% of all valid second votes? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will CDU win between 8% and 11% of all valid second votes?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-12
+status: "settled"
+lastUpdated: 2026-09-13
 expiryDate: 2026-09-20
 tags: ["politics", "polymarket"]
 polymarketYes: 20.5

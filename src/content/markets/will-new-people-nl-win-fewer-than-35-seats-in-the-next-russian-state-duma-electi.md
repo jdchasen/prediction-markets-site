@@ -3,8 +3,8 @@ title: "Will New People (NL) win fewer than 35 seats in the next Russian State D
 description: "Will New People (NL) win fewer than 35 seats in the next Russian State Duma election? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New People (NL) win fewer than 35 seats in the next Russian State Duma election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-12
+status: "settled"
+lastUpdated: 2026-09-13
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 84.5

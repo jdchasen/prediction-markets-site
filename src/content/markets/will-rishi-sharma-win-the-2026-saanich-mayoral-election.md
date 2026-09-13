@@ -1,15 +1,15 @@
 ---
 title: "Will Rishi Sharma win the 2026 Saanich mayoral election?"
-description: "Will Rishi Sharma win the 2026 Saanich mayoral election? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Rishi Sharma win the 2026 Saanich mayoral election? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rishi Sharma win the 2026 Saanich mayoral election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-12
+lastUpdated: 2026-09-13
 expiryDate: 2026-10-17
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 23.0
-polymarketNo: 77.0
-polymarketVolume: 9899
+polymarketYes: 23.5
+polymarketNo: 76.5
+polymarketVolume: 9950
 polymarketUrl: "https://polymarket.com/event/will-rishi-sharma-win-the-2026-saanich-mayoral-election"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-rishi-sharma-win-the-2026-saan
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 23.0% | 77.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.5% | 76.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Pau Cubarsi win the 2026 Ballon d'Or?](/odds/will-pau-cubarsi-win-the-2026-ballon-dor) — 0% YES
+- [Will United Russia (ER) gain the most seats in the next Russian parliamentary election?](/odds/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-elec) — 80% YES
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
-- [Israel x Iran ceasefire continues through September 15?](/odds/israel-x-iran-ceasefire-continues-through-september-15) — 96% YES
+- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Rishi Sharma win the 2026 Saanich mayoral election?"?
 
-As of September 12, 2026, Polymarket prices YES at 23.0%.
+As of September 13, 2026, Polymarket prices YES at 23.5%.
 
 ### Where can I trade on this prediction market?
 

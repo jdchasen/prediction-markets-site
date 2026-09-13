@@ -4,12 +4,12 @@ description: "Will the Republican Party win the AR-03 House seat? Odds: 95.0% YE
 marketQuestion: "Will the Republican Party win the AR-03 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-12
+lastUpdated: 2026-09-13
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 95.0
 polymarketNo: 5.0
-polymarketVolume: 9894
+polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ar-03-house-seat"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Related Markets
 
-- [Will Pau Cubarsi win the 2026 Ballon d'Or?](/odds/will-pau-cubarsi-win-the-2026-ballon-dor) — 0% YES
+- [Will United Russia (ER) gain the most seats in the next Russian parliamentary election?](/odds/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-elec) — 80% YES
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
-- [Israel x Iran ceasefire continues through September 15?](/odds/israel-x-iran-ceasefire-continues-through-september-15) — 96% YES
+- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 26% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the AR-03 House seat?"?
 
-As of September 12, 2026, Polymarket prices YES at 95.0%.
+As of September 13, 2026, Polymarket prices YES at 95.0%.
 
 ### Where can I trade on this prediction market?
 

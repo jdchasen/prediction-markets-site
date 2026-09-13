@@ -3,8 +3,8 @@ title: "Reserve Bank of Australia increases interest rates by 25 bps at the Nove
 description: "Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting? Odds: 25.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-12
+status: "settled"
+lastUpdated: 2026-09-13
 expiryDate: 2026-11-03
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 25.2

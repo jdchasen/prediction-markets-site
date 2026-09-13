@@ -3,8 +3,8 @@ title: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?
 description: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-12
+status: "settled"
+lastUpdated: 2026-09-13
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 5.7

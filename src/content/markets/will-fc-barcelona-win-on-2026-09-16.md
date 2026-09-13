@@ -1,23 +1,23 @@
 ---
-title: "Will Pakistan recognize Israel by December 31?"
-description: "Will Pakistan recognize Israel by December 31? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Pakistan recognize Israel by December 31?"
+title: "Will FC Barcelona win on 2026-09-16?"
+description: "Will FC Barcelona win on 2026-09-16? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will FC Barcelona win on 2026-09-16?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-13
-expiryDate: 2027-01-01
+expiryDate: 2026-09-16
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9946
-polymarketUrl: "https://polymarket.com/event/will-pakistan-recognize-israel-by-december-31"
+polymarketYes: 91.5
+polymarketNo: 8.5
+polymarketVolume: 9945
+polymarketUrl: "https://polymarket.com/event/lal-bar-rrc-2026-09-16-bar"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-pakistan-recognize-israel-by-d
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Pakistan recognize Israel by December 31?"?
+### What are the current odds for "Will FC Barcelona win on 2026-09-16?"?
 
-As of September 13, 2026, Polymarket prices YES at 4.5%.
+As of September 13, 2026, Polymarket prices YES at 91.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
-- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
 
