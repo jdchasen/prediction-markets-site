@@ -3,7 +3,7 @@ title: "Will FC Barcelona win on 2026-09-16?"
 description: "Will FC Barcelona win on 2026-09-16? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Barcelona win on 2026-09-16?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-13
 expiryDate: 2026-09-16
 tags: ["politics", "polymarket"]

@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 - [Will United Russia (ER) gain the most seats in the next Russian parliamentary election?](/odds/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-elec) — 80% YES
 - [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 26% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will Minnesota Lynx win the 2026 WNBA Finals?](/odds/will-minnesota-lynx-win-the-2026-wnba-finals) — 46% YES
 
 ## Frequently Asked Questions
 

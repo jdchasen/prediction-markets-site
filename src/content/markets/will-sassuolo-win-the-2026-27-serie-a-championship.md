@@ -9,7 +9,7 @@ expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9947
+polymarketVolume: 9981
 polymarketUrl: "https://polymarket.com/event/will-sassuolo-win-the-2026-27-serie-a-championship-20260701200118405"
 ---
 

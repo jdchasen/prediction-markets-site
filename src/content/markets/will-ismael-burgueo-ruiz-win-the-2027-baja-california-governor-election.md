@@ -1,14 +1,14 @@
 ---
 title: "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election?"
-description: "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-13
 expiryDate: 2027-06-06
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 32.0
-polymarketNo: 68.0
+polymarketYes: 31.5
+polymarketNo: 68.5
 polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-ismael-burgueno-ruiz-win-the-2027-baja-california-governor-election-20260803173850227"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ismael-burgueno-ruiz-win-the-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.0% | 68.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.5% | 68.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ismael-burgueno-ruiz-win-the-2
 
 ### What are the current odds for "Will Ismael Burgueño Ruiz win the 2027 Baja California Governor Election?"?
 
-As of September 13, 2026, Polymarket prices YES at 32.0%.
+As of September 13, 2026, Polymarket prices YES at 31.5%.
 
 ### Where can I trade on this prediction market?
 

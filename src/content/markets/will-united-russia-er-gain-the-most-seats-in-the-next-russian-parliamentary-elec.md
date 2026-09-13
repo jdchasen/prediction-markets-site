@@ -9,7 +9,7 @@ expiryDate: 2026-09-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 79.5
 polymarketNo: 20.5
-polymarketVolume: 9901590
+polymarketVolume: 9938864
 polymarketUrl: "https://polymarket.com/event/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-united-russia-er-gain-the-most
 
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
 - [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 26% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 12% YES
+- [Will Minnesota Lynx win the 2026 WNBA Finals?](/odds/will-minnesota-lynx-win-the-2026-wnba-finals) — 46% YES
 
 ## Frequently Asked Questions
 

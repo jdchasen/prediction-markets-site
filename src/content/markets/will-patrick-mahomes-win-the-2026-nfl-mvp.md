@@ -3,7 +3,7 @@ title: "Will Patrick Mahomes win the 2026 NFL MVP?"
 description: "Will Patrick Mahomes win the 2026 NFL MVP? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Patrick Mahomes win the 2026 NFL MVP?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-13
 expiryDate: 2027-02-15
 tags: ["polymarket", "sports"]

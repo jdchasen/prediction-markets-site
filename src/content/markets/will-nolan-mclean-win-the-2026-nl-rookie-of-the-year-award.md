@@ -1,14 +1,14 @@
 ---
 title: "Will Nolan McLean win the 2026 NL Rookie of the Year award?"
-description: "Will Nolan McLean win the 2026 NL Rookie of the Year award? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Nolan McLean win the 2026 NL Rookie of the Year award? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nolan McLean win the 2026 NL Rookie of the Year award?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-09-13
 expiryDate: 2026-12-19
 tags: ["polymarket", "sports"]
-polymarketYes: 1.4
-polymarketNo: 98.6
+polymarketYes: 1.5
+polymarketNo: 98.5
 polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/will-nolan-mclean-win-the-2026-nl-rookie-of-the-year-award"
 ---
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-nolan-mclean-win-the-2026-nl-r
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Patrick Mahomes win the 2026 NFL MVP?](/odds/will-patrick-mahomes-win-the-2026-nfl-mvp) — 6% YES
+- [Caribbean Premier League: Barbados Tridents vs Guyana Amazon Warriors](/odds/caribbean-premier-league-barbados-tridents-vs-guyana-amazon-warriors) — 48% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Nolan McLean win the 2026 NL Rookie of the Year award?"?
 
-As of September 13, 2026, Polymarket prices YES at 1.4%.
+As of September 13, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

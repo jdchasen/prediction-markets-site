@@ -21,6 +21,7 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after
 
 ## Related Markets
 
+- [Variational FDV above $3B one day after launch?](/odds/variational-fdv-above-3b-one-day-after-launch) — 17% YES
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
 
 ## Frequently Asked Questions

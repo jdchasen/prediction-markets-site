@@ -1,35 +1,35 @@
 ---
-title: "Will Trump meet with Kim Jong Un in 2026?"
-description: "Will Trump meet with Kim Jong Un in 2026? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Trump meet with Kim Jong Un in 2026?"
+title: "Will St. Louis City SC win the 2026 MLS Cup?"
+description: "Will St. Louis City SC win the 2026 MLS Cup? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will St. Louis City SC win the 2026 MLS Cup?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-13
-expiryDate: 2027-01-01
-tags: ["politics", "polymarket", "trump"]
-polymarketYes: 26.5
-polymarketNo: 73.5
-polymarketVolume: 99804
-polymarketUrl: "https://polymarket.com/event/will-trump-meet-with-kim-jong-un-in-2026"
+expiryDate: 2026-12-19
+tags: ["politics", "polymarket"]
+polymarketYes: 4.2
+polymarketNo: 95.9
+polymarketVolume: 99004
+polymarketUrl: "https://polymarket.com/event/will-st-louis-city-sc-win-the-2026-mls-cup"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.5% | 73.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will United Russia (ER) gain the most seats in the next Russian parliamentary election?](/odds/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-elec) — 80% YES
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
-- [Will Minnesota Lynx win the 2026 WNBA Finals?](/odds/will-minnesota-lynx-win-the-2026-wnba-finals) — 46% YES
+- [Will Trump meet with Kim Jong Un in 2026?](/odds/will-trump-meet-with-kim-jong-un-in-2026) — 26% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Trump meet with Kim Jong Un in 2026?"?
+### What are the current odds for "Will St. Louis City SC win the 2026 MLS Cup?"?
 
-As of September 13, 2026, Polymarket prices YES at 26.5%.
+As of September 13, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 
