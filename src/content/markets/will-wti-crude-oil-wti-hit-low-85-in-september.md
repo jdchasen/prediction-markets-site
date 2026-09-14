@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (LOW) $85 in September?"
 description: "Will WTI Crude Oil (WTI) hit (LOW) $85 in September? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (LOW) $85 in September?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
 polymarketYes: 23.0

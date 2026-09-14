@@ -3,8 +3,8 @@ title: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"
 description: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award? Odds: 87.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 87.8

@@ -3,8 +3,8 @@ title: "Caribbean Premier League: Barbados Tridents vs Guyana Amazon Warriors"
 description: "Caribbean Premier League: Barbados Tridents vs Guyana Amazon Warriors Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Caribbean Premier League: Barbados Tridents vs Guyana Amazon Warriors"
 category: "sports"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 expiryDate: 2026-09-20
 tags: ["polymarket", "sports"]
 polymarketYes: 47.5

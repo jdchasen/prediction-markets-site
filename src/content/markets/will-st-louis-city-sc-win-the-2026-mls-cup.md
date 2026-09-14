@@ -3,8 +3,8 @@ title: "Will St. Louis City SC win the 2026 MLS Cup?"
 description: "Will St. Louis City SC win the 2026 MLS Cup? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will St. Louis City SC win the 2026 MLS Cup?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]
 polymarketYes: 4.2

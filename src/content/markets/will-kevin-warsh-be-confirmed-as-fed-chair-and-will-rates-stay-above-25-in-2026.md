@@ -3,8 +3,8 @@ title: "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5
 description: "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026? Odds: 96.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 expiryDate: 2027-01-01
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
 polymarketYes: 96.2

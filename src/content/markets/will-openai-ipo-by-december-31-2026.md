@@ -3,8 +3,8 @@ title: "Will OpenAI IPO by December 31 2026?"
 description: "Will OpenAI IPO by December 31 2026? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI IPO by December 31 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 tags: ["ai", "finance", "polymarket"]
 polymarketYes: 5.0
 polymarketNo: 95.0

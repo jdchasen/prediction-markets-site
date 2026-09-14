@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the AR-03 House seat?"
-description: "Will the Republican Party win the AR-03 House seat? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the AR-03 House seat?"
+title: "Will OpenAI's valuation hit (HIGH) $975B by September 30?"
+description: "Will OpenAI's valuation hit (HIGH) $975B by September 30? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI's valuation hit (HIGH) $975B by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-14
-expiryDate: 2026-11-03
-tags: ["politics", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.0
-polymarketVolume: 9914
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ar-03-house-seat"
+expiryDate: 2026-10-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 11.5
+polymarketNo: 88.5
+polymarketVolume: 9928
+polymarketUrl: "https://polymarket.com/event/will-openais-valuation-hit-high-975b-by-september-30-20260829011000014"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the AR-03 House seat?"?
+### What are the current odds for "Will OpenAI's valuation hit (HIGH) $975B by September 30?"?
 
-As of September 14, 2026, Polymarket prices YES at 95.0%.
+As of September 14, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

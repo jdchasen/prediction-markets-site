@@ -3,8 +3,8 @@ title: "Will United Russia (ER) gain the most seats in the next Russian parliame
 description: "Will United Russia (ER) gain the most seats in the next Russian parliamentary election? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 expiryDate: 2026-09-30
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 79.5

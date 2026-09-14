@@ -1,23 +1,23 @@
 ---
-title: "Will the Republican Party win the AR-03 House seat?"
-description: "Will the Republican Party win the AR-03 House seat? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Republican Party win the AR-03 House seat?"
+title: "Will the median home value in Los Angeles Metro be between $1,153,000 and $1,169,000 on September 30?"
+description: "Will the median home value in Los Angeles Metro be between $1,153,000 and $1,169,000 on September 30? Odds: 42.1% YES on Polymarket. See live prices and trad..."
+marketQuestion: "Will the median home value in Los Angeles Metro be between $1,153,000 and $1,169,000 on September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-14
-expiryDate: 2026-11-03
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.0
-polymarketVolume: 9914
-polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-ar-03-house-seat"
+polymarketYes: 42.1
+polymarketNo: 57.9
+polymarketVolume: 9923
+polymarketUrl: "https://polymarket.com/event/will-the-median-home-value-in-los-angeles-be-between-1153000-and-1169000-20260630173101994"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 42.1% | 57.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Republican Party win the AR-03 House seat?"?
+### What are the current odds for "Will the median home value in Los Angeles Metro be between $1,153,000 and $1,169,000 on September 30?"?
 
-As of September 14, 2026, Polymarket prices YES at 95.0%.
+As of September 14, 2026, Polymarket prices YES at 42.1%.
 
 ### Where can I trade on this prediction market?
 

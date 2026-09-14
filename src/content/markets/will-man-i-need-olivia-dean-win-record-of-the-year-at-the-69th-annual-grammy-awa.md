@@ -3,8 +3,8 @@ title: "Will Man I Need (Olivia Dean) win Record of the Year at the 69th Annual 
 description: "Will Man I Need (Olivia Dean) win Record of the Year at the 69th Annual GRAMMY Awards? Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Man I Need (Olivia Dean) win Record of the Year at the 69th Annual GRAMMY Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-09-13
+status: "settled"
+lastUpdated: 2026-09-14
 expiryDate: 2027-02-07
 tags: ["entertainment", "polymarket"]
 polymarketYes: 46.5
