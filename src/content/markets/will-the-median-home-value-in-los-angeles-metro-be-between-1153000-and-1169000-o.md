@@ -3,7 +3,7 @@ title: "Will the median home value in Los Angeles Metro be between $1,153,000 an
 description: "Will the median home value in Los Angeles Metro be between $1,153,000 and $1,169,000 on September 30? Odds: 42.1% YES on Polymarket. See live prices and trad..."
 marketQuestion: "Will the median home value in Los Angeles Metro be between $1,153,000 and $1,169,000 on September 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-14
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will Rishi Sharma win the 2026 Saanich mayoral election?"
-description: "Will Rishi Sharma win the 2026 Saanich mayoral election? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Rishi Sharma win the 2026 Saanich mayoral election?"
+title: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"
+description: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? Odds: 55.0% YES on Po..."
+marketQuestion: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-14
-expiryDate: 2026-10-17
+expiryDate: 2026-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 24.5
-polymarketNo: 75.5
-polymarketVolume: 9973
-polymarketUrl: "https://polymarket.com/event/will-rishi-sharma-win-the-2026-saanich-mayoral-election"
+polymarketYes: 55.0
+polymarketNo: 45.0
+polymarketVolume: 9933
+polymarketUrl: "https://polymarket.com/event/will-national-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election-992"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.5% | 75.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.0% | 45.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-rishi-sharma-win-the-2026-saan
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Rishi Sharma win the 2026 Saanich mayoral election?"?
+### What are the current odds for "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"?
 
-As of September 14, 2026, Polymarket prices YES at 24.5%.
+As of September 14, 2026, Polymarket prices YES at 55.0%.
 
 ### Where can I trade on this prediction market?
 

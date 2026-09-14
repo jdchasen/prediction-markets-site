@@ -1,14 +1,14 @@
 ---
 title: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
-description: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season? Odds: 97.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season? Odds: 96.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-14
 expiryDate: 2026-09-24
 tags: ["politics", "polymarket", "sports"]
-polymarketYes: 97.4
-polymarketNo: 2.6
+polymarketYes: 96.4
+polymarketNo: 3.6
 polymarketVolume: 9951
 polymarketUrl: "https://polymarket.com/event/will-angel-reese-have-the-highest-rebounds-per-game-in-the-wnba-2026-regular-season"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-angel-reese-have-the-highest-r
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.4% | 2.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.4% | 3.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [US x Iran diplomatic meeting by September 30, 2026?](/odds/us-x-iran-diplomatic-meeting-by-september-30-2026) — 8% YES
 - [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"?
 
-As of September 14, 2026, Polymarket prices YES at 97.4%.
+As of September 14, 2026, Polymarket prices YES at 96.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,23 +1,23 @@
 ---
-title: "Will Benjamin Netanyahu visit New York City by December 31?"
-description: "Will Benjamin Netanyahu visit New York City by December 31? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Benjamin Netanyahu visit New York City by December 31?"
+title: "Will the Democratic Party win the FL-25 House seat?"
+description: "Will the Democratic Party win the FL-25 House seat? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the FL-25 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-14
-expiryDate: 2027-01-01
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 97.2
-polymarketNo: 2.8
-polymarketVolume: 99353
-polymarketUrl: "https://polymarket.com/event/will-benjamin-netanyahu-visit-new-york-city-by-december-31-20260722053445711-376"
+polymarketYes: 70.5
+polymarketNo: 29.5
+polymarketVolume: 9937
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-25-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.2% | 2.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 70.5% | 29.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-benjamin-netanyahu-visit-new-y
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Benjamin Netanyahu visit New York City by December 31?"?
+### What are the current odds for "Will the Democratic Party win the FL-25 House seat?"?
 
-As of September 14, 2026, Polymarket prices YES at 97.2%.
+As of September 14, 2026, Polymarket prices YES at 70.5%.
 
 ### Where can I trade on this prediction market?
 
@@ -37,6 +37,6 @@ You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=
 
 ## Learn More
 
-- [Bournemouth vs Man City Odds: 62% Bet on City Win](/blog/bournemouth-vs-man-city-odds-62-bet-on-city-win)
 - [Will Oil Hit $100? March Crude Prediction Market Odds](/blog/will-oil-hit-100-march-crude-prediction-market-odds)
+- [Will MicroStrategy Sell Bitcoin? Market Odds](/blog/will-microstrategy-sell-bitcoin-market-odds)
 
