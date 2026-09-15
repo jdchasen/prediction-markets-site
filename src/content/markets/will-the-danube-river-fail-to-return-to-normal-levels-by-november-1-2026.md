@@ -3,7 +3,7 @@ title: "Will the Danube River fail to return to normal levels by November 1, 202
 description: "Will the Danube River fail to return to normal levels by November 1, 2026? Odds: 16.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Danube River fail to return to normal levels by November 1, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-15
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]

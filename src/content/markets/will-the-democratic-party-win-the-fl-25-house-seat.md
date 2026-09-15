@@ -3,7 +3,7 @@ title: "Will the Democratic Party win the FL-25 House seat?"
 description: "Will the Democratic Party win the FL-25 House seat? Odds: 77.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the FL-25 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-15
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]

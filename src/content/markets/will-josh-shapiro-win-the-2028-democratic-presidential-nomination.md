@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-josh-shapiro-win-the-2028-demo
 
 ## Related Markets
 
-- [US x Iran diplomatic meeting by October 31, 2026?](/odds/us-x-iran-diplomatic-meeting-by-october-31-2026) — 22% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
+- [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
+- [Will Xi Jinping visit US by October 31?](/odds/will-xi-jinping-visit-us-by-october-31) — 94% YES
 - [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
 
 ## Frequently Asked Questions

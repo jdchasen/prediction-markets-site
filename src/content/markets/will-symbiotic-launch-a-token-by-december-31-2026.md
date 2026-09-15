@@ -1,34 +1,34 @@
 ---
-title: "Ventuals FDV above $2B one day after launch?"
-description: "Ventuals FDV above $2B one day after launch? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Ventuals FDV above $2B one day after launch?"
+title: "Will Symbiotic launch a token by December 31, 2026?"
+description: "Will Symbiotic launch a token by December 31, 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Symbiotic launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-09-15
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.3
-polymarketVolume: 9971
-polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after-launch-314"
+polymarketYes: 3.5
+polymarketNo: 96.5
+polymarketVolume: 9933
+polymarketUrl: "https://polymarket.com/event/will-symbiotic-launch-a-token-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
-- [Will Symbiotic launch a token by December 31, 2026?](/odds/will-symbiotic-launch-a-token-by-december-31-2026) — 4% YES
+- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Ventuals FDV above $2B one day after launch?"?
+### What are the current odds for "Will Symbiotic launch a token by December 31, 2026?"?
 
-As of September 15, 2026, Polymarket prices YES at 1.7%.
+As of September 15, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

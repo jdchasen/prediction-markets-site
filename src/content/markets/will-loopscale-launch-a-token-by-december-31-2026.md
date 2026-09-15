@@ -22,6 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 ## Related Markets
 
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
+- [Will Symbiotic launch a token by December 31, 2026?](/odds/will-symbiotic-launch-a-token-by-december-31-2026) — 4% YES
 
 ## Frequently Asked Questions
 

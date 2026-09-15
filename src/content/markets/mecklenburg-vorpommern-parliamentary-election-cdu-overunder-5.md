@@ -3,7 +3,7 @@ title: "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%?"
 description: "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-15
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
