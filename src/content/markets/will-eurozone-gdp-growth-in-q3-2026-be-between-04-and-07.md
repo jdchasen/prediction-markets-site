@@ -1,15 +1,15 @@
 ---
 title: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
-description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 11.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 10.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-09-14
+lastUpdated: 2026-09-15
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
-polymarketYes: 11.2
-polymarketNo: 88.8
-polymarketVolume: 9910
+polymarketYes: 10.7
+polymarketNo: 89.3
+polymarketVolume: 9916
 polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026-be-between-0pt4-and-0pt7-20260731151541471"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.2% | 88.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.7% | 89.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"?
 
-As of September 14, 2026, Polymarket prices YES at 11.2%.
+As of September 15, 2026, Polymarket prices YES at 10.7%.
 
 ### Where can I trade on this prediction market?
 

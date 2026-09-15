@@ -3,8 +3,8 @@ title: "Will National Party win the second-most seats in the New Zealand House o
 description: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? Odds: 55.0% YES on Po..."
 marketQuestion: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-14
+status: "settled"
+lastUpdated: 2026-09-15
 expiryDate: 2026-11-07
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 55.0

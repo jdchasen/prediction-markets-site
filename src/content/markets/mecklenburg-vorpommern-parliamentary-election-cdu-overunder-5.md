@@ -1,14 +1,14 @@
 ---
 title: "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%?"
-description: "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
+description: "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-14
+lastUpdated: 2026-09-15
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 84.0
-polymarketNo: 16.0
+polymarketYes: 83.0
+polymarketNo: 17.0
 polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/mecklenburg-vorpommern-parliamentary-election-cdu-over-under-5-percent"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/mecklenburg-vorpommern-parliamentar
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 84.0% | 16.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
-- [US x Iran diplomatic meeting by September 30, 2026?](/odds/us-x-iran-diplomatic-meeting-by-september-30-2026) — 8% YES
-- [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
+- [US x Iran diplomatic meeting by October 31, 2026?](/odds/us-x-iran-diplomatic-meeting-by-october-31-2026) — 22% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%?"?
 
-As of September 14, 2026, Polymarket prices YES at 84.0%.
+As of September 15, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 

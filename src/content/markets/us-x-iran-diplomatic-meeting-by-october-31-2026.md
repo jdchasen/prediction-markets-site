@@ -1,35 +1,35 @@
 ---
-title: "US x Iran diplomatic meeting by September 30, 2026?"
-description: "US x Iran diplomatic meeting by September 30, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "US x Iran diplomatic meeting by September 30, 2026?"
+title: "US x Iran diplomatic meeting by October 31, 2026?"
+description: "US x Iran diplomatic meeting by October 31, 2026? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "US x Iran diplomatic meeting by October 31, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-15
-expiryDate: 2026-09-30
+expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
-polymarketYes: 8.5
-polymarketNo: 91.5
-polymarketVolume: 997999
-polymarketUrl: "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-september-30-2026"
+polymarketYes: 21.5
+polymarketNo: 78.5
+polymarketVolume: 99664
+polymarketUrl: "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-october-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.5% | 91.5% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 21.5% | 78.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
-- [Will the next diplomatic US-Iran meeting be in Saudi Arabia by September 30, 2026?](/odds/will-the-next-diplomatic-us-iran-meeting-be-in-saudi-arabia-by-september-30-2026) — 0% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
+- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "US x Iran diplomatic meeting by September 30, 2026?"?
+### What are the current odds for "US x Iran diplomatic meeting by October 31, 2026?"?
 
-As of September 14, 2026, Polymarket prices YES at 8.5%.
+As of September 15, 2026, Polymarket prices YES at 21.5%.
 
 ### Where can I trade on this prediction market?
 

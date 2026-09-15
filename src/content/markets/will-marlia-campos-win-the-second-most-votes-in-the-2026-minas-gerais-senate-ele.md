@@ -1,23 +1,23 @@
 ---
-title: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
-description: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season? Odds: 96.7% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
+title: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"
+description: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-15
-expiryDate: 2026-09-24
-tags: ["politics", "polymarket", "sports"]
-polymarketYes: 96.7
-polymarketNo: 3.4
-polymarketVolume: 9951
-polymarketUrl: "https://polymarket.com/event/will-angel-reese-have-the-highest-rebounds-per-game-in-the-wnba-2026-regular-season"
+expiryDate: 2026-10-04
+tags: ["ai", "elections", "politics", "polymarket"]
+polymarketYes: 21.5
+polymarketNo: 78.5
+polymarketVolume: 9958
+polymarketUrl: "https://polymarket.com/event/will-marilia-campos-win-the-second-most-votes-in-the-2026-minas-gerais-senate-election"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.7% | 3.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 21.5% | 78.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-angel-reese-have-the-highest-r
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"?
+### What are the current odds for "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"?
 
-As of September 15, 2026, Polymarket prices YES at 96.7%.
+As of September 15, 2026, Polymarket prices YES at 21.5%.
 
 ### Where can I trade on this prediction market?
 
