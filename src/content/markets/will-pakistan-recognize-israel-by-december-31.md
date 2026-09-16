@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-pakistan-recognize-israel-by-d
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will an AI lab announce another Millennium Prize solution by December 31, 2026?](/odds/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026) — 44% YES
+- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
 
 ## Frequently Asked Questions
 

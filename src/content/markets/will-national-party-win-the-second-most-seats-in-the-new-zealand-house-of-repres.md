@@ -1,15 +1,15 @@
 ---
 title: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"
-description: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? Odds: 51.0% YES on Po..."
+description: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election? Odds: 56.0% YES on Po..."
 marketQuestion: "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-16
 expiryDate: 2026-11-07
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 51.0
-polymarketNo: 49.0
-polymarketVolume: 9933
+polymarketYes: 56.0
+polymarketNo: 44.0
+polymarketVolume: 9950
 polymarketUrl: "https://polymarket.com/event/will-national-party-win-the-second-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election-992"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-national-party-win-the-second-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.0% | 49.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 56.0% | 44.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will an AI lab announce another Millennium Prize solution by December 31, 2026?](/odds/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026) — 44% YES
+- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will National Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?"?
 
-As of September 16, 2026, Polymarket prices YES at 51.0%.
+As of September 16, 2026, Polymarket prices YES at 56.0%.
 
 ### Where can I trade on this prediction market?
 

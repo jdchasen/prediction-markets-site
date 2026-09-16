@@ -9,7 +9,7 @@ expiryDate: 2026-10-30
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.3
 polymarketNo: 99.7
-polymarketVolume: 9958
+polymarketVolume: 9989
 polymarketUrl: "https://polymarket.com/event/bank-of-japan-decreases-interest-rates-by-25-bps-after-the-october-2026-meeting-20260731151539216"
 ---
 
@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/bank-of-japan-decreases-interest-ra
 
 ## Related Markets
 
-- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 94% YES
 - [Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?](/odds/will-eurozone-gdp-growth-in-q3-2026-be-between-04-and-07) — 11% YES
 
 ## Frequently Asked Questions

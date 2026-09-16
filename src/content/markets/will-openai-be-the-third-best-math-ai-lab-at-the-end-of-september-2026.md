@@ -1,23 +1,23 @@
 ---
-title: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"
-description: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"
+title: "Will OpenAI be the third-best Math AI lab at the end of September 2026?"
+description: "Will OpenAI be the third-best Math AI lab at the end of September 2026? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will OpenAI be the third-best Math AI lab at the end of September 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-16
-expiryDate: 2026-10-04
-tags: ["ai", "elections", "politics", "polymarket"]
-polymarketYes: 21.0
-polymarketNo: 79.0
-polymarketVolume: 9998
-polymarketUrl: "https://polymarket.com/event/will-marilia-campos-win-the-second-most-votes-in-the-2026-minas-gerais-senate-election"
+expiryDate: 2026-10-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 4.2
+polymarketNo: 95.8
+polymarketVolume: 9924
+polymarketUrl: "https://polymarket.com/event/will-openai-be-the-third-best-math-ai-lab-at-the-end-of-september-2026-20260722221057135"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 21.0% | 79.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.2% | 95.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-marilia-campos-win-the-second-
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"?
+### What are the current odds for "Will OpenAI be the third-best Math AI lab at the end of September 2026?"?
 
-As of September 16, 2026, Polymarket prices YES at 21.0%.
+As of September 16, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

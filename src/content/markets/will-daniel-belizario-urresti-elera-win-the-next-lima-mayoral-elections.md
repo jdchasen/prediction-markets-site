@@ -3,7 +3,7 @@ title: "Will Daniel Belizario Urresti Elera win the next Lima mayoral elections?
 description: "Will Daniel Belizario Urresti Elera win the next Lima mayoral elections? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Daniel Belizario Urresti Elera win the next Lima mayoral elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-16
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]

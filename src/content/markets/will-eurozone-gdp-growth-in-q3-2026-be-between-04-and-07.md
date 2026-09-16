@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026
 
 ## Related Markets
 
-- [Fed rate hike in 2026?](/odds/fed-rate-hike-in-2026) — 94% YES
 - [Bank of Japan decreases interest rates by 25 bps after the October 2026 meeting?](/odds/bank-of-japan-decreases-interest-rates-by-25-bps-after-the-october-2026-meeting) — 0% YES
 
 ## Frequently Asked Questions

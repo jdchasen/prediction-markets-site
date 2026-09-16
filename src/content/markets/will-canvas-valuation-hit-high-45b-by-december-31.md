@@ -1,35 +1,35 @@
 ---
-title: "Will Xi Jinping visit US by October 31?"
-description: "Will Xi Jinping visit US by October 31? Odds: 95.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Xi Jinping visit US by October 31?"
+title: "Will Canva's valuation hit (HIGH) $45B by December 31?"
+description: "Will Canva's valuation hit (HIGH) $45B by December 31? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Canva's valuation hit (HIGH) $45B by December 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-16
-expiryDate: 2026-10-31
+expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 95.0
-polymarketNo: 5.1
-polymarketVolume: 99941
-polymarketUrl: "https://polymarket.com/event/will-xi-jinping-visit-us-by-october-31"
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9917
+polymarketUrl: "https://polymarket.com/event/will-canvas-valuation-hit-high-45b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.0% | 5.1% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will an AI lab announce another Millennium Prize solution by December 31, 2026?](/odds/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026) — 44% YES
+- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Xi Jinping visit US by October 31?"?
+### What are the current odds for "Will Canva's valuation hit (HIGH) $45B by December 31?"?
 
-As of September 16, 2026, Polymarket prices YES at 95.0%.
+As of September 16, 2026, Polymarket prices YES at 5.0%.
 
 ### Where can I trade on this prediction market?
 

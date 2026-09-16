@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the FL-16 House seat?"
-description: "Will the Republican Party win the FL-16 House seat? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the FL-16 House seat? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the FL-16 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-16
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 83.0
-polymarketNo: 17.0
+polymarketYes: 83.5
+polymarketNo: 16.5
 polymarketVolume: 9936
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-16-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will an AI lab announce another Millennium Prize solution by December 31, 2026?](/odds/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026) — 44% YES
+- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the FL-16 House seat?"?
 
-As of September 16, 2026, Polymarket prices YES at 83.0%.
+As of September 16, 2026, Polymarket prices YES at 83.5%.
 
 ### Where can I trade on this prediction market?
 

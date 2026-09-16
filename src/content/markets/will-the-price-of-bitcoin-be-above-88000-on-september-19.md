@@ -3,7 +3,7 @@ title: "Will the price of Bitcoin be above $88,000 on September 19?"
 description: "Will the price of Bitcoin be above $88,000 on September 19? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the price of Bitcoin be above $88,000 on September 19?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-16
 expiryDate: 2026-09-19
 tags: ["bitcoin", "crypto", "polymarket"]
