@@ -1,15 +1,15 @@
 ---
 title: "Will Symbiotic launch a token by December 31, 2026?"
-description: "Will Symbiotic launch a token by December 31, 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Symbiotic launch a token by December 31, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Symbiotic launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-15
+lastUpdated: 2026-09-16
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
-polymarketVolume: 9933
+polymarketYes: 3.6
+polymarketNo: 96.4
+polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/will-symbiotic-launch-a-token-by-december-31-2026"
 ---
 
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-symbiotic-launch-a-token-by-de
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
-- [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
+- [Will the price of Bitcoin be above $88,000 on September 19?](/odds/will-the-price-of-bitcoin-be-above-88000-on-september-19) — 1% YES
+- [Will Bitcoin hit $150k by December 31, 2027?](/odds/will-bitcoin-hit-150k-by-december-31-2027) — 28% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Symbiotic launch a token by December 31, 2026?"?
 
-As of September 15, 2026, Polymarket prices YES at 3.5%.
+As of September 16, 2026, Polymarket prices YES at 3.6%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will Loopscale launch a token by December 31, 2026? Odds: 13.0% YE
 marketQuestion: "Will Loopscale launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-15
+lastUpdated: 2026-09-16
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 13.0
@@ -21,14 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-loopscale-launch-a-token-by-de
 
 ## Related Markets
 
+- [Will the price of Bitcoin be above $88,000 on September 19?](/odds/will-the-price-of-bitcoin-be-above-88000-on-september-19) — 1% YES
+- [Will Bitcoin hit $150k by December 31, 2027?](/odds/will-bitcoin-hit-150k-by-december-31-2027) — 28% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
-- [Will Symbiotic launch a token by December 31, 2026?](/odds/will-symbiotic-launch-a-token-by-december-31-2026) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Loopscale launch a token by December 31, 2026?"?
 
-As of September 15, 2026, Polymarket prices YES at 13.0%.
+As of September 16, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

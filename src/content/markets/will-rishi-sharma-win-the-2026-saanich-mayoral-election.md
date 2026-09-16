@@ -3,8 +3,8 @@ title: "Will Rishi Sharma win the 2026 Saanich mayoral election?"
 description: "Will Rishi Sharma win the 2026 Saanich mayoral election? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rishi Sharma win the 2026 Saanich mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-15
+status: "settled"
+lastUpdated: 2026-09-16
 expiryDate: 2026-10-17
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 23.0

@@ -3,8 +3,8 @@ title: "Fed Rate Hike by October 2026 Meeting?"
 description: "Fed Rate Hike by October 2026 Meeting? Odds: 90.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Fed Rate Hike by October 2026 Meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-15
+status: "settled"
+lastUpdated: 2026-09-16
 expiryDate: 2026-12-09
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 90.5

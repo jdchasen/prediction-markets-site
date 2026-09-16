@@ -1,14 +1,14 @@
 ---
 title: "Will Benjamin Netanyahu visit New York City by December 31?"
-description: "Will Benjamin Netanyahu visit New York City by December 31? Odds: 97.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Benjamin Netanyahu visit New York City by December 31? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin Netanyahu visit New York City by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-15
+lastUpdated: 2026-09-16
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 97.4
-polymarketNo: 2.6
+polymarketYes: 97.2
+polymarketNo: 2.8
 polymarketVolume: 99353
 polymarketUrl: "https://polymarket.com/event/will-benjamin-netanyahu-visit-new-york-city-by-december-31-20260722053445711-376"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-benjamin-netanyahu-visit-new-y
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.4% | 2.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.2% | 2.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will Xi Jinping visit US by October 31?](/odds/will-xi-jinping-visit-us-by-october-31) — 94% YES
+- [Will an AI lab announce another Millennium Prize solution by December 31, 2026?](/odds/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026) — 44% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Benjamin Netanyahu visit New York City by December 31?"?
 
-As of September 15, 2026, Polymarket prices YES at 97.4%.
+As of September 16, 2026, Polymarket prices YES at 97.2%.
 
 ### Where can I trade on this prediction market?
 

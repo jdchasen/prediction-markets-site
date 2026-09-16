@@ -1,14 +1,14 @@
 ---
 title: "Will the Doge-1 Lunar Mission launch by December 31, 2026?"
-description: "Will the Doge-1 Lunar Mission launch by December 31, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the Doge-1 Lunar Mission launch by December 31, 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Doge-1 Lunar Mission launch by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-15
+lastUpdated: 2026-09-16
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.6
-polymarketNo: 96.4
+polymarketYes: 3.8
+polymarketNo: 96.2
 polymarketVolume: 993644
 polymarketUrl: "https://polymarket.com/event/will-the-doge-1-lunar-mission-launch-before-2027"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-doge-1-lunar-mission-launc
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.6% | 96.4% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.8% | 96.2% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
-- [Will Xi Jinping visit US by October 31?](/odds/will-xi-jinping-visit-us-by-october-31) — 94% YES
-- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
+- [Will an AI lab announce another Millennium Prize solution by December 31, 2026?](/odds/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026) — 44% YES
+- [Will Xi Jinping visit US by October 31?](/odds/will-xi-jinping-visit-us-by-october-31) — 95% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Doge-1 Lunar Mission launch by December 31, 2026?"?
 
-As of September 15, 2026, Polymarket prices YES at 3.6%.
+As of September 16, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

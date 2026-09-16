@@ -4,7 +4,7 @@ description: "Will Marília Campos win the second-most votes in the 2026 Minas G
 marketQuestion: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-15
+lastUpdated: 2026-09-16
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 24.5
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-marilia-campos-win-the-second-
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will Xi Jinping visit US by October 31?](/odds/will-xi-jinping-visit-us-by-october-31) — 94% YES
+- [Will an AI lab announce another Millennium Prize solution by December 31, 2026?](/odds/will-an-ai-lab-announce-another-millennium-prize-solution-by-december-31-2026) — 44% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"?
 
-As of September 15, 2026, Polymarket prices YES at 24.5%.
+As of September 16, 2026, Polymarket prices YES at 24.5%.
 
 ### Where can I trade on this prediction market?
 
