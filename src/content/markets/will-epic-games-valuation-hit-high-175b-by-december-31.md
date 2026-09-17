@@ -1,23 +1,23 @@
 ---
-title: "Will no listed leader be out before 2027?"
-description: "Will no listed leader be out before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will no listed leader be out before 2027?"
+title: "Will Epic Games' valuation hit (HIGH) $17.5B by December 31?"
+description: "Will Epic Games' valuation hit (HIGH) $17.5B by December 31? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Epic Games' valuation hit (HIGH) $17.5B by December 31?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-17
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 99852
-polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before-2027-20260630194627385"
+polymarketYes: 8.5
+polymarketNo: 91.5
+polymarketVolume: 9976
+polymarketUrl: "https://polymarket.com/event/will-epic-games-valuation-hit-high-17pt5b-by-december-31"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will no listed leader be out before 2027?"?
+### What are the current odds for "Will Epic Games' valuation hit (HIGH) $17.5B by December 31?"?
 
-As of September 17, 2026, Polymarket prices YES at 32.5%.
+As of September 17, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

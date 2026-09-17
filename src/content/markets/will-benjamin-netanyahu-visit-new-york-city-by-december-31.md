@@ -1,15 +1,15 @@
 ---
 title: "Will Benjamin Netanyahu visit New York City by December 31?"
-description: "Will Benjamin Netanyahu visit New York City by December 31? Odds: 98.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Benjamin Netanyahu visit New York City by December 31? Odds: 97.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin Netanyahu visit New York City by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-17
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 98.7
-polymarketNo: 1.4
-polymarketVolume: 99437
+polymarketYes: 97.3
+polymarketNo: 2.7
+polymarketVolume: 99487
 polymarketUrl: "https://polymarket.com/event/will-benjamin-netanyahu-visit-new-york-city-by-december-31-20260722053445711-376"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-benjamin-netanyahu-visit-new-y
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.7% | 1.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.3% | 2.7% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-benjamin-netanyahu-visit-new-y
 
 ### What are the current odds for "Will Benjamin Netanyahu visit New York City by December 31?"?
 
-As of September 17, 2026, Polymarket prices YES at 98.7%.
+As of September 17, 2026, Polymarket prices YES at 97.3%.
 
 ### Where can I trade on this prediction market?
 

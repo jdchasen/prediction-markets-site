@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the FL-16 House seat?"
-description: "Will the Republican Party win the FL-16 House seat? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the FL-16 House seat? Odds: 84.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the FL-16 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 83.5
-polymarketNo: 16.5
+polymarketYes: 84.0
+polymarketNo: 16.0
 polymarketVolume: 9936
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-fl-16-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 84.0% | 16.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 
 ### What are the current odds for "Will the Republican Party win the FL-16 House seat?"?
 
-As of September 17, 2026, Polymarket prices YES at 83.5%.
+As of September 17, 2026, Polymarket prices YES at 84.0%.
 
 ### Where can I trade on this prediction market?
 

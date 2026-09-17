@@ -3,7 +3,7 @@ title: "W15 Sao Luis, Main Draw: Completed Match: Leticia Garcia Vidal vs sofia 
 description: "W15 Sao Luis, Main Draw: Completed Match: Leticia Garcia Vidal vs sofia omati albieri Odds: 50.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "W15 Sao Luis, Main Draw: Completed Match: Leticia Garcia Vidal vs sofia omati albieri"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-17
 expiryDate: 2026-09-24
 tags: ["ai", "politics", "polymarket"]

@@ -1,23 +1,23 @@
 ---
-title: "Will no listed leader be out before 2027?"
-description: "Will no listed leader be out before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will no listed leader be out before 2027?"
+title: "Will the Democratic Party win the FL-15 House seat?"
+description: "Will the Democratic Party win the FL-15 House seat? Odds: 9.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will the Democratic Party win the FL-15 House seat?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-17
-expiryDate: 2027-01-01
+expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 99852
-polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before-2027-20260630194627385"
+polymarketYes: 9.4
+polymarketNo: 90.6
+polymarketVolume: 9940
+polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-fl-15-house-seat"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.4% | 90.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will no listed leader be out before 2027?"?
+### What are the current odds for "Will the Democratic Party win the FL-15 House seat?"?
 
-As of September 17, 2026, Polymarket prices YES at 32.5%.
+As of September 17, 2026, Polymarket prices YES at 9.4%.
 
 ### Where can I trade on this prediction market?
 

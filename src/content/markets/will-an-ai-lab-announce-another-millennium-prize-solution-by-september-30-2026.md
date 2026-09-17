@@ -1,23 +1,23 @@
 ---
-title: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
-description: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season? Odds: 97.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"
+title: "Will an AI lab announce another Millennium Prize solution by September 30, 2026?"
+description: "Will an AI lab announce another Millennium Prize solution by September 30, 2026? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will an AI lab announce another Millennium Prize solution by September 30, 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-17
-expiryDate: 2026-09-24
-tags: ["politics", "polymarket", "sports"]
-polymarketYes: 97.0
-polymarketNo: 2.9
-polymarketVolume: 9951
-polymarketUrl: "https://polymarket.com/event/will-angel-reese-have-the-highest-rebounds-per-game-in-the-wnba-2026-regular-season"
+expiryDate: 2026-10-01
+tags: ["ai", "politics", "polymarket"]
+polymarketYes: 20.0
+polymarketNo: 80.0
+polymarketVolume: 99601
+polymarketUrl: "https://polymarket.com/event/will-an-ai-lab-announce-another-millennium-prize-solution-by-september-30-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.0% | 2.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 20.0% | 80.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-angel-reese-have-the-highest-r
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Angel Reese have the highest rebounds per game in the WNBA 2026 regular season?"?
+### What are the current odds for "Will an AI lab announce another Millennium Prize solution by September 30, 2026?"?
 
-As of September 17, 2026, Polymarket prices YES at 97.0%.
+As of September 17, 2026, Polymarket prices YES at 20.0%.
 
 ### Where can I trade on this prediction market?
 

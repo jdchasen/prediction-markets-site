@@ -1,13 +1,13 @@
 ---
 title: "Will Israeli forces withdraw from beyond the Litani River by September 30?"
-description: "Will Israeli forces withdraw from beyond the Litani River by September 30? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Israeli forces withdraw from beyond the Litani River by September 30? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israeli forces withdraw from beyond the Litani River by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-17
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
+polymarketYes: 0.6
 polymarketNo: 99.4
 polymarketVolume: 9959
 polymarketUrl: "https://polymarket.com/event/will-israeli-forces-withdraw-from-beyond-the-litani-river-by-september-30"
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-israeli-forces-withdraw-from-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.6% | 99.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-israeli-forces-withdraw-from-b
 
 ### What are the current odds for "Will Israeli forces withdraw from beyond the Litani River by September 30?"?
 
-As of September 17, 2026, Polymarket prices YES at 0.7%.
+As of September 17, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

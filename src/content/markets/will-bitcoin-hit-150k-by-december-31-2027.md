@@ -3,7 +3,7 @@ title: "Will Bitcoin hit $150k by December 31, 2027?"
 description: "Will Bitcoin hit $150k by December 31, 2027? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin hit $150k by December 31, 2027?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-17
 expiryDate: 2028-01-01
 tags: ["bitcoin", "crypto", "polymarket"]

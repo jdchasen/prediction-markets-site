@@ -3,7 +3,7 @@ title: "Will any Portuguese city host the final of the 2030 FIFA World Cup?"
 description: "Will any Portuguese city host the final of the 2030 FIFA World Cup? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any Portuguese city host the final of the 2030 FIFA World Cup?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-17
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

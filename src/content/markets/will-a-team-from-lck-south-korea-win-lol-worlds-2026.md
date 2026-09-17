@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 69.5
 polymarketNo: 30.5
-polymarketVolume: 99610
+polymarketVolume: 99612
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-lck-south-korea-win-lol-worlds-2026-115"
 ---
 

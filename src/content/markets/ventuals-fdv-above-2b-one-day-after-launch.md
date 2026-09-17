@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/ventuals-fdv-above-2b-one-day-after
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
-- [Will Bitcoin hit $150k by December 31, 2027?](/odds/will-bitcoin-hit-150k-by-december-31-2027) — 32% YES
 - [Will Symbiotic launch a token by December 31, 2026?](/odds/will-symbiotic-launch-a-token-by-december-31-2026) — 4% YES
 
 ## Frequently Asked Questions

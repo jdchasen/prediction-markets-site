@@ -1,14 +1,14 @@
 ---
 title: "Will Grüne win 30-34 seats in the 2026 Berlin state elections?"
-description: "Will Grüne win 30-34 seats in the 2026 Berlin state elections? Odds: 45.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Grüne win 30-34 seats in the 2026 Berlin state elections? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grüne win 30-34 seats in the 2026 Berlin state elections?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-17
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 45.0
-polymarketNo: 55.0
+polymarketYes: 44.0
+polymarketNo: 56.0
 polymarketVolume: 9975
 polymarketUrl: "https://polymarket.com/event/will-grune-win-30-34-seats-in-the-2026-berlin-state-elections-20260807121923607"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-grune-win-30-34-seats-in-the-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.0% | 55.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-grune-win-30-34-seats-in-the-2
 
 ### What are the current odds for "Will Grüne win 30-34 seats in the 2026 Berlin state elections?"?
 
-As of September 17, 2026, Polymarket prices YES at 45.0%.
+As of September 17, 2026, Polymarket prices YES at 44.0%.
 
 ### Where can I trade on this prediction market?
 

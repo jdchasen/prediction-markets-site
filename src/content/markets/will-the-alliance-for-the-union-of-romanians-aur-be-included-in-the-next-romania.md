@@ -1,23 +1,22 @@
 ---
-title: "Will no listed leader be out before 2027?"
-description: "Will no listed leader be out before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will no listed leader be out before 2027?"
+title: "Will the Alliance for the Union of Romanians (AUR) be included in the next Romanian government?"
+description: "Will the Alliance for the Union of Romanians (AUR) be included in the next Romanian government? Odds: 44.0% YES on Polymarket. See live prices and trade this..."
+marketQuestion: "Will the Alliance for the Union of Romanians (AUR) be included in the next Romanian government?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-17
-expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 99852
-polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before-2027-20260630194627385"
+polymarketYes: 44.0
+polymarketNo: 56.0
+polymarketVolume: 9981
+polymarketUrl: "https://polymarket.com/event/will-the-alliance-for-the-union-of-romanians-aur-be-included-in-the-next-romanian-government"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 44.0% | 56.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +26,9 @@ polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will no listed leader be out before 2027?"?
+### What are the current odds for "Will the Alliance for the Union of Romanians (AUR) be included in the next Romanian government?"?
 
-As of September 17, 2026, Polymarket prices YES at 32.5%.
+As of September 17, 2026, Polymarket prices YES at 44.0%.
 
 ### Where can I trade on this prediction market?
 

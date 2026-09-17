@@ -1,23 +1,23 @@
 ---
-title: "Will no listed leader be out before 2027?"
-description: "Will no listed leader be out before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will no listed leader be out before 2027?"
+title: "Will London have less than 30mm of precipitation in September?"
+description: "Will London have less than 30mm of precipitation in September? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will London have less than 30mm of precipitation in September?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-09-17
-expiryDate: 2027-01-01
+expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 99852
-polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before-2027-20260630194627385"
+polymarketYes: 67.5
+polymarketNo: 32.5
+polymarketVolume: 9953
+polymarketUrl: "https://polymarket.com/event/will-london-have-less-than-30mm-of-precipitation-in-september"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 67.5% | 32.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will no listed leader be out before 2027?"?
+### What are the current odds for "Will London have less than 30mm of precipitation in September?"?
 
-As of September 17, 2026, Polymarket prices YES at 32.5%.
+As of September 17, 2026, Polymarket prices YES at 67.5%.
 
 ### Where can I trade on this prediction market?
 

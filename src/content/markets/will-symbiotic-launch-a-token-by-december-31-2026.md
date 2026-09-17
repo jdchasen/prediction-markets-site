@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-symbiotic-launch-a-token-by-de
 ## Related Markets
 
 - [Will Loopscale launch a token by December 31, 2026?](/odds/will-loopscale-launch-a-token-by-december-31-2026) — 13% YES
-- [Will Bitcoin hit $150k by December 31, 2027?](/odds/will-bitcoin-hit-150k-by-december-31-2027) — 32% YES
 - [Ventuals FDV above $2B one day after launch?](/odds/ventuals-fdv-above-2b-one-day-after-launch) — 2% YES
 
 ## Frequently Asked Questions
