@@ -4,7 +4,7 @@ description: "Will the Republican Party win the FL-16 House seat? Odds: 83.5% YE
 marketQuestion: "Will the Republican Party win the FL-16 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-16
+lastUpdated: 2026-09-17
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 83.5
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-f
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
+- [Will Avengers: Doomsday be the top grossing movie of 2026?](/odds/will-avengers-doomsday-be-the-top-grossing-movie-of-2026) — 4% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the FL-16 House seat?"?
 
-As of September 16, 2026, Polymarket prices YES at 83.5%.
+As of September 17, 2026, Polymarket prices YES at 83.5%.
 
 ### Where can I trade on this prediction market?
 

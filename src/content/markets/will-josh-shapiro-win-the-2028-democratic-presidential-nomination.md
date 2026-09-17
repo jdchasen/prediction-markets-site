@@ -4,12 +4,12 @@ description: "Will Josh Shapiro win the 2028 Democratic presidential nomination?
 marketQuestion: "Will Josh Shapiro win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-16
+lastUpdated: 2026-09-17
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 6.3
 polymarketNo: 93.7
-polymarketVolume: 9964722
+polymarketVolume: 9964731
 polymarketUrl: "https://polymarket.com/event/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977"
 ---
 
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-josh-shapiro-win-the-2028-demo
 
 ## Related Markets
 
+- [Will Avengers: Doomsday be the top grossing movie of 2026?](/odds/will-avengers-doomsday-be-the-top-grossing-movie-of-2026) — 4% YES
 - [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
 - [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Josh Shapiro win the 2028 Democratic presidential nomination?"?
 
-As of September 16, 2026, Polymarket prices YES at 6.3%.
+As of September 17, 2026, Polymarket prices YES at 6.3%.
 
 ### Where can I trade on this prediction market?
 

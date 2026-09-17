@@ -3,8 +3,8 @@ title: "Bank of Japan decreases interest rates by 25 bps after the October 2026 
 description: "Bank of Japan decreases interest rates by 25 bps after the October 2026 meeting? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bank of Japan decreases interest rates by 25 bps after the October 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-16
+status: "settled"
+lastUpdated: 2026-09-17
 expiryDate: 2026-10-30
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 0.3

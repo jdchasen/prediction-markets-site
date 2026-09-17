@@ -1,23 +1,23 @@
 ---
-title: "Will no listed leader be out before 2027?"
-description: "Will no listed leader be out before 2027? Odds: 32.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will no listed leader be out before 2027?"
+title: "Will the total domestic gross for Spider-Man: Brand New Day be at least 970m by September 30?"
+description: "Will the total domestic gross for Spider-Man: Brand New Day be at least 970m by September 30? Odds: 0.4% YES on Polymarket. See live prices and trade this ma..."
+marketQuestion: "Will the total domestic gross for Spider-Man: Brand New Day be at least 970m by September 30?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-17
-expiryDate: 2027-01-01
+expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
-polymarketVolume: 99852
-polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before-2027-20260630194627385"
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 99665
+polymarketUrl: "https://polymarket.com/event/will-the-total-domestic-gross-for-spider-man-brand-new-day-be-at-least-970m-by-september-30"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-no-listed-leader-be-out-before
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will no listed leader be out before 2027?"?
+### What are the current odds for "Will the total domestic gross for Spider-Man: Brand New Day be at least 970m by September 30?"?
 
-As of September 17, 2026, Polymarket prices YES at 32.5%.
+As of September 17, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

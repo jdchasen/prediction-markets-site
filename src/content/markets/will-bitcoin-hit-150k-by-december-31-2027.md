@@ -1,14 +1,14 @@
 ---
 title: "Will Bitcoin hit $150k by December 31, 2027?"
-description: "Will Bitcoin hit $150k by December 31, 2027? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Bitcoin hit $150k by December 31, 2027? Odds: 31.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin hit $150k by December 31, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-09-16
+lastUpdated: 2026-09-17
 expiryDate: 2028-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
-polymarketYes: 29.0
-polymarketNo: 71.0
+polymarketYes: 31.5
+polymarketNo: 68.5
 polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-hit-150k-by-december-31-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-hit-150k-by-december-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.5% | 68.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-hit-150k-by-december-3
 
 ### What are the current odds for "Will Bitcoin hit $150k by December 31, 2027?"?
 
-As of September 16, 2026, Polymarket prices YES at 29.0%.
+As of September 17, 2026, Polymarket prices YES at 31.5%.
 
 ### Where can I trade on this prediction market?
 

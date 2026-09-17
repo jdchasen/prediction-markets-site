@@ -3,8 +3,8 @@ title: "Will Canva's valuation hit (HIGH) $45B by December 31?"
 description: "Will Canva's valuation hit (HIGH) $45B by December 31? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canva's valuation hit (HIGH) $45B by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-16
+status: "settled"
+lastUpdated: 2026-09-17
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 5.0

@@ -1,35 +1,35 @@
 ---
-title: "Will the Doge-1 Lunar Mission launch by December 31, 2026?"
-description: "Will the Doge-1 Lunar Mission launch by December 31, 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will the Doge-1 Lunar Mission launch by December 31, 2026?"
+title: "Will a team from LCK (South Korea) win LoL Worlds 2026?"
+description: "Will a team from LCK (South Korea) win LoL Worlds 2026? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will a team from LCK (South Korea) win LoL Worlds 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-17
-expiryDate: 2027-01-01
+expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.9
-polymarketNo: 96.2
-polymarketVolume: 993662
-polymarketUrl: "https://polymarket.com/event/will-the-doge-1-lunar-mission-launch-before-2027"
+polymarketYes: 69.5
+polymarketNo: 30.5
+polymarketVolume: 99610
+polymarketUrl: "https://polymarket.com/event/will-a-team-from-lck-south-korea-win-lol-worlds-2026-115"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.9% | 96.2% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.5% | 30.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
 - [Will Avengers: Doomsday be the top grossing movie of 2026?](/odds/will-avengers-doomsday-be-the-top-grossing-movie-of-2026) — 4% YES
-- [Will no listed leader be out before 2027?](/odds/will-no-listed-leader-be-out-before-2027) — 32% YES
+- [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Doge-1 Lunar Mission launch by December 31, 2026?"?
+### What are the current odds for "Will a team from LCK (South Korea) win LoL Worlds 2026?"?
 
-As of September 17, 2026, Polymarket prices YES at 3.9%.
+As of September 17, 2026, Polymarket prices YES at 69.5%.
 
 ### Where can I trade on this prediction market?
 

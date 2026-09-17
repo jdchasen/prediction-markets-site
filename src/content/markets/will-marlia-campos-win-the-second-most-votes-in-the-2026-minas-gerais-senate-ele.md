@@ -3,8 +3,8 @@ title: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais 
 description: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-16
+status: "settled"
+lastUpdated: 2026-09-17
 expiryDate: 2026-10-04
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 21.0

@@ -3,8 +3,8 @@ title: "Will OpenAI be the third-best Math AI lab at the end of September 2026?"
 description: "Will OpenAI be the third-best Math AI lab at the end of September 2026? Odds: 4.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI be the third-best Math AI lab at the end of September 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-16
+status: "settled"
+lastUpdated: 2026-09-17
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 4.2
