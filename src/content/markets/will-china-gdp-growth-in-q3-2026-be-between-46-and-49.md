@@ -3,7 +3,7 @@ title: "Will China GDP growth in Q3 2026 be between 4.6% and 4.9%?"
 description: "Will China GDP growth in Q3 2026 be between 4.6% and 4.9%? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q3 2026 be between 4.6% and 4.9%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-18
 expiryDate: 2026-10-20
 tags: ["economics", "polymarket"]

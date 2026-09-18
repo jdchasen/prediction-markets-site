@@ -3,7 +3,7 @@ title: "Will a team from LCK (South Korea) win LoL Worlds 2026?"
 description: "Will a team from LCK (South Korea) win LoL Worlds 2026? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from LCK (South Korea) win LoL Worlds 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -21,8 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 
 ## Related Markets
 
-- [Will a team from LCK (South Korea) win LoL Worlds 2026?](/odds/will-a-team-from-lck-south-korea-win-lol-worlds-2026) — 70% YES
-- [Will the Republican Party win the NY-17 House seat?](/odds/will-the-republican-party-win-the-ny-17-house-seat) — 34% YES
+- [Will the Republican Party win the AR-03 House seat?](/odds/will-the-republican-party-win-the-ar-03-house-seat) — 95% YES
 
 ## Frequently Asked Questions
 

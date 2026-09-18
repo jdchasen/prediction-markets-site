@@ -3,7 +3,7 @@ title: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
 description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-18
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
