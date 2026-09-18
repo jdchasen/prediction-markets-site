@@ -3,8 +3,8 @@ title: "Will Anthropic IPO by September 30, 2026?"
 description: "Will Anthropic IPO by September 30, 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic IPO by September 30, 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2027-07-01
 tags: ["finance", "polymarket"]
 polymarketYes: 0.7

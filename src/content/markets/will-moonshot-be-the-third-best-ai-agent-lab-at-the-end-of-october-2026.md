@@ -3,8 +3,8 @@ title: "Will Moonshot be the third-best AI Agent Lab at the end of October 2026?
 description: "Will Moonshot be the third-best AI Agent Lab at the end of October 2026? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Moonshot be the third-best AI Agent Lab at the end of October 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 41.5

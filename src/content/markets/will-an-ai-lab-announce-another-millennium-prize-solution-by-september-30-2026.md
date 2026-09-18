@@ -3,8 +3,8 @@ title: "Will an AI lab announce another Millennium Prize solution by September 3
 description: "Will an AI lab announce another Millennium Prize solution by September 30, 2026? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will an AI lab announce another Millennium Prize solution by September 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2026-10-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 20.0

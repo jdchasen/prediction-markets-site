@@ -3,8 +3,8 @@ title: "Will the Alliance for the Union of Romanians (AUR) be included in the ne
 description: "Will the Alliance for the Union of Romanians (AUR) be included in the next Romanian government? Odds: 44.0% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will the Alliance for the Union of Romanians (AUR) be included in the next Romanian government?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 tags: ["politics", "polymarket"]
 polymarketYes: 44.0
 polymarketNo: 56.0

@@ -3,8 +3,8 @@ title: "Will Nolan McLean win the 2026 NL Rookie of the Year award?"
 description: "Will Nolan McLean win the 2026 NL Rookie of the Year award? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nolan McLean win the 2026 NL Rookie of the Year award?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2026-12-19
 tags: ["polymarket", "sports"]
 polymarketYes: 0.7

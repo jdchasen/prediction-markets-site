@@ -3,8 +3,8 @@ title: "Will Grüne win 30-34 seats in the 2026 Berlin state elections?"
 description: "Will Grüne win 30-34 seats in the 2026 Berlin state elections? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grüne win 30-34 seats in the 2026 Berlin state elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2026-09-20
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 44.0

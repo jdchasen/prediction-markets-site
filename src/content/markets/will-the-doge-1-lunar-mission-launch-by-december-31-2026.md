@@ -3,8 +3,8 @@ title: "Will the Doge-1 Lunar Mission launch by December 31, 2026?"
 description: "Will the Doge-1 Lunar Mission launch by December 31, 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Doge-1 Lunar Mission launch by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.0

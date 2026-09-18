@@ -3,8 +3,8 @@ title: "Will London have less than 30mm of precipitation in September?"
 description: "Will London have less than 30mm of precipitation in September? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will London have less than 30mm of precipitation in September?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2026-09-30
 tags: ["politics", "polymarket"]
 polymarketYes: 67.5

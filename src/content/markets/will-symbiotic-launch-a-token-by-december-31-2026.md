@@ -3,8 +3,8 @@ title: "Will Symbiotic launch a token by December 31, 2026?"
 description: "Will Symbiotic launch a token by December 31, 2026? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Symbiotic launch a token by December 31, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 4.1

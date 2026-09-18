@@ -4,12 +4,12 @@ description: "Will a team from LCK (South Korea) win LoL Worlds 2026? Odds: 69.5
 marketQuestion: "Will a team from LCK (South Korea) win LoL Worlds 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-17
+lastUpdated: 2026-09-18
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 69.5
 polymarketNo: 30.5
-polymarketVolume: 99612
+polymarketVolume: 99907
 polymarketUrl: "https://polymarket.com/event/will-a-team-from-lck-south-korea-win-lol-worlds-2026-115"
 ---
 
@@ -21,15 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-a-team-from-lck-south-korea-wi
 
 ## Related Markets
 
-- [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
-- [Will Avengers: Doomsday be the top grossing movie of 2026?](/odds/will-avengers-doomsday-be-the-top-grossing-movie-of-2026) — 4% YES
-- [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
+- [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
+- [Will the Republican Party win the NY-17 House seat?](/odds/will-the-republican-party-win-the-ny-17-house-seat) — 34% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will a team from LCK (South Korea) win LoL Worlds 2026?"?
 
-As of September 17, 2026, Polymarket prices YES at 69.5%.
+As of September 18, 2026, Polymarket prices YES at 69.5%.
 
 ### Where can I trade on this prediction market?
 

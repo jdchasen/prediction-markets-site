@@ -3,8 +3,8 @@ title: "Will Pakistan recognize Israel by December 31?"
 description: "Will Pakistan recognize Israel by December 31? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pakistan recognize Israel by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

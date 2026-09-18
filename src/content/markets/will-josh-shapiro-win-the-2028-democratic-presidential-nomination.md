@@ -3,8 +3,8 @@ title: "Will Josh Shapiro win the 2028 Democratic presidential nomination?"
 description: "Will Josh Shapiro win the 2028 Democratic presidential nomination? Odds: 6.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Josh Shapiro win the 2028 Democratic presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-17
+status: "settled"
+lastUpdated: 2026-09-18
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
 polymarketYes: 6.3
