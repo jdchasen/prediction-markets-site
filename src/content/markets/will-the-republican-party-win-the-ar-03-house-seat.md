@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 ## Related Markets
 
-- [Will WTI Crude Oil (WTI) hit (HIGH) $125 in September?](/odds/will-wti-crude-oil-wti-hit-high-125-in-september) — 2% YES
-- [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
-- [Will the next Prime Minister of Romania be a technocrat?](/odds/will-the-next-prime-minister-of-romania-be-a-technocrat) — 31% YES
+- [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 7% YES
+- [Will the next Prime Minister of Romania be a technocrat?](/odds/will-the-next-prime-minister-of-romania-be-a-technocrat) — 36% YES
 
 ## Frequently Asked Questions
 

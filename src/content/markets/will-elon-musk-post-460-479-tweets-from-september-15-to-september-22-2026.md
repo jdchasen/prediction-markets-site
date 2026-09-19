@@ -3,7 +3,7 @@ title: "Will Elon Musk post 460-479 tweets from September 15 to September 22, 20
 description: "Will Elon Musk post 460-479 tweets from September 15 to September 22, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 460-479 tweets from September 15 to September 22, 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-19
 expiryDate: 2026-09-22
 tags: ["polymarket", "tech"]

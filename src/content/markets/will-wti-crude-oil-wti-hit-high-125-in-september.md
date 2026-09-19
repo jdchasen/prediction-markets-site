@@ -3,7 +3,7 @@ title: "Will WTI Crude Oil (WTI) hit (HIGH) $125 in September?"
 description: "Will WTI Crude Oil (WTI) hit (HIGH) $125 in September? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $125 in September?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-19
 expiryDate: 2026-10-01
 tags: ["politics", "polymarket"]
