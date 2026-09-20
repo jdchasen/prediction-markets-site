@@ -1,15 +1,15 @@
 ---
 title: "Will Avengers: Doomsday be the top grossing movie of 2026?"
-description: "Will Avengers: Doomsday be the top grossing movie of 2026? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Avengers: Doomsday be the top grossing movie of 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Avengers: Doomsday be the top grossing movie of 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-09-18
+status: "active"
+lastUpdated: 2026-09-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.1
-polymarketNo: 95.9
-polymarketVolume: 994490
+polymarketYes: 3.9
+polymarketNo: 96.2
+polymarketVolume: 999738
 polymarketUrl: "https://polymarket.com/event/will-avengers-doomsday-be-the-top-grossing-movie-of-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-avengers-doomsday-be-the-top-g
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.1% | 95.9% | $994K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.9% | 96.2% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
-- [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
+- [Will the Republican Party win the AR-03 House seat?](/odds/will-the-republican-party-win-the-ar-03-house-seat) — 95% YES
+- [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Avengers: Doomsday be the top grossing movie of 2026?"?
 
-As of September 17, 2026, Polymarket prices YES at 4.1%.
+As of September 20, 2026, Polymarket prices YES at 3.9%.
 
 ### Where can I trade on this prediction market?
 
