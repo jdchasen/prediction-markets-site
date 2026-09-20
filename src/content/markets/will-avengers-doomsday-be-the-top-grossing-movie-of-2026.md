@@ -3,7 +3,7 @@ title: "Will Avengers: Doomsday be the top grossing movie of 2026?"
 description: "Will Avengers: Doomsday be the top grossing movie of 2026? Odds: 3.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Avengers: Doomsday be the top grossing movie of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

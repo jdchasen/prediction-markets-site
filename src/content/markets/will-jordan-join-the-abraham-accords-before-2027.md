@@ -22,8 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 ## Related Markets
 
 - [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
-- [Will Avengers: Doomsday be the top grossing movie of 2026?](/odds/will-avengers-doomsday-be-the-top-grossing-movie-of-2026) — 4% YES
-- [Will the Republican Party win the AR-03 House seat?](/odds/will-the-republican-party-win-the-ar-03-house-seat) — 95% YES
+- [Will the next Prime Minister of Romania be a technocrat?](/odds/will-the-next-prime-minister-of-romania-be-a-technocrat) — 50% YES
 
 ## Frequently Asked Questions
 

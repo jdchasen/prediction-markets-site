@@ -1,15 +1,15 @@
 ---
 title: "Will Josh Shapiro win the 2028 Democratic presidential nomination?"
-description: "Will Josh Shapiro win the 2028 Democratic presidential nomination? Odds: 6.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Josh Shapiro win the 2028 Democratic presidential nomination? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Josh Shapiro win the 2028 Democratic presidential nomination?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-20
 expiryDate: 2028-11-07
 tags: ["politics", "polymarket"]
-polymarketYes: 6.1
-polymarketNo: 93.9
-polymarketVolume: 9996681
+polymarketYes: 5.9
+polymarketNo: 94.2
+polymarketVolume: 9999307
 polymarketUrl: "https://polymarket.com/event/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977"
 ---
 
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-josh-shapiro-win-the-2028-demo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.1% | 93.9% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.2% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Avengers: Doomsday be the top grossing movie of 2026?](/odds/will-avengers-doomsday-be-the-top-grossing-movie-of-2026) — 4% YES
-- [Will the Republican Party win the AR-03 House seat?](/odds/will-the-republican-party-win-the-ar-03-house-seat) — 95% YES
 - [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
+- [Will the next Prime Minister of Romania be a technocrat?](/odds/will-the-next-prime-minister-of-romania-be-a-technocrat) — 50% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Josh Shapiro win the 2028 Democratic presidential nomination?"?
 
-As of September 20, 2026, Polymarket prices YES at 6.1%.
+As of September 20, 2026, Polymarket prices YES at 5.9%.
 
 ### Where can I trade on this prediction market?
 
