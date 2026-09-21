@@ -1,14 +1,14 @@
 ---
 title: "Will the Republican Party win the AL-06 House seat?"
-description: "Will the Republican Party win the AL-06 House seat? Odds: 95.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the AL-06 House seat? Odds: 96.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the AL-06 House seat?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-21
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
-polymarketYes: 95.9
-polymarketNo: 4.2
+polymarketYes: 96.0
+polymarketNo: 4.0
 polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-al-06-house-seat"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.9% | 4.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 96.0% | 4.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will FC Dallas win the 2026 MLS Cup?](/odds/will-fc-dallas-win-the-2026-mls-cup) — 4% YES
-- [Will Anthony Albanese be the next leader out before 2027?](/odds/will-anthony-albanese-be-the-next-leader-out-before-2027) — 0% YES
 - [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
+- [Will André do Prado win the second-most votes in the 2026 São Paulo Senate election?](/odds/will-andr-do-prado-win-the-second-most-votes-in-the-2026-so-paulo-senate-electio) — 44% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the AL-06 House seat?"?
 
-As of September 21, 2026, Polymarket prices YES at 95.9%.
+As of September 21, 2026, Polymarket prices YES at 96.0%.
 
 ### Where can I trade on this prediction market?
 

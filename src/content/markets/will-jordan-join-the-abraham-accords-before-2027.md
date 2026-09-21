@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 ## Related Markets
 
 - [Will FC Dallas win the 2026 MLS Cup?](/odds/will-fc-dallas-win-the-2026-mls-cup) — 4% YES
-- [Will Anthony Albanese be the next leader out before 2027?](/odds/will-anthony-albanese-be-the-next-leader-out-before-2027) — 0% YES
 - [Will the Republican Party win the AL-06 House seat?](/odds/will-the-republican-party-win-the-al-06-house-seat) — 96% YES
+- [Will André do Prado win the second-most votes in the 2026 São Paulo Senate election?](/odds/will-andr-do-prado-win-the-second-most-votes-in-the-2026-so-paulo-senate-electio) — 44% YES
 
 ## Frequently Asked Questions
 

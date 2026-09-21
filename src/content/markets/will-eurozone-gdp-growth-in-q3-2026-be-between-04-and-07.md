@@ -1,14 +1,14 @@
 ---
 title: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
-description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%? Odds: 14.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-09-21
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
-polymarketYes: 13.6
-polymarketNo: 86.5
+polymarketYes: 14.2
+polymarketNo: 85.8
 polymarketVolume: 9978
 polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026-be-between-0pt4-and-0pt7-20260731151541471"
 ---
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.6% | 86.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.2% | 85.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will China’s CPI increase by between 0.7% and 0.8% over the 12 month period ending in September 2026?](/odds/will-chinas-cpi-increase-by-between-07-and-08-over-the-12-month-period-ending-in) — 42% YES
+- [Will Germany GDP growth in Q3 2026 be at least 1.3%?](/odds/will-germany-gdp-growth-in-q3-2026-be-at-least-13) — 30% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?"?
 
-As of September 21, 2026, Polymarket prices YES at 13.6%.
+As of September 21, 2026, Polymarket prices YES at 14.2%.
 
 ### Where can I trade on this prediction market?
 
