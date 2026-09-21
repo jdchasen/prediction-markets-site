@@ -1,15 +1,15 @@
 ---
 title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
-description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia? Odds: 98.0% YES on Polymarket. See live prices and trade thi..."
+description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia? Odds: 97.5% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-09-18
+status: "active"
+lastUpdated: 2026-09-21
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 98.0
-polymarketNo: 2.1
-polymarketVolume: 9928
+polymarketYes: 97.5
+polymarketNo: 2.5
+polymarketVolume: 9973
 polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-rondonia"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.0% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.5% | 2.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Josh Shapiro win the 2028 Democratic presidential nomination?](/odds/will-josh-shapiro-win-the-2028-democratic-presidential-nomination) — 6% YES
-- [Will Avengers: Doomsday be the top grossing movie of 2026?](/odds/will-avengers-doomsday-be-the-top-grossing-movie-of-2026) — 4% YES
-- [Will the Doge-1 Lunar Mission launch by December 31, 2026?](/odds/will-the-doge-1-lunar-mission-launch-by-december-31-2026) — 4% YES
+- [Will FC Dallas win the 2026 MLS Cup?](/odds/will-fc-dallas-win-the-2026-mls-cup) — 4% YES
+- [Will Anthony Albanese be the next leader out before 2027?](/odds/will-anthony-albanese-be-the-next-leader-out-before-2027) — 0% YES
+- [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Rondônia?"?
 
-As of September 17, 2026, Polymarket prices YES at 98.0%.
+As of September 21, 2026, Polymarket prices YES at 97.5%.
 
 ### Where can I trade on this prediction market?
 

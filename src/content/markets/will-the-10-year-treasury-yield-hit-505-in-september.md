@@ -3,8 +3,8 @@ title: "Will the 10-year Treasury yield hit 5.05% in September?"
 description: "Will the 10-year Treasury yield hit 5.05% in September? Odds: 75.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 10-year Treasury yield hit 5.05% in September?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-20
+status: "settled"
+lastUpdated: 2026-09-21
 expiryDate: 2026-09-30
 tags: ["economics", "polymarket"]
 polymarketYes: 75.5

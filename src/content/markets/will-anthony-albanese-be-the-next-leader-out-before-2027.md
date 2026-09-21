@@ -1,35 +1,35 @@
 ---
-title: "Will Jordan join the Abraham Accords before 2027?"
-description: "Will Jordan join the Abraham Accords before 2027? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Jordan join the Abraham Accords before 2027?"
+title: "Will Anthony Albanese be the next leader out before 2027?"
+description: "Will Anthony Albanese be the next leader out before 2027? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Anthony Albanese be the next leader out before 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-21
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 6.5
-polymarketNo: 93.5
-polymarketVolume: 9993
-polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accords-before-2027"
+polymarketYes: 0.4
+polymarketNo: 99.7
+polymarketVolume: 9995
+polymarketUrl: "https://polymarket.com/event/will-anthony-albanese-be-the-next-leader-out-before-2027-20260630194627369"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will FC Dallas win the 2026 MLS Cup?](/odds/will-fc-dallas-win-the-2026-mls-cup) — 4% YES
-- [Will Anthony Albanese be the next leader out before 2027?](/odds/will-anthony-albanese-be-the-next-leader-out-before-2027) — 0% YES
+- [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
 - [Will the Republican Party win the AL-06 House seat?](/odds/will-the-republican-party-win-the-al-06-house-seat) — 96% YES
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Jordan join the Abraham Accords before 2027?"?
+### What are the current odds for "Will Anthony Albanese be the next leader out before 2027?"?
 
-As of September 21, 2026, Polymarket prices YES at 6.5%.
+As of September 21, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

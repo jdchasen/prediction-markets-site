@@ -3,8 +3,8 @@ title: "Will the next Prime Minister of Romania be a technocrat?"
 description: "Will the next Prime Minister of Romania be a technocrat? Odds: 50.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Prime Minister of Romania be a technocrat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-20
+status: "settled"
+lastUpdated: 2026-09-21
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 50.1
