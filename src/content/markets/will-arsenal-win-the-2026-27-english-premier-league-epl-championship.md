@@ -9,7 +9,7 @@ expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 48.5
 polymarketNo: 51.5
-polymarketVolume: 999117
+polymarketVolume: 999128
 polymarketUrl: "https://polymarket.com/event/will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750"
 ---
 

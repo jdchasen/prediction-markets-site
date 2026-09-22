@@ -1,23 +1,23 @@
 ---
-title: "Will Bryan Paterson win the 2026 Kingston mayoral election?"
-description: "Will Bryan Paterson win the 2026 Kingston mayoral election? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
-marketQuestion: "Will Bryan Paterson win the 2026 Kingston mayoral election?"
+title: "Will Zcash dip to $700 by December 31, 2026?"
+description: "Will Zcash dip to $700 by December 31, 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Zcash dip to $700 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-09-22
-expiryDate: 2027-07-01
-tags: ["elections", "politics", "polymarket"]
-polymarketYes: 80.0
-polymarketNo: 20.0
-polymarketVolume: 9985
-polymarketUrl: "https://polymarket.com/event/will-bryan-paterson-win-the-2026-kingston-mayoral-election"
+expiryDate: 2027-01-01
+tags: ["politics", "polymarket"]
+polymarketYes: 29.0
+polymarketNo: 71.0
+polymarketVolume: 9999
+polymarketUrl: "https://polymarket.com/event/will-zcash-dip-to-700-by-december-31-2026"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 80.0% | 20.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.0% | 71.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,9 +27,9 @@ polymarketUrl: "https://polymarket.com/event/will-bryan-paterson-win-the-2026-ki
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will Bryan Paterson win the 2026 Kingston mayoral election?"?
+### What are the current odds for "Will Zcash dip to $700 by December 31, 2026?"?
 
-As of September 22, 2026, Polymarket prices YES at 80.0%.
+As of September 22, 2026, Polymarket prices YES at 29.0%.
 
 ### Where can I trade on this prediction market?
 

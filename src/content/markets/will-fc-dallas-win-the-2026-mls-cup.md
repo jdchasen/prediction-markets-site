@@ -3,7 +3,7 @@ title: "Will FC Dallas win the 2026 MLS Cup?"
 description: "Will FC Dallas win the 2026 MLS Cup? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will FC Dallas win the 2026 MLS Cup?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-22
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
