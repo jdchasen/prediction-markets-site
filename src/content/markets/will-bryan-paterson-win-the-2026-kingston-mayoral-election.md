@@ -1,14 +1,14 @@
 ---
 title: "Will Bryan Paterson win the 2026 Kingston mayoral election?"
-description: "Will Bryan Paterson win the 2026 Kingston mayoral election? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Bryan Paterson win the 2026 Kingston mayoral election? Odds: 83.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bryan Paterson win the 2026 Kingston mayoral election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-21
+lastUpdated: 2026-09-22
 expiryDate: 2027-07-01
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 83.0
-polymarketNo: 17.0
+polymarketYes: 83.5
+polymarketNo: 16.5
 polymarketVolume: 9985
 polymarketUrl: "https://polymarket.com/event/will-bryan-paterson-win-the-2026-kingston-mayoral-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bryan-paterson-win-the-2026-ki
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will FC Dallas win the 2026 MLS Cup?](/odds/will-fc-dallas-win-the-2026-mls-cup) — 4% YES
-- [Will Jordan join the Abraham Accords before 2027?](/odds/will-jordan-join-the-abraham-accords-before-2027) — 6% YES
-- [Will the Republican Party win the AL-06 House seat?](/odds/will-the-republican-party-win-the-al-06-house-seat) — 96% YES
+- [Trump renames Strait of Hormuz to "Strait of Trump" by December 31?](/odds/trump-renames-strait-of-hormuz-to-strait-of-trump-by-december-31) — 4% YES
+- [Will Benjamin Netanyahu visit New York City by December 31?](/odds/will-benjamin-netanyahu-visit-new-york-city-by-december-31) — 97% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bryan Paterson win the 2026 Kingston mayoral election?"?
 
-As of September 21, 2026, Polymarket prices YES at 83.0%.
+As of September 22, 2026, Polymarket prices YES at 83.5%.
 
 ### Where can I trade on this prediction market?
 

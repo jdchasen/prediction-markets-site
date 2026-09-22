@@ -3,8 +3,8 @@ title: "Will André do Prado win the second-most votes in the 2026 São Paulo Se
 description: "Will André do Prado win the second-most votes in the 2026 São Paulo Senate election? Odds: 43.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will André do Prado win the second-most votes in the 2026 São Paulo Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-21
+status: "settled"
+lastUpdated: 2026-09-22
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 43.8

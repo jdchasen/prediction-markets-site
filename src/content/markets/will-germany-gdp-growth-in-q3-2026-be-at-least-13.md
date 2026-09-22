@@ -3,8 +3,8 @@ title: "Will Germany GDP growth in Q3 2026 be at least 1.3%?"
 description: "Will Germany GDP growth in Q3 2026 be at least 1.3%? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Germany GDP growth in Q3 2026 be at least 1.3%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-21
+status: "settled"
+lastUpdated: 2026-09-22
 expiryDate: 2026-10-30
 tags: ["economics", "polymarket"]
 polymarketYes: 30.5
