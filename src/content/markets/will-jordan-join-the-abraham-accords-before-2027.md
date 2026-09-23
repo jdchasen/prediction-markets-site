@@ -19,11 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 |----------|-----|-----|--------|-------|
 | Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Bryan Paterson win the 2026 Kingston mayoral election?](/odds/will-bryan-paterson-win-the-2026-kingston-mayoral-election) — 80% YES
-- [Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Amazonas?](/odds/will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-electio) — 24% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jordan join the Abraham Accords before 2027?"?

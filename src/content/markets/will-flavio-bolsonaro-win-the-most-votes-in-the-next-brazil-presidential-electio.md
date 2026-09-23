@@ -3,7 +3,7 @@ title: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential
 description: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Amazonas? Odds: 24.0% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Amazonas?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-23
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
