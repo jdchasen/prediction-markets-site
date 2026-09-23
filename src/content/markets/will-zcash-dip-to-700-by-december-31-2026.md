@@ -3,8 +3,8 @@ title: "Will Zcash dip to $700 by December 31, 2026?"
 description: "Will Zcash dip to $700 by December 31, 2026? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Zcash dip to $700 by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-22
+status: "settled"
+lastUpdated: 2026-09-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 29.0

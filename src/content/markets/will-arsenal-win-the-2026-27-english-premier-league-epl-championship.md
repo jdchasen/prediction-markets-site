@@ -3,8 +3,8 @@ title: "Will Arsenal win the 2026-27 English Premier League (EPL) Championship?"
 description: "Will Arsenal win the 2026-27 English Premier League (EPL) Championship? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Arsenal win the 2026-27 English Premier League (EPL) Championship?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-09-22
+status: "settled"
+lastUpdated: 2026-09-23
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 48.5

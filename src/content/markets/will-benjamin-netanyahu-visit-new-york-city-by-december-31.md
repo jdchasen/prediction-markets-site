@@ -3,8 +3,8 @@ title: "Will Benjamin Netanyahu visit New York City by December 31?"
 description: "Will Benjamin Netanyahu visit New York City by December 31? Odds: 97.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Benjamin Netanyahu visit New York City by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-22
+status: "settled"
+lastUpdated: 2026-09-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 97.5

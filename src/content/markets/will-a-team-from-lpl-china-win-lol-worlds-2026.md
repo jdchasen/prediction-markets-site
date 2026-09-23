@@ -3,8 +3,8 @@ title: "Will a team from LPL (China) win LoL Worlds 2026?"
 description: "Will a team from LPL (China) win LoL Worlds 2026? Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a team from LPL (China) win LoL Worlds 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-22
+status: "settled"
+lastUpdated: 2026-09-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 23.5
