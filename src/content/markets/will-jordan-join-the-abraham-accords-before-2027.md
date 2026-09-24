@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 
 ## Related Markets
 
-- [Will Taylor Brown come in third-place on Big Brother season 28?](/odds/will-taylor-brown-come-in-third-place-on-big-brother-season-28) — 18% YES
+- [Iran full airspace closure by October 31, 2026?](/odds/iran-full-airspace-closure-by-october-31-2026) — 10% YES
 
 ## Frequently Asked Questions
 

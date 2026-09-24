@@ -3,7 +3,7 @@ title: "Will Taylor Brown come in third-place on Big Brother season 28?"
 description: "Will Taylor Brown come in third-place on Big Brother season 28? Odds: 17.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Taylor Brown come in third-place on Big Brother season 28?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-24
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
