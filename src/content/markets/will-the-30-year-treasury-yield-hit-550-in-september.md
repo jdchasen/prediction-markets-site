@@ -3,8 +3,8 @@ title: "Will the 30-year Treasury yield hit 5.50% in September?"
 description: "Will the 30-year Treasury yield hit 5.50% in September? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 30-year Treasury yield hit 5.50% in September?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-09-23
+status: "settled"
+lastUpdated: 2026-09-24
 expiryDate: 2026-09-30
 tags: ["economics", "polymarket"]
 polymarketYes: 7.5

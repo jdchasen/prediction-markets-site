@@ -3,8 +3,8 @@ title: "Will LI.FI launch a token by September 30, 2026?"
 description: "Will LI.FI launch a token by September 30, 2026? Odds: 1.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LI.FI launch a token by September 30, 2026?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-09-23
+status: "settled"
+lastUpdated: 2026-09-24
 expiryDate: 2026-10-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 1.0
