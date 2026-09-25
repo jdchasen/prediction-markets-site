@@ -3,7 +3,7 @@ title: "Will the Bank of Canada increase the target for the overnight rate by 25
 description: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement? Odds: 30.5% YES on Polymarket. See l..."
 marketQuestion: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-25
 expiryDate: 2026-12-09
 tags: ["economics", "interest-rates", "polymarket"]

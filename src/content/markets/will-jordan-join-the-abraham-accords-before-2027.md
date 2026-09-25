@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 
 ## Related Markets
 
-- [Iran full airspace closure by October 31, 2026?](/odds/iran-full-airspace-closure-by-october-31-2026) — 10% YES
+- [Will Bryan Paterson win the 2026 Kingston mayoral election?](/odds/will-bryan-paterson-win-the-2026-kingston-mayoral-election) — 82% YES
 
 ## Frequently Asked Questions
 

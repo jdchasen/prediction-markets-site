@@ -3,7 +3,7 @@ title: "Iran full airspace closure by October 31, 2026?"
 description: "Iran full airspace closure by October 31, 2026? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iran full airspace closure by October 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-25
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
