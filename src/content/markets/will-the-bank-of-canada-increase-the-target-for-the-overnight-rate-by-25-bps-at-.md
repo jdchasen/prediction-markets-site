@@ -1,34 +1,29 @@
 ---
-title: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement?"
-description: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement? Odds: 0.1% YES on Polymarket. See l..."
-marketQuestion: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement?"
+title: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?"
+description: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement? Odds: 30.5% YES on Polymarket. See l..."
+marketQuestion: "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?"
 category: "economics"
-status: "settled"
-lastUpdated: 2026-08-26
-expiryDate: 2026-09-02
+status: "active"
+lastUpdated: 2026-09-25
+expiryDate: 2026-12-09
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 0.1
-polymarketNo: 99.9
-polymarketVolume: 9710
-polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-september-interest-rate-announcement-20260701223915215"
+polymarketYes: 30.5
+polymarketNo: 69.5
+polymarketVolume: 9870
+polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-december-interest-rate-announcement-20260908230600013"
 ---
 
 ## Current Odds
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [No change in Bank of England’s interest rates after November 2026 meeting?](/odds/no-change-in-bank-of-englands-interest-rates-after-november-2026-meeting) — 78% YES
-- [Will Canada’s 2026 inflation be between 2.5% and 2.9%?](/odds/will-canadas-2026-inflation-be-between-25-and-29) — 30% YES
+| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
-### What are the current odds for "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement?"?
+### What are the current odds for "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?"?
 
-As of August 25, 2026, Polymarket prices YES at 0.1%.
+As of September 25, 2026, Polymarket prices YES at 30.5%.
 
 ### Where can I trade on this prediction market?
 
