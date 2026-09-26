@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 
 ## Related Markets
 
-- [Will Bryan Paterson win the 2026 Kingston mayoral election?](/odds/will-bryan-paterson-win-the-2026-kingston-mayoral-election) — 81% YES
+- [Will Bryan Paterson win the 2026 Kingston mayoral election?](/odds/will-bryan-paterson-win-the-2026-kingston-mayoral-election) — 80% YES
 
 ## Frequently Asked Questions
 
