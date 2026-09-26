@@ -1,14 +1,14 @@
 ---
 title: "Will Bryan Paterson win the 2026 Kingston mayoral election?"
-description: "Will Bryan Paterson win the 2026 Kingston mayoral election? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Bryan Paterson win the 2026 Kingston mayoral election? Odds: 81.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bryan Paterson win the 2026 Kingston mayoral election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-25
+lastUpdated: 2026-09-26
 expiryDate: 2026-10-27
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 82.0
-polymarketNo: 18.0
+polymarketYes: 81.0
+polymarketNo: 19.0
 polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-bryan-paterson-win-the-2026-kingston-mayoral-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-bryan-paterson-win-the-2026-ki
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 82.0% | 18.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.0% | 19.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-bryan-paterson-win-the-2026-ki
 
 ### What are the current odds for "Will Bryan Paterson win the 2026 Kingston mayoral election?"?
 
-As of September 25, 2026, Polymarket prices YES at 82.0%.
+As of September 26, 2026, Polymarket prices YES at 81.0%.
 
 ### Where can I trade on this prediction market?
 
