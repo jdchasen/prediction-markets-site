@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 |----------|-----|-----|--------|-------|
 | Polymarket | 6.5% | 93.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will the Ornn H200 Index be between $4.00 and $4.50 on October 31, 2026?](/odds/will-the-ornn-h200-index-be-between-400-and-450-on-october-31-2026) — 8% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jordan join the Abraham Accords before 2027?"?
