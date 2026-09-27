@@ -1,13 +1,13 @@
 ---
 title: "Will the 5-year Treasury yield dip below 4.10% before 2027?"
-description: "Will the 5-year Treasury yield dip below 4.10% before 2027? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the 5-year Treasury yield dip below 4.10% before 2027? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 5-year Treasury yield dip below 4.10% before 2027?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-09-26
+lastUpdated: 2026-09-27
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
-polymarketYes: 3.0
+polymarketYes: 2.9
 polymarketNo: 97.0
 polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-dip-below-4pt10-before-2027"
@@ -17,13 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-dip-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.0% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will China's annual inflation in 2026 be between 0.1% and 0.5%?](/odds/will-chinas-annual-inflation-in-2026-be-between-01-and-05) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the 5-year Treasury yield dip below 4.10% before 2027?"?
 
-As of September 26, 2026, Polymarket prices YES at 3.0%.
+As of September 27, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 
