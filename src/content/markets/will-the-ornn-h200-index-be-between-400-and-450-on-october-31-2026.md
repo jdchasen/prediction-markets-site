@@ -3,8 +3,8 @@ title: "Will the Ornn H200 Index be between $4.00 and $4.50 on October 31, 2026?
 description: "Will the Ornn H200 Index be between $4.00 and $4.50 on October 31, 2026? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn H200 Index be between $4.00 and $4.50 on October 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-27
+status: "settled"
+lastUpdated: 2026-09-28
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 8.0

@@ -4,7 +4,7 @@ description: "Will Jordan join the Abraham Accords before 2027? Odds: 6.5% YES o
 marketQuestion: "Will Jordan join the Abraham Accords before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-27
+lastUpdated: 2026-09-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 6.5
@@ -21,13 +21,13 @@ polymarketUrl: "https://polymarket.com/event/will-jordan-join-the-abraham-accord
 
 ## Related Markets
 
-- [Will the Ornn H200 Index be between $4.00 and $4.50 on October 31, 2026?](/odds/will-the-ornn-h200-index-be-between-400-and-450-on-october-31-2026) — 8% YES
+- [Will Guilherme Derrite win the second-most votes in the 2026 São Paulo Senate election?](/odds/will-guilherme-derrite-win-the-second-most-votes-in-the-2026-so-paulo-senate-ele) — 18% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jordan join the Abraham Accords before 2027?"?
 
-As of September 27, 2026, Polymarket prices YES at 6.5%.
+As of September 28, 2026, Polymarket prices YES at 6.5%.
 
 ### Where can I trade on this prediction market?
 
