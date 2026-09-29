@@ -3,8 +3,8 @@ title: "Will Guilherme Derrite win the second-most votes in the 2026 São Paulo 
 description: "Will Guilherme Derrite win the second-most votes in the 2026 São Paulo Senate election? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Guilherme Derrite win the second-most votes in the 2026 São Paulo Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-28
+status: "settled"
+lastUpdated: 2026-09-29
 expiryDate: 2026-10-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 18.0
