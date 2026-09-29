@@ -3,7 +3,7 @@ title: "Will any player have 1,750+ receiving yards in the 2026-27 NFL regular s
 description: "Will any player have 1,750+ receiving yards in the 2026-27 NFL regular season? Odds: 38.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any player have 1,750+ receiving yards in the 2026-27 NFL regular season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-29
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]

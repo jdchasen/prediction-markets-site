@@ -3,7 +3,7 @@ title: "Will Jordan join the Abraham Accords before 2027?"
 description: "Will Jordan join the Abraham Accords before 2027? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan join the Abraham Accords before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-09-29
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
