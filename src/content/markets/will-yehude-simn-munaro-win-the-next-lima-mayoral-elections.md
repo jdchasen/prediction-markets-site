@@ -19,6 +19,12 @@ polymarketUrl: "https://polymarket.com/event/will-yehude-simon-munaro-win-the-ne
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Putin and Zelenskyy not meet by December 31, 2027?](/odds/will-putin-and-zelenskyy-not-meet-by-december-31-2027) — 79% YES
+- [Will the Democratic Party win the TX-32 House seat?](/odds/will-the-democratic-party-win-the-tx-32-house-seat) — 10% YES
+- [Will Joao Azevêdo win the most votes in the 2026 Paraíba Senate election?](/odds/will-joao-azevdo-win-the-most-votes-in-the-2026-paraba-senate-election) — 84% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Yehude Simón Munaro win the next Lima mayoral elections?"?
