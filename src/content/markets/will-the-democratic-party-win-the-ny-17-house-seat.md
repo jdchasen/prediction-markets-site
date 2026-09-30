@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the NY-17 House seat?"
 description: "Will the Democratic Party win the NY-17 House seat? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NY-17 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-29
+status: "settled"
+lastUpdated: 2026-09-30
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 64.0
