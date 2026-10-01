@@ -19,11 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-yehude-simon-munaro-win-the-ne
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 99.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will the Reserve Bank of India increase the policy repo rate by 25 bps at the October meeting?](/odds/will-the-reserve-bank-of-india-increase-the-policy-repo-rate-by-25-bps-at-the-oc) — 84% YES
-- [Will Brenda Locke win the 2026 Surrey mayoral election?](/odds/will-brenda-locke-win-the-2026-surrey-mayoral-election) — 70% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Yehude Simón Munaro win the next Lima mayoral elections?"?

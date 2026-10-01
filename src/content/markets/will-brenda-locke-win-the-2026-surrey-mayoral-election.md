@@ -3,7 +3,7 @@ title: "Will Brenda Locke win the 2026 Surrey mayoral election?"
 description: "Will Brenda Locke win the 2026 Surrey mayoral election? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brenda Locke win the 2026 Surrey mayoral election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-01
 expiryDate: 2026-10-18
 tags: ["elections", "politics", "polymarket"]

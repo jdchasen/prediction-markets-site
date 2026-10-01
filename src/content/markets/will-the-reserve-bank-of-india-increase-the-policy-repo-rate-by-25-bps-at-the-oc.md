@@ -3,7 +3,7 @@ title: "Will the Reserve Bank of India increase the policy repo rate by 25 bps a
 description: "Will the Reserve Bank of India increase the policy repo rate by 25 bps at the October meeting? Odds: 84.0% YES on Polymarket. See live prices and trade this ..."
 marketQuestion: "Will the Reserve Bank of India increase the policy repo rate by 25 bps at the October meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-01
 expiryDate: 2026-10-07
 tags: ["politics", "polymarket"]

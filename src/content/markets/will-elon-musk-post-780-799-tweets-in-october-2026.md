@@ -3,7 +3,7 @@ title: "Will Elon Musk post 780-799 tweets in October 2026?"
 description: "Will Elon Musk post 780-799 tweets in October 2026? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 780-799 tweets in October 2026?"
 category: "tech"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-01
 expiryDate: 2026-11-01
 tags: ["polymarket", "tech"]
