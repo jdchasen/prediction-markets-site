@@ -4,7 +4,7 @@ description: "Will Yehude Simón Munaro win the next Lima mayoral elections? Odd
 marketQuestion: "Will Yehude Simón Munaro win the next Lima mayoral elections?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-09-30
+lastUpdated: 2026-10-01
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,14 @@ polymarketUrl: "https://polymarket.com/event/will-yehude-simon-munaro-win-the-ne
 
 ## Related Markets
 
-- [Will Putin and Zelenskyy not meet by December 31, 2027?](/odds/will-putin-and-zelenskyy-not-meet-by-december-31-2027) — 79% YES
-- [Will the Democratic Party win the TX-32 House seat?](/odds/will-the-democratic-party-win-the-tx-32-house-seat) — 10% YES
-- [Will Joao Azevêdo win the most votes in the 2026 Paraíba Senate election?](/odds/will-joao-azevdo-win-the-most-votes-in-the-2026-paraba-senate-election) — 84% YES
+- [Will the Reserve Bank of India increase the policy repo rate by 25 bps at the October meeting?](/odds/will-the-reserve-bank-of-india-increase-the-policy-repo-rate-by-25-bps-at-the-oc) — 84% YES
+- [Will Brenda Locke win the 2026 Surrey mayoral election?](/odds/will-brenda-locke-win-the-2026-surrey-mayoral-election) — 70% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Yehude Simón Munaro win the next Lima mayoral elections?"?
 
-As of September 30, 2026, Polymarket prices YES at 0.1%.
+As of October 01, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

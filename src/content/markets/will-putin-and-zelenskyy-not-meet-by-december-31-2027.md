@@ -3,8 +3,8 @@ title: "Will Putin and Zelenskyy not meet by December 31, 2027?"
 description: "Will Putin and Zelenskyy not meet by December 31, 2027? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Putin and Zelenskyy not meet by December 31, 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-30
+status: "settled"
+lastUpdated: 2026-10-01
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 79.0

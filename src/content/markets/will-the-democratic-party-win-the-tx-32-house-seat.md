@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the TX-32 House seat?"
 description: "Will the Democratic Party win the TX-32 House seat? Odds: 10.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the TX-32 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-30
+status: "settled"
+lastUpdated: 2026-10-01
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 10.2

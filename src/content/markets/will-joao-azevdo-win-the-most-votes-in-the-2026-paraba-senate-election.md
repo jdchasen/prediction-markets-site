@@ -3,8 +3,8 @@ title: "Will Joao Azevêdo win the most votes in the 2026 Paraíba Senate electi
 description: "Will Joao Azevêdo win the most votes in the 2026 Paraíba Senate election? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joao Azevêdo win the most votes in the 2026 Paraíba Senate election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-09-30
+status: "settled"
+lastUpdated: 2026-10-01
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 84.5
