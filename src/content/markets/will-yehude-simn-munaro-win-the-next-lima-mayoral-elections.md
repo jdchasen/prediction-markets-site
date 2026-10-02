@@ -3,8 +3,8 @@ title: "Will Yehude Simón Munaro win the next Lima mayoral elections?"
 description: "Will Yehude Simón Munaro win the next Lima mayoral elections? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yehude Simón Munaro win the next Lima mayoral elections?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-01
+status: "settled"
+lastUpdated: 2026-10-02
 expiryDate: 2026-10-05
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.1
