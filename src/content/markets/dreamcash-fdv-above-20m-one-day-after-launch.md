@@ -1,14 +1,14 @@
 ---
 title: "Dreamcash FDV above $20M one day after launch?"
-description: "Dreamcash FDV above $20M one day after launch? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Dreamcash FDV above $20M one day after launch? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Dreamcash FDV above $20M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-10-02
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
+polymarketYes: 17.0
+polymarketNo: 83.0
 polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/dreamcash-fdv-above-20m-one-day-after-launch"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/dreamcash-fdv-above-20m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 17.0% | 83.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Dreamcash FDV above $20M one day after launch?"?
 
-As of October 02, 2026, Polymarket prices YES at 16.5%.
+As of October 02, 2026, Polymarket prices YES at 17.0%.
 
 ### Where can I trade on this prediction market?
 
