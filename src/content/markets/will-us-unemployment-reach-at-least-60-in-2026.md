@@ -4,7 +4,7 @@ description: "Will US unemployment reach at least 6.0% in 2026? Odds: 0.4% YES o
 marketQuestion: "Will US unemployment reach at least 6.0% in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-10-02
+lastUpdated: 2026-10-03
 expiryDate: 2027-02-01
 tags: ["economics", "polymarket"]
 polymarketYes: 0.4
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-unemployment-reach-at-least
 
 ### What are the current odds for "Will US unemployment reach at least 6.0% in 2026?"?
 
-As of October 02, 2026, Polymarket prices YES at 0.4%.
+As of October 03, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 
