@@ -8,8 +8,8 @@ lastUpdated: 2026-10-03
 expiryDate: 2027-02-01
 tags: ["economics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.7
-polymarketVolume: 99918
+polymarketNo: 99.6
+polymarketVolume: 99919
 polymarketUrl: "https://polymarket.com/event/will-us-unemployment-reach-at-least-6pt0-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-unemployment-reach-at-least
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.7% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 

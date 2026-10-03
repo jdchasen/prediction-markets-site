@@ -3,7 +3,7 @@ title: "Will Parker Messick win the 2026 AL Rookie of the Year award?"
 description: "Will Parker Messick win the 2026 AL Rookie of the Year award? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Parker Messick win the 2026 AL Rookie of the Year award?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-03
 expiryDate: 2027-01-01
 tags: ["polymarket", "sports"]
