@@ -9,7 +9,7 @@ expiryDate: 2027-02-01
 tags: ["economics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.7
-polymarketVolume: 99898
+polymarketVolume: 99918
 polymarketUrl: "https://polymarket.com/event/will-us-unemployment-reach-at-least-6pt0-in-2026"
 ---
 

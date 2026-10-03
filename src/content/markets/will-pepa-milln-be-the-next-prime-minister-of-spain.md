@@ -3,7 +3,7 @@ title: "Will Pepa Millán be the next Prime Minister of Spain?"
 description: "Will Pepa Millán be the next Prime Minister of Spain? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Pepa Millán be the next Prime Minister of Spain?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-03
 expiryDate: 2028-04-01
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Lai Jui-lung win the next Kaohsiung Mayor election?"
 description: "Will Lai Jui-lung win the next Kaohsiung Mayor election? Odds: 67.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lai Jui-lung win the next Kaohsiung Mayor election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-03
 expiryDate: 2026-11-29
 tags: ["ai", "elections", "politics", "polymarket"]
