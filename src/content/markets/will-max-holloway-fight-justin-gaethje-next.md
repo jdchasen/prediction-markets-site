@@ -3,8 +3,8 @@ title: "Will Max Holloway fight Justin Gaethje next?"
 description: "Will Max Holloway fight Justin Gaethje next? Odds: 12.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Max Holloway fight Justin Gaethje next?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-03
+status: "settled"
+lastUpdated: 2026-10-04
 expiryDate: 2027-07-12
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 12.4
