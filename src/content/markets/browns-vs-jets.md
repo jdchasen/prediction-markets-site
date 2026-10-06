@@ -3,7 +3,7 @@ title: "Browns vs. Jets"
 description: "Browns vs. Jets Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Browns vs. Jets"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-06
 expiryDate: 2026-10-11
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Microsoft be the largest company in the world by market cap on Dece
 description: "Will Microsoft be the largest company in the world by market cap on December 31? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft be the largest company in the world by market cap on December 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-06
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
