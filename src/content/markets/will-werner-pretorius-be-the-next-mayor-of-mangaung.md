@@ -3,8 +3,8 @@ title: "Will Werner Pretorius be the next mayor of Mangaung?"
 description: "Will Werner Pretorius be the next mayor of Mangaung? Odds: 40.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Werner Pretorius be the next mayor of Mangaung?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-06
+status: "settled"
+lastUpdated: 2026-10-07
 expiryDate: 2026-11-05
 tags: ["politics", "polymarket"]
 polymarketYes: 40.0

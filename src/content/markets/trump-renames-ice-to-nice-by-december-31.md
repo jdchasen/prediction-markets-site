@@ -4,7 +4,7 @@ description: "Trump renames ICE to NICE by December 31? Odds: 5.5% YES on Polyma
 marketQuestion: "Trump renames ICE to NICE by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-06
+lastUpdated: 2026-10-07
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 5.5
@@ -19,15 +19,11 @@ polymarketUrl: "https://polymarket.com/event/trump-renames-ice-to-nice-by-decemb
 |----------|-----|-----|--------|-------|
 | Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Werner Pretorius be the next mayor of Mangaung?](/odds/will-werner-pretorius-be-the-next-mayor-of-mangaung) — 40% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Trump renames ICE to NICE by December 31?"?
 
-As of October 06, 2026, Polymarket prices YES at 5.5%.
+As of October 07, 2026, Polymarket prices YES at 5.5%.
 
 ### Where can I trade on this prediction market?
 
