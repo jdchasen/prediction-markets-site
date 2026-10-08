@@ -1,14 +1,14 @@
 ---
 title: "Will US unemployment reach at least 6.0% in 2026?"
-description: "Will US unemployment reach at least 6.0% in 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
+description: "Will US unemployment reach at least 6.0% in 2026? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US unemployment reach at least 6.0% in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-10-08
 expiryDate: 2027-02-01
 tags: ["economics", "polymarket"]
-polymarketYes: 0.5
-polymarketNo: 99.5
+polymarketYes: 0.7
+polymarketNo: 99.4
 polymarketVolume: 99937
 polymarketUrl: "https://polymarket.com/event/will-us-unemployment-reach-at-least-6pt0-in-2026"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-us-unemployment-reach-at-least
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.5% | 99.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.7% | 99.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will US unemployment reach at least 6.0% in 2026?"?
 
-As of October 08, 2026, Polymarket prices YES at 0.5%.
+As of October 08, 2026, Polymarket prices YES at 0.7%.
 
 ### Where can I trade on this prediction market?
 
