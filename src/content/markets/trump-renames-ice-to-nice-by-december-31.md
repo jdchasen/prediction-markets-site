@@ -3,8 +3,8 @@ title: "Trump renames ICE to NICE by December 31?"
 description: "Trump renames ICE to NICE by December 31? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Trump renames ICE to NICE by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-07
+status: "settled"
+lastUpdated: 2026-10-08
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 5.5
