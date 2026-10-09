@@ -3,7 +3,7 @@ title: "Will Republicans sweep the Kansas Senate and Governor elections?"
 description: "Will Republicans sweep the Kansas Senate and Governor elections? Odds: 56.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Republicans sweep the Kansas Senate and Governor elections?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-09
 expiryDate: 2026-11-04
 tags: ["elections", "politics", "polymarket"]
