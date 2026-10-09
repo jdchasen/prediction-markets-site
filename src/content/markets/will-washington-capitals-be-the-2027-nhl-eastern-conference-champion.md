@@ -1,14 +1,14 @@
 ---
 title: "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?"
-description: "Will Washington Capitals be the 2027 NHL Eastern Conference Champion? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Washington Capitals be the 2027 NHL Eastern Conference Champion? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-10-08
+lastUpdated: 2026-10-09
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
-polymarketYes: 11.5
-polymarketNo: 88.5
+polymarketYes: 10.5
+polymarketNo: 89.5
 polymarketVolume: 9994
 polymarketUrl: "https://polymarket.com/event/will-washington-capitals-be-the-2027-nhl-eastern-conference-champion-20260630185127021"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-washington-capitals-be-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.5% | 89.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?"?
 
-As of October 08, 2026, Polymarket prices YES at 11.5%.
+As of October 09, 2026, Polymarket prices YES at 10.5%.
 
 ### Where can I trade on this prediction market?
 
