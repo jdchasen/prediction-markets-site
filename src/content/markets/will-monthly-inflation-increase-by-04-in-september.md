@@ -3,7 +3,7 @@ title: "Will monthly inflation increase by 0.4% in September?"
 description: "Will monthly inflation increase by 0.4% in September? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.4% in September?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-10
 expiryDate: 2026-10-15
 tags: ["economics", "polymarket", "sports"]
