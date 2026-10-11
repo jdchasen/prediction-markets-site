@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-m
 
 ## Related Markets
 
-- [Next Z.ai GLM (5.4+) released by October 31, 2026?](/odds/next-zai-glm-54-released-by-october-31-2026) — 64% YES
+- [Next Z.ai GLM (5.4+) released by October 31, 2026?](/odds/next-zai-glm-54-released-by-october-31-2026) — 60% YES
 
 ## Frequently Asked Questions
 

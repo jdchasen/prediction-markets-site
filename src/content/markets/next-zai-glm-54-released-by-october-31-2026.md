@@ -1,14 +1,14 @@
 ---
 title: "Next Z.ai GLM (5.4+) released by October 31, 2026?"
-description: "Next Z.ai GLM (5.4+) released by October 31, 2026? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
+description: "Next Z.ai GLM (5.4+) released by October 31, 2026? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Z.ai GLM (5.4+) released by October 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-10-11
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 64.5
-polymarketNo: 35.5
+polymarketYes: 59.5
+polymarketNo: 40.5
 polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/next-zptai-glm-5pt4-released-by-october-31-2026-763"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/next-zptai-glm-5pt4-released-by-oct
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 64.5% | 35.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 59.5% | 40.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/next-zptai-glm-5pt4-released-by-oct
 
 ### What are the current odds for "Next Z.ai GLM (5.4+) released by October 31, 2026?"?
 
-As of October 11, 2026, Polymarket prices YES at 64.5%.
+As of October 11, 2026, Polymarket prices YES at 59.5%.
 
 ### Where can I trade on this prediction market?
 
