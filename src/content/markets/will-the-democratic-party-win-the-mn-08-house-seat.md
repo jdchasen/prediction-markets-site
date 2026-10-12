@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the MN-08 House seat?"
 description: "Will the Democratic Party win the MN-08 House seat? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the MN-08 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-11
+status: "settled"
+lastUpdated: 2026-10-12
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 11.5
