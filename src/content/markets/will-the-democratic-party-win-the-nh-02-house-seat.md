@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the NH-02 House seat?"
 description: "Will the Democratic Party win the NH-02 House seat? Odds: 95.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NH-02 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-12
+status: "settled"
+lastUpdated: 2026-10-13
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 95.3
