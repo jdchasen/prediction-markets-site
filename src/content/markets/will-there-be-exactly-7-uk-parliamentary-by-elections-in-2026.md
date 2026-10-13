@@ -3,7 +3,7 @@ title: "Will there be exactly 7 UK parliamentary by-elections in 2026?"
 description: "Will there be exactly 7 UK parliamentary by-elections in 2026? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be exactly 7 UK parliamentary by-elections in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-13
 expiryDate: 2027-01-01
 tags: ["elections", "politics", "polymarket"]
