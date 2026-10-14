@@ -3,7 +3,7 @@ title: "Will Ethereum hit $4k by March 31, 2027?"
 description: "Will Ethereum hit $4k by March 31, 2027? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum hit $4k by March 31, 2027?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-14
 expiryDate: 2027-04-01
 tags: ["crypto", "ethereum", "polymarket"]
