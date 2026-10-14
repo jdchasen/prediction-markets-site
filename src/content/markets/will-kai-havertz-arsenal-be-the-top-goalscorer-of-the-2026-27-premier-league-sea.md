@@ -1,14 +1,14 @@
 ---
 title: "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season?"
-description: "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-10-13
+lastUpdated: 2026-10-14
 expiryDate: 2027-06-15
 tags: ["ai", "polymarket", "sports"]
-polymarketYes: 4.1
-polymarketNo: 95.9
+polymarketYes: 4.0
+polymarketNo: 96.0
 polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-kai-havertz-arsenal-be-the-top-goalscorer-of-the-2026-27-premier-league-season"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-kai-havertz-arsenal-be-the-top
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.1% | 95.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season?"?
 
-As of October 13, 2026, Polymarket prices YES at 4.1%.
+As of October 14, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 
