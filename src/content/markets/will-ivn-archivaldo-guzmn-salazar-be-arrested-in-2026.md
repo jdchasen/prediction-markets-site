@@ -3,7 +3,7 @@ title: "Will Iván Archivaldo Guzmán Salazar be arrested in 2026?"
 description: "Will Iván Archivaldo Guzmán Salazar be arrested in 2026? Odds: 20.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Iván Archivaldo Guzmán Salazar be arrested in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-14
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

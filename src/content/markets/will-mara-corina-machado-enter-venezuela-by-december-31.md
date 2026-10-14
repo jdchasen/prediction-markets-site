@@ -3,7 +3,7 @@ title: "Will María Corina Machado enter Venezuela by December 31?"
 description: "Will María Corina Machado enter Venezuela by December 31? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will María Corina Machado enter Venezuela by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-14
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier 
 description: "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-14
 expiryDate: 2027-06-15
 tags: ["ai", "polymarket", "sports"]
