@@ -3,8 +3,8 @@ title: "Will the next governing coalition of Romania include PSD + UDMR?"
 description: "Will the next governing coalition of Romania include PSD + UDMR? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next governing coalition of Romania include PSD + UDMR?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-14
+status: "settled"
+lastUpdated: 2026-10-15
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 5.9
