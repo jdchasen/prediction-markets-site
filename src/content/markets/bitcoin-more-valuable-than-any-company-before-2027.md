@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.6
 polymarketNo: 98.4
-polymarketVolume: 9994
+polymarketVolume: 9999
 polymarketUrl: "https://polymarket.com/event/bitcoin-more-valuable-than-any-company-before-2027"
 ---
 
