@@ -3,7 +3,7 @@ title: "Next Z.ai GLM (5.4+) released by October 31, 2026?"
 description: "Next Z.ai GLM (5.4+) released by October 31, 2026? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Z.ai GLM (5.4+) released by October 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-16
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]

@@ -1,15 +1,15 @@
 ---
 title: "Will SpaceX have the highest IPO Market Cap 2026?"
-description: "Will SpaceX have the highest IPO Market Cap 2026? Odds: 63.5% YES on Polymarket. See live prices and trade this market."
+description: "Will SpaceX have the highest IPO Market Cap 2026? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will SpaceX have the highest IPO Market Cap 2026?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-10-16
 expiryDate: 2027-01-02
 tags: ["finance", "polymarket"]
-polymarketYes: 63.5
-polymarketNo: 36.5
-polymarketVolume: 999220
+polymarketYes: 64.0
+polymarketNo: 36.0
+polymarketVolume: 999907
 polymarketUrl: "https://polymarket.com/event/will-spacex-have-the-highest-ipo-market-cap-2026-516"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-spacex-have-the-highest-ipo-ma
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 63.5% | 36.5% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.0% | 36.0% | $1000K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will SpaceX have the highest IPO Market Cap 2026?"?
 
-As of October 16, 2026, Polymarket prices YES at 63.5%.
+As of October 16, 2026, Polymarket prices YES at 64.0%.
 
 ### Where can I trade on this prediction market?
 
