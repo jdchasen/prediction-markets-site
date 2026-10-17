@@ -3,8 +3,8 @@ title: "Will Lautaro Martínez (Inter) be the top goalscorer of the 2026-27 Seri
 description: "Will Lautaro Martínez (Inter) be the top goalscorer of the 2026-27 Serie A season? Odds: 27.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lautaro Martínez (Inter) be the top goalscorer of the 2026-27 Serie A season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-16
+status: "settled"
+lastUpdated: 2026-10-17
 expiryDate: 2027-06-15
 tags: ["politics", "polymarket"]
 polymarketYes: 27.0
