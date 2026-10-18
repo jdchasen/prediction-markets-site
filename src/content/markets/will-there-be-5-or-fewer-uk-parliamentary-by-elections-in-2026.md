@@ -3,8 +3,8 @@ title: "Will there be 5 or fewer UK parliamentary by-elections in 2026?"
 description: "Will there be 5 or fewer UK parliamentary by-elections in 2026? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be 5 or fewer UK parliamentary by-elections in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-17
+status: "settled"
+lastUpdated: 2026-10-18
 expiryDate: 2027-01-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 0.5

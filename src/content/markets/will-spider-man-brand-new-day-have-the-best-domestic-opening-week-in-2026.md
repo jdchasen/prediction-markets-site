@@ -3,8 +3,8 @@ title: "Will Spider-Man: Brand New Day have the best domestic opening week in 20
 description: "Will Spider-Man: Brand New Day have the best domestic opening week in 2026? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Spider-Man: Brand New Day have the best domestic opening week in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-17
+status: "settled"
+lastUpdated: 2026-10-18
 expiryDate: 2027-02-01
 tags: ["politics", "polymarket"]
 polymarketYes: 33.5
