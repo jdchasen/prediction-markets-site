@@ -3,7 +3,7 @@ title: "Will any presidential candidate win outright in the first round of the B
 description: "Will any presidential candidate win outright in the first round of the Bulgaria election? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will any presidential candidate win outright in the first round of the Bulgaria election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-20
 expiryDate: 2027-01-01
 tags: ["elections", "politics", "polymarket"]

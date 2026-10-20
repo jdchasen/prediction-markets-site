@@ -3,7 +3,7 @@ title: "Next Astra Model (6.1+) released by October 31, 2026?"
 description: "Next Astra Model (6.1+) released by October 31, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Astra Model (6.1+) released by October 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-20
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
