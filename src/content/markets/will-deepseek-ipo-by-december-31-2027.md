@@ -1,14 +1,14 @@
 ---
 title: "Will DeepSeek IPO by December 31, 2027?"
-description: "Will DeepSeek IPO by December 31, 2027? Odds: 63.6% YES on Polymarket. See live prices and trade this market."
+description: "Will DeepSeek IPO by December 31, 2027? Odds: 63.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek IPO by December 31, 2027?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-10-22
 expiryDate: 2028-01-01
 tags: ["finance", "polymarket"]
-polymarketYes: 63.6
-polymarketNo: 36.4
+polymarketYes: 63.7
+polymarketNo: 36.2
 polymarketVolume: 9999
 polymarketUrl: "https://polymarket.com/event/will-deepseek-ipo-by-december-31-2027-20260714175933548"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-deepseek-ipo-by-december-31-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 63.6% | 36.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 63.7% | 36.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will DeepSeek IPO by December 31, 2027?"?
 
-As of October 22, 2026, Polymarket prices YES at 63.6%.
+As of October 22, 2026, Polymarket prices YES at 63.7%.
 
 ### Where can I trade on this prediction market?
 

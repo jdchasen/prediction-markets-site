@@ -3,7 +3,7 @@ title: "Bitcoin more valuable than any company before 2027?"
 description: "Bitcoin more valuable than any company before 2027? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Bitcoin more valuable than any company before 2027?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-22
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
