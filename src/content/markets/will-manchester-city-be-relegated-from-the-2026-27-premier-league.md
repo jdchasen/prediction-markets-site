@@ -3,8 +3,8 @@ title: "Will Manchester City be relegated from the 2026-27 Premier League?"
 description: "Will Manchester City be relegated from the 2026-27 Premier League? Odds: 48.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester City be relegated from the 2026-27 Premier League?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-10-22
+status: "settled"
+lastUpdated: 2026-10-23
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 48.9

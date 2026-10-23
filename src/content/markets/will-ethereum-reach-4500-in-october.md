@@ -3,8 +3,8 @@ title: "Will Ethereum reach $4,500 in October?"
 description: "Will Ethereum reach $4,500 in October? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $4,500 in October?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-10-22
+status: "settled"
+lastUpdated: 2026-10-23
 expiryDate: 2026-11-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 0.1

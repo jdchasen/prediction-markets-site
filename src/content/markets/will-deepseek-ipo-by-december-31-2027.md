@@ -3,8 +3,8 @@ title: "Will DeepSeek IPO by December 31, 2027?"
 description: "Will DeepSeek IPO by December 31, 2027? Odds: 63.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DeepSeek IPO by December 31, 2027?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-10-22
+status: "settled"
+lastUpdated: 2026-10-23
 expiryDate: 2028-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 63.7

@@ -3,8 +3,8 @@ title: "Will the Student List win 35-40% of the vote in the 2026 Serbian parliam
 description: "Will the Student List win 35-40% of the vote in the 2026 Serbian parliamentary election? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Student List win 35-40% of the vote in the 2026 Serbian parliamentary election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-22
+status: "settled"
+lastUpdated: 2026-10-23
 expiryDate: 2026-10-25
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 22.0
