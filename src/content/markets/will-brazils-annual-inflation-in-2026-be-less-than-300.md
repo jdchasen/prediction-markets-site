@@ -3,7 +3,7 @@ title: "Will Brazil’s Annual Inflation in 2026 be less than 3.00%?"
 description: "Will Brazil’s Annual Inflation in 2026 be less than 3.00%? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Brazil’s Annual Inflation in 2026 be less than 3.00%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-24
 expiryDate: 2027-01-13
 tags: ["economics", "polymarket", "sports"]

@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-betwe
 |----------|-----|-----|--------|-------|
 | Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Brazil’s Annual Inflation in 2026 be less than 3.00%?](/odds/will-brazils-annual-inflation-in-2026-be-less-than-300) — 0% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will US GDP growth in 2026 be between 1.5% and 2.0%?"?
