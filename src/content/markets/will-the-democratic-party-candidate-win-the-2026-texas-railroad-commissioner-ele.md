@@ -3,7 +3,7 @@ title: "Will the Democratic Party candidate win the 2026 Texas Railroad Commissi
 description: "Will the Democratic Party candidate win the 2026 Texas Railroad Commissioner election? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party candidate win the 2026 Texas Railroad Commissioner election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-25
 expiryDate: 2026-11-03
 tags: ["ai", "elections", "politics", "polymarket"]

@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-no-next-german-chance
 
 ## Related Markets
 
+- [Will John N. Kennedy win the 2028 Republican presidential nomination?](/odds/will-john-n-kennedy-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Sam Altman out as OpenAI CEO before 2027?](/odds/sam-altman-out-as-openai-ceo-before-2027) — 5% YES
-- [Will the Democratic Party candidate win the 2026 Texas Railroad Commissioner election?](/odds/will-the-democratic-party-candidate-win-the-2026-texas-railroad-commissioner-ele) — 42% YES
+- [Will Erling Haaland be the #1 searched person on Google this year?](/odds/will-erling-haaland-be-the-1-searched-person-on-google-this-year) — 16% YES
 
 ## Frequently Asked Questions
 

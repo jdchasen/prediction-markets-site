@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-betwe
 |----------|-----|-----|--------|-------|
 | Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will the 5-year Treasury yield dip below 4.00% before 2027?](/odds/will-the-5-year-treasury-yield-dip-below-400-before-2027) — 3% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will US GDP growth in 2026 be between 1.5% and 2.0%?"?
