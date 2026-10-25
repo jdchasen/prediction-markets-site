@@ -3,8 +3,8 @@ title: "Paris curfew effectively lifted by October 31?"
 description: "Paris curfew effectively lifted by October 31? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Paris curfew effectively lifted by October 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-24
+status: "settled"
+lastUpdated: 2026-10-25
 expiryDate: 2026-10-31
 tags: ["politics", "polymarket"]
 polymarketYes: 53.0

@@ -4,7 +4,7 @@ description: "Will US GDP growth in 2026 be between 1.5% and 2.0%? Odds: 1.8% YE
 marketQuestion: "Will US GDP growth in 2026 be between 1.5% and 2.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-10-24
+lastUpdated: 2026-10-25
 expiryDate: 2027-01-29
 tags: ["economics", "polymarket"]
 polymarketYes: 1.8
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-betwe
 
 ### What are the current odds for "Will US GDP growth in 2026 be between 1.5% and 2.0%?"?
 
-As of October 24, 2026, Polymarket prices YES at 1.8%.
+As of October 25, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

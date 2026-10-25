@@ -3,8 +3,8 @@ title: "Will the Democrats win the Florida Senate race in 2026?"
 description: "Will the Democrats win the Florida Senate race in 2026? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats win the Florida Senate race in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-24
+status: "settled"
+lastUpdated: 2026-10-25
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 9.0

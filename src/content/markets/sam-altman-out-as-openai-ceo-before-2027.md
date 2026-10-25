@@ -1,14 +1,14 @@
 ---
 title: "Sam Altman out as OpenAI CEO before 2027?"
-description: "Sam Altman out as OpenAI CEO before 2027? Odds: 4.6% YES on Polymarket. See live prices and trade this market."
+description: "Sam Altman out as OpenAI CEO before 2027? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Sam Altman out as OpenAI CEO before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-24
+lastUpdated: 2026-10-25
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 4.6
-polymarketNo: 95.4
+polymarketYes: 5.1
+polymarketNo: 94.9
 polymarketVolume: 99966
 polymarketUrl: "https://polymarket.com/event/sam-altman-out-as-openai-ceo-before-2027"
 ---
@@ -17,18 +17,18 @@ polymarketUrl: "https://polymarket.com/event/sam-altman-out-as-openai-ceo-before
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.6% | 95.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.1% | 94.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Democrats win the Florida Senate race in 2026?](/odds/will-the-democrats-win-the-florida-senate-race-in-2026) — 9% YES
-- [Paris curfew effectively lifted by October 31?](/odds/paris-curfew-effectively-lifted-by-october-31) — 53% YES
+- [Will there be no next German Chancellor before 2028?](/odds/will-there-be-no-next-german-chancellor-before-2028) — 64% YES
+- [Will the Democratic Party candidate win the 2026 Texas Railroad Commissioner election?](/odds/will-the-democratic-party-candidate-win-the-2026-texas-railroad-commissioner-ele) — 42% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Sam Altman out as OpenAI CEO before 2027?"?
 
-As of October 24, 2026, Polymarket prices YES at 4.6%.
+As of October 25, 2026, Polymarket prices YES at 5.1%.
 
 ### Where can I trade on this prediction market?
 
