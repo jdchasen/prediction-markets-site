@@ -3,8 +3,8 @@ title: "Will New York Knicks win the 2027 NBA Finals?"
 description: "Will New York Knicks win the 2027 NBA Finals? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will New York Knicks win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-10-25
+status: "settled"
+lastUpdated: 2026-10-26
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 6.5

@@ -3,8 +3,8 @@ title: "Will the Ornn A100 Index be between $0.75 and $1.00 on November 30, 2026
 description: "Will the Ornn A100 Index be between $0.75 and $1.00 on November 30, 2026? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Ornn A100 Index be between $0.75 and $1.00 on November 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-25
+status: "settled"
+lastUpdated: 2026-10-26
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 34.5

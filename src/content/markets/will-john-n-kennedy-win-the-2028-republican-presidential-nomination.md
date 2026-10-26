@@ -3,8 +3,8 @@ title: "Will John N. Kennedy win the 2028 Republican presidential nomination?"
 description: "Will John N. Kennedy win the 2028 Republican presidential nomination? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John N. Kennedy win the 2028 Republican presidential nomination?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-25
+status: "settled"
+lastUpdated: 2026-10-26
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1

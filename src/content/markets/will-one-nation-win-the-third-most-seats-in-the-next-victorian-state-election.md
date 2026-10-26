@@ -3,8 +3,8 @@ title: "Will One Nation win the third-most seats in the next Victorian state ele
 description: "Will One Nation win the third-most seats in the next Victorian state election? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will One Nation win the third-most seats in the next Victorian state election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-25
+status: "settled"
+lastUpdated: 2026-10-26
 expiryDate: 2026-11-29
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 55.5

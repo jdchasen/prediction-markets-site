@@ -4,7 +4,7 @@ description: "Sam Altman out as OpenAI CEO before 2027? Odds: 5.1% YES on Polyma
 marketQuestion: "Sam Altman out as OpenAI CEO before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-25
+lastUpdated: 2026-10-26
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 5.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/sam-altman-out-as-openai-ceo-before
 
 ## Related Markets
 
-- [Will John N. Kennedy win the 2028 Republican presidential nomination?](/odds/will-john-n-kennedy-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will there be no next German Chancellor before 2028?](/odds/will-there-be-no-next-german-chancellor-before-2028) — 64% YES
-- [Will Erling Haaland be the #1 searched person on Google this year?](/odds/will-erling-haaland-be-the-1-searched-person-on-google-this-year) — 16% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
+- [Will the Democratic Party win the NJ-08 House seat?](/odds/will-the-democratic-party-win-the-nj-08-house-seat) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Sam Altman out as OpenAI CEO before 2027?"?
 
-As of October 25, 2026, Polymarket prices YES at 5.1%.
+As of October 26, 2026, Polymarket prices YES at 5.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will there be exactly 3 North Korea tests in October 2026?"
 description: "Will there be exactly 3 North Korea tests in October 2026? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be exactly 3 North Korea tests in October 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-25
+status: "settled"
+lastUpdated: 2026-10-26
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]
 polymarketYes: 74.5

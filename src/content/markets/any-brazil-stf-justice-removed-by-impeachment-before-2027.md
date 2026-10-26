@@ -3,8 +3,8 @@ title: "Any Brazil STF Justice removed by impeachment before 2027?"
 description: "Any Brazil STF Justice removed by impeachment before 2027? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Any Brazil STF Justice removed by impeachment before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-25
+status: "settled"
+lastUpdated: 2026-10-26
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 6.2
