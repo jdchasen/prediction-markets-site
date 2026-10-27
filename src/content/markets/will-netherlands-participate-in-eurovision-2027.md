@@ -3,7 +3,7 @@ title: "Will Netherlands participate in Eurovision 2027?"
 description: "Will Netherlands participate in Eurovision 2027? Odds: 96.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands participate in Eurovision 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-27
 expiryDate: 2027-06-01
 tags: ["ethereum", "politics", "polymarket"]

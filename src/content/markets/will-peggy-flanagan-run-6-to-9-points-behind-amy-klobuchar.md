@@ -3,7 +3,7 @@ title: "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar?"
 description: "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-27
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]

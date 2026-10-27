@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-i
 
 ## Related Markets
 
-- [Will there be no next German Chancellor before 2028?](/odds/will-there-be-no-next-german-chancellor-before-2028) — 64% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Sam Altman out as OpenAI CEO before 2027?](/odds/sam-altman-out-as-openai-ceo-before-2027) — 5% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
+- [Anthropic vs OpenAI - higher valuation on December 31?](/odds/anthropic-vs-openai-higher-valuation-on-december-31) — 94% YES
 
 ## Frequently Asked Questions
 

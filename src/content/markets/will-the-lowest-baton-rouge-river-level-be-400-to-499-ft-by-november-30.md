@@ -3,7 +3,7 @@ title: "Will the lowest Baton Rouge river level be 4.00 to 4.99 ft by November 3
 description: "Will the lowest Baton Rouge river level be 4.00 to 4.99 ft by November 30? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the lowest Baton Rouge river level be 4.00 to 4.99 ft by November 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-27
 expiryDate: 2026-12-02
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will there be no next German Chancellor before 2028?"
 description: "Will there be no next German Chancellor before 2028? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no next German Chancellor before 2028?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-27
 expiryDate: 2030-01-01
 tags: ["politics", "polymarket"]
