@@ -1,14 +1,14 @@
 ---
 title: "Will the Democratic Party win the NJ-08 House seat?"
-description: "Will the Democratic Party win the NJ-08 House seat? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democratic Party win the NJ-08 House seat? Odds: 95.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the NJ-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-26
+lastUpdated: 2026-10-27
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
-polymarketYes: 95.5
-polymarketNo: 4.5
+polymarketYes: 95.8
+polymarketNo: 4.2
 polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-nj-08-house-seat"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.5% | 4.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.8% | 4.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-n
 
 ### What are the current odds for "Will the Democratic Party win the NJ-08 House seat?"?
 
-As of October 26, 2026, Polymarket prices YES at 95.5%.
+As of October 27, 2026, Polymarket prices YES at 95.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will the Democratic Party candidate win the 2026 OR-04 House election by
 description: "Will the Democratic Party candidate win the 2026 OR-04 House election by 20%-25%? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party candidate win the 2026 OR-04 House election by 20%-25%?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-26
+status: "settled"
+lastUpdated: 2026-10-27
 expiryDate: 2026-11-04
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 29.5

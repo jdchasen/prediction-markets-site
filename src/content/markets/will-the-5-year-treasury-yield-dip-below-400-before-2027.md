@@ -1,14 +1,14 @@
 ---
 title: "Will the 5-year Treasury yield dip below 4.00% before 2027?"
-description: "Will the 5-year Treasury yield dip below 4.00% before 2027? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the 5-year Treasury yield dip below 4.00% before 2027? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 5-year Treasury yield dip below 4.00% before 2027?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-10-26
+lastUpdated: 2026-10-27
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
-polymarketYes: 3.2
-polymarketNo: 96.8
+polymarketYes: 2.6
+polymarketNo: 97.4
 polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-dip-below-4pt00-before-2027"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-dip-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.6% | 97.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting) — 0% YES
 - [Will US GDP growth in 2026 be between 1.5% and 2.0%?](/odds/will-us-gdp-growth-in-2026-be-between-15-and-20) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the 5-year Treasury yield dip below 4.00% before 2027?"?
 
-As of October 26, 2026, Polymarket prices YES at 3.2%.
+As of October 27, 2026, Polymarket prices YES at 2.6%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar?"
-description: "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-26
+lastUpdated: 2026-10-27
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
-polymarketYes: 24.0
-polymarketNo: 76.0
+polymarketYes: 26.0
+polymarketNo: 74.0
 polymarketVolume: 9976
 polymarketUrl: "https://polymarket.com/event/will-peggy-flanagan-run-6-to-9-points-behind-amy-klobuchar"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-peggy-flanagan-run-6-to-9-poin
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.0% | 76.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.0% | 74.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-peggy-flanagan-run-6-to-9-poin
 
 ### What are the current odds for "Will Peggy Flanagan run 6 to 9 points behind Amy Klobuchar?"?
 
-As of October 26, 2026, Polymarket prices YES at 24.0%.
+As of October 27, 2026, Polymarket prices YES at 26.0%.
 
 ### Where can I trade on this prediction market?
 
