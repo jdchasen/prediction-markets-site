@@ -3,7 +3,7 @@ title: "Will three people dissent the January Fed decision?"
 description: "Will three people dissent the January Fed decision? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will three people dissent the January Fed decision?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-01-28
 tags: ["federal-reserve", "politics", "polymarket"]

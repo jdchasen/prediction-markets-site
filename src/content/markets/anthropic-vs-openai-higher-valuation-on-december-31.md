@@ -3,7 +3,7 @@ title: "Anthropic vs OpenAI - higher valuation on December 31?"
 description: "Anthropic vs OpenAI - higher valuation on December 31? Odds: 93.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Anthropic vs OpenAI - higher valuation on December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-01-05
 tags: ["ai", "politics", "polymarket"]

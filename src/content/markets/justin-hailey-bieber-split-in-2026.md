@@ -3,7 +3,7 @@ title: "Justin & Hailey Bieber split in 2026?"
 description: "Justin & Hailey Bieber split in 2026? Odds: 7.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Justin & Hailey Bieber split in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Anthropic's IPO valuation be $2.50T or more?"
 description: "Will Anthropic's IPO valuation be $2.50T or more? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic's IPO valuation be $2.50T or more?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2028-01-01
 tags: ["finance", "polymarket"]

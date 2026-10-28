@@ -3,7 +3,7 @@ title: "Marathon Fusion's high-rate gold alchemy confirmed by December 31, 2026?
 description: "Marathon Fusion's high-rate gold alchemy confirmed by December 31, 2026? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Marathon Fusion's high-rate gold alchemy confirmed by December 31, 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]

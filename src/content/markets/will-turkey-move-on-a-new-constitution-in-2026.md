@@ -3,7 +3,7 @@ title: "Will Turkey Move on a New Constitution in 2026?"
 description: "Will Turkey Move on a New Constitution in 2026? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Turkey Move on a New Constitution in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

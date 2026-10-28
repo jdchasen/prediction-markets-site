@@ -3,7 +3,7 @@ title: "Will there be between 5 and 10 average daily transits of the Strait of H
 description: "Will there be between 5 and 10 average daily transits of the Strait of Hormuz on October 31? Odds: 3.2% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will there be between 5 and 10 average daily transits of the Strait of Hormuz on October 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2026-11-01
 tags: ["ai", "politics", "polymarket"]

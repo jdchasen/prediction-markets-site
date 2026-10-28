@@ -3,7 +3,7 @@ title: "Will the Democratic Party candidate win the 2026 Ohio Senate election by
 description: "Will the Democratic Party candidate win the 2026 Ohio Senate election by 3%-6%? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party candidate win the 2026 Ohio Senate election by 3%-6%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2026-11-04
 tags: ["elections", "politics", "polymarket"]

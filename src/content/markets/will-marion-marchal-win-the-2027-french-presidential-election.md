@@ -3,7 +3,7 @@ title: "Will Marion Maréchal win the 2027 French presidential election?"
 description: "Will Marion Maréchal win the 2027 French presidential election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marion Maréchal win the 2027 French presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-04-19
 tags: ["elections", "politics", "polymarket"]

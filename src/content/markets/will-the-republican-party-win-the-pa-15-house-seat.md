@@ -3,7 +3,7 @@ title: "Will the Republican Party win the PA-15 House seat?"
 description: "Will the Republican Party win the PA-15 House seat? Odds: 94.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the PA-15 House seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]

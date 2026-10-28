@@ -3,7 +3,7 @@ title: "Sweden snap election called in 2026?"
 description: "Sweden snap election called in 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Sweden snap election called in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-01-01
 tags: ["elections", "politics", "polymarket"]

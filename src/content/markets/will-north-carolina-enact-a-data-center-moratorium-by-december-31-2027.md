@@ -3,7 +3,7 @@ title: "Will North Carolina enact a data center moratorium by December 31, 2027?
 description: "Will North Carolina enact a data center moratorium by December 31, 2027? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will North Carolina enact a data center moratorium by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]

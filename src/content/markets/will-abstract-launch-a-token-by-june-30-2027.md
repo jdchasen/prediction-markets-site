@@ -8,7 +8,7 @@ lastUpdated: 2026-10-28
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 4.2
-polymarketNo: 95.8
+polymarketNo: 95.9
 polymarketVolume: 9953
 polymarketUrl: "https://polymarket.com/event/will-abstract-launch-a-token-by-june-30-2027"
 ---
@@ -17,11 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-abstract-launch-a-token-by-jun
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.2% | 95.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [Will Predict.fun launch a token by November 30, 2026?](/odds/will-predictfun-launch-a-token-by-november-30-2026) — 95% YES
+| Polymarket | 4.2% | 95.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 

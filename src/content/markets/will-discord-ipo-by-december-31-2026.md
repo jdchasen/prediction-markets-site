@@ -3,7 +3,7 @@ title: "Will Discord IPO by December 31, 2026?"
 description: "Will Discord IPO by December 31, 2026? Odds: 6.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Discord IPO by December 31, 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-28
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
