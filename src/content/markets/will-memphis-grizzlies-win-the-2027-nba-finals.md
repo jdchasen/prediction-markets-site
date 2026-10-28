@@ -3,8 +3,8 @@ title: "Will Memphis Grizzlies win the 2027 NBA Finals?"
 description: "Will Memphis Grizzlies win the 2027 NBA Finals? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Memphis Grizzlies win the 2027 NBA Finals?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-10-27
+status: "settled"
+lastUpdated: 2026-10-28
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.5

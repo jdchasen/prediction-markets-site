@@ -3,8 +3,8 @@ title: "Will Serbia be relegated from Nations League A in 2026-27?"
 description: "Will Serbia be relegated from Nations League A in 2026-27? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Serbia be relegated from Nations League A in 2026-27?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-27
+status: "settled"
+lastUpdated: 2026-10-28
 expiryDate: 2027-04-14
 tags: ["politics", "polymarket"]
 polymarketYes: 80.0

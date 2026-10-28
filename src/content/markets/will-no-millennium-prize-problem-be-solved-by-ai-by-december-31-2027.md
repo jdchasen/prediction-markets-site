@@ -3,8 +3,8 @@ title: "Will no Millennium Prize Problem be solved by AI by December 31, 2027?"
 description: "Will no Millennium Prize Problem be solved by AI by December 31, 2027? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no Millennium Prize Problem be solved by AI by December 31, 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-27
+status: "settled"
+lastUpdated: 2026-10-28
 expiryDate: 2028-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 42.0
