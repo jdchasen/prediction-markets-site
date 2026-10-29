@@ -3,7 +3,7 @@ title: "Will Bayern Munich be the 2026-27 Bundesliga champion?"
 description: "Will Bayern Munich be the 2026-27 Bundesliga champion? Odds: 87.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bayern Munich be the 2026-27 Bundesliga champion?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-29
 expiryDate: 2027-06-15
 tags: ["politics", "polymarket"]

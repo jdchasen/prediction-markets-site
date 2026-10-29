@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-i
 
 ## Related Markets
 
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Sam Altman out as OpenAI CEO before 2027?](/odds/sam-altman-out-as-openai-ceo-before-2027) — 5% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
+- [France declares state of siege (martial law) by December 31, 2026?](/odds/france-declares-state-of-siege-martial-law-by-december-31-2026) — 4% YES
+- [Will Smith College exclude trans women in 2026?](/odds/will-smith-college-exclude-trans-women-in-2026) — 12% YES
 
 ## Frequently Asked Questions
 

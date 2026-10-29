@@ -3,7 +3,7 @@ title: "Will Meta Platforms, Inc. (META) hit (LOW) $600 in October?"
 description: "Will Meta Platforms, Inc. (META) hit (LOW) $600 in October? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta Platforms, Inc. (META) hit (LOW) $600 in October?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-29
 expiryDate: 2026-11-01
 tags: ["politics", "polymarket"]

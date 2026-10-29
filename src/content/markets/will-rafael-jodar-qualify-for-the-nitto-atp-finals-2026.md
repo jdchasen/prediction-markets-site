@@ -3,7 +3,7 @@ title: "Will Rafael Jodar Qualify for the Nitto ATP Finals 2026?"
 description: "Will Rafael Jodar Qualify for the Nitto ATP Finals 2026? Odds: 73.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Rafael Jodar Qualify for the Nitto ATP Finals 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-29
 tags: ["politics", "polymarket"]
 polymarketYes: 73.6

@@ -3,7 +3,7 @@ title: "Will Ipswich Town be relegated from the 2026-27 Premier League?"
 description: "Will Ipswich Town be relegated from the 2026-27 Premier League? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ipswich Town be relegated from the 2026-27 Premier League?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-29
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Sam Altman out as OpenAI CEO before 2027?"
 description: "Sam Altman out as OpenAI CEO before 2027? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Sam Altman out as OpenAI CEO before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-29
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Anthropic be the #2 AI lab at the end of November 2026?"
 description: "Will Anthropic be the #2 AI lab at the end of November 2026? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic be the #2 AI lab at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-29
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

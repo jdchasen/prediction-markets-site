@@ -3,7 +3,7 @@ title: "Will the Republicans win the Hawaii governor race in 2026?"
 description: "Will the Republicans win the Hawaii governor race in 2026? Odds: 1.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republicans win the Hawaii governor race in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-29
 expiryDate: 2026-11-04
 tags: ["ai", "politics", "polymarket"]

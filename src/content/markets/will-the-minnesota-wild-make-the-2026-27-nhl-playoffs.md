@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-the-minnesota-wild-make-the-20
 |----------|-----|-----|--------|-------|
 | Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Ipswich Town be relegated from the 2026-27 Premier League?](/odds/will-ipswich-town-be-relegated-from-the-2026-27-premier-league) — 36% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Minnesota Wild make the 2026-27 NHL Playoffs?"?

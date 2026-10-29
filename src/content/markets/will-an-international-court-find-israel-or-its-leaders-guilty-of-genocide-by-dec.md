@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Related Markets
 
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Sam Altman out as OpenAI CEO before 2027?](/odds/sam-altman-out-as-openai-ceo-before-2027) — 5% YES
-- [Will Bayern Munich be the 2026-27 Bundesliga champion?](/odds/will-bayern-munich-be-the-2026-27-bundesliga-champion) — 88% YES
+- [France declares state of siege (martial law) by December 31, 2026?](/odds/france-declares-state-of-siege-martial-law-by-december-31-2026) — 4% YES
+- [Will Smith College exclude trans women in 2026?](/odds/will-smith-college-exclude-trans-women-in-2026) — 12% YES
+- [Will Marguerite Humeau win the Turner Prize 2026?](/odds/will-marguerite-humeau-win-the-turner-prize-2026) — 19% YES
 
 ## Frequently Asked Questions
 
