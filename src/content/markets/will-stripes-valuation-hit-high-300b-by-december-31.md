@@ -1,14 +1,14 @@
 ---
 title: "Will Stripe's valuation hit (HIGH) $300B by December 31?"
-description: "Will Stripe's valuation hit (HIGH) $300B by December 31? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Stripe's valuation hit (HIGH) $300B by December 31? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stripe's valuation hit (HIGH) $300B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-28
+lastUpdated: 2026-10-29
 expiryDate: 2027-01-05
 tags: ["politics", "polymarket"]
-polymarketYes: 3.3
-polymarketNo: 96.7
+polymarketYes: 3.8
+polymarketNo: 96.2
 polymarketVolume: 9952
 polymarketUrl: "https://polymarket.com/event/will-stripes-valuation-hit-high-300b-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-stripes-valuation-hit-high-300
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.3% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-stripes-valuation-hit-high-300
 
 ### What are the current odds for "Will Stripe's valuation hit (HIGH) $300B by December 31?"?
 
-As of October 28, 2026, Polymarket prices YES at 3.3%.
+As of October 29, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

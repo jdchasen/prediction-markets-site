@@ -1,14 +1,14 @@
 ---
 title: "Will Kristi Noem leave the Trump administration before 2027?"
-description: "Will Kristi Noem leave the Trump administration before 2027? Odds: 25.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Kristi Noem leave the Trump administration before 2027? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kristi Noem leave the Trump administration before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-28
+lastUpdated: 2026-10-29
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 25.1
-polymarketNo: 74.9
+polymarketYes: 36.5
+polymarketNo: 63.4
 polymarketVolume: 99595
 polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-administration-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-ad
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 25.1% | 74.9% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.5% | 63.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-ad
 
 ### What are the current odds for "Will Kristi Noem leave the Trump administration before 2027?"?
 
-As of October 28, 2026, Polymarket prices YES at 25.1%.
+As of October 29, 2026, Polymarket prices YES at 36.5%.
 
 ### Where can I trade on this prediction market?
 

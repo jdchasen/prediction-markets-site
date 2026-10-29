@@ -4,7 +4,7 @@ description: "Will the Democratic Party win the IL-08 House seat? Odds: 95.5% YE
 marketQuestion: "Will the Democratic Party win the IL-08 House seat?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-28
+lastUpdated: 2026-10-29
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 95.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-democratic-party-win-the-i
 
 ### What are the current odds for "Will the Democratic Party win the IL-08 House seat?"?
 
-As of October 28, 2026, Polymarket prices YES at 95.5%.
+As of October 29, 2026, Polymarket prices YES at 95.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Smith College exclude trans women in 2026?"
-description: "Will Smith College exclude trans women in 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Smith College exclude trans women in 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Smith College exclude trans women in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-28
+lastUpdated: 2026-10-29
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
+polymarketYes: 11.5
+polymarketNo: 88.5
 polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-smith-college-exclude-trans-women-in-2026-20260626143843566"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-smith-college-exclude-trans-wo
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-smith-college-exclude-trans-wo
 
 ### What are the current odds for "Will Smith College exclude trans women in 2026?"?
 
-As of October 28, 2026, Polymarket prices YES at 12.0%.
+As of October 29, 2026, Polymarket prices YES at 11.5%.
 
 ### Where can I trade on this prediction market?
 

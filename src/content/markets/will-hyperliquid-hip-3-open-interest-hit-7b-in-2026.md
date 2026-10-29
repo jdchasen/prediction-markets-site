@@ -1,15 +1,15 @@
 ---
 title: "Will Hyperliquid HIP-3 open interest hit $7B in 2026?"
-description: "Will Hyperliquid HIP-3 open interest hit $7B in 2026? Odds: 6.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Hyperliquid HIP-3 open interest hit $7B in 2026? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid HIP-3 open interest hit $7B in 2026?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-10-28
+status: "active"
+lastUpdated: 2026-10-29
 expiryDate: 2027-01-02
 tags: ["politics", "polymarket"]
-polymarketYes: 6.6
-polymarketNo: 93.4
-polymarketVolume: 9947
+polymarketYes: 6.9
+polymarketNo: 93.1
+polymarketVolume: 9997
 polymarketUrl: "https://polymarket.com/event/will-hyperliquid-hip-3-open-interest-hit-7b-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-hyperliquid-hip-3-open-interes
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 6.6% | 93.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.9% | 93.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Marion Maréchal win the 2027 French presidential election?](/odds/will-marion-marchal-win-the-2027-french-presidential-election) — 0% YES
-- [Anthropic vs OpenAI - higher valuation on December 31?](/odds/anthropic-vs-openai-higher-valuation-on-december-31) — 93% YES
+- [Sam Altman out as OpenAI CEO before 2027?](/odds/sam-altman-out-as-openai-ceo-before-2027) — 5% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Hyperliquid HIP-3 open interest hit $7B in 2026?"?
 
-As of October 28, 2026, Polymarket prices YES at 6.6%.
+As of October 29, 2026, Polymarket prices YES at 6.9%.
 
 ### Where can I trade on this prediction market?
 

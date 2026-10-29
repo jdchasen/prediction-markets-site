@@ -1,14 +1,14 @@
 ---
 title: "Will the Minnesota Wild make the 2026-27 NHL Playoffs?"
-description: "Will the Minnesota Wild make the 2026-27 NHL Playoffs? Odds: 91.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Minnesota Wild make the 2026-27 NHL Playoffs? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Minnesota Wild make the 2026-27 NHL Playoffs?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-10-28
+lastUpdated: 2026-10-29
 expiryDate: 2027-04-16
 tags: ["polymarket", "sports"]
-polymarketYes: 91.0
-polymarketNo: 9.0
+polymarketYes: 91.5
+polymarketNo: 8.5
 polymarketVolume: 9970
 polymarketUrl: "https://polymarket.com/event/will-the-minnesota-wild-make-the-2026-27-nhl-playoffs"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-the-minnesota-wild-make-the-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 91.0% | 9.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 91.5% | 8.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Tyrese Maxey win the 2026-27 NBA MVP?](/odds/will-tyrese-maxey-win-the-2026-27-nba-mvp) — 3% YES
 - [Will Ipswich Town be relegated from the 2026-27 Premier League?](/odds/will-ipswich-town-be-relegated-from-the-2026-27-premier-league) — 36% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Minnesota Wild make the 2026-27 NHL Playoffs?"?
 
-As of October 28, 2026, Polymarket prices YES at 91.0%.
+As of October 29, 2026, Polymarket prices YES at 91.5%.
 
 ### Where can I trade on this prediction market?
 

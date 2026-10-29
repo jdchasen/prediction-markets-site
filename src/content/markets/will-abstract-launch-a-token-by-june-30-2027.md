@@ -4,7 +4,7 @@ description: "Will Abstract launch a token by June 30, 2027? Odds: 4.2% YES on P
 marketQuestion: "Will Abstract launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-10-28
+lastUpdated: 2026-10-29
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 4.2
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-abstract-launch-a-token-by-jun
 
 ### What are the current odds for "Will Abstract launch a token by June 30, 2027?"?
 
-As of October 28, 2026, Polymarket prices YES at 4.2%.
+As of October 29, 2026, Polymarket prices YES at 4.2%.
 
 ### Where can I trade on this prediction market?
 

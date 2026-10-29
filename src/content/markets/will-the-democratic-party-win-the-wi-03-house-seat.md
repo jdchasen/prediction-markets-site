@@ -3,8 +3,8 @@ title: "Will the Democratic Party win the WI-03 House seat?"
 description: "Will the Democratic Party win the WI-03 House seat? Odds: 87.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party win the WI-03 House seat?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-28
+status: "settled"
+lastUpdated: 2026-10-29
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
 polymarketYes: 87.0

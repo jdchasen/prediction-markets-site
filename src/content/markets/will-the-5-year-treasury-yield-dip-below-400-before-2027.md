@@ -1,14 +1,14 @@
 ---
 title: "Will the 5-year Treasury yield dip below 4.00% before 2027?"
-description: "Will the 5-year Treasury yield dip below 4.00% before 2027? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the 5-year Treasury yield dip below 4.00% before 2027? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 5-year Treasury yield dip below 4.00% before 2027?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-10-28
+lastUpdated: 2026-10-29
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
-polymarketYes: 2.7
-polymarketNo: 97.3
+polymarketYes: 2.8
+polymarketNo: 97.2
 polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-dip-below-4pt00-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-dip-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.7% | 97.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-dip-
 
 ### What are the current odds for "Will the 5-year Treasury yield dip below 4.00% before 2027?"?
 
-As of October 28, 2026, Polymarket prices YES at 2.7%.
+As of October 29, 2026, Polymarket prices YES at 2.8%.
 
 ### Where can I trade on this prediction market?
 

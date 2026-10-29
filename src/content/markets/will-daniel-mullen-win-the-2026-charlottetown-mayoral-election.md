@@ -3,8 +3,8 @@ title: "Will Daniel Mullen win the 2026 Charlottetown mayoral election?"
 description: "Will Daniel Mullen win the 2026 Charlottetown mayoral election? Odds: 28.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Daniel Mullen win the 2026 Charlottetown mayoral election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-28
+status: "settled"
+lastUpdated: 2026-10-29
 expiryDate: 2026-11-03
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 28.3

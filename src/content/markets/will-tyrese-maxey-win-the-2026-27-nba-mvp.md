@@ -3,8 +3,8 @@ title: "Will Tyrese Maxey win the 2026-27 NBA MVP?"
 description: "Will Tyrese Maxey win the 2026-27 NBA MVP? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tyrese Maxey win the 2026-27 NBA MVP?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-10-28
+status: "settled"
+lastUpdated: 2026-10-29
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 3.2
