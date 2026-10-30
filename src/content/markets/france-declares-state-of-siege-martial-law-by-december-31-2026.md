@@ -3,8 +3,8 @@ title: "France declares state of siege (martial law) by December 31, 2026?"
 description: "France declares state of siege (martial law) by December 31, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "France declares state of siege (martial law) by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-29
+status: "settled"
+lastUpdated: 2026-10-30
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.6

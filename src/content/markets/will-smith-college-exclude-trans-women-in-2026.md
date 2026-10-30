@@ -3,8 +3,8 @@ title: "Will Smith College exclude trans women in 2026?"
 description: "Will Smith College exclude trans women in 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Smith College exclude trans women in 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-29
+status: "settled"
+lastUpdated: 2026-10-30
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 12.0

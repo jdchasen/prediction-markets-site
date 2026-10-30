@@ -4,7 +4,7 @@ description: "Will an international court find Israel or its leaders guilty of G
 marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-10-29
+lastUpdated: 2026-10-30
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 15.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 
 ## Related Markets
 
-- [France declares state of siege (martial law) by December 31, 2026?](/odds/france-declares-state-of-siege-martial-law-by-december-31-2026) — 4% YES
-- [Will Smith College exclude trans women in 2026?](/odds/will-smith-college-exclude-trans-women-in-2026) — 12% YES
+- [Will another contestant win The Bachelorette Season 22?](/odds/will-another-contestant-win-the-bachelorette-season-22) — 63% YES
 - [Will Marguerite Humeau win the Turner Prize 2026?](/odds/will-marguerite-humeau-win-the-turner-prize-2026) — 19% YES
+- [Will the Democratic Party win the IL-08 House seat?](/odds/will-the-democratic-party-win-the-il-08-house-seat) — 96% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"?
 
-As of October 29, 2026, Polymarket prices YES at 15.5%.
+As of October 30, 2026, Polymarket prices YES at 15.5%.
 
 ### Where can I trade on this prediction market?
 

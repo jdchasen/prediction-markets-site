@@ -3,8 +3,8 @@ title: "Will the Minnesota Wild make the 2026-27 NHL Playoffs?"
 description: "Will the Minnesota Wild make the 2026-27 NHL Playoffs? Odds: 91.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Minnesota Wild make the 2026-27 NHL Playoffs?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-10-29
+status: "settled"
+lastUpdated: 2026-10-30
 expiryDate: 2027-04-16
 tags: ["polymarket", "sports"]
 polymarketYes: 91.5

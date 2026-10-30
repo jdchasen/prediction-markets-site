@@ -3,8 +3,8 @@ title: "Jon Favreau as Happy Hogan?"
 description: "Jon Favreau as Happy Hogan? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jon Favreau as Happy Hogan?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-29
+status: "settled"
+lastUpdated: 2026-10-30
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 53.0
