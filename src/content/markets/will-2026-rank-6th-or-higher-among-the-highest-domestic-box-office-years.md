@@ -3,7 +3,7 @@ title: "Will 2026 rank 6th or higher among the highest domestic box office years
 description: "Will 2026 rank 6th or higher among the highest domestic box office years? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 2026 rank 6th or higher among the highest domestic box office years?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-30
 expiryDate: 2027-02-01
 tags: ["politics", "polymarket"]

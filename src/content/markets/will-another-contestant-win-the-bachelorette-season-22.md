@@ -3,7 +3,7 @@ title: "Will another contestant win The Bachelorette Season 22?"
 description: "Will another contestant win The Bachelorette Season 22? Odds: 63.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will another contestant win The Bachelorette Season 22?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-30
 expiryDate: 2026-11-30
 tags: ["politics", "polymarket"]

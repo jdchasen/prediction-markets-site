@@ -3,7 +3,7 @@ title: "Will an international court find Israel or its leaders guilty of Genocid
 description: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027? Odds: 15.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-30
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]

@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-marguerite-humeau-win-the-turn
 
 ## Related Markets
 
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
-- [Will another contestant win The Bachelorette Season 22?](/odds/will-another-contestant-win-the-bachelorette-season-22) — 63% YES
-- [Will the Democratic Party win the IL-08 House seat?](/odds/will-the-democratic-party-win-the-il-08-house-seat) — 96% YES
+- [Will Seoul have between 70-85mm of precipitation in October?](/odds/will-seoul-have-between-70-85mm-of-precipitation-in-october) — 96% YES
+- [Will Democrats win the Michigan, Minnesota, and New Hampshire Senate seats?](/odds/will-democrats-win-the-michigan-minnesota-and-new-hampshire-senate-seats) — 70% YES
 
 ## Frequently Asked Questions
 

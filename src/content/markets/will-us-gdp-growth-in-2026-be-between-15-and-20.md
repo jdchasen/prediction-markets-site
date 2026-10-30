@@ -21,8 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-betwe
 
 ## Related Markets
 
-- [Will the October 2026 unemployment rate be 4.2%?](/odds/will-the-october-2026-unemployment-rate-be-42) — 40% YES
-- [Will UK GDP growth in Q3 2026 be between 0.4% and 0.5%?](/odds/will-uk-gdp-growth-in-q3-2026-be-between-04-and-05) — 16% YES
+- [Will the October 2026 unemployment rate be 4.2%?](/odds/will-the-october-2026-unemployment-rate-be-42) — 42% YES
 
 ## Frequently Asked Questions
 
