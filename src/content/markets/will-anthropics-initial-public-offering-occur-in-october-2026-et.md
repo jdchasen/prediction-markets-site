@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-anthropics-initial-public-offe
 
 ## Related Markets
 
-- [Will Ohio enact a data center moratorium by December 31, 2028?](/odds/will-ohio-enact-a-data-center-moratorium-by-december-31-2028) — 36% YES
-- [Will the Republican Party candidate win the 2026 TN-06 House election by 15%-20%?](/odds/will-the-republican-party-candidate-win-the-2026-tn-06-house-election-by-15-20) — 26% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will Russia capture all of Bilytske by December 31?](/odds/will-russia-capture-all-of-bilytske-by-december-31) — 75% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
 
 ## Frequently Asked Questions
 

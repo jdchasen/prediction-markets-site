@@ -21,7 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-betwe
 
 ## Related Markets
 
-- [Will the 5-year Treasury yield dip below 4.60% before 2027?](/odds/will-the-5-year-treasury-yield-dip-below-460-before-2027) — 69% YES
+- [Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?](/odds/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-november-202) — 92% YES
+- [Will the 5-year Treasury yield dip below 4.60% before 2027?](/odds/will-the-5-year-treasury-yield-dip-below-460-before-2027) — 66% YES
 
 ## Frequently Asked Questions
 

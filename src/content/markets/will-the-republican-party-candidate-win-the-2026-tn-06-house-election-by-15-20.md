@@ -3,7 +3,7 @@ title: "Will the Republican Party candidate win the 2026 TN-06 House election by
 description: "Will the Republican Party candidate win the 2026 TN-06 House election by 15%-20%? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party candidate win the 2026 TN-06 House election by 15%-20%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-31
 expiryDate: 2026-11-04
 tags: ["elections", "politics", "polymarket"]

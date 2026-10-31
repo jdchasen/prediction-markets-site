@@ -3,7 +3,7 @@ title: "Will Ohio enact a data center moratorium by December 31, 2028?"
 description: "Will Ohio enact a data center moratorium by December 31, 2028? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ohio enact a data center moratorium by December 31, 2028?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-31
 expiryDate: 2029-01-01
 tags: ["politics", "polymarket"]

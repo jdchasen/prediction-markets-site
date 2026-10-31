@@ -1,15 +1,15 @@
 ---
 title: "Will Kristi Noem leave the Trump administration before 2027?"
-description: "Will Kristi Noem leave the Trump administration before 2027? Odds: 36.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Kristi Noem leave the Trump administration before 2027? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kristi Noem leave the Trump administration before 2027?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-10-29
+status: "active"
+lastUpdated: 2026-10-31
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 36.5
-polymarketNo: 63.4
-polymarketVolume: 99595
+polymarketYes: 34.0
+polymarketNo: 66.0
+polymarketVolume: 99718
 polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-administration-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-ad
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.5% | 63.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.0% | 66.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Sam Altman out as OpenAI CEO before 2027?](/odds/sam-altman-out-as-openai-ceo-before-2027) — 5% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
+- [Will Anthropic's initial public offering occur in October 2026 (ET)?](/odds/will-anthropics-initial-public-offering-occur-in-october-2026-et) — 0% YES
+- [Will Russia capture all of Bilytske by December 31?](/odds/will-russia-capture-all-of-bilytske-by-december-31) — 75% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Kristi Noem leave the Trump administration before 2027?"?
 
-As of October 29, 2026, Polymarket prices YES at 36.5%.
+As of October 31, 2026, Polymarket prices YES at 34.0%.
 
 ### Where can I trade on this prediction market?
 

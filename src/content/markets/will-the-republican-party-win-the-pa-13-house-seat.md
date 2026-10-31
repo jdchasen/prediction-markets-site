@@ -1,15 +1,15 @@
 ---
 title: "Will the Republican Party win the PA-13 House seat?"
-description: "Will the Republican Party win the PA-13 House seat? Odds: 97.9% YES on Polymarket. See live prices and trade this market."
+description: "Will the Republican Party win the PA-13 House seat? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Republican Party win the PA-13 House seat?"
 category: "politics"
-status: "settled"
-lastUpdated: 2026-10-28
+status: "active"
+lastUpdated: 2026-10-31
 expiryDate: 2026-11-04
 tags: ["politics", "polymarket"]
-polymarketYes: 97.9
-polymarketNo: 2.1
-polymarketVolume: 9942
+polymarketYes: 97.2
+polymarketNo: 2.8
+polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-pa-13-house-seat"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-republican-party-win-the-p
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.9% | 2.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.2% | 2.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Marion Maréchal win the 2027 French presidential election?](/odds/will-marion-marchal-win-the-2027-french-presidential-election) — 0% YES
-- [Anthropic vs OpenAI - higher valuation on December 31?](/odds/anthropic-vs-openai-higher-valuation-on-december-31) — 93% YES
+- [Will Anthropic's initial public offering occur in October 2026 (ET)?](/odds/will-anthropics-initial-public-offering-occur-in-october-2026-et) — 0% YES
+- [Will Russia capture all of Bilytske by December 31?](/odds/will-russia-capture-all-of-bilytske-by-december-31) — 75% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Republican Party win the PA-13 House seat?"?
 
-As of October 28, 2026, Polymarket prices YES at 97.9%.
+As of October 31, 2026, Polymarket prices YES at 97.2%.
 
 ### Where can I trade on this prediction market?
 
