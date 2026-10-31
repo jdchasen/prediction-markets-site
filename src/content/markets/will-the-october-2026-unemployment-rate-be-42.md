@@ -3,8 +3,8 @@ title: "Will the October 2026 unemployment rate be 4.2%?"
 description: "Will the October 2026 unemployment rate be 4.2%? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the October 2026 unemployment rate be 4.2%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-10-30
+status: "settled"
+lastUpdated: 2026-10-31
 expiryDate: 2026-11-06
 tags: ["economics", "polymarket"]
 polymarketYes: 41.5

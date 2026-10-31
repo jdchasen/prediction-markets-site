@@ -3,8 +3,8 @@ title: "Will Democrats win the Michigan, Minnesota, and New Hampshire Senate sea
 description: "Will Democrats win the Michigan, Minnesota, and New Hampshire Senate seats? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Democrats win the Michigan, Minnesota, and New Hampshire Senate seats?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-30
+status: "settled"
+lastUpdated: 2026-10-31
 expiryDate: 2026-11-03
 tags: ["politics", "polymarket"]
 polymarketYes: 70.5
