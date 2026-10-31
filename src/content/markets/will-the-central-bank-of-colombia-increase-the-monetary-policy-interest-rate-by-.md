@@ -3,7 +3,7 @@ title: "Will the Central Bank of Colombia increase the monetary policy interest 
 description: "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the December meeting? Odds: 31.8% YES on Polymarket. See live price..."
 marketQuestion: "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the December meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-31
 expiryDate: 2026-12-18
 tags: ["economics", "interest-rates", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Seoul have between 70-85mm of precipitation in October?"
 description: "Will Seoul have between 70-85mm of precipitation in October? Odds: 96.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Seoul have between 70-85mm of precipitation in October?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-31
 expiryDate: 2027-01-08
 tags: ["politics", "polymarket"]

@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-betwe
 
 ## Related Markets
 
-- [Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the December meeting?](/odds/will-the-central-bank-of-colombia-increase-the-monetary-policy-interest-rate-by-) — 32% YES
+- [Will the 5-year Treasury yield dip below 4.60% before 2027?](/odds/will-the-5-year-treasury-yield-dip-below-460-before-2027) — 69% YES
 
 ## Frequently Asked Questions
 

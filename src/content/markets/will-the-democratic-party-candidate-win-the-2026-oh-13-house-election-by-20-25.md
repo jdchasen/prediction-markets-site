@@ -3,7 +3,7 @@ title: "Will the Democratic Party candidate win the 2026 OH-13 House election by
 description: "Will the Democratic Party candidate win the 2026 OH-13 House election by 20%-25%? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democratic Party candidate win the 2026 OH-13 House election by 20%-25%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-31
 expiryDate: 2026-11-04
 tags: ["elections", "politics", "polymarket"]

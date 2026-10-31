@@ -3,7 +3,7 @@ title: "Will Marguerite Humeau win the Turner Prize 2026?"
 description: "Will Marguerite Humeau win the Turner Prize 2026? Odds: 18.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Marguerite Humeau win the Turner Prize 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-10-31
 expiryDate: 2027-04-01
 tags: ["politics", "polymarket"]

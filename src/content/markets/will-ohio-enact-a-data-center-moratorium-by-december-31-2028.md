@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-ohio-enact-a-data-center-morat
 
 ## Related Markets
 
-- [Kharg Island no longer under Iranian control by December 31?](/odds/kharg-island-no-longer-under-iranian-control-by-december-31) — 8% YES
 - [Will Anthropic's initial public offering occur in October 2026 (ET)?](/odds/will-anthropics-initial-public-offering-occur-in-october-2026-et) — 0% YES
-- [Will Seoul have between 70-85mm of precipitation in October?](/odds/will-seoul-have-between-70-85mm-of-precipitation-in-october) — 96% YES
+- [Will the Republican Party candidate win the 2026 TN-06 House election by 15%-20%?](/odds/will-the-republican-party-candidate-win-the-2026-tn-06-house-election-by-15-20) — 26% YES
 
 ## Frequently Asked Questions
 
