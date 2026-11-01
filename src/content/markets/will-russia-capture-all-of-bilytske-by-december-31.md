@@ -3,8 +3,8 @@ title: "Will Russia capture all of Bilytske by December 31?"
 description: "Will Russia capture all of Bilytske by December 31? Odds: 75.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture all of Bilytske by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-31
+status: "settled"
+lastUpdated: 2026-11-01
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 75.0

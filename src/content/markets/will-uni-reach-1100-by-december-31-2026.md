@@ -3,8 +3,8 @@ title: "Will UNI reach $11.00 by December 31, 2026?"
 description: "Will UNI reach $11.00 by December 31, 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UNI reach $11.00 by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-31
+status: "settled"
+lastUpdated: 2026-11-01
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 18.5

@@ -3,8 +3,8 @@ title: "Will Werwulf win Best Makeup and Hairstyling at the 99th Academy Awards?
 description: "Will Werwulf win Best Makeup and Hairstyling at the 99th Academy Awards? Odds: 42.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Werwulf win Best Makeup and Hairstyling at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-10-31
+status: "settled"
+lastUpdated: 2026-11-01
 expiryDate: 2027-07-01
 tags: ["ai", "entertainment", "polymarket"]
 polymarketYes: 42.9

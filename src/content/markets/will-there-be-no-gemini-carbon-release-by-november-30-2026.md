@@ -3,8 +3,8 @@ title: "Will there be no Gemini Carbon release by November 30, 2026?"
 description: "Will there be no Gemini Carbon release by November 30, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no Gemini Carbon release by November 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-10-31
+status: "settled"
+lastUpdated: 2026-11-01
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 16.5

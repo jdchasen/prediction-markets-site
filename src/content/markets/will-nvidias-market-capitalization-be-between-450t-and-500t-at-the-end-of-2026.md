@@ -3,8 +3,8 @@ title: "Will Nvidia’s market capitalization be between $4.50T and $5.00T at th
 description: "Will Nvidia’s market capitalization be between $4.50T and $5.00T at the end of 2026? Odds: 19.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nvidia’s market capitalization be between $4.50T and $5.00T at the end of 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-10-31
+status: "settled"
+lastUpdated: 2026-11-01
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 19.0
