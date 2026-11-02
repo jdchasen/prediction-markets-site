@@ -4,7 +4,7 @@ description: "Will monthly inflation increase by 0.4% in October? Odds: 11.0% YE
 marketQuestion: "Will monthly inflation increase by 0.4% in October?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-01
+lastUpdated: 2026-11-02
 expiryDate: 2026-11-11
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 11.0
@@ -21,13 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-monthly-inflation-increase-by-
 
 ## Related Markets
 
-- [Will the 5-year Treasury yield dip below 4.60% before 2027?](/odds/will-the-5-year-treasury-yield-dip-below-460-before-2027) — 65% YES
+- [No change in Reserve Bank of Australia's interest rates at the November 2026 meeting?](/odds/no-change-in-reserve-bank-of-australias-interest-rates-at-the-november-2026-meet) — 8% YES
+- [Will the 5-year Treasury yield dip below 4.60% before 2027?](/odds/will-the-5-year-treasury-yield-dip-below-460-before-2027) — 64% YES
+- [Will Argentina's monthly inflation in October 2026 be between 1.6% and 1.8%?](/odds/will-argentinas-monthly-inflation-in-october-2026-be-between-16-and-18) — 52% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will monthly inflation increase by 0.4% in October?"?
 
-As of November 01, 2026, Polymarket prices YES at 11.0%.
+As of November 02, 2026, Polymarket prices YES at 11.0%.
 
 ### Where can I trade on this prediction market?
 
