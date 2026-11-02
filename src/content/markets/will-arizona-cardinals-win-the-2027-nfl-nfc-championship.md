@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 99.9% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Charlotte Hornets win the 2027 NBA Finals?](/odds/will-charlotte-hornets-win-the-2027-nba-finals) — 1% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Arizona Cardinals win the 2027 NFL NFC Championship?"?

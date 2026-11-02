@@ -1,14 +1,14 @@
 ---
 title: "Printr FDV above $800M one day after launch?"
-description: "Printr FDV above $800M one day after launch? Odds: 8.6% YES on Polymarket. See live prices and trade this market."
+description: "Printr FDV above $800M one day after launch? Odds: 11.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Printr FDV above $800M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-02
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 8.6
-polymarketNo: 91.3
+polymarketYes: 11.3
+polymarketNo: 88.6
 polymarketVolume: 9947
 polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after-launch"
 ---
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.6% | 91.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.3% | 88.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Extended FDV above $3B one day after launch?](/odds/extended-fdv-above-3b-one-day-after-launch) — 2% YES
-- [Will Ethereum hit $4k by December 31, 2026?](/odds/will-ethereum-hit-4k-by-december-31-2026) — 4% YES
 - [Will Abstract launch a token by June 30, 2027?](/odds/will-abstract-launch-a-token-by-june-30-2027) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Printr FDV above $800M one day after launch?"?
 
-As of November 02, 2026, Polymarket prices YES at 8.6%.
+As of November 02, 2026, Polymarket prices YES at 11.3%.
 
 ### Where can I trade on this prediction market?
 

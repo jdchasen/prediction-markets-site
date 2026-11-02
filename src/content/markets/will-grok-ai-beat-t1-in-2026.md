@@ -1,15 +1,15 @@
 ---
 title: "Will Grok AI beat T1 in 2026? "
-description: "Will Grok AI beat T1 in 2026?  Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Grok AI beat T1 in 2026?  Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grok AI beat T1 in 2026? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-02
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 99449
+polymarketYes: 5.2
+polymarketNo: 94.8
+polymarketVolume: 99467
 polymarketUrl: "https://polymarket.com/event/will-t1-beat-grok-ai-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-t1-beat-grok-ai-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.2% | 94.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [US announces end of Iranian blockade by November 30, 2026?](/odds/us-announces-end-of-iranian-blockade-by-november-30-2026) — 30% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 16% YES
-- [Will Kristi Noem leave the Trump administration before 2027?](/odds/will-kristi-noem-leave-the-trump-administration-before-2027) — 27% YES
+- [Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026?](/odds/will-avengers-doomsday-have-the-2nd-best-domestic-opening-weekend-in-2026) — 48% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Grok AI beat T1 in 2026? "?
 
-As of November 02, 2026, Polymarket prices YES at 5.5%.
+As of November 02, 2026, Polymarket prices YES at 5.2%.
 
 ### Where can I trade on this prediction market?
 

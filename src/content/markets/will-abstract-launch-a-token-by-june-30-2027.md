@@ -22,8 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-abstract-launch-a-token-by-jun
 ## Related Markets
 
 - [Extended FDV above $3B one day after launch?](/odds/extended-fdv-above-3b-one-day-after-launch) — 2% YES
-- [Will Ethereum hit $4k by December 31, 2026?](/odds/will-ethereum-hit-4k-by-december-31-2026) — 4% YES
-- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 11% YES
 
 ## Frequently Asked Questions
 

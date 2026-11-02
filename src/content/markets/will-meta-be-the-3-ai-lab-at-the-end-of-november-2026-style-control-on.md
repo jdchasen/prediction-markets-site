@@ -3,7 +3,7 @@ title: "Will Meta be the #3 AI Lab at the end of November 2026 (Style Control On
 description: "Will Meta be the #3 AI Lab at the end of November 2026 (Style Control On)? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta be the #3 AI Lab at the end of November 2026 (Style Control On)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-02
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will the Federal decree of 19 June 2026 on additional funding for the AV
 description: "Will the Federal decree of 19 June 2026 on additional funding for the AVS through an increase in VAT be approved in Switzerland’s November 29, 2026 popular v..."
 marketQuestion: "Will the Federal decree of 19 June 2026 on additional funding for the AVS through an increase in VAT be approved in Switzerland’s November 29, 2026 popular vote?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-02
 expiryDate: 2026-11-29
 tags: ["federal-reserve", "politics", "polymarket"]

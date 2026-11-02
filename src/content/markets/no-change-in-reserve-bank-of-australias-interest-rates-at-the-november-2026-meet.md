@@ -3,7 +3,7 @@ title: "No change in Reserve Bank of Australia's interest rates at the November 
 description: "No change in Reserve Bank of Australia's interest rates at the November 2026 meeting? Odds: 8.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "No change in Reserve Bank of Australia's interest rates at the November 2026 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-02
 expiryDate: 2026-11-04
 tags: ["economics", "interest-rates", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Ethereum hit $4k by December 31, 2026?"
 description: "Will Ethereum hit $4k by December 31, 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum hit $4k by December 31, 2026?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-02
 expiryDate: 2027-01-01
 tags: ["crypto", "ethereum", "polymarket"]
