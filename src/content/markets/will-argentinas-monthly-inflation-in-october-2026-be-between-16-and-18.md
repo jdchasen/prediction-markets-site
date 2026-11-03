@@ -4,7 +4,7 @@ description: "Will Argentina's monthly inflation in October 2026 be between 1.6%
 marketQuestion: "Will Argentina's monthly inflation in October 2026 be between 1.6% and 1.8%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-02
+lastUpdated: 2026-11-03
 expiryDate: 2026-11-12
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 48.0
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-argentinas-monthly-inflation-i
 
 ### What are the current odds for "Will Argentina's monthly inflation in October 2026 be between 1.6% and 1.8%?"?
 
-As of November 02, 2026, Polymarket prices YES at 48.0%.
+As of November 03, 2026, Polymarket prices YES at 48.0%.
 
 ### Where can I trade on this prediction market?
 

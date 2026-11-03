@@ -4,7 +4,7 @@ description: "Will Trump and Putin meet next in Switzerland? Odds: 0.2% YES on P
 marketQuestion: "Will Trump and Putin meet next in Switzerland?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-02
+lastUpdated: 2026-11-03
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.2
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-trump-and-putin-meet-next-in-s
 
 ## Related Markets
 
-- [US announces end of Iranian blockade by November 30, 2026?](/odds/us-announces-end-of-iranian-blockade-by-november-30-2026) — 30% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026?](/odds/will-avengers-doomsday-have-the-2nd-best-domestic-opening-weekend-in-2026) — 48% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Trump and Putin meet next in Switzerland?"?
 
-As of November 02, 2026, Polymarket prices YES at 0.2%.
+As of November 03, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will AP call US House control by November 5, 11:59 PM?"
 description: "Will AP call US House control by November 5, 11:59 PM? Odds: 84.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AP call US House control by November 5, 11:59 PM?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-02
+status: "settled"
+lastUpdated: 2026-11-03
 expiryDate: 2026-11-06
 tags: ["politics", "polymarket"]
 polymarketYes: 84.8

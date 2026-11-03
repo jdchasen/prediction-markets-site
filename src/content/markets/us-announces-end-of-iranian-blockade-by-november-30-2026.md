@@ -3,8 +3,8 @@ title: "US announces end of Iranian blockade by November 30, 2026?"
 description: "US announces end of Iranian blockade by November 30, 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US announces end of Iranian blockade by November 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-02
+status: "settled"
+lastUpdated: 2026-11-03
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 29.5

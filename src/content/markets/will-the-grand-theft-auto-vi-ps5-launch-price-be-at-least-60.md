@@ -3,8 +3,8 @@ title: "Will the Grand Theft Auto VI PS5 launch price be at least $60?"
 description: "Will the Grand Theft Auto VI PS5 launch price be at least $60? Odds: 98.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Grand Theft Auto VI PS5 launch price be at least $60?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-02
+status: "settled"
+lastUpdated: 2026-11-03
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 98.7

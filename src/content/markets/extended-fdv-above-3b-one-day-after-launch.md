@@ -4,12 +4,12 @@ description: "Extended FDV above $3B one day after launch? Odds: 2.2% YES on Pol
 marketQuestion: "Extended FDV above $3B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-02
+lastUpdated: 2026-11-03
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 2.2
 polymarketNo: 97.8
-polymarketVolume: 99395
+polymarketVolume: 99400
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after-launch-437-271-658"
 ---
 
@@ -21,14 +21,15 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after
 
 ## Related Markets
 
+- [Will Bitcoin reach $80,000 November 2-8?](/odds/will-bitcoin-reach-80000-november-2-8) — 38% YES
 - [Will Abstract launch a token by June 30, 2027?](/odds/will-abstract-launch-a-token-by-june-30-2027) — 4% YES
-- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 11% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $3B one day after launch?"?
 
-As of November 02, 2026, Polymarket prices YES at 2.2%.
+As of November 03, 2026, Polymarket prices YES at 2.2%.
 
 ### Where can I trade on this prediction market?
 

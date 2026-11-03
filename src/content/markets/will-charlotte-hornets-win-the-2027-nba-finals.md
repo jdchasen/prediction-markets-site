@@ -4,7 +4,7 @@ description: "Will Charlotte Hornets win the 2027 NBA Finals? Odds: 0.6% YES on 
 marketQuestion: "Will Charlotte Hornets win the 2027 NBA Finals?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-02
+lastUpdated: 2026-11-03
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.6
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-charlotte-hornets-win-the-2027
 
 ### What are the current odds for "Will Charlotte Hornets win the 2027 NBA Finals?"?
 
-As of November 02, 2026, Polymarket prices YES at 0.6%.
+As of November 03, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

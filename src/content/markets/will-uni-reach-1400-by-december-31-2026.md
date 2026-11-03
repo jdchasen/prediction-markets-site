@@ -4,7 +4,7 @@ description: "Will UNI reach $14.00 by December 31, 2026? Odds: 7.8% YES on Poly
 marketQuestion: "Will UNI reach $14.00 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-02
+lastUpdated: 2026-11-03
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 7.8
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-14pt00-by-december-3
 
 ## Related Markets
 
-- [US announces end of Iranian blockade by November 30, 2026?](/odds/us-announces-end-of-iranian-blockade-by-november-30-2026) — 30% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026?](/odds/will-avengers-doomsday-have-the-2nd-best-domestic-opening-weekend-in-2026) — 48% YES
+- [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UNI reach $14.00 by December 31, 2026?"?
 
-As of November 02, 2026, Polymarket prices YES at 7.8%.
+As of November 03, 2026, Polymarket prices YES at 7.8%.
 
 ### Where can I trade on this prediction market?
 
