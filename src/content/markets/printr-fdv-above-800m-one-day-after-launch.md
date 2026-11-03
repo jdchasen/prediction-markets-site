@@ -1,14 +1,14 @@
 ---
 title: "Printr FDV above $800M one day after launch?"
-description: "Printr FDV above $800M one day after launch? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
+description: "Printr FDV above $800M one day after launch? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Printr FDV above $800M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-03
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 10.0
-polymarketNo: 90.0
+polymarketYes: 8.9
+polymarketNo: 91.0
 polymarketVolume: 9947
 polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after-launch"
 ---
@@ -17,19 +17,17 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 10.0% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.9% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Extended FDV above $3B one day after launch?](/odds/extended-fdv-above-3b-one-day-after-launch) — 2% YES
-- [Will Bitcoin reach $80,000 November 2-8?](/odds/will-bitcoin-reach-80000-november-2-8) — 38% YES
-- [Will Abstract launch a token by June 30, 2027?](/odds/will-abstract-launch-a-token-by-june-30-2027) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Printr FDV above $800M one day after launch?"?
 
-As of November 03, 2026, Polymarket prices YES at 10.0%.
+As of November 03, 2026, Polymarket prices YES at 8.9%.
 
 ### Where can I trade on this prediction market?
 

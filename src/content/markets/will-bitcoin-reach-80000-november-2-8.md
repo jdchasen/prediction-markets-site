@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $80,000 November 2-8?"
 description: "Will Bitcoin reach $80,000 November 2-8? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $80,000 November 2-8?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-03
 expiryDate: 2026-11-09
 tags: ["bitcoin", "crypto", "polymarket"]

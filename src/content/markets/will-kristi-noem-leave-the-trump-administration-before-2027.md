@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-ad
 
 ## Related Markets
 
+- [Pete Hegseth out as Secretary of Defense by December 31?](/odds/pete-hegseth-out-as-secretary-of-defense-by-december-31) — 36% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026?](/odds/will-avengers-doomsday-have-the-2nd-best-domestic-opening-weekend-in-2026) — 48% YES
 - [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
 
 ## Frequently Asked Questions

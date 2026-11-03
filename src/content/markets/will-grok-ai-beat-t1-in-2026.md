@@ -1,15 +1,15 @@
 ---
 title: "Will Grok AI beat T1 in 2026? "
-description: "Will Grok AI beat T1 in 2026?  Odds: 4.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Grok AI beat T1 in 2026?  Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grok AI beat T1 in 2026? "
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-03
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 4.9
-polymarketNo: 95.1
-polymarketVolume: 99467
+polymarketYes: 5.2
+polymarketNo: 94.8
+polymarketVolume: 99777
 polymarketUrl: "https://polymarket.com/event/will-t1-beat-grok-ai-in-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-t1-beat-grok-ai-in-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.9% | 95.1% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.2% | 94.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Pete Hegseth out as Secretary of Defense by December 31?](/odds/pete-hegseth-out-as-secretary-of-defense-by-december-31) — 36% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026?](/odds/will-avengers-doomsday-have-the-2nd-best-domestic-opening-weekend-in-2026) — 48% YES
 - [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Grok AI beat T1 in 2026? "?
 
-As of November 03, 2026, Polymarket prices YES at 4.9%.
+As of November 03, 2026, Polymarket prices YES at 5.2%.
 
 ### Where can I trade on this prediction market?
 

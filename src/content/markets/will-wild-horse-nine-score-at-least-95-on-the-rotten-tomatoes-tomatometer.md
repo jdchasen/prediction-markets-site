@@ -3,7 +3,7 @@ title: "Will \"Wild Horse Nine\" score at least 95 on the Rotten Tomatoes Tomato
 description: "Will \"Wild Horse Nine\" score at least 95 on the Rotten Tomatoes Tomatometer? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Wild Horse Nine\" score at least 95 on the Rotten Tomatoes Tomatometer?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-03
 expiryDate: 2026-11-09
 tags: ["politics", "polymarket"]

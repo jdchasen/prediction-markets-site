@@ -9,7 +9,7 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 992939
+polymarketVolume: 994505
 polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 99.9% | $993K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 99.9% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Charlotte Hornets win the 2027 NBA Finals?](/odds/will-charlotte-hornets-win-the-2027-nba-finals) — 1% YES
+- [Will Charlotte Hornets win the 2027 NBA Finals?](/odds/will-charlotte-hornets-win-the-2027-nba-finals) — 0% YES
 
 ## Frequently Asked Questions
 

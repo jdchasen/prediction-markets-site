@@ -1,15 +1,15 @@
 ---
 title: "Extended FDV above $3B one day after launch?"
-description: "Extended FDV above $3B one day after launch? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Extended FDV above $3B one day after launch? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $3B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-03
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 99400
+polymarketYes: 2.1
+polymarketNo: 98.0
+polymarketVolume: 99420
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after-launch-437-271-658"
 ---
 
@@ -17,19 +17,17 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.1% | 98.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bitcoin reach $80,000 November 2-8?](/odds/will-bitcoin-reach-80000-november-2-8) — 38% YES
-- [Will Abstract launch a token by June 30, 2027?](/odds/will-abstract-launch-a-token-by-june-30-2027) — 4% YES
-- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 10% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $3B one day after launch?"?
 
-As of November 03, 2026, Polymarket prices YES at 2.2%.
+As of November 03, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"
 description: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-03
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Avengers: Doomsday have the 2nd best domestic opening weekend in 20
 description: "Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-03
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
