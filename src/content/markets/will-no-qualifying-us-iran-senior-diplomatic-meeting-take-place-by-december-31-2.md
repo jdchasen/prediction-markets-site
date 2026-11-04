@@ -3,7 +3,7 @@ title: "Will no qualifying US-Iran senior diplomatic meeting take place by Decem
 description: "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026? Odds: 58.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-04
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

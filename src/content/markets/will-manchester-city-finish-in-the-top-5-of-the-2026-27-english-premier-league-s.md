@@ -3,7 +3,7 @@ title: "Will Manchester City finish in the top 5 of the 2026-27 English Premier 
 description: "Will Manchester City finish in the top 5 of the 2026-27 English Premier League season? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester City finish in the top 5 of the 2026-27 English Premier League season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-04
 expiryDate: 2027-06-14
 tags: ["polymarket", "sports"]

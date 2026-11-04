@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 11.6
 polymarketNo: 88.4
-polymarketVolume: 9945
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-the-ornn-h200-index-be-between-5pt50-and-6pt00-on-december-31-2026-20260709164949067"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-h200-index-be-between
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
-- [Will Missouri enact a data center moratorium by June 30, 2027?](/odds/will-missouri-enact-a-data-center-moratorium-by-june-30-2027) — 13% YES
+- [Will Grok AI beat T1 in 2026? ](/odds/will-grok-ai-beat-t1-in-2026) — 5% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 

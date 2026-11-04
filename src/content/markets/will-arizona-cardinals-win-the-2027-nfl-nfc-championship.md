@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 99.9% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Manchester City finish in the top 5 of the 2026-27 English Premier League season?](/odds/will-manchester-city-finish-in-the-top-5-of-the-2026-27-english-premier-league-s) — 42% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Arizona Cardinals win the 2027 NFL NFC Championship?"?

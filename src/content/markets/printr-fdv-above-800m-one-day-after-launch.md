@@ -1,14 +1,14 @@
 ---
 title: "Printr FDV above $800M one day after launch?"
-description: "Printr FDV above $800M one day after launch? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Printr FDV above $800M one day after launch? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Printr FDV above $800M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-04
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.2
+polymarketYes: 8.5
+polymarketNo: 91.5
 polymarketVolume: 9947
 polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after-launch"
 ---
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Bitcoin dip to $67,500 in November?](/odds/will-bitcoin-dip-to-67500-in-november) — 14% YES
 - [Extended FDV above $3B one day after launch?](/odds/extended-fdv-above-3b-one-day-after-launch) — 2% YES
-- [US Treasury transactions on blockchain by December 31?](/odds/us-treasury-transactions-on-blockchain-by-december-31) — 5% YES
+- [QFEX FDV above $100M one day after launch?](/odds/qfex-fdv-above-100m-one-day-after-launch) — 54% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Printr FDV above $800M one day after launch?"?
 
-As of November 04, 2026, Polymarket prices YES at 8.8%.
+As of November 04, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Extended FDV above $3B one day after launch?"
-description: "Extended FDV above $3B one day after launch? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Extended FDV above $3B one day after launch? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $3B one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-04
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 98.0
+polymarketYes: 1.8
+polymarketNo: 98.2
 polymarketVolume: 99490
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after-launch-437-271-658"
 ---
@@ -17,18 +17,19 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 98.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
-- [US Treasury transactions on blockchain by December 31?](/odds/us-treasury-transactions-on-blockchain-by-december-31) — 5% YES
+- [Will Bitcoin dip to $67,500 in November?](/odds/will-bitcoin-dip-to-67500-in-november) — 14% YES
+- [QFEX FDV above $100M one day after launch?](/odds/qfex-fdv-above-100m-one-day-after-launch) — 54% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Extended FDV above $3B one day after launch?"?
 
-As of November 04, 2026, Polymarket prices YES at 2.1%.
+As of November 04, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Missouri enact a data center moratorium by June 30, 2027?"
 description: "Will Missouri enact a data center moratorium by June 30, 2027? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Missouri enact a data center moratorium by June 30, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-04
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]

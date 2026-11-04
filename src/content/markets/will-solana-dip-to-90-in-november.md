@@ -3,7 +3,7 @@ title: "Will Solana dip to $90 in November?"
 description: "Will Solana dip to $90 in November? Odds: 88.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Solana dip to $90 in November?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-04
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]

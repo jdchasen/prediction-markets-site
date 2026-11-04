@@ -1,14 +1,14 @@
 ---
 title: "Will UNI reach $14.00 by December 31, 2026?"
-description: "Will UNI reach $14.00 by December 31, 2026? Odds: 9.6% YES on Polymarket. See live prices and trade this market."
+description: "Will UNI reach $14.00 by December 31, 2026? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UNI reach $14.00 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-04
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 9.6
-polymarketNo: 90.5
+polymarketYes: 8.9
+polymarketNo: 91.1
 polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-uni-reach-14pt00-by-december-31-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-14pt00-by-december-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.6% | 90.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.9% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
-- [Will Missouri enact a data center moratorium by June 30, 2027?](/odds/will-missouri-enact-a-data-center-moratorium-by-june-30-2027) — 13% YES
+- [Will Grok AI beat T1 in 2026? ](/odds/will-grok-ai-beat-t1-in-2026) — 5% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will UNI reach $14.00 by December 31, 2026?"?
 
-As of November 04, 2026, Polymarket prices YES at 9.6%.
+As of November 04, 2026, Polymarket prices YES at 8.9%.
 
 ### Where can I trade on this prediction market?
 

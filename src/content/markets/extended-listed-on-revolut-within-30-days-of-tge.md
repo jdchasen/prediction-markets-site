@@ -3,7 +3,7 @@ title: "Extended listed on Revolut within 30 days of TGE?"
 description: "Extended listed on Revolut within 30 days of TGE? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended listed on Revolut within 30 days of TGE?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-04
 expiryDate: 2028-02-01
 tags: ["politics", "polymarket"]

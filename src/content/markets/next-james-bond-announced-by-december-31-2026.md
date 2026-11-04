@@ -1,14 +1,14 @@
 ---
 title: "Next James Bond announced by December 31, 2026?"
-description: "Next James Bond announced by December 31, 2026? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
+description: "Next James Bond announced by December 31, 2026? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next James Bond announced by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-04
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 84.5
-polymarketNo: 15.5
+polymarketYes: 85.0
+polymarketNo: 15.0
 polymarketVolume: 9992
 polymarketUrl: "https://polymarket.com/event/next-james-bond-announced-by-december-31-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/next-james-bond-announced-by-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 84.5% | 15.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 85.0% | 15.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
-- [Will Missouri enact a data center moratorium by June 30, 2027?](/odds/will-missouri-enact-a-data-center-moratorium-by-june-30-2027) — 13% YES
+- [Will Grok AI beat T1 in 2026? ](/odds/will-grok-ai-beat-t1-in-2026) — 5% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Next James Bond announced by December 31, 2026?"?
 
-As of November 04, 2026, Polymarket prices YES at 84.5%.
+As of November 04, 2026, Polymarket prices YES at 85.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
 polymarketYes: 5.2
 polymarketNo: 94.8
-polymarketVolume: 9762
+polymarketVolume: 9782
 polymarketUrl: "https://polymarket.com/event/us-treasury-transactions-on-blockchain-by-december-31-20260629152656715"
 ---
 
@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/us-treasury-transactions-on-blockch
 
 ## Related Markets
 
+- [Will Bitcoin dip to $67,500 in November?](/odds/will-bitcoin-dip-to-67500-in-november) — 14% YES
 - [Extended FDV above $3B one day after launch?](/odds/extended-fdv-above-3b-one-day-after-launch) — 2% YES
-- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
+- [QFEX FDV above $100M one day after launch?](/odds/qfex-fdv-above-100m-one-day-after-launch) — 54% YES
 
 ## Frequently Asked Questions
 

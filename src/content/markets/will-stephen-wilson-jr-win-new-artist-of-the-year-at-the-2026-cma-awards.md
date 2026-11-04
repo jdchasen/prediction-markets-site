@@ -3,7 +3,7 @@ title: "Will Stephen Wilson Jr. win New Artist of the Year at the 2026 CMA Award
 description: "Will Stephen Wilson Jr. win New Artist of the Year at the 2026 CMA Awards? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stephen Wilson Jr. win New Artist of the Year at the 2026 CMA Awards?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-04
 expiryDate: 2026-11-19
 tags: ["politics", "polymarket"]

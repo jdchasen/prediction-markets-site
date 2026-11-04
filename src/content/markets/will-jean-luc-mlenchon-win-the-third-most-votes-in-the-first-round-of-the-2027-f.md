@@ -9,7 +9,7 @@ expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 29.5
 polymarketNo: 70.5
-polymarketVolume: 9933
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-jean-luc-melenchon-win-the-third-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-melenchon-win-the-thi
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
-- [Will Missouri enact a data center moratorium by June 30, 2027?](/odds/will-missouri-enact-a-data-center-moratorium-by-june-30-2027) — 13% YES
+- [Will Grok AI beat T1 in 2026? ](/odds/will-grok-ai-beat-t1-in-2026) — 5% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
 
 ## Frequently Asked Questions
 
