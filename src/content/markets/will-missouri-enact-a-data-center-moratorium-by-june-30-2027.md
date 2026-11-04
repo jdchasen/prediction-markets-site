@@ -4,7 +4,7 @@ description: "Will Missouri enact a data center moratorium by June 30, 2027? Odd
 marketQuestion: "Will Missouri enact a data center moratorium by June 30, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-03
+lastUpdated: 2026-11-04
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 13.0
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-missouri-enact-a-data-center-m
 
 ## Related Markets
 
-- [Pete Hegseth out as Secretary of Defense by December 31?](/odds/pete-hegseth-out-as-secretary-of-defense-by-december-31) — 36% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
+- [Will Grok AI beat T1 in 2026? ](/odds/will-grok-ai-beat-t1-in-2026) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Missouri enact a data center moratorium by June 30, 2027?"?
 
-As of November 03, 2026, Polymarket prices YES at 13.0%.
+As of November 04, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 

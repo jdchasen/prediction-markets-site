@@ -3,8 +3,8 @@ title: "Will no Israeli government be formed after the 2026 Knesset election?"
 description: "Will no Israeli government be formed after the 2026 Knesset election? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no Israeli government be formed after the 2026 Knesset election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-03
+status: "settled"
+lastUpdated: 2026-11-04
 expiryDate: 2028-01-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 44.5

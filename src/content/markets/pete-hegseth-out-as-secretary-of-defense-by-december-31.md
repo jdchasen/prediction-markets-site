@@ -3,8 +3,8 @@ title: "Pete Hegseth out as Secretary of Defense by December 31?"
 description: "Pete Hegseth out as Secretary of Defense by December 31? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Pete Hegseth out as Secretary of Defense by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-03
+status: "settled"
+lastUpdated: 2026-11-04
 expiryDate: 2027-01-01
 tags: ["ethereum", "politics", "polymarket"]
 polymarketYes: 35.5

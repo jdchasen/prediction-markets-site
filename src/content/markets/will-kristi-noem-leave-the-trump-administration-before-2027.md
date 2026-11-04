@@ -1,14 +1,14 @@
 ---
 title: "Will Kristi Noem leave the Trump administration before 2027?"
-description: "Will Kristi Noem leave the Trump administration before 2027? Odds: 26.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Kristi Noem leave the Trump administration before 2027? Odds: 26.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kristi Noem leave the Trump administration before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-03
+lastUpdated: 2026-11-04
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 26.7
-polymarketNo: 73.3
+polymarketYes: 26.9
+polymarketNo: 73.2
 polymarketVolume: 99718
 polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-administration-before-2027"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-kristi-noem-leave-the-trump-ad
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 26.7% | 73.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 26.9% | 73.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Pete Hegseth out as Secretary of Defense by December 31?](/odds/pete-hegseth-out-as-secretary-of-defense-by-december-31) — 36% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
+- [Will Missouri enact a data center moratorium by June 30, 2027?](/odds/will-missouri-enact-a-data-center-moratorium-by-june-30-2027) — 13% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Kristi Noem leave the Trump administration before 2027?"?
 
-As of November 03, 2026, Polymarket prices YES at 26.7%.
+As of November 04, 2026, Polymarket prices YES at 26.9%.
 
 ### Where can I trade on this prediction market?
 

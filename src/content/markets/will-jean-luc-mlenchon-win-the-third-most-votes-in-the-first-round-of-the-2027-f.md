@@ -1,14 +1,14 @@
 ---
 title: "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election?"
-description: "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election? Odds: 30.5% YES on Polymarket. See live prices ..."
+description: "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election? Odds: 29.5% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-03
+lastUpdated: 2026-11-04
 expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 30.5
-polymarketNo: 69.5
+polymarketYes: 29.5
+polymarketNo: 70.5
 polymarketVolume: 9933
 polymarketUrl: "https://polymarket.com/event/will-jean-luc-melenchon-win-the-third-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-melenchon-win-the-thi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.5% | 69.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.5% | 70.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Pete Hegseth out as Secretary of Defense by December 31?](/odds/pete-hegseth-out-as-secretary-of-defense-by-december-31) — 36% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Trump and Putin meet next in Switzerland?](/odds/will-trump-and-putin-meet-next-in-switzerland) — 0% YES
+- [Will Missouri enact a data center moratorium by June 30, 2027?](/odds/will-missouri-enact-a-data-center-moratorium-by-june-30-2027) — 13% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election?"?
 
-As of November 03, 2026, Polymarket prices YES at 30.5%.
+As of November 04, 2026, Polymarket prices YES at 29.5%.
 
 ### Where can I trade on this prediction market?
 
