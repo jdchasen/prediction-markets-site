@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 99490
+polymarketVolume: 99510
 polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after-launch-437-271-658"
 ---
 
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/extended-fdv-above-3b-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Ethereum reach $2,900 November 2-8?](/odds/will-ethereum-reach-2900-november-2-8) — 0% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 8% YES
-- [US Treasury transactions on blockchain by December 31?](/odds/us-treasury-transactions-on-blockchain-by-december-31) — 5% YES
 
 ## Frequently Asked Questions
 

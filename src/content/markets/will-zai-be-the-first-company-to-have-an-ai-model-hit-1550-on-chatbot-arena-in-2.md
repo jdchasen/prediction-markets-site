@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-zai-be-the-first-company-to-ha
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Grok AI beat T1 in 2026? ](/odds/will-grok-ai-beat-t1-in-2026) — 5% YES
 - [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
+- [Will Kristi Noem leave the Trump administration before 2027?](/odds/will-kristi-noem-leave-the-trump-administration-before-2027) — 29% YES
 
 ## Frequently Asked Questions
 

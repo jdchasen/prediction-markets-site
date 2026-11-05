@@ -3,7 +3,7 @@ title: "Taylor & Travis divorce in 2026?"
 description: "Taylor & Travis divorce in 2026? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Taylor & Travis divorce in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 99.9% | $995K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Ousmane Dembélé (PSG) be the top goalscorer of the 2026-27 Ligue 1 season?](/odds/will-ousmane-dembl-psg-be-the-top-goalscorer-of-the-2026-27-ligue-1-season) — 8% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Arizona Cardinals win the 2027 NFL NFC Championship?"?

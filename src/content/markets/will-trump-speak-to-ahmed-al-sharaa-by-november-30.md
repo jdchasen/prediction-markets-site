@@ -3,7 +3,7 @@ title: "Will Trump speak to Ahmed al-Sharaa by November 30?"
 description: "Will Trump speak to Ahmed al-Sharaa by November 30? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Ahmed al-Sharaa by November 30?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-05
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket", "trump"]

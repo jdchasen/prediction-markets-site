@@ -3,7 +3,7 @@ title: "US Treasury transactions on blockchain by December 31?"
 description: "US Treasury transactions on blockchain by December 31? Odds: 5.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US Treasury transactions on blockchain by December 31?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]

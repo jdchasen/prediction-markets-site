@@ -3,7 +3,7 @@ title: "Will Jason or Lucia die in GTA VI?"
 description: "Will Jason or Lucia die in GTA VI? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jason or Lucia die in GTA VI?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-05
 expiryDate: 2026-12-20
 tags: ["politics", "polymarket"]

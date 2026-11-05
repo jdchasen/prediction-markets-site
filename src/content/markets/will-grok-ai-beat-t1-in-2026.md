@@ -3,7 +3,7 @@ title: "Will Grok AI beat T1 in 2026? "
 description: "Will Grok AI beat T1 in 2026?  Odds: 4.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Grok AI beat T1 in 2026? "
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]

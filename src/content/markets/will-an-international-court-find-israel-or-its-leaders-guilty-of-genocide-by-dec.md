@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-an-international-court-find-is
 ## Related Markets
 
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Grok AI beat T1 in 2026? ](/odds/will-grok-ai-beat-t1-in-2026) — 5% YES
-- [Will Kristi Noem leave the Trump administration before 2027?](/odds/will-kristi-noem-leave-the-trump-administration-before-2027) — 27% YES
+- [Will Kristi Noem leave the Trump administration before 2027?](/odds/will-kristi-noem-leave-the-trump-administration-before-2027) — 29% YES
+- [Will Oregon Ducks win the 2027 CFP National Championship?](/odds/will-oregon-ducks-win-the-2027-cfp-national-championship) — 0% YES
 
 ## Frequently Asked Questions
 
