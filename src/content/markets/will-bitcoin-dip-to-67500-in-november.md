@@ -3,8 +3,8 @@ title: "Will Bitcoin dip to $67,500 in November?"
 description: "Will Bitcoin dip to $67,500 in November? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin dip to $67,500 in November?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-11-04
+status: "settled"
+lastUpdated: 2026-11-05
 expiryDate: 2026-12-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 13.5

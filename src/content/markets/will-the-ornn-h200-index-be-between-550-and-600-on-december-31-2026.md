@@ -4,7 +4,7 @@ description: "Will the Ornn H200 Index be between $5.50 and $6.00 on December 31
 marketQuestion: "Will the Ornn H200 Index be between $5.50 and $6.00 on December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 11.6
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ornn-h200-index-be-between
 
 ### What are the current odds for "Will the Ornn H200 Index be between $5.50 and $6.00 on December 31, 2026?"?
 
-As of November 04, 2026, Polymarket prices YES at 11.6%.
+As of November 05, 2026, Polymarket prices YES at 11.6%.
 
 ### Where can I trade on this prediction market?
 

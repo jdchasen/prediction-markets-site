@@ -4,12 +4,12 @@ description: "Taylor & Travis divorce in 2026? Odds: 2.5% YES on Polymarket. See
 marketQuestion: "Taylor & Travis divorce in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 9974
+polymarketVolume: 9975
 polymarketUrl: "https://polymarket.com/event/taylor-travis-divorce-in-2026-20260706221307677"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/taylor-travis-divorce-in-2026-20260
 
 ### What are the current odds for "Taylor & Travis divorce in 2026?"?
 
-As of November 04, 2026, Polymarket prices YES at 2.5%.
+As of November 05, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

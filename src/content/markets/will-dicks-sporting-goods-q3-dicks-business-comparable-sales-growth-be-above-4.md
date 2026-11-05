@@ -4,7 +4,7 @@ description: "Will DICK'S Sporting Goods Q3 Dick's business comparable sales gro
 marketQuestion: "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be above 4%?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2026-11-24
 tags: ["politics", "polymarket"]
 polymarketYes: 44.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/dicks-sporting-goods-q3-dicks-busin
 
 ### What are the current odds for "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be above 4%?"?
 
-As of November 04, 2026, Polymarket prices YES at 44.0%.
+As of November 05, 2026, Polymarket prices YES at 44.0%.
 
 ### Where can I trade on this prediction market?
 

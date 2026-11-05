@@ -3,8 +3,8 @@ title: "Next James Bond announced by December 31, 2026?"
 description: "Next James Bond announced by December 31, 2026? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next James Bond announced by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-04
+status: "settled"
+lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 85.0

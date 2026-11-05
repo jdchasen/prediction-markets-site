@@ -4,7 +4,7 @@ description: "Will Oregon Ducks win the 2027 CFP National Championship? Odds: 0.
 marketQuestion: "Will Oregon Ducks win the 2027 CFP National Championship?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2027-01-26
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-oregon-ducks-win-the-2027-cfp-
 
 ### What are the current odds for "Will Oregon Ducks win the 2027 CFP National Championship?"?
 
-As of November 04, 2026, Polymarket prices YES at 0.4%.
+As of November 05, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

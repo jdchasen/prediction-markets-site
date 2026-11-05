@@ -3,8 +3,8 @@ title: "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Of
 description: "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be between 95m and 105m? Odds: 12.6% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be between 95m and 105m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-04
+status: "settled"
+lastUpdated: 2026-11-05
 expiryDate: 2026-11-22
 tags: ["politics", "polymarket"]
 polymarketYes: 12.6

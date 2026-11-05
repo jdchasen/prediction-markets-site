@@ -1,14 +1,14 @@
 ---
 title: "Will Gretchen Whitmer be the 2028 Democratic Vice-Presidential nominee?"
-description: "Will Gretchen Whitmer be the 2028 Democratic Vice-Presidential nominee? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Gretchen Whitmer be the 2028 Democratic Vice-Presidential nominee? Odds: 5.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gretchen Whitmer be the 2028 Democratic Vice-Presidential nominee?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
+polymarketYes: 5.7
+polymarketNo: 94.3
 polymarketVolume: 9940
 polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-be-the-2028-democratic-vice-presidential-nominee"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-be-the-2028-d
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.7% | 94.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-gretchen-whitmer-be-the-2028-d
 
 ### What are the current odds for "Will Gretchen Whitmer be the 2028 Democratic Vice-Presidential nominee?"?
 
-As of November 04, 2026, Polymarket prices YES at 5.5%.
+As of November 05, 2026, Polymarket prices YES at 5.7%.
 
 ### Where can I trade on this prediction market?
 

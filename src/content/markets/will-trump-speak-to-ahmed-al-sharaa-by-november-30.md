@@ -1,15 +1,15 @@
 ---
 title: "Will Trump speak to Ahmed al-Sharaa by November 30?"
-description: "Will Trump speak to Ahmed al-Sharaa by November 30? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Trump speak to Ahmed al-Sharaa by November 30? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump speak to Ahmed al-Sharaa by November 30?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket", "trump"]
-polymarketYes: 42.5
-polymarketNo: 57.5
-polymarketVolume: 9991
+polymarketYes: 43.5
+polymarketNo: 56.5
+polymarketVolume: 9993
 polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-ahmed-al-sharaa-by-november-30-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-ahmed-al-sharaa
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 43.5% | 56.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-trump-speak-to-ahmed-al-sharaa
 
 ### What are the current odds for "Will Trump speak to Ahmed al-Sharaa by November 30?"?
 
-As of November 04, 2026, Polymarket prices YES at 42.5%.
+As of November 05, 2026, Polymarket prices YES at 43.5%.
 
 ### Where can I trade on this prediction market?
 

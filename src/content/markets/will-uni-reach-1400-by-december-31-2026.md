@@ -1,14 +1,14 @@
 ---
 title: "Will UNI reach $14.00 by December 31, 2026?"
-description: "Will UNI reach $14.00 by December 31, 2026? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
+description: "Will UNI reach $14.00 by December 31, 2026? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UNI reach $14.00 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 8.9
-polymarketNo: 91.1
+polymarketYes: 8.8
+polymarketNo: 91.2
 polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-uni-reach-14pt00-by-december-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-14pt00-by-december-3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.9% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.8% | 91.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-uni-reach-14pt00-by-december-3
 
 ### What are the current odds for "Will UNI reach $14.00 by December 31, 2026?"?
 
-As of November 04, 2026, Polymarket prices YES at 8.9%.
+As of November 05, 2026, Polymarket prices YES at 8.8%.
 
 ### Where can I trade on this prediction market?
 

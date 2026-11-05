@@ -4,7 +4,7 @@ description: "US Treasury transactions on blockchain by December 31? Odds: 5.2% 
 marketQuestion: "US Treasury transactions on blockchain by December 31?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2027-01-01
 tags: ["ai", "crypto", "polymarket"]
 polymarketYes: 5.2
@@ -21,15 +21,14 @@ polymarketUrl: "https://polymarket.com/event/us-treasury-transactions-on-blockch
 
 ## Related Markets
 
-- [Will Bitcoin dip to $67,500 in November?](/odds/will-bitcoin-dip-to-67500-in-november) — 14% YES
 - [Extended FDV above $3B one day after launch?](/odds/extended-fdv-above-3b-one-day-after-launch) — 2% YES
-- [QFEX FDV above $100M one day after launch?](/odds/qfex-fdv-above-100m-one-day-after-launch) — 54% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "US Treasury transactions on blockchain by December 31?"?
 
-As of November 04, 2026, Polymarket prices YES at 5.2%.
+As of November 05, 2026, Polymarket prices YES at 5.2%.
 
 ### Where can I trade on this prediction market?
 

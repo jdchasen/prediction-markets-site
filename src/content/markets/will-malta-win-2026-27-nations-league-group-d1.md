@@ -4,7 +4,7 @@ description: "Will Malta win 2026-27 Nations League Group D1? Odds: 90.5% YES on
 marketQuestion: "Will Malta win 2026-27 Nations League Group D1?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-04
+lastUpdated: 2026-11-05
 expiryDate: 2026-12-02
 tags: ["politics", "polymarket"]
 polymarketYes: 90.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-malta-win-2026-27-nations-leag
 
 ### What are the current odds for "Will Malta win 2026-27 Nations League Group D1?"?
 
-As of November 04, 2026, Polymarket prices YES at 90.5%.
+As of November 05, 2026, Polymarket prices YES at 90.5%.
 
 ### Where can I trade on this prediction market?
 
