@@ -4,7 +4,7 @@ description: "Will Ousmane Dembélé (PSG) be the top goalscorer of the 2026-27 
 marketQuestion: "Will Ousmane Dembélé (PSG) be the top goalscorer of the 2026-27 Ligue 1 season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-05
+lastUpdated: 2026-11-06
 expiryDate: 2027-06-15
 tags: ["polymarket", "sports"]
 polymarketYes: 7.5
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-ousmane-dembele-psg-be-the-top
 
 ### What are the current odds for "Will Ousmane Dembélé (PSG) be the top goalscorer of the 2026-27 Ligue 1 season?"?
 
-As of November 05, 2026, Polymarket prices YES at 7.5%.
+As of November 06, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

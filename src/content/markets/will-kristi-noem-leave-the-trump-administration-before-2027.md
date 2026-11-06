@@ -3,8 +3,8 @@ title: "Will Kristi Noem leave the Trump administration before 2027?"
 description: "Will Kristi Noem leave the Trump administration before 2027? Odds: 29.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kristi Noem leave the Trump administration before 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-05
+status: "settled"
+lastUpdated: 2026-11-06
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 29.4

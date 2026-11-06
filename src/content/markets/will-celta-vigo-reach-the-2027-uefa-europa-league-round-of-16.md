@@ -3,8 +3,8 @@ title: "Will Celta Vigo reach the 2027 UEFA Europa League Round of 16?"
 description: "Will Celta Vigo reach the 2027 UEFA Europa League Round of 16? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Celta Vigo reach the 2027 UEFA Europa League Round of 16?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-05
+status: "settled"
+lastUpdated: 2026-11-06
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 44.0

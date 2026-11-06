@@ -3,8 +3,8 @@ title: "Extended FDV above $3B one day after launch?"
 description: "Extended FDV above $3B one day after launch? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Extended FDV above $3B one day after launch?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-11-05
+status: "settled"
+lastUpdated: 2026-11-06
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 1.8

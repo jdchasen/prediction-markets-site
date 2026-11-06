@@ -4,7 +4,7 @@ description: "Will Ethereum reach $2,900 November 2-8? Odds: 0.4% YES on Polymar
 marketQuestion: "Will Ethereum reach $2,900 November 2-8?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-05
+lastUpdated: 2026-11-06
 expiryDate: 2026-11-09
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 0.4
@@ -21,14 +21,13 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-reach-2900-november-2
 
 ## Related Markets
 
-- [Extended FDV above $3B one day after launch?](/odds/extended-fdv-above-3b-one-day-after-launch) — 2% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum reach $2,900 November 2-8?"?
 
-As of November 05, 2026, Polymarket prices YES at 0.4%.
+As of November 06, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 
