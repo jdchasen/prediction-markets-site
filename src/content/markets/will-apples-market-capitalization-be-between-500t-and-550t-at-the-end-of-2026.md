@@ -3,7 +3,7 @@ title: "Will Apple’s market capitalization be between $5.00T and $5.50T at the
 description: "Will Apple’s market capitalization be between $5.00T and $5.50T at the end of 2026? Odds: 39.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple’s market capitalization be between $5.00T and $5.50T at the end of 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

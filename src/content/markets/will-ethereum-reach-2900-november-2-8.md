@@ -3,7 +3,7 @@ title: "Will Ethereum reach $2,900 November 2-8?"
 description: "Will Ethereum reach $2,900 November 2-8? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,900 November 2-8?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2026-11-09
 tags: ["crypto", "ethereum", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will a player from the Big Ten win the 2026 Heisman Trophy?"
 description: "Will a player from the Big Ten win the 2026 Heisman Trophy? Odds: 35.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a player from the Big Ten win the 2026 Heisman Trophy?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2026-12-27
 tags: ["politics", "polymarket"]

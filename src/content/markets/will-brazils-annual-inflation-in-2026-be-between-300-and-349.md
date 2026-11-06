@@ -9,7 +9,7 @@ expiryDate: 2027-01-13
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9800
+polymarketVolume: 9900
 polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-3pt00-and-3pt49"
 ---
 
@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-brazils-annual-inflation-in-20
 
 ## Related Markets
 
-- [Will UK GDP growth in Q3 2026 be between 0.6% and 0.7%?](/odds/will-uk-gdp-growth-in-q3-2026-be-between-06-and-07) — 52% YES
-- [Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?](/odds/will-china-gdp-growth-in-q4-2026-be-between-46-and-49) — 52% YES
+- [Will the 30-year Treasury yield dip below 5.25% before 2027?](/odds/will-the-30-year-treasury-yield-dip-below-525-before-2027) — 91% YES
+- [Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?](/odds/will-china-gdp-growth-in-q4-2026-be-between-46-and-49) — 51% YES
+- [No change in Bank of Mexico’s interest rates after December 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-december-2026-meeting) — 94% YES
 
 ## Frequently Asked Questions
 

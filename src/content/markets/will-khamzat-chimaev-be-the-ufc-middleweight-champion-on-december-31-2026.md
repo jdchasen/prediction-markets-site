@@ -3,7 +3,7 @@ title: "Will Khamzat Chimaev be the UFC Middleweight Champion on December 31, 20
 description: "Will Khamzat Chimaev be the UFC Middleweight Champion on December 31, 2026? Odds: 2.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Khamzat Chimaev be the UFC Middleweight Champion on December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

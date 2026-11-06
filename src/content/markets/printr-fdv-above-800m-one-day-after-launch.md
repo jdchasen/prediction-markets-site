@@ -3,7 +3,7 @@ title: "Printr FDV above $800M one day after launch?"
 description: "Printr FDV above $800M one day after launch? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Printr FDV above $800M one day after launch?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]

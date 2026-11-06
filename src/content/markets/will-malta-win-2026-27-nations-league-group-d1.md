@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-malta-win-2026-27-nations-leag
 
 ## Related Markets
 
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
-- [Will Oregon Ducks win the 2027 CFP National Championship?](/odds/will-oregon-ducks-win-the-2027-cfp-national-championship) — 0% YES
+- [Will Elissa Slotkin win the 2028 US Presidential Election?](/odds/will-elissa-slotkin-win-the-2028-us-presidential-election) — 0% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 15% YES
+- [Will Gavin Newsom announce a Presidential run before 2027?](/odds/will-gavin-newsom-announce-a-presidential-run-before-2027) — 8% YES
 
 ## Frequently Asked Questions
 

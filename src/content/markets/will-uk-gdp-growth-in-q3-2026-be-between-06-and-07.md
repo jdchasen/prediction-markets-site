@@ -3,7 +3,7 @@ title: "Will UK GDP growth in Q3 2026 be between 0.6% and 0.7%?"
 description: "Will UK GDP growth in Q3 2026 be between 0.6% and 0.7%? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UK GDP growth in Q3 2026 be between 0.6% and 0.7%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2026-11-13
 tags: ["economics", "polymarket"]

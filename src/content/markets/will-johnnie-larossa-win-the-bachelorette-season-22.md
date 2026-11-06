@@ -3,7 +3,7 @@ title: "Will Johnnie LaRossa win The Bachelorette Season 22?"
 description: "Will Johnnie LaRossa win The Bachelorette Season 22? Odds: 0.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Johnnie LaRossa win The Bachelorette Season 22?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2026-11-30
 tags: ["politics", "polymarket"]

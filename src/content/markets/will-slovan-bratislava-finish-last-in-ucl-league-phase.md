@@ -3,7 +3,7 @@ title: "Will Slovan Bratislava finish last in UCL league phase?"
 description: "Will Slovan Bratislava finish last in UCL league phase? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Slovan Bratislava finish last in UCL league phase?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-06
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 1.7
 polymarketNo: 98.3
-polymarketVolume: 99803
+polymarketVolume: 99805
 polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 ---
 
@@ -18,10 +18,6 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
 | Polymarket | 1.7% | 98.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [Will Apple’s market capitalization be between $5.00T and $5.50T at the end of 2026?](/odds/will-apples-market-capitalization-be-between-500t-and-550t-at-the-end-of-2026) — 40% YES
 
 ## Frequently Asked Questions
 
