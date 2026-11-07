@@ -9,7 +9,7 @@ expiryDate: 2027-02-01
 tags: ["economics", "polymarket"]
 polymarketYes: 52.0
 polymarketNo: 48.0
-polymarketVolume: 9911
+polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q4-2026-be-between-4pt6-and-4pt9-20261019"
 ---
 
@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q4-2026-be
 
 ## Related Markets
 
-- [Will the 30-year Treasury yield dip below 5.25% before 2027?](/odds/will-the-30-year-treasury-yield-dip-below-525-before-2027) — 91% YES
+- [Will the 30-year Treasury yield dip below 5.25% before 2027?](/odds/will-the-30-year-treasury-yield-dip-below-525-before-2027) — 89% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 3.00% and 3.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-300-and-349) — 0% YES
+- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 10% YES
 
 ## Frequently Asked Questions
 

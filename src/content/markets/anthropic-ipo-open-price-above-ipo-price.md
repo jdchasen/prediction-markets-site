@@ -3,7 +3,7 @@ title: "Anthropic IPO: Open Price above IPO Price?"
 description: "Anthropic IPO: Open Price above IPO Price? Odds: 70.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Anthropic IPO: Open Price above IPO Price?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-07
 expiryDate: 2028-01-01
 tags: ["finance", "polymarket"]

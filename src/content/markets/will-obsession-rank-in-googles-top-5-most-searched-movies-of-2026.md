@@ -3,7 +3,7 @@ title: "Will Obsession rank in Google’s Top 5 Most Searched Movies of 2026?"
 description: "Will Obsession rank in Google’s Top 5 Most Searched Movies of 2026? Odds: 84.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Obsession rank in Google’s Top 5 Most Searched Movies of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-07
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

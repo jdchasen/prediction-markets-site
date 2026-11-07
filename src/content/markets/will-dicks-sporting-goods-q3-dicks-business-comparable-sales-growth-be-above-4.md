@@ -3,7 +3,7 @@ title: "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be
 description: "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be above 4%? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be above 4%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-07
 expiryDate: 2026-11-24
 tags: ["politics", "polymarket"]
