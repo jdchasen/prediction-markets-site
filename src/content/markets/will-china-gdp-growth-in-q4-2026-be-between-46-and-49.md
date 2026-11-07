@@ -1,14 +1,14 @@
 ---
 title: "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?"
-description: "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%? Odds: 51.0% YES on Polymarket. See live prices and trade this market."
+description: "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-06
+lastUpdated: 2026-11-07
 expiryDate: 2027-02-01
 tags: ["economics", "polymarket"]
-polymarketYes: 51.0
-polymarketNo: 49.0
+polymarketYes: 52.0
+polymarketNo: 48.0
 polymarketVolume: 9911
 polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q4-2026-be-between-4pt6-and-4pt9-20261019"
 ---
@@ -17,19 +17,18 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q4-2026-be
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.0% | 49.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will the 30-year Treasury yield dip below 5.25% before 2027?](/odds/will-the-30-year-treasury-yield-dip-below-525-before-2027) — 91% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 3.00% and 3.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-300-and-349) — 0% YES
-- [No change in Bank of Mexico’s interest rates after December 2026 meeting?](/odds/no-change-in-bank-of-mexicos-interest-rates-after-december-2026-meeting) — 94% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?"?
 
-As of November 06, 2026, Polymarket prices YES at 51.0%.
+As of November 07, 2026, Polymarket prices YES at 52.0%.
 
 ### Where can I trade on this prediction market?
 
