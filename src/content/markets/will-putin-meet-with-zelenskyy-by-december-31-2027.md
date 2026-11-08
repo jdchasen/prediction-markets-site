@@ -4,7 +4,7 @@ description: "Will Putin meet with Zelenskyy by December 31, 2027? Odds: 25.0% Y
 marketQuestion: "Will Putin meet with Zelenskyy by December 31, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-07
+lastUpdated: 2026-11-08
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 25.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-putin-meet-with-zelenskyy-by-d
 ## Related Markets
 
 - [Will Elissa Slotkin win the 2028 US Presidential Election?](/odds/will-elissa-slotkin-win-the-2028-us-presidential-election) — 0% YES
-- [Will Gavin Newsom announce a Presidential run before 2027?](/odds/will-gavin-newsom-announce-a-presidential-run-before-2027) — 8% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 14% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will Texas Longhorns win the 2027 CFP National Championship?](/odds/will-texas-longhorns-win-the-2027-cfp-national-championship) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Putin meet with Zelenskyy by December 31, 2027?"?
 
-As of November 07, 2026, Polymarket prices YES at 25.0%.
+As of November 08, 2026, Polymarket prices YES at 25.0%.
 
 ### Where can I trade on this prediction market?
 

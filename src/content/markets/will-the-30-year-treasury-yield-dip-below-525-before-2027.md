@@ -4,7 +4,7 @@ description: "Will the 30-year Treasury yield dip below 5.25% before 2027? Odds:
 marketQuestion: "Will the 30-year Treasury yield dip below 5.25% before 2027?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-07
+lastUpdated: 2026-11-08
 expiryDate: 2027-01-01
 tags: ["economics", "polymarket"]
 polymarketYes: 89.0
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-30-year-treasury-yield-dip
 
 - [Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?](/odds/will-china-gdp-growth-in-q4-2026-be-between-46-and-49) — 52% YES
 - [Will Brazil’s Annual Inflation in 2026 be between 3.00% and 3.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-300-and-349) — 0% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 10% YES
+- [Will Canada's GDP growth rate MoM in September 2026 be between -0.2% and -0.1%?](/odds/will-canadas-gdp-growth-rate-mom-in-september-2026-be-between-02-and-01) — 55% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the 30-year Treasury yield dip below 5.25% before 2027?"?
 
-As of November 07, 2026, Polymarket prices YES at 89.0%.
+As of November 08, 2026, Polymarket prices YES at 89.0%.
 
 ### Where can I trade on this prediction market?
 
