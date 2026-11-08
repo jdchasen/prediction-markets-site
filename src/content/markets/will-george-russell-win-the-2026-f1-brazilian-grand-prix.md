@@ -3,7 +3,7 @@ title: "Will George Russell win the 2026 F1 Brazilian Grand Prix?"
 description: "Will George Russell win the 2026 F1 Brazilian Grand Prix? Odds: 9.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will George Russell win the 2026 F1 Brazilian Grand Prix?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2026-11-15
 tags: ["polymarket", "sports"]

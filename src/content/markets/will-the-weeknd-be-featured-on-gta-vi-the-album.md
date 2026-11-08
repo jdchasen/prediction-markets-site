@@ -3,7 +3,7 @@ title: "Will The Weeknd be featured on GTA VI: The Album?"
 description: "Will The Weeknd be featured on GTA VI: The Album? Odds: 50.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will The Weeknd be featured on GTA VI: The Album?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2026-11-26
 tags: ["politics", "polymarket"]

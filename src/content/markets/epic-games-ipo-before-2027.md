@@ -21,8 +21,7 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 
 ## Related Markets
 
-- [Will Gold (GC) dip to (LOW) $3,500 by end of December?](/odds/will-gold-gc-dip-to-low-3500-by-end-of-december) — 9% YES
-- [Will Anthropic IPO by November 24, 2026?](/odds/will-anthropic-ipo-by-november-24-2026) — 60% YES
+- [Will Gold (GC) dip to (LOW) $3,500 by end of December?](/odds/will-gold-gc-dip-to-low-3500-by-end-of-december) — 10% YES
 
 ## Frequently Asked Questions
 

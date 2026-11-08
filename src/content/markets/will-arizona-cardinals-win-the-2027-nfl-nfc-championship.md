@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will George Russell win the 2026 F1 Brazilian Grand Prix?](/odds/will-george-russell-win-the-2026-f1-brazilian-grand-prix) — 10% YES
-- [Will Puka Nacua finish the 2026-27 NFL regular season with the most receptions?](/odds/will-puka-nacua-finish-the-2026-27-nfl-regular-season-with-the-most-receptions) — 7% YES
 - [Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?](/odds/will-cameron-ward-have-185-passing-touchdowns-in-the-2026-27-nfl-regular-season) — 19% YES
+- [Will Nate Ament win the 2026-27 NBA Rookie of the Year?](/odds/will-nate-ament-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 

@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-30-year-treasury-yield-dip
 
 ## Related Markets
 
+- [Will world GDP growth be 3.2% in 2026?](/odds/will-world-gdp-growth-be-32-in-2026) — 30% YES
 - [Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?](/odds/will-china-gdp-growth-in-q4-2026-be-between-46-and-49) — 52% YES
-- [Will Brazil’s Annual Inflation in 2026 be between 3.00% and 3.49%?](/odds/will-brazils-annual-inflation-in-2026-be-between-300-and-349) — 0% YES
-- [Will Canada's GDP growth rate MoM in September 2026 be between -0.2% and -0.1%?](/odds/will-canadas-gdp-growth-rate-mom-in-september-2026-be-between-02-and-01) — 55% YES
+- [Will Canada's GDP growth rate MoM in September 2026 be between -0.2% and -0.1%?](/odds/will-canadas-gdp-growth-rate-mom-in-september-2026-be-between-02-and-01) — 54% YES
 
 ## Frequently Asked Questions
 

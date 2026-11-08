@@ -3,7 +3,7 @@ title: "Will Donald Trump post 200+ Truth Social posts from November 6 to Novemb
 description: "Will Donald Trump post 200+ Truth Social posts from November 6 to November 13, 2026? Odds: 29.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump post 200+ Truth Social posts from November 6 to November 13, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2026-11-13
 tags: ["politics", "polymarket", "trump"]

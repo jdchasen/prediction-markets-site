@@ -3,7 +3,7 @@ title: "Will Puka Nacua finish the 2026-27 NFL regular season with the most rece
 description: "Will Puka Nacua finish the 2026-27 NFL regular season with the most receptions? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Puka Nacua finish the 2026-27 NFL regular season with the most receptions?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]

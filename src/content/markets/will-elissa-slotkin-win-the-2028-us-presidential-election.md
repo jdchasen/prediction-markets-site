@@ -3,7 +3,7 @@ title: "Will Elissa Slotkin win the 2028 US Presidential Election?"
 description: "Will Elissa Slotkin win the 2028 US Presidential Election? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elissa Slotkin win the 2028 US Presidential Election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2028-11-08
 tags: ["elections", "politics", "polymarket"]

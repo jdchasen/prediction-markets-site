@@ -3,7 +3,7 @@ title: "Will Putin meet with Zelenskyy by December 31, 2027?"
 description: "Will Putin meet with Zelenskyy by December 31, 2027? Odds: 25.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Putin meet with Zelenskyy by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]

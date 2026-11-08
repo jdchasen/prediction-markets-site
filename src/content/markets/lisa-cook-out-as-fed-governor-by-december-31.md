@@ -3,7 +3,7 @@ title: "Lisa Cook out as Fed Governor by December 31?"
 description: "Lisa Cook out as Fed Governor by December 31? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Lisa Cook out as Fed Governor by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2027-01-01
 tags: ["federal-reserve", "politics", "polymarket"]

@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-malta-win-2026-27-nations-leag
 
 ## Related Markets
 
-- [Will Elissa Slotkin win the 2028 US Presidential Election?](/odds/will-elissa-slotkin-win-the-2028-us-presidential-election) — 0% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Texas Longhorns win the 2027 CFP National Championship?](/odds/will-texas-longhorns-win-the-2027-cfp-national-championship) — 8% YES
+- [Will Gavin Newsom announce a Presidential run before 2027?](/odds/will-gavin-newsom-announce-a-presidential-run-before-2027) — 8% YES
 
 ## Frequently Asked Questions
 

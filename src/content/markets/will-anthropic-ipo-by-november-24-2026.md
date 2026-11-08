@@ -3,7 +3,7 @@ title: "Will Anthropic IPO by November 24, 2026?"
 description: "Will Anthropic IPO by November 24, 2026? Odds: 60.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic IPO by November 24, 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-08
 expiryDate: 2026-11-25
 tags: ["finance", "polymarket"]
