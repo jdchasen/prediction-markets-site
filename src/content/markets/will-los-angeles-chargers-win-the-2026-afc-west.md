@@ -3,8 +3,8 @@ title: "Will Los Angeles Chargers win the 2026 AFC West?"
 description: "Will Los Angeles Chargers win the 2026 AFC West? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Los Angeles Chargers win the 2026 AFC West?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-08
+status: "settled"
+lastUpdated: 2026-11-09
 expiryDate: 2027-01-18
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

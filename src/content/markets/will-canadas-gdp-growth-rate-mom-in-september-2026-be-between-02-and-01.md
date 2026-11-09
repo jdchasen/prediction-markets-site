@@ -3,8 +3,8 @@ title: "Will Canada's GDP growth rate MoM in September 2026 be between -0.2% and
 description: "Will Canada's GDP growth rate MoM in September 2026 be between -0.2% and -0.1%? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada's GDP growth rate MoM in September 2026 be between -0.2% and -0.1%?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-11-08
+status: "settled"
+lastUpdated: 2026-11-09
 expiryDate: 2026-11-30
 tags: ["economics", "polymarket"]
 polymarketYes: 54.0

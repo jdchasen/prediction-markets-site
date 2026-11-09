@@ -3,8 +3,8 @@ title: "Will Boise State have more than 9.5 wins during the 2026 CFB season?"
 description: "Will Boise State have more than 9.5 wins during the 2026 CFB season? Odds: 89.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Boise State have more than 9.5 wins during the 2026 CFB season?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-08
+status: "settled"
+lastUpdated: 2026-11-09
 expiryDate: 2026-12-27
 tags: ["politics", "polymarket"]
 polymarketYes: 89.5

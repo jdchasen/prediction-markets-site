@@ -4,7 +4,7 @@ description: "Will Jean-Luc Mélenchon win the third-most votes in the first rou
 marketQuestion: "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-08
+lastUpdated: 2026-11-09
 expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 29.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-jean-luc-melenchon-win-the-thi
 
 ## Related Markets
 
+- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Texas Longhorns win the 2027 CFP National Championship?](/odds/will-texas-longhorns-win-the-2027-cfp-national-championship) — 8% YES
-- [Will Gavin Newsom announce a Presidential run before 2027?](/odds/will-gavin-newsom-announce-a-presidential-run-before-2027) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election?"?
 
-As of November 08, 2026, Polymarket prices YES at 29.5%.
+As of November 09, 2026, Polymarket prices YES at 29.5%.
 
 ### Where can I trade on this prediction market?
 

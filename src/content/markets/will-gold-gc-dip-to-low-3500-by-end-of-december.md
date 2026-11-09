@@ -1,15 +1,15 @@
 ---
 title: "Will Gold (GC) dip to (LOW) $3,500 by end of December?"
-description: "Will Gold (GC) dip to (LOW) $3,500 by end of December? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Gold (GC) dip to (LOW) $3,500 by end of December? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) dip to (LOW) $3,500 by end of December?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-11-08
+lastUpdated: 2026-11-09
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
-polymarketYes: 9.5
-polymarketNo: 90.5
-polymarketVolume: 99594
+polymarketYes: 9.0
+polymarketNo: 91.0
+polymarketVolume: 99677
 polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-low-3500-by-end-of-december"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-low-3500-by-end-of
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.5% | 90.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.0% | 91.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-gold-gc-hit-low-3500-by-end-of
 
 ### What are the current odds for "Will Gold (GC) dip to (LOW) $3,500 by end of December?"?
 
-As of November 08, 2026, Polymarket prices YES at 9.5%.
+As of November 09, 2026, Polymarket prices YES at 9.0%.
 
 ### Where can I trade on this prediction market?
 

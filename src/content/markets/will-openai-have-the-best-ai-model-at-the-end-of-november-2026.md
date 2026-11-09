@@ -3,8 +3,8 @@ title: "Will OpenAI have the best AI model at the end of November 2026?"
 description: "Will OpenAI have the best AI model at the end of November 2026? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the best AI model at the end of November 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-08
+status: "settled"
+lastUpdated: 2026-11-09
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 2.4
