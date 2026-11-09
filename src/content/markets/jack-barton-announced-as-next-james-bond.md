@@ -3,7 +3,7 @@ title: "Jack Barton announced as next James Bond?"
 description: "Jack Barton announced as next James Bond? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jack Barton announced as next James Bond?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

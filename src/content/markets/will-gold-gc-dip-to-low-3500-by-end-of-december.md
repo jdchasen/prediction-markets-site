@@ -3,7 +3,7 @@ title: "Will Gold (GC) dip to (LOW) $3,500 by end of December?"
 description: "Will Gold (GC) dip to (LOW) $3,500 by end of December? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gold (GC) dip to (LOW) $3,500 by end of December?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

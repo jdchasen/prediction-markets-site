@@ -3,7 +3,7 @@ title: "Will there be no next Claude Opus model (5.6+) release by November 30, 2
 description: "Will there be no next Claude Opus model (5.6+) release by November 30, 2026? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will there be no next Claude Opus model (5.6+) release by November 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]

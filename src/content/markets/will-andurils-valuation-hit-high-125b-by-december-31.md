@@ -3,7 +3,7 @@ title: "Will Anduril's valuation hit (HIGH) $125B by December 31?"
 description: "Will Anduril's valuation hit (HIGH) $125B by December 31? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anduril's valuation hit (HIGH) $125B by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-01-05
 tags: ["politics", "polymarket"]

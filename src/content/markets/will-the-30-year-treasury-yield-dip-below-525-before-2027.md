@@ -3,7 +3,7 @@ title: "Will the 30-year Treasury yield dip below 5.25% before 2027?"
 description: "Will the 30-year Treasury yield dip below 5.25% before 2027? Odds: 89.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 30-year Treasury yield dip below 5.25% before 2027?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-01-01
 tags: ["economics", "polymarket"]

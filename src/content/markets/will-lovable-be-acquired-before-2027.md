@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Related Markets
 
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Texas Longhorns win the 2027 CFP National Championship?](/odds/will-texas-longhorns-win-the-2027-cfp-national-championship) — 8% YES
 - [Will Gavin Newsom announce a Presidential run before 2027?](/odds/will-gavin-newsom-announce-a-presidential-run-before-2027) — 8% YES
 
 ## Frequently Asked Questions

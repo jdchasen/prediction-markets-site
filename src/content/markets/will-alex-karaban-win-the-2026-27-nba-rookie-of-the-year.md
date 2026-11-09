@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 
 ## Related Markets
 
+- [Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?](/odds/will-atltico-madrid-win-the-2026-27-uefa-champions-league-championship) — 2% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 0% YES
-- [Will the Los Angeles Lakers be the 2027 NBA Western Conference Champion?](/odds/will-the-los-angeles-lakers-be-the-2027-nba-western-conference-champion) — 6% YES
-- [Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?](/odds/will-cameron-ward-have-185-passing-touchdowns-in-the-2026-27-nfl-regular-season) — 19% YES
+- [Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?](/odds/will-cameron-ward-have-185-passing-touchdowns-in-the-2026-27-nfl-regular-season) — 18% YES
 
 ## Frequently Asked Questions
 

@@ -3,7 +3,7 @@ title: "Will Nate Ament win the 2026-27 NBA Rookie of the Year?"
 description: "Will Nate Ament win the 2026-27 NBA Rookie of the Year? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nate Ament win the 2026-27 NBA Rookie of the Year?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-05-01
 tags: ["polymarket", "sports"]

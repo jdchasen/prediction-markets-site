@@ -3,7 +3,7 @@ title: "Will Texas Longhorns win the 2027 CFP National Championship?"
 description: "Will Texas Longhorns win the 2027 CFP National Championship? Odds: 7.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Texas Longhorns win the 2027 CFP National Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-01-26
 tags: ["politics", "polymarket"]

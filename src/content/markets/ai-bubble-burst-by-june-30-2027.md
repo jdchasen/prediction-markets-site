@@ -3,7 +3,7 @@ title: "AI bubble burst by June 30, 2027?"
 description: "AI bubble burst by June 30, 2027? Odds: 24.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "AI bubble burst by June 30, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-07-01
 tags: ["ai", "politics", "polymarket"]

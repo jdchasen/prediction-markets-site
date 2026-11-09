@@ -3,7 +3,7 @@ title: "Will Israel annex any territory by December 31?"
 description: "Will Israel annex any territory by December 31? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel annex any territory by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

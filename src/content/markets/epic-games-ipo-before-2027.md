@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 1.7
 polymarketNo: 98.3
-polymarketVolume: 99805
+polymarketVolume: 99824
 polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 ---
 
@@ -18,10 +18,6 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
 | Polymarket | 1.7% | 98.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
-
-## Related Markets
-
-- [Will Gold (GC) dip to (LOW) $3,500 by end of December?](/odds/will-gold-gc-dip-to-low-3500-by-end-of-december) — 9% YES
 
 ## Frequently Asked Questions
 

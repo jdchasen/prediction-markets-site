@@ -3,7 +3,7 @@ title: "Will monthly inflation increase by 0.3% in October?"
 description: "Will monthly inflation increase by 0.3% in October? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will monthly inflation increase by 0.3% in October?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2026-11-11
 tags: ["economics", "polymarket", "sports"]

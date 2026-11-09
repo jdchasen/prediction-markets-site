@@ -3,7 +3,7 @@ title: "Will CS Huancayo win on 2026-11-14?"
 description: "Will CS Huancayo win on 2026-11-14? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will CS Huancayo win on 2026-11-14?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2026-11-14
 tags: ["politics", "polymarket"]

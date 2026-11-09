@@ -3,7 +3,7 @@ title: "Will Claude Fable 5.2+ debut at an output token price of at least $50 by
 description: "Will Claude Fable 5.2+ debut at an output token price of at least $50 by June 30, 2027? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Claude Fable 5.2+ debut at an output token price of at least $50 by June 30, 2027?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]

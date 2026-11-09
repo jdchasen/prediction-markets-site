@@ -3,7 +3,7 @@ title: "Will Anthropic be the second-best AI Agent Lab at the end of November 20
 description: "Will Anthropic be the second-best AI Agent Lab at the end of November 2026? Odds: 16.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic be the second-best AI Agent Lab at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

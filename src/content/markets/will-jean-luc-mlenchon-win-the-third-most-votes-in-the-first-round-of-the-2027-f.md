@@ -3,7 +3,7 @@ title: "Will Jean-Luc Mélenchon win the third-most votes in the first round of 
 description: "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election? Odds: 29.5% YES on Polymarket. See live prices ..."
 marketQuestion: "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-09
 expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
