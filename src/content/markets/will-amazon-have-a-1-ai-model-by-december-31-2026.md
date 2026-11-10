@@ -4,7 +4,7 @@ description: "Will Amazon have a #1 AI model by December 31, 2026? Odds: 1.6% YE
 marketQuestion: "Will Amazon have a #1 AI model by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.6
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-amazon-have-a-1-ai-model-by-de
 
 ### What are the current odds for "Will Amazon have a #1 AI model by December 31, 2026?"?
 
-As of November 09, 2026, Polymarket prices YES at 1.6%.
+As of November 10, 2026, Polymarket prices YES at 1.6%.
 
 ### Where can I trade on this prediction market?
 

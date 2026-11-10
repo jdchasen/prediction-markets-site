@@ -1,14 +1,14 @@
 ---
 title: "US x Yemen ceasefire continues through December 31?"
-description: "US x Yemen ceasefire continues through December 31? Odds: 86.0% YES on Polymarket. See live prices and trade this market."
+description: "US x Yemen ceasefire continues through December 31? Odds: 86.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Yemen ceasefire continues through December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 86.0
-polymarketNo: 14.0
+polymarketYes: 86.5
+polymarketNo: 13.5
 polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/us-x-yemen-ceasefire-continues-through-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/us-x-yemen-ceasefire-continues-thro
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 86.0% | 14.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 86.5% | 13.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/us-x-yemen-ceasefire-continues-thro
 
 ### What are the current odds for "US x Yemen ceasefire continues through December 31?"?
 
-As of November 09, 2026, Polymarket prices YES at 86.0%.
+As of November 10, 2026, Polymarket prices YES at 86.5%.
 
 ### Where can I trade on this prediction market?
 

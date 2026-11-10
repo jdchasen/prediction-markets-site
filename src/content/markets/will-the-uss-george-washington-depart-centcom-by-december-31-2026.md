@@ -3,8 +3,8 @@ title: "Will the USS George Washington depart CENTCOM by December 31, 2026?"
 description: "Will the USS George Washington depart CENTCOM by December 31, 2026? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the USS George Washington depart CENTCOM by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-09
+status: "settled"
+lastUpdated: 2026-11-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 81.5

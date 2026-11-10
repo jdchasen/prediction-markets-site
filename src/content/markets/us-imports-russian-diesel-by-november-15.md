@@ -3,8 +3,8 @@ title: "US imports Russian diesel by November 15?"
 description: "US imports Russian diesel by November 15? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US imports Russian diesel by November 15?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-09
+status: "settled"
+lastUpdated: 2026-11-10
 expiryDate: 2026-11-16
 tags: ["politics", "polymarket"]
 polymarketYes: 2.8

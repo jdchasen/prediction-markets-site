@@ -4,7 +4,7 @@ description: "Anne Hathaway baby: Boy or Girl? Odds: 49.0% YES on Polymarket. Se
 marketQuestion: "Anne Hathaway baby: Boy or Girl?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 49.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/anne-hathaway-baby-boy-or-girl"
 
 ### What are the current odds for "Anne Hathaway baby: Boy or Girl?"?
 
-As of November 09, 2026, Polymarket prices YES at 49.0%.
+As of November 10, 2026, Polymarket prices YES at 49.0%.
 
 ### Where can I trade on this prediction market?
 

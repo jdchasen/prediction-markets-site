@@ -4,7 +4,7 @@ description: "Will UK GDP growth in Q3 2026 be between 0% and 0.1%? Odds: 0.4% Y
 marketQuestion: "Will UK GDP growth in Q3 2026 be between 0% and 0.1%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2026-11-13
 tags: ["economics", "polymarket"]
 polymarketYes: 0.4
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-uk-gdp-growth-in-q3-2026-be-be
 
 ### What are the current odds for "Will UK GDP growth in Q3 2026 be between 0% and 0.1%?"?
 
-As of November 09, 2026, Polymarket prices YES at 0.4%.
+As of November 10, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

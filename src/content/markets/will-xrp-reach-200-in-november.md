@@ -4,11 +4,11 @@ description: "Will XRP reach $2.00 in November? Odds: 0.9% YES on Polymarket. Se
 marketQuestion: "Will XRP reach $2.00 in November?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.9
-polymarketNo: 99.2
+polymarketNo: 99.1
 polymarketVolume: 99750
 polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2-in-november-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2-in-november-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-2-in-november-2026"
 
 ### What are the current odds for "Will XRP reach $2.00 in November?"?
 
-As of November 09, 2026, Polymarket prices YES at 0.9%.
+As of November 10, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

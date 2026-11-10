@@ -1,15 +1,15 @@
 ---
 title: "Will world GDP growth be 3.2% in 2026?"
-description: "Will world GDP growth be 3.2% in 2026? Odds: 36.1% YES on Polymarket. See live prices and trade this market."
+description: "Will world GDP growth be 3.2% in 2026? Odds: 36.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will world GDP growth be 3.2% in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2027-01-15
 tags: ["economics", "polymarket"]
-polymarketYes: 36.1
-polymarketNo: 63.8
-polymarketVolume: 9954
+polymarketYes: 36.0
+polymarketNo: 63.9
+polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/will-world-gdp-growth-be-3pt2-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-world-gdp-growth-be-3pt2-in-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 36.1% | 63.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.0% | 63.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-world-gdp-growth-be-3pt2-in-20
 
 ### What are the current odds for "Will world GDP growth be 3.2% in 2026?"?
 
-As of November 09, 2026, Polymarket prices YES at 36.1%.
+As of November 10, 2026, Polymarket prices YES at 36.0%.
 
 ### Where can I trade on this prediction market?
 

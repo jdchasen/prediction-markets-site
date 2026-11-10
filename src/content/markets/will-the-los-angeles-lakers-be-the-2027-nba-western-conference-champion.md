@@ -4,7 +4,7 @@ description: "Will the Los Angeles Lakers be the 2027 NBA Western Conference Cha
 marketQuestion: "Will the Los Angeles Lakers be the 2027 NBA Western Conference Champion?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2027-07-01
 tags: ["polymarket", "sports"]
 polymarketYes: 5.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-los-angeles-lakers-be-the-
 
 ### What are the current odds for "Will the Los Angeles Lakers be the 2027 NBA Western Conference Champion?"?
 
-As of November 09, 2026, Polymarket prices YES at 5.8%.
+As of November 10, 2026, Polymarket prices YES at 5.8%.
 
 ### Where can I trade on this prediction market?
 

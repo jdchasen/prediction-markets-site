@@ -4,7 +4,7 @@ description: "Will Google be the third-best Math AI lab at the end of December 2
 marketQuestion: "Will Google be the third-best Math AI lab at the end of December 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 14.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-math-
 
 ### What are the current odds for "Will Google be the third-best Math AI lab at the end of December 2026?"?
 
-As of November 09, 2026, Polymarket prices YES at 14.5%.
+As of November 10, 2026, Polymarket prices YES at 14.5%.
 
 ### Where can I trade on this prediction market?
 

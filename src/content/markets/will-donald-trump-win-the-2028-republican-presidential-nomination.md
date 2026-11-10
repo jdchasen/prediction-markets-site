@@ -4,12 +4,12 @@ description: "Will Donald Trump win the 2028 Republican presidential nomination?
 marketQuestion: "Will Donald Trump win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9921892
+polymarketVolume: 9922035
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-repu
 
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Gavin Newsom announce a Presidential run before 2027?](/odds/will-gavin-newsom-announce-a-presidential-run-before-2027) — 8% YES
+- [Will Anthropic's valuation hit (HIGH) $2.0T by December 31?](/odds/will-anthropics-valuation-hit-high-20t-by-december-31) — 32% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Donald Trump win the 2028 Republican presidential nomination?"?
 
-As of November 09, 2026, Polymarket prices YES at 0.8%.
+As of November 10, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

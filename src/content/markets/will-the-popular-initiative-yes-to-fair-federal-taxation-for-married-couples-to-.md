@@ -4,11 +4,11 @@ description: "Will the Popular initiative ‘Yes to fair federal taxation for ma
 marketQuestion: "Will the Popular initiative ‘Yes to fair federal taxation for married couples – To finally put an end to marriage discrimination!’ be approved in Switzerland’s November 29, 2026 popular vote?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2026-11-29
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 30.0
-polymarketNo: 70.0
+polymarketYes: 32.5
+polymarketNo: 67.5
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-the-popular-initiative-yes-to-fair-federal-taxation-for-married-couples-to-finally-put-an-end-to-marriage-discrimination-be-approved-in-switzerlands-november-29-2026-popular-vote-copy-copy-20260713145734572"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-popular-initiative-yes-to-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 30.0% | 70.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-popular-initiative-yes-to-
 
 ### What are the current odds for "Will the Popular initiative ‘Yes to fair federal taxation for married couples – To finally put an end to marriage discrimination!’ be approved in Switzerland’s November 29, 2026 popular vote?"?
 
-As of November 09, 2026, Polymarket prices YES at 30.0%.
+As of November 10, 2026, Polymarket prices YES at 32.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Jordan vs. Indonesia end in a draw?"
 description: "Will Jordan vs. Indonesia end in a draw? Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jordan vs. Indonesia end in a draw?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-09
+status: "settled"
+lastUpdated: 2026-11-10
 expiryDate: 2026-11-13
 tags: ["politics", "polymarket"]
 polymarketYes: 98.8

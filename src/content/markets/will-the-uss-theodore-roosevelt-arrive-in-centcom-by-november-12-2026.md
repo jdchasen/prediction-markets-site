@@ -1,15 +1,15 @@
 ---
 title: "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026?"
-description: "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026? Odds: 12.6% YES on Polymarket. See live prices and trade this market."
+description: "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 expiryDate: 2026-11-13
 tags: ["politics", "polymarket"]
-polymarketYes: 12.6
-polymarketNo: 87.5
-polymarketVolume: 9937
+polymarketYes: 12.0
+polymarketNo: 87.9
+polymarketVolume: 9978
 polymarketUrl: "https://polymarket.com/event/will-the-uss-theodore-roosevelt-arrive-in-centcom-by-november-12-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-uss-theodore-roosevelt-arr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.6% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.0% | 87.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-uss-theodore-roosevelt-arr
 
 ### What are the current odds for "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026?"?
 
-As of November 09, 2026, Polymarket prices YES at 12.6%.
+As of November 10, 2026, Polymarket prices YES at 12.0%.
 
 ### Where can I trade on this prediction market?
 

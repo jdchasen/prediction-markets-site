@@ -3,8 +3,8 @@ title: "Will Nathalie Arthaud be on the ballot for the 2027 French presidential 
 description: "Will Nathalie Arthaud be on the ballot for the 2027 French presidential election? Odds: 92.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Nathalie Arthaud be on the ballot for the 2027 French presidential election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-09
+status: "settled"
+lastUpdated: 2026-11-10
 expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 92.5
