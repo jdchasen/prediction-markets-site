@@ -3,7 +3,7 @@ title: "Will the next Russia x Ukraine peace talks take place in the UAE by Dece
 description: "Will the next Russia x Ukraine peace talks take place in the UAE by December 31, 2027? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Russia x Ukraine peace talks take place in the UAE by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-10
 expiryDate: 2028-01-01
 tags: ["ai", "politics", "polymarket"]

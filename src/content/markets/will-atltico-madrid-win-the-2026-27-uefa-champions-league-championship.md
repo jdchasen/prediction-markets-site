@@ -9,7 +9,7 @@ expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 996595
+polymarketVolume: 998723
 polymarketUrl: "https://polymarket.com/event/will-atletico-madrid-win-the-2026-27-uefa-champions-league-championship-20260701202025563"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-atletico-madrid-win-the-2026-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.8% | 98.2% | $999K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 0% YES
 - [Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?](/odds/will-cameron-ward-have-185-passing-touchdowns-in-the-2026-27-nfl-regular-season) — 18% YES
-- [Will the Los Angeles Lakers be the 2027 NBA Western Conference Champion?](/odds/will-the-los-angeles-lakers-be-the-2027-nba-western-conference-champion) — 6% YES
+- [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 

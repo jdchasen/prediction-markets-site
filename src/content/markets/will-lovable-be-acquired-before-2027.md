@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.7
 polymarketNo: 95.3
-polymarketVolume: 996564
+polymarketVolume: 996567
 polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Anthropic's valuation hit (HIGH) $2.0T by December 31?](/odds/will-anthropics-valuation-hit-high-20t-by-december-31) — 32% YES
+- [Next Israeli government formed by November 30, 2026?](/odds/next-israeli-government-formed-by-november-30-2026) — 10% YES
 
 ## Frequently Asked Questions
 

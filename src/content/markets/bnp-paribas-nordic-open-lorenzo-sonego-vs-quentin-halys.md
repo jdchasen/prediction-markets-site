@@ -3,7 +3,7 @@ title: "BNP Paribas Nordic Open: Lorenzo Sonego vs Quentin Halys"
 description: "BNP Paribas Nordic Open: Lorenzo Sonego vs Quentin Halys Odds: 46.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "BNP Paribas Nordic Open: Lorenzo Sonego vs Quentin Halys"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-10
 expiryDate: 2026-11-17
 tags: ["politics", "polymarket"]

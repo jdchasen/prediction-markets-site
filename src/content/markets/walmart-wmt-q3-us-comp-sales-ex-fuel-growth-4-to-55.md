@@ -1,15 +1,15 @@
 ---
 title: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"
-description: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%? Odds: 5.5% YES on Polymarket. See live prices and trade this market."
+description: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-10
 expiryDate: 2026-11-19
 tags: ["politics", "polymarket"]
-polymarketYes: 5.5
-polymarketNo: 94.5
-polymarketVolume: 9978
+polymarketYes: 5.0
+polymarketNo: 95.0
+polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/walmart-wmt-q3-us-comparable-sales-ex-fuel-growth-20261008120138000-4-to-5pt5"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/walmart-wmt-q3-us-comparable-sales-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.5% | 94.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/walmart-wmt-q3-us-comparable-sales-
 
 ### What are the current odds for "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"?
 
-As of November 10, 2026, Polymarket prices YES at 5.5%.
+As of November 10, 2026, Polymarket prices YES at 5.0%.
 
 ### Where can I trade on this prediction market?
 

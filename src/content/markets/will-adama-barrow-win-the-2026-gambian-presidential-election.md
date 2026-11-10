@@ -3,7 +3,7 @@ title: "Will Adama Barrow win the 2026 Gambian presidential election?"
 description: "Will Adama Barrow win the 2026 Gambian presidential election? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adama Barrow win the 2026 Gambian presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-10
 expiryDate: 2026-12-05
 tags: ["elections", "politics", "polymarket"]

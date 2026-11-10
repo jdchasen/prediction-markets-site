@@ -1,14 +1,14 @@
 ---
 title: "Will Yordan Alvarez win the 2026 American League Hank Aaron Award?"
-description: "Will Yordan Alvarez win the 2026 American League Hank Aaron Award? Odds: 98.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Yordan Alvarez win the 2026 American League Hank Aaron Award? Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yordan Alvarez win the 2026 American League Hank Aaron Award?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 98.1
-polymarketNo: 1.9
+polymarketYes: 98.8
+polymarketNo: 1.2
 polymarketVolume: 9987
 polymarketUrl: "https://polymarket.com/event/will-yordan-alvarez-win-the-2026-american-league-hank-aaron-award"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-yordan-alvarez-win-the-2026-am
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.1% | 1.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.8% | 1.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-yordan-alvarez-win-the-2026-am
 
 ### What are the current odds for "Will Yordan Alvarez win the 2026 American League Hank Aaron Award?"?
 
-As of November 10, 2026, Polymarket prices YES at 98.1%.
+As of November 10, 2026, Polymarket prices YES at 98.8%.
 
 ### Where can I trade on this prediction market?
 

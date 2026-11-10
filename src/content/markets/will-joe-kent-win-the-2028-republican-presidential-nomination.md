@@ -1,15 +1,15 @@
 ---
 title: "Will Joe Kent win the 2028 Republican presidential nomination?"
-description: "Will Joe Kent win the 2028 Republican presidential nomination? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will Joe Kent win the 2028 Republican presidential nomination? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joe Kent win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-10
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 9922481
+polymarketYes: 0.4
+polymarketNo: 99.6
+polymarketVolume: 9957405
 polymarketUrl: "https://polymarket.com/event/will-joe-kent-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-joe-kent-win-the-2028-republic
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.6% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Anthropic's valuation hit (HIGH) $2.0T by December 31?](/odds/will-anthropics-valuation-hit-high-20t-by-december-31) — 32% YES
+- [Next Israeli government formed by November 30, 2026?](/odds/next-israeli-government-formed-by-november-30-2026) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Joe Kent win the 2028 Republican presidential nomination?"?
 
-As of November 10, 2026, Polymarket prices YES at 0.7%.
+As of November 10, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

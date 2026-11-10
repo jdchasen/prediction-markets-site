@@ -3,7 +3,7 @@ title: "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026?"
 description: "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-10
 expiryDate: 2026-11-13
 tags: ["politics", "polymarket"]

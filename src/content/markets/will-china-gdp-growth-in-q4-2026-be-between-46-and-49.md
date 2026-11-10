@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-china-gdp-growth-in-q4-2026-be
 
 ## Related Markets
 
-- [Will world GDP growth be 3.2% in 2026?](/odds/will-world-gdp-growth-be-32-in-2026) — 36% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 10% YES
-- [Will UK GDP growth in Q3 2026 be between 0% and 0.1%?](/odds/will-uk-gdp-growth-in-q3-2026-be-between-0-and-01) — 0% YES
+- [Will the 10-year Treasury yield hit 5.4% before 2027?](/odds/will-the-10-year-treasury-yield-hit-54-before-2027) — 14% YES
+- [Will the 5-year Treasury yield hit 5.10% before 2027?](/odds/will-the-5-year-treasury-yield-hit-510-before-2027) — 26% YES
+- [Will world GDP growth be 3.2% in 2026?](/odds/will-world-gdp-growth-be-32-in-2026) — 35% YES
 
 ## Frequently Asked Questions
 

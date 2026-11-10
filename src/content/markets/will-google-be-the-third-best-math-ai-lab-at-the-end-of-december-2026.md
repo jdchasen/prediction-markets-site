@@ -1,15 +1,15 @@
 ---
 title: "Will Google be the third-best Math AI lab at the end of December 2026?"
-description: "Will Google be the third-best Math AI lab at the end of December 2026? Odds: 14.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Google be the third-best Math AI lab at the end of December 2026? Odds: 14.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the third-best Math AI lab at the end of December 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-10
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 14.5
-polymarketNo: 85.5
-polymarketVolume: 9940
+polymarketYes: 14.0
+polymarketNo: 86.0
+polymarketVolume: 9960
 polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-math-ai-lab-at-the-end-of-december-2026"
 ---
 
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-math-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 14.5% | 85.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.0% | 86.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-math-
 
 ### What are the current odds for "Will Google be the third-best Math AI lab at the end of December 2026?"?
 
-As of November 10, 2026, Polymarket prices YES at 14.5%.
+As of November 10, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

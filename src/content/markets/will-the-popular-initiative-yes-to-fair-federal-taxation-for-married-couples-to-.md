@@ -7,8 +7,8 @@ status: "active"
 lastUpdated: 2026-11-10
 expiryDate: 2026-11-29
 tags: ["ai", "federal-reserve", "politics", "polymarket"]
-polymarketYes: 32.5
-polymarketNo: 67.5
+polymarketYes: 33.5
+polymarketNo: 66.5
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-the-popular-initiative-yes-to-fair-federal-taxation-for-married-couples-to-finally-put-an-end-to-marriage-discrimination-be-approved-in-switzerlands-november-29-2026-popular-vote-copy-copy-20260713145734572"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-the-popular-initiative-yes-to-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.5% | 67.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-popular-initiative-yes-to-
 
 ### What are the current odds for "Will the Popular initiative ‘Yes to fair federal taxation for married couples – To finally put an end to marriage discrimination!’ be approved in Switzerland’s November 29, 2026 popular vote?"?
 
-As of November 10, 2026, Polymarket prices YES at 32.5%.
+As of November 10, 2026, Polymarket prices YES at 33.5%.
 
 ### Where can I trade on this prediction market?
 

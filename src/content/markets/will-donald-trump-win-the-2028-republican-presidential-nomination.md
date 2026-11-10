@@ -9,7 +9,7 @@ expiryDate: 2028-11-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.8
 polymarketNo: 99.2
-polymarketVolume: 9922035
+polymarketVolume: 9922693
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-win-the-2028-repu
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Anthropic's valuation hit (HIGH) $2.0T by December 31?](/odds/will-anthropics-valuation-hit-high-20t-by-december-31) — 32% YES
+- [Next Israeli government formed by November 30, 2026?](/odds/next-israeli-government-formed-by-november-30-2026) — 10% YES
 
 ## Frequently Asked Questions
 

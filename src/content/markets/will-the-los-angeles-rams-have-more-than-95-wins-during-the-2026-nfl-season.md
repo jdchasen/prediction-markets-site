@@ -1,14 +1,14 @@
 ---
 title: "Will the Los Angeles Rams have more than 9.5 wins during the 2026 NFL season?"
-description: "Will the Los Angeles Rams have more than 9.5 wins during the 2026 NFL season? Odds: 54.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the Los Angeles Rams have more than 9.5 wins during the 2026 NFL season? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Los Angeles Rams have more than 9.5 wins during the 2026 NFL season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-11-10
 expiryDate: 2027-02-16
 tags: ["polymarket", "sports"]
-polymarketYes: 54.5
-polymarketNo: 45.5
+polymarketYes: 55.0
+polymarketNo: 45.0
 polymarketVolume: 9914
 polymarketUrl: "https://polymarket.com/event/will-the-los-angeles-rams-have-more-than-9pt5-wins-during-the-2026-nfl-season"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-los-angeles-rams-have-more
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 55.0% | 45.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-los-angeles-rams-have-more
 
 ### What are the current odds for "Will the Los Angeles Rams have more than 9.5 wins during the 2026 NFL season?"?
 
-As of November 10, 2026, Polymarket prices YES at 54.5%.
+As of November 10, 2026, Polymarket prices YES at 55.0%.
 
 ### Where can I trade on this prediction market?
 

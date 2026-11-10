@@ -3,7 +3,7 @@ title: "Will Gavin Newsom announce a Presidential run before 2027?"
 description: "Will Gavin Newsom announce a Presidential run before 2027? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gavin Newsom announce a Presidential run before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-10
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

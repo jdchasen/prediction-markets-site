@@ -1,14 +1,14 @@
 ---
 title: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25?"
-description: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-10
 expiryDate: 2027-04-01
 tags: ["politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
+polymarketYes: 3.5
+polymarketNo: 96.5
 polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-the-peak-roni-for-the-202627-el-nino-be-at-least-2pt0-but-below-2pt25"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/will-the-peak-roni-for-the-202627-e
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-peak-roni-for-the-202627-e
 
 ### What are the current odds for "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25?"?
 
-As of November 10, 2026, Polymarket prices YES at 4.3%.
+As of November 10, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 
