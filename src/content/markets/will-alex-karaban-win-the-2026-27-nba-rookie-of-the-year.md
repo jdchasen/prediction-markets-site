@@ -4,7 +4,7 @@ description: "Will Alex Karaban win the 2026-27 NBA Rookie of the Year? Odds: 0.
 marketQuestion: "Will Alex Karaban win the 2026-27 NBA Rookie of the Year?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2027-05-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 
 ### What are the current odds for "Will Alex Karaban win the 2026-27 NBA Rookie of the Year?"?
 
-As of November 10, 2026, Polymarket prices YES at 0.1%.
+As of November 11, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

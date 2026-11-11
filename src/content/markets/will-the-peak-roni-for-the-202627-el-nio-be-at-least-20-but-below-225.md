@@ -1,14 +1,14 @@
 ---
 title: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25?"
-description: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2027-04-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 4.1
+polymarketNo: 95.9
 polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-the-peak-roni-for-the-202627-el-nino-be-at-least-2pt0-but-below-2pt25"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-peak-roni-for-the-202627-e
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.1% | 95.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-peak-roni-for-the-202627-e
 
 ### What are the current odds for "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25?"?
 
-As of November 10, 2026, Polymarket prices YES at 3.5%.
+As of November 11, 2026, Polymarket prices YES at 4.1%.
 
 ### Where can I trade on this prediction market?
 

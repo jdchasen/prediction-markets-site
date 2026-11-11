@@ -3,8 +3,8 @@ title: "Will global temperature increase by more than 1.49ºC in October 2026?"
 description: "Will global temperature increase by more than 1.49ºC in October 2026? Odds: 95.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will global temperature increase by more than 1.49ºC in October 2026?"
 category: "science"
-status: "active"
-lastUpdated: 2026-11-10
+status: "settled"
+lastUpdated: 2026-11-11
 expiryDate: 2026-12-02
 tags: ["polymarket", "science", "weather"]
 polymarketYes: 95.5

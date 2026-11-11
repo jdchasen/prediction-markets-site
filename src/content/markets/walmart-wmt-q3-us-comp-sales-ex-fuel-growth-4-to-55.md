@@ -1,14 +1,14 @@
 ---
 title: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"
-description: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%? Odds: 5.0% YES on Polymarket. See live prices and trade this market."
+description: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2026-11-19
 tags: ["politics", "polymarket"]
-polymarketYes: 5.0
-polymarketNo: 95.0
+polymarketYes: 6.2
+polymarketNo: 93.8
 polymarketVolume: 9982
 polymarketUrl: "https://polymarket.com/event/walmart-wmt-q3-us-comparable-sales-ex-fuel-growth-20261008120138000-4-to-5pt5"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/walmart-wmt-q3-us-comparable-sales-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 5.0% | 95.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.2% | 93.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/walmart-wmt-q3-us-comparable-sales-
 
 ### What are the current odds for "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"?
 
-As of November 10, 2026, Polymarket prices YES at 5.0%.
+As of November 11, 2026, Polymarket prices YES at 6.2%.
 
 ### Where can I trade on this prediction market?
 

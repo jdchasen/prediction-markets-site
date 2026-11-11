@@ -4,7 +4,7 @@ description: "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL
 marketQuestion: "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]
 polymarketYes: 18.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/cameron-ward-18pt5-passing-touchdow
 
 ### What are the current odds for "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?"?
 
-As of November 10, 2026, Polymarket prices YES at 18.0%.
+As of November 11, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 

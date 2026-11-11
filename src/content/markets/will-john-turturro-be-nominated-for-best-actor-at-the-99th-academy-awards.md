@@ -3,8 +3,8 @@ title: "Will John Turturro be nominated for Best Actor at the 99th Academy Award
 description: "Will John Turturro be nominated for Best Actor at the 99th Academy Awards? Odds: 43.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will John Turturro be nominated for Best Actor at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-11-10
+status: "settled"
+lastUpdated: 2026-11-11
 expiryDate: 2027-01-21
 tags: ["entertainment", "polymarket"]
 polymarketYes: 43.0

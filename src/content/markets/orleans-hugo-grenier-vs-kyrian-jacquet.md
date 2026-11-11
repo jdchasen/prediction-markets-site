@@ -3,8 +3,8 @@ title: "Orleans: Hugo Grenier vs Kyrian Jacquet"
 description: "Orleans: Hugo Grenier vs Kyrian Jacquet Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Orleans: Hugo Grenier vs Kyrian Jacquet"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-10
+status: "settled"
+lastUpdated: 2026-11-11
 expiryDate: 2026-11-17
 tags: ["politics", "polymarket"]
 polymarketYes: 20.5

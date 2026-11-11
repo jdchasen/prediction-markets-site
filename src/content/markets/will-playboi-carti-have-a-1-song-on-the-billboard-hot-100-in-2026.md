@@ -1,14 +1,14 @@
 ---
 title: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"
-description: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026? Odds: 11.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 11.3
-polymarketNo: 88.7
+polymarketYes: 2.9
+polymarketNo: 97.2
 polymarketVolume: 9926
 polymarketUrl: "https://polymarket.com/event/will-playboi-carti-have-a-1-song-on-the-billboard-hot-100-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-playboi-carti-have-a-1-song-on
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.3% | 88.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.9% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-playboi-carti-have-a-1-song-on
 
 ### What are the current odds for "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"?
 
-As of November 10, 2026, Polymarket prices YES at 11.3%.
+As of November 11, 2026, Polymarket prices YES at 2.9%.
 
 ### Where can I trade on this prediction market?
 

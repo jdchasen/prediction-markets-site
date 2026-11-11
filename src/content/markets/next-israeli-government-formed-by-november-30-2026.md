@@ -3,8 +3,8 @@ title: "Next Israeli government formed by November 30, 2026?"
 description: "Next Israeli government formed by November 30, 2026? Odds: 10.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next Israeli government formed by November 30, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-10
+status: "settled"
+lastUpdated: 2026-11-11
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 10.3

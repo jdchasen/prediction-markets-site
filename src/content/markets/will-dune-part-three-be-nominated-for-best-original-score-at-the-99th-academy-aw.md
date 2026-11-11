@@ -1,14 +1,14 @@
 ---
 title: "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99th Academy Awards?"
-description: "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99th Academy Awards? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
+description: "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99th Academy Awards? Odds: 76.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2027-03-15
 tags: ["entertainment", "polymarket"]
-polymarketYes: 76.5
-polymarketNo: 23.5
+polymarketYes: 76.0
+polymarketNo: 24.0
 polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-dune-part-three-be-nominated-for-best-original-score-at-the-99th-academy-awards-20261013180153422"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-dune-part-three-be-nominated-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.5% | 23.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.0% | 24.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?](/odds/will-sam-rockwell-be-nominated-for-best-actor-at-the-99th-academy-awards) — 2% YES
-- [Will John Turturro be nominated for Best Actor at the 99th Academy Awards?](/odds/will-john-turturro-be-nominated-for-best-actor-at-the-99th-academy-awards) — 43% YES
+- [Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?](/odds/will-sam-rockwell-be-nominated-for-best-actor-at-the-99th-academy-awards) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will "Dune: Part Three" be nominated for Best Original Score at the 99th Academy Awards?"?
 
-As of November 10, 2026, Polymarket prices YES at 76.5%.
+As of November 11, 2026, Polymarket prices YES at 76.0%.
 
 ### Where can I trade on this prediction market?
 

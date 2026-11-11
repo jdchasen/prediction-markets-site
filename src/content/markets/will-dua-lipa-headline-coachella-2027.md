@@ -3,8 +3,8 @@ title: "Will Dua Lipa headline Coachella 2027?"
 description: "Will Dua Lipa headline Coachella 2027? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Dua Lipa headline Coachella 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-10
+status: "settled"
+lastUpdated: 2026-11-11
 expiryDate: 2027-02-01
 tags: ["politics", "polymarket"]
 polymarketYes: 66.0

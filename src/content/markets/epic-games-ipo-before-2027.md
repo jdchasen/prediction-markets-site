@@ -4,7 +4,7 @@ description: "Epic Games IPO before 2027? Odds: 1.7% YES on Polymarket. See live
 marketQuestion: "Epic Games IPO before 2027?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 1.7
@@ -21,13 +21,14 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 
 ## Related Markets
 
+- [Will OpenAI's IPO valuation be between $1.0T and $1.25T?](/odds/will-openais-ipo-valuation-be-between-10t-and-125t) — 16% YES
 - [Will Alphabet be the second-largest company in the world by market cap on December 31?](/odds/will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-decemb) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Epic Games IPO before 2027?"?
 
-As of November 10, 2026, Polymarket prices YES at 1.7%.
+As of November 11, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

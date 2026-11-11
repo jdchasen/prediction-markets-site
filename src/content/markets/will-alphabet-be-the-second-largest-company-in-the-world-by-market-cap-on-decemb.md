@@ -4,7 +4,7 @@ description: "Will Alphabet be the second-largest company in the world by market
 marketQuestion: "Will Alphabet be the second-largest company in the world by market cap on December 31?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-11-10
+lastUpdated: 2026-11-11
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 7.0
@@ -22,12 +22,13 @@ polymarketUrl: "https://polymarket.com/event/will-alphabet-be-the-second-largest
 ## Related Markets
 
 - [Epic Games IPO before 2027?](/odds/epic-games-ipo-before-2027) — 2% YES
+- [Will OpenAI's IPO valuation be between $1.0T and $1.25T?](/odds/will-openais-ipo-valuation-be-between-10t-and-125t) — 16% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Alphabet be the second-largest company in the world by market cap on December 31?"?
 
-As of November 10, 2026, Polymarket prices YES at 7.0%.
+As of November 11, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 
