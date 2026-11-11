@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 
 ## Related Markets
 
-- [Will OpenAI's IPO valuation be between $1.0T and $1.25T?](/odds/will-openais-ipo-valuation-be-between-10t-and-125t) — 16% YES
 - [Will Alphabet be the second-largest company in the world by market cap on December 31?](/odds/will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-decemb) — 7% YES
 
 ## Frequently Asked Questions

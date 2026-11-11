@@ -8,7 +8,7 @@ lastUpdated: 2026-11-11
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 8.9
-polymarketNo: 91.1
+polymarketNo: 91.0
 polymarketVolume: 9950
 polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after-launch"
 ---
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.9% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.9% | 91.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bitcoin reach $87,500 in November?](/odds/will-bitcoin-reach-87500-in-november) — 6% YES
-- [Will Bitcoin reach $75,000 in November?](/odds/will-bitcoin-reach-75000-in-november) — 80% YES
+- [Will Ethereum dip to $1,700 in November?](/odds/will-ethereum-dip-to-1700-in-november) — 14% YES
+- [Will Ink launch a token by September 30, 2027?](/odds/will-ink-launch-a-token-by-september-30-2027) — 78% YES
 
 ## Frequently Asked Questions
 

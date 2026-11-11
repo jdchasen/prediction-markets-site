@@ -3,7 +3,7 @@ title: "Will Bitcoin reach $87,500 in November?"
 description: "Will Bitcoin reach $87,500 in November? Odds: 6.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $87,500 in November?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2026-12-01
 tags: ["bitcoin", "crypto", "polymarket"]

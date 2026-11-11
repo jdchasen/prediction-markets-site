@@ -1,14 +1,14 @@
 ---
 title: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"
-description: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards? Odds: 0.9% YES on Polymarket. See live prices and trade this market."
+description: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards? Odds: 1.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"
 category: "entertainment"
 status: "active"
 lastUpdated: 2026-11-11
 expiryDate: 2027-01-21
 tags: ["entertainment", "polymarket"]
-polymarketYes: 0.9
-polymarketNo: 99.1
+polymarketYes: 1.4
+polymarketNo: 98.6
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-sam-rockwell-be-nominated-for-best-actor-at-the-99th-academy-awards"
 ---
@@ -17,17 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-sam-rockwell-be-nominated-for-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.4% | 98.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will "Dune: Part Three" be nominated for Best Original Score at the 99th Academy Awards?](/odds/will-dune-part-three-be-nominated-for-best-original-score-at-the-99th-academy-aw) — 76% YES
+- [Will "Dune: Part Three" be nominated for Best Original Score at the 99th Academy Awards?](/odds/will-dune-part-three-be-nominated-for-best-original-score-at-the-99th-academy-aw) — 74% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"?
 
-As of November 11, 2026, Polymarket prices YES at 0.9%.
+As of November 11, 2026, Polymarket prices YES at 1.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?"
-description: "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-11-11
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]
-polymarketYes: 18.0
-polymarketNo: 82.0
+polymarketYes: 18.5
+polymarketNo: 81.5
 polymarketVolume: 9978
 polymarketUrl: "https://polymarket.com/event/cameron-ward-18pt5-passing-touchdowns-2026-27"
 ---
@@ -17,11 +17,10 @@ polymarketUrl: "https://polymarket.com/event/cameron-ward-18pt5-passing-touchdow
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.0% | 82.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?](/odds/will-atltico-madrid-win-the-2026-27-uefa-champions-league-championship) — 2% YES
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 0% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
@@ -29,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/cameron-ward-18pt5-passing-touchdow
 
 ### What are the current odds for "Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?"?
 
-As of November 11, 2026, Polymarket prices YES at 18.0%.
+As of November 11, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

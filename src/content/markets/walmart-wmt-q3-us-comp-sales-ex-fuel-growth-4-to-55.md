@@ -3,7 +3,7 @@ title: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"
 description: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%? Odds: 6.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2026-11-19
 tags: ["politics", "polymarket"]

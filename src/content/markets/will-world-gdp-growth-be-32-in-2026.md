@@ -3,7 +3,7 @@ title: "Will world GDP growth be 3.2% in 2026?"
 description: "Will world GDP growth be 3.2% in 2026? Odds: 34.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will world GDP growth be 3.2% in 2026?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2027-01-15
 tags: ["economics", "polymarket"]

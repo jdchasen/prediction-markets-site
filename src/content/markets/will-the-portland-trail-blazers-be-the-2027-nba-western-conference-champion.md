@@ -3,7 +3,7 @@ title: "Will the Portland Trail Blazers be the 2027 NBA Western Conference Champ
 description: "Will the Portland Trail Blazers be the 2027 NBA Western Conference Champion? Odds: 3.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Portland Trail Blazers be the 2027 NBA Western Conference Champion?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2027-07-01
 tags: ["ai", "polymarket", "sports"]

@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
-polymarketVolume: 9924
+polymarketVolume: 9930
 polymarketUrl: "https://polymarket.com/event/will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-december-31-20260806175739820"
 ---
 
@@ -22,7 +22,6 @@ polymarketUrl: "https://polymarket.com/event/will-alphabet-be-the-second-largest
 ## Related Markets
 
 - [Epic Games IPO before 2027?](/odds/epic-games-ipo-before-2027) — 2% YES
-- [Will OpenAI's IPO valuation be between $1.0T and $1.25T?](/odds/will-openais-ipo-valuation-be-between-10t-and-125t) — 16% YES
 
 ## Frequently Asked Questions
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the 5-year Treasury yield hit 5.10% before 2027?"
-description: "Will the 5-year Treasury yield hit 5.10% before 2027? Odds: 22.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the 5-year Treasury yield hit 5.10% before 2027? Odds: 29.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 5-year Treasury yield hit 5.10% before 2027?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-11
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]
-polymarketYes: 22.7
-polymarketNo: 77.3
-polymarketVolume: 97895
+polymarketYes: 29.2
+polymarketNo: 70.8
+polymarketVolume: 98903
 polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-hit-5pt10-before-2027"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-5-year-treasury-yield-hit-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.7% | 77.3% | $98K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.2% | 70.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will the Fed increase interest rates by 25 bps after the March 2027 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2027-meeting) — 59% YES
 - [Will the 10-year Treasury yield hit 5.4% before 2027?](/odds/will-the-10-year-treasury-yield-hit-54-before-2027) — 13% YES
-- [Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?](/odds/will-china-gdp-growth-in-q4-2026-be-between-46-and-49) — 54% YES
-- [Will world GDP growth be 3.2% in 2026?](/odds/will-world-gdp-growth-be-32-in-2026) — 34% YES
+- [Will the 5-year Treasury yield hit 5.15% before 2027?](/odds/will-the-5-year-treasury-yield-hit-515-before-2027) — 12% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the 5-year Treasury yield hit 5.10% before 2027?"?
 
-As of November 11, 2026, Polymarket prices YES at 22.7%.
+As of November 11, 2026, Polymarket prices YES at 29.2%.
 
 ### Where can I trade on this prediction market?
 

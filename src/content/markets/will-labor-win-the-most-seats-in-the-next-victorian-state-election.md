@@ -1,14 +1,14 @@
 ---
 title: "Will Labor win the most seats in the next Victorian state election?"
-description: "Will Labor win the most seats in the next Victorian state election? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Labor win the most seats in the next Victorian state election? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Labor win the most seats in the next Victorian state election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-11
 expiryDate: 2026-11-29
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 9986
 polymarketUrl: "https://polymarket.com/event/will-labor-win-the-most-seats-in-the-next-victorian-state-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-labor-win-the-most-seats-in-th
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-labor-win-the-most-seats-in-th
 
 ### What are the current odds for "Will Labor win the most seats in the next Victorian state election?"?
 
-As of November 11, 2026, Polymarket prices YES at 2.1%.
+As of November 11, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

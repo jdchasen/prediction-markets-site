@@ -3,7 +3,7 @@ title: "Will the Popular initiative ‘Yes to fair federal taxation for married 
 description: "Will the Popular initiative ‘Yes to fair federal taxation for married couples – To finally put an end to marriage discrimination!’ be approved in Switzerland..."
 marketQuestion: "Will the Popular initiative ‘Yes to fair federal taxation for married couples – To finally put an end to marriage discrimination!’ be approved in Switzerland’s November 29, 2026 popular vote?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2026-11-29
 tags: ["ai", "federal-reserve", "politics", "polymarket"]

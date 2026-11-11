@@ -3,7 +3,7 @@ title: "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?"
 description: "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%? Odds: 54.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2027-02-01
 tags: ["economics", "polymarket"]

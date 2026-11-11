@@ -3,7 +3,7 @@ title: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 
 description: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25? Odds: 4.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the peak RONI for the 2026–27 El Niño be at least 2.0 but below 2.25?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2027-04-01
 tags: ["politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["economics", "polymarket"]
 polymarketYes: 13.0
 polymarketNo: 87.0
-polymarketVolume: 98896
+polymarketVolume: 98958
 polymarketUrl: "https://polymarket.com/event/will-the-10-year-treasury-yield-hit-5pt4-before-2027"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-the-10-year-treasury-yield-hit
 
 ## Related Markets
 
-- [Will the 5-year Treasury yield hit 5.10% before 2027?](/odds/will-the-5-year-treasury-yield-hit-510-before-2027) — 23% YES
-- [Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?](/odds/will-china-gdp-growth-in-q4-2026-be-between-46-and-49) — 54% YES
-- [Will world GDP growth be 3.2% in 2026?](/odds/will-world-gdp-growth-be-32-in-2026) — 34% YES
+- [Will the Fed increase interest rates by 25 bps after the March 2027 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2027-meeting) — 59% YES
+- [Will the 5-year Treasury yield hit 5.10% before 2027?](/odds/will-the-5-year-treasury-yield-hit-510-before-2027) — 29% YES
+- [Will the 5-year Treasury yield hit 5.15% before 2027?](/odds/will-the-5-year-treasury-yield-hit-515-before-2027) — 12% YES
 
 ## Frequently Asked Questions
 

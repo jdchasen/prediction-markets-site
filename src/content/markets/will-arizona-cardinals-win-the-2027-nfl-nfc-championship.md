@@ -9,7 +9,7 @@ expiryDate: 2027-01-25
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 994673
+polymarketVolume: 994723
 polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199"
 ---
 
@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-arizona-cardinals-win-the-2027
 
 ## Related Markets
 
-- [Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?](/odds/will-atltico-madrid-win-the-2026-27-uefa-champions-league-championship) — 2% YES
 - [Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?](/odds/will-cameron-ward-have-185-passing-touchdowns-in-the-2026-27-nfl-regular-season) — 18% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 

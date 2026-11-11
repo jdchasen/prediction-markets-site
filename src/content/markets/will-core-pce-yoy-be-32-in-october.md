@@ -3,7 +3,7 @@ title: "Will Core PCE YoY be 3.2% in October?"
 description: "Will Core PCE YoY be 3.2% in October? Odds: 29.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Core PCE YoY be 3.2% in October?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2026-11-25
 tags: ["economics", "polymarket"]

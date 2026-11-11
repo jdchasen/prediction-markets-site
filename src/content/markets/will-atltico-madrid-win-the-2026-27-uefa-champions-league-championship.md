@@ -3,7 +3,7 @@ title: "Will Atlético Madrid win the 2026-27 UEFA Champions League Championship
 description: "Will Atlético Madrid win the 2026-27 UEFA Champions League Championship? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]

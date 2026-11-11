@@ -3,7 +3,7 @@ title: "Will the Bank of Canada make no change to the target for the overnight r
 description: "Will the Bank of Canada make no change to the target for the overnight rate at the March interest rate announcement? Odds: 69.5% YES on Polymarket. See live ..."
 marketQuestion: "Will the Bank of Canada make no change to the target for the overnight rate at the March interest rate announcement?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-11
 expiryDate: 2027-03-03
 tags: ["economics", "interest-rates", "polymarket"]
