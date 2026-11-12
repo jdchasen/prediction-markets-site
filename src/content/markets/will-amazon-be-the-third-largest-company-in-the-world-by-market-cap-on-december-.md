@@ -3,7 +3,7 @@ title: "Will Amazon be the third-largest company in the world by market cap on D
 description: "Will Amazon be the third-largest company in the world by market cap on December 31? Odds: 0.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amazon be the third-largest company in the world by market cap on December 31?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]

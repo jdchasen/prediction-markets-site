@@ -3,7 +3,7 @@ title: "Will Joe Burrow finish the 2026-27 NFL regular season with the most pass
 description: "Will Joe Burrow finish the 2026-27 NFL regular season with the most passing touchdowns? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joe Burrow finish the 2026-27 NFL regular season with the most passing touchdowns?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]

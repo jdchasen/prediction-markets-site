@@ -9,7 +9,7 @@ expiryDate: 2027-05-01
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 9916
+polymarketVolume: 9921
 polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year-20260624161716908"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 ## Related Markets
 
 - [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 0% YES
-- [Will Cameron Ward have 18.5+ passing touchdowns in the 2026-27 NFL regular season?](/odds/will-cameron-ward-have-185-passing-touchdowns-in-the-2026-27-nfl-regular-season) — 18% YES
-- [Will Joe Burrow finish the 2026-27 NFL regular season with the most passing touchdowns?](/odds/will-joe-burrow-finish-the-2026-27-nfl-regular-season-with-the-most-passing-touc) — 56% YES
+- [Will Manchester United finish in the top 6 of the 2026-27 English Premier League season?](/odds/will-manchester-united-finish-in-the-top-6-of-the-2026-27-english-premier-league) — 20% YES
+- [Will the Los Angeles Rams have more than 9.5 wins during the 2026 NFL season?](/odds/will-the-los-angeles-rams-have-more-than-95-wins-during-the-2026-nfl-season) — 53% YES
 
 ## Frequently Asked Questions
 

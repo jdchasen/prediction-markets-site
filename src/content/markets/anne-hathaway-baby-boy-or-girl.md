@@ -3,7 +3,7 @@ title: "Anne Hathaway baby: Boy or Girl?"
 description: "Anne Hathaway baby: Boy or Girl? Odds: 49.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Anne Hathaway baby: Boy or Girl?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

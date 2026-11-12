@@ -3,7 +3,7 @@ title: "Will Baidu have the best Chinese AI model at the end of November 2026?"
 description: "Will Baidu have the best Chinese AI model at the end of November 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baidu have the best Chinese AI model at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

@@ -21,7 +21,8 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 
 ## Related Markets
 
-- [Will Ink launch a token by September 30, 2027?](/odds/will-ink-launch-a-token-by-september-30-2027) — 76% YES
+- [Will Ethereum reach $2,600 in November?](/odds/will-ethereum-reach-2600-in-november) — 4% YES
+- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 
 ## Frequently Asked Questions
 

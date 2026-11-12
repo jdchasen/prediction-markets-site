@@ -3,7 +3,7 @@ title: "Will Alysa Liu rank in Google’s Top 5 Most Searched Athletes of 2026?"
 description: "Will Alysa Liu rank in Google’s Top 5 Most Searched Athletes of 2026? Odds: 61.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alysa Liu rank in Google’s Top 5 Most Searched Athletes of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

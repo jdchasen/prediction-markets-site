@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 
 ## Related Markets
 
-- [Will Amazon be the third-largest company in the world by market cap on December 31?](/odds/will-amazon-be-the-third-largest-company-in-the-world-by-market-cap-on-december-) — 1% YES
+- [Will Anthropic IPO on November 23, 2026?](/odds/will-anthropic-ipo-on-november-23-2026) — 1% YES
 
 ## Frequently Asked Questions
 

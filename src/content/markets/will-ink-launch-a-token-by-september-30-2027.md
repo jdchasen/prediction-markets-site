@@ -3,7 +3,7 @@ title: "Will Ink launch a token by September 30, 2027?"
 description: "Will Ink launch a token by September 30, 2027? Odds: 76.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ink launch a token by September 30, 2027?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2027-10-01
 tags: ["crypto", "polymarket"]

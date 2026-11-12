@@ -3,7 +3,7 @@ title: "Will Yordan Alvarez win the 2026 American League Hank Aaron Award?"
 description: "Will Yordan Alvarez win the 2026 American League Hank Aaron Award? Odds: 98.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Yordan Alvarez win the 2026 American League Hank Aaron Award?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

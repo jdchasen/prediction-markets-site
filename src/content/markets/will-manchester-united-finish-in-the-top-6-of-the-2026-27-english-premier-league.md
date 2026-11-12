@@ -1,0 +1,42 @@
+---
+title: "Will Manchester United finish in the top 6 of the 2026-27 English Premier League season?"
+description: "Will Manchester United finish in the top 6 of the 2026-27 English Premier League season? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
+marketQuestion: "Will Manchester United finish in the top 6 of the 2026-27 English Premier League season?"
+category: "sports"
+status: "active"
+lastUpdated: 2026-11-12
+expiryDate: 2027-06-14
+tags: ["polymarket", "sports"]
+polymarketYes: 20.5
+polymarketNo: 79.5
+polymarketVolume: 9991
+polymarketUrl: "https://polymarket.com/event/will-manchester-united-finish-in-the-top-6-of-the-2026-27-english-premier-league-season"
+---
+
+## Current Odds
+
+| Platform | Yes | No | Volume | Trade |
+|----------|-----|-----|--------|-------|
+| Polymarket | 20.5% | 79.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+
+## Related Markets
+
+- [Will Arizona Cardinals win the 2027 NFL NFC Championship?](/odds/will-arizona-cardinals-win-the-2027-nfl-nfc-championship) — 0% YES
+- [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
+- [Will the Los Angeles Rams have more than 9.5 wins during the 2026 NFL season?](/odds/will-the-los-angeles-rams-have-more-than-95-wins-during-the-2026-nfl-season) — 53% YES
+
+## Frequently Asked Questions
+
+### What are the current odds for "Will Manchester United finish in the top 6 of the 2026-27 English Premier League season?"?
+
+As of November 12, 2026, Polymarket prices YES at 20.5%.
+
+### Where can I trade on this prediction market?
+
+You can trade this market on [Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) (crypto-based).
+
+## Learn More
+
+- [Will ETH Hit $4,500 in 2026? Live Market Odds](/blog/will-ethereum-reach-4500-in-2026-what-prediction-markets-say)
+- [Will Discord IPO in 2026? What Prediction Markets Say](/blog/will-discord-ipo-in-2026-what-prediction-markets-say)
+

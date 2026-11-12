@@ -3,7 +3,7 @@ title: "Israel military action against Syria by November 30, 2026?"
 description: "Israel military action against Syria by November 30, 2026? Odds: 13.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel military action against Syria by November 30, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

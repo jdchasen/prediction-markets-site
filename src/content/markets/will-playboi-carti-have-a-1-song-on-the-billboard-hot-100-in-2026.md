@@ -1,14 +1,14 @@
 ---
 title: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"
-description: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026? Odds: 2.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 2.1
-polymarketNo: 97.9
+polymarketYes: 4.0
+polymarketNo: 96.0
 polymarketVolume: 9926
 polymarketUrl: "https://polymarket.com/event/will-playboi-carti-have-a-1-song-on-the-billboard-hot-100-in-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-playboi-carti-have-a-1-song-on
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.1% | 97.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Playboi Carti have a #1 song on the Billboard Hot 100 in 2026?"?
 
-As of November 12, 2026, Polymarket prices YES at 2.1%.
+As of November 12, 2026, Polymarket prices YES at 4.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will the 5-year Treasury yield hit 5.10% before 2027?"
 description: "Will the 5-year Treasury yield hit 5.10% before 2027? Odds: 32.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 5-year Treasury yield hit 5.10% before 2027?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2026-12-31
 tags: ["economics", "polymarket"]

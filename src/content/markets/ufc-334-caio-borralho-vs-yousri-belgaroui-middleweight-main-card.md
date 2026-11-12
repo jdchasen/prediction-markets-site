@@ -3,7 +3,7 @@ title: "UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card)"
 description: "UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card) Odds: 58.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card)"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-12
 expiryDate: 2026-11-15
 tags: ["ai", "politics", "polymarket"]
