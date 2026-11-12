@@ -1,14 +1,14 @@
 ---
 title: "Will Ink launch a token by September 30, 2027?"
-description: "Will Ink launch a token by September 30, 2027? Odds: 77.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ink launch a token by September 30, 2027? Odds: 76.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ink launch a token by September 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-11
+lastUpdated: 2026-11-12
 expiryDate: 2027-10-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 77.5
-polymarketNo: 22.5
+polymarketYes: 76.0
+polymarketNo: 24.0
 polymarketVolume: 9928
 polymarketUrl: "https://polymarket.com/event/will-ink-launch-a-token-by-september-30-2027"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-ink-launch-a-token-by-septembe
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 77.5% | 22.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.0% | 24.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ethereum dip to $1,700 in November?](/odds/will-ethereum-dip-to-1700-in-november) — 14% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ink launch a token by September 30, 2027?"?
 
-As of November 11, 2026, Polymarket prices YES at 77.5%.
+As of November 12, 2026, Polymarket prices YES at 76.0%.
 
 ### Where can I trade on this prediction market?
 

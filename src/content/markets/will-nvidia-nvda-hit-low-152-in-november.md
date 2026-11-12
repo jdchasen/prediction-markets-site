@@ -3,8 +3,8 @@ title: "Will NVIDIA (NVDA) hit (LOW) $152 in November?"
 description: "Will NVIDIA (NVDA) hit (LOW) $152 in November? Odds: 30.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will NVIDIA (NVDA) hit (LOW) $152 in November?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-11
+status: "settled"
+lastUpdated: 2026-11-12
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 30.5

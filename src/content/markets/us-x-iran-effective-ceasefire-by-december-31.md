@@ -3,8 +3,8 @@ title: "US x Iran Effective Ceasefire by December 31?"
 description: "US x Iran Effective Ceasefire by December 31? Odds: 82.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "US x Iran Effective Ceasefire by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-11
+status: "settled"
+lastUpdated: 2026-11-12
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 82.5

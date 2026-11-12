@@ -4,7 +4,7 @@ description: "US x Yemen ceasefire continues through December 31? Odds: 85.5% YE
 marketQuestion: "US x Yemen ceasefire continues through December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-11
+lastUpdated: 2026-11-12
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 85.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/us-x-yemen-ceasefire-continues-thro
 
 ### What are the current odds for "US x Yemen ceasefire continues through December 31?"?
 
-As of November 11, 2026, Polymarket prices YES at 85.5%.
+As of November 12, 2026, Polymarket prices YES at 85.5%.
 
 ### Where can I trade on this prediction market?
 

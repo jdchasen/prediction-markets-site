@@ -3,8 +3,8 @@ title: "Will OpenAI have the best Code Arena | WebDev AI at the end of November 
 description: "Will OpenAI have the best Code Arena | WebDev AI at the end of November 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the best Code Arena | WebDev AI at the end of November 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-11
+status: "settled"
+lastUpdated: 2026-11-12
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 11.5

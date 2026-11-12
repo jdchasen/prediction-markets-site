@@ -3,8 +3,8 @@ title: "Will the Fed increase interest rates by 25 bps after the March 2027 meet
 description: "Will the Fed increase interest rates by 25 bps after the March 2027 meeting? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-11-11
+status: "settled"
+lastUpdated: 2026-11-12
 expiryDate: 2027-03-18
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 59.0

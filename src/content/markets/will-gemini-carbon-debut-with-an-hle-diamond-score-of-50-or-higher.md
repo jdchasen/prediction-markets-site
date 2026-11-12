@@ -3,8 +3,8 @@ title: "Will Gemini Carbon debut with an HLE-Diamond score of 50% or higher?"
 description: "Will Gemini Carbon debut with an HLE-Diamond score of 50% or higher? Odds: 98.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gemini Carbon debut with an HLE-Diamond score of 50% or higher?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-11
+status: "settled"
+lastUpdated: 2026-11-12
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 98.9

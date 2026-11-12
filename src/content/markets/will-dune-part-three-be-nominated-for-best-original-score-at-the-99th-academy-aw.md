@@ -3,8 +3,8 @@ title: "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99
 description: "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99th Academy Awards? Odds: 74.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-11-11
+status: "settled"
+lastUpdated: 2026-11-12
 expiryDate: 2027-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 74.5

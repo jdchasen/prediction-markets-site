@@ -4,7 +4,7 @@ description: "Israel military action against Syria by November 30, 2026? Odds: 1
 marketQuestion: "Israel military action against Syria by November 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-11
+lastUpdated: 2026-11-12
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 13.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/israel-military-action-against-syri
 
 ### What are the current odds for "Israel military action against Syria by November 30, 2026?"?
 
-As of November 11, 2026, Polymarket prices YES at 13.0%.
+As of November 12, 2026, Polymarket prices YES at 13.0%.
 
 ### Where can I trade on this prediction market?
 
