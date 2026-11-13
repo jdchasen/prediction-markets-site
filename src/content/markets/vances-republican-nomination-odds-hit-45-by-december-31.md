@@ -3,7 +3,7 @@ title: "Vance's Republican nomination odds hit 45% by December 31?"
 description: "Vance's Republican nomination odds hit 45% by December 31? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Vance's Republican nomination odds hit 45% by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

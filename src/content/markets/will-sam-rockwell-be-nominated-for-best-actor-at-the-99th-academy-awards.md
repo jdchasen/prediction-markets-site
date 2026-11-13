@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-sam-rockwell-be-nominated-for-
 |----------|-----|-----|--------|-------|
 | Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will "La Nieve" from The Black Ball win Best Original Song at the 99th Academy Awards?](/odds/will-la-nieve-from-the-black-ball-win-best-original-song-at-the-99th-academy-awa) — 64% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"?

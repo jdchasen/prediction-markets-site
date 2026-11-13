@@ -3,7 +3,7 @@ title: "Will Google be the #2 AI lab at the end of November 2026?"
 description: "Will Google be the #2 AI lab at the end of November 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the #2 AI lab at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-13
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

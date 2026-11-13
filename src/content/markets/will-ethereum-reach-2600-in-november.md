@@ -3,7 +3,7 @@ title: "Will Ethereum reach $2,600 in November?"
 description: "Will Ethereum reach $2,600 in November? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum reach $2,600 in November?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-13
 expiryDate: 2026-12-01
 tags: ["crypto", "ethereum", "polymarket"]

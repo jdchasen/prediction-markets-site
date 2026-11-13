@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.7
 polymarketNo: 95.3
-polymarketVolume: 996587
+polymarketVolume: 996591
 polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-2027-423-881"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-lovable-be-acquired-before-202
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 90% YES
+- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 88% YES
 
 ## Frequently Asked Questions
 

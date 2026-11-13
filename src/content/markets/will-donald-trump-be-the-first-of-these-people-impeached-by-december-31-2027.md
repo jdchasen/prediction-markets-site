@@ -3,7 +3,7 @@ title: "Will Donald Trump be the first of these people impeached by December 31,
 description: "Will Donald Trump be the first of these people impeached by December 31, 2027? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump be the first of these people impeached by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-13
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket", "trump"]

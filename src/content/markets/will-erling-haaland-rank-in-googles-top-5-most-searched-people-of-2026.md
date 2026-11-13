@@ -3,7 +3,7 @@ title: "Will Erling Haaland rank in Google’s Top 5 Most Searched People of 202
 description: "Will Erling Haaland rank in Google’s Top 5 Most Searched People of 2026? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Erling Haaland rank in Google’s Top 5 Most Searched People of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-13
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

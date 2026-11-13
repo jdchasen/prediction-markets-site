@@ -1,15 +1,15 @@
 ---
 title: "Will Anthropic be the second-best AI lab at the end of November 2026?"
-description: "Will Anthropic be the second-best AI lab at the end of November 2026? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic be the second-best AI lab at the end of November 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic be the second-best AI lab at the end of November 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-13
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 68.0
-polymarketNo: 32.0
-polymarketVolume: 9940
+polymarketYes: 68.5
+polymarketNo: 31.5
+polymarketVolume: 9968
 polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-ai-lab-at-the-end-of-november-2026"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 68.0% | 32.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 68.5% | 31.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthropic be the second-best AI lab at the end of November 2026?"?
 
-As of November 13, 2026, Polymarket prices YES at 68.0%.
+As of November 13, 2026, Polymarket prices YES at 68.5%.
 
 ### Where can I trade on this prediction market?
 

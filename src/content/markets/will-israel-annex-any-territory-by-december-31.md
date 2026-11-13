@@ -1,14 +1,14 @@
 ---
 title: "Will Israel annex any territory by December 31?"
-description: "Will Israel annex any territory by December 31? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel annex any territory by December 31? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel annex any territory by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-13
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.6
-polymarketNo: 97.4
+polymarketYes: 3.1
+polymarketNo: 96.9
 polymarketVolume: 99202
 polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-december-31-348"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.6% | 97.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.1% | 96.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Israel annex any territory by December 31?"?
 
-As of November 13, 2026, Polymarket prices YES at 2.6%.
+As of November 13, 2026, Polymarket prices YES at 3.1%.
 
 ### Where can I trade on this prediction market?
 

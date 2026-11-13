@@ -3,7 +3,7 @@ title: "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena le
 description: "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027? Odds: 49.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-13
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]

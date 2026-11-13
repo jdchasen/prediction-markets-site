@@ -1,14 +1,14 @@
 ---
 title: "Will the next Israeli government hold between 58 and 60 seats?"
-description: "Will the next Israeli government hold between 58 and 60 seats? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the next Israeli government hold between 58 and 60 seats? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Israeli government hold between 58 and 60 seats?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-13
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
+polymarketYes: 1.5
+polymarketNo: 98.5
 polymarketVolume: 9995
 polymarketUrl: "https://polymarket.com/event/will-the-next-israeli-government-hold-58-60-seats"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-israeli-government-ho
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the next Israeli government hold between 58 and 60 seats?"?
 
-As of November 13, 2026, Polymarket prices YES at 4.5%.
+As of November 13, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

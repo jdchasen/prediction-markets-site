@@ -9,7 +9,7 @@ expiryDate: 2028-11-08
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
 polymarketNo: 99.6
-polymarketVolume: 9970593
+polymarketVolume: 9992440
 polymarketUrl: "https://polymarket.com/event/will-joe-kent-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-joe-kent-win-the-2028-republic
 
 - [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 90% YES
+- [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 88% YES
 
 ## Frequently Asked Questions
 
