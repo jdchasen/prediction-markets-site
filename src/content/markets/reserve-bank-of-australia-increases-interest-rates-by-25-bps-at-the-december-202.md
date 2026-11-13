@@ -3,8 +3,8 @@ title: "Reserve Bank of Australia increases interest rates by 25 bps at the Dece
 description: "Reserve Bank of Australia increases interest rates by 25 bps at the December 2026 meeting? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Reserve Bank of Australia increases interest rates by 25 bps at the December 2026 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-11-12
+status: "settled"
+lastUpdated: 2026-11-13
 expiryDate: 2026-12-08
 tags: ["economics", "interest-rates", "polymarket"]
 polymarketYes: 4.5

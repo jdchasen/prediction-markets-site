@@ -3,8 +3,8 @@ title: "Will Manchester United finish in the top 6 of the 2026-27 English Premie
 description: "Will Manchester United finish in the top 6 of the 2026-27 English Premier League season? Odds: 20.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Manchester United finish in the top 6 of the 2026-27 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-11-12
+status: "settled"
+lastUpdated: 2026-11-13
 expiryDate: 2027-06-14
 tags: ["polymarket", "sports"]
 polymarketYes: 20.5

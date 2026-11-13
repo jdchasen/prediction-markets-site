@@ -1,14 +1,14 @@
 ---
 title: "Will BYD be removed from Chinese Military Companies list by June 30, 2027?"
-description: "Will BYD be removed from Chinese Military Companies list by June 30, 2027? Odds: 8.0% YES on Polymarket. See live prices and trade this market."
+description: "Will BYD be removed from Chinese Military Companies list by June 30, 2027? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BYD be removed from Chinese Military Companies list by June 30, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-12
+lastUpdated: 2026-11-13
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 8.0
-polymarketNo: 92.0
+polymarketYes: 7.5
+polymarketNo: 92.5
 polymarketVolume: 99520
 polymarketUrl: "https://polymarket.com/event/will-byd-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230559"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-byd-be-removed-from-chinese-mi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.0% | 92.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.5% | 92.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-byd-be-removed-from-chinese-mi
 
 ### What are the current odds for "Will BYD be removed from Chinese Military Companies list by June 30, 2027?"?
 
-As of November 12, 2026, Polymarket prices YES at 8.0%.
+As of November 13, 2026, Polymarket prices YES at 7.5%.
 
 ### Where can I trade on this prediction market?
 

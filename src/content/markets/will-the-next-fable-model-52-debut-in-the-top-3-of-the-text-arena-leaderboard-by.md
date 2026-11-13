@@ -1,14 +1,14 @@
 ---
 title: "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027?"
-description: "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027? Odds: 54.5% YES on Polymarket. See live prices and trade ..."
+description: "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027? Odds: 49.5% YES on Polymarket. See live prices and trade ..."
 marketQuestion: "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-12
+lastUpdated: 2026-11-13
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 54.5
-polymarketNo: 45.5
+polymarketYes: 49.5
+polymarketNo: 50.5
 polymarketVolume: 9912
 polymarketUrl: "https://polymarket.com/event/will-the-next-fable-model-5pt2-debut-in-the-top-3-of-the-text-arena-leaderboard-by-june-30-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-fable-model-5pt2-debu
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 54.5% | 45.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 49.5% | 50.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-fable-model-5pt2-debu
 
 ### What are the current odds for "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027?"?
 
-As of November 12, 2026, Polymarket prices YES at 54.5%.
+As of November 13, 2026, Polymarket prices YES at 49.5%.
 
 ### Where can I trade on this prediction market?
 

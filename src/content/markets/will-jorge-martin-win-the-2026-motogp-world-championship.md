@@ -3,8 +3,8 @@ title: "Will Jorge Martin win the 2026 MotoGP World Championship?"
 description: "Will Jorge Martin win the 2026 MotoGP World Championship? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jorge Martin win the 2026 MotoGP World Championship?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-12
+status: "settled"
+lastUpdated: 2026-11-13
 expiryDate: 2026-11-29
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8
