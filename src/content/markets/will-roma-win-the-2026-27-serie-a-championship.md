@@ -8,7 +8,7 @@ lastUpdated: 2026-11-14
 expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]
 polymarketYes: 16.6
-polymarketNo: 83.4
+polymarketNo: 83.5
 polymarketVolume: 99554
 polymarketUrl: "https://polymarket.com/event/will-roma-win-the-2026-27-serie-a-championship-20260701200118404"
 ---
@@ -17,12 +17,12 @@ polymarketUrl: "https://polymarket.com/event/will-roma-win-the-2026-27-serie-a-c
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.6% | 83.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.6% | 83.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Donald Trump win the 2028 Republican presidential nomination?](/odds/will-donald-trump-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 88% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions

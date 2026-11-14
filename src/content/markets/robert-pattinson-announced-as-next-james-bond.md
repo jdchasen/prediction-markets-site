@@ -3,7 +3,7 @@ title: "Robert Pattinson announced as next James Bond?"
 description: "Robert Pattinson announced as next James Bond? Odds: 43.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Robert Pattinson announced as next James Bond?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-14
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

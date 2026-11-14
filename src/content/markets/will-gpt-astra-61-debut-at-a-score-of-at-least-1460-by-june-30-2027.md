@@ -3,7 +3,7 @@ title: "Will GPT Astra 6.1+ debut at a score of at least 1460 by June 30, 2027?"
 description: "Will GPT Astra 6.1+ debut at a score of at least 1460 by June 30, 2027? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GPT Astra 6.1+ debut at a score of at least 1460 by June 30, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-14
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]

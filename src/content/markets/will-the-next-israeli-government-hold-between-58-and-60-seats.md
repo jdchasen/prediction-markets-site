@@ -3,7 +3,7 @@ title: "Will the next Israeli government hold between 58 and 60 seats?"
 description: "Will the next Israeli government hold between 58 and 60 seats? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Israeli government hold between 58 and 60 seats?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-14
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]

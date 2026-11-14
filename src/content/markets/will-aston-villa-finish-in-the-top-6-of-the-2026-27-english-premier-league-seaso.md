@@ -9,7 +9,7 @@ expiryDate: 2027-06-14
 tags: ["polymarket", "sports"]
 polymarketYes: 36.5
 polymarketNo: 63.5
-polymarketVolume: 9919
+polymarketVolume: 9922
 polymarketUrl: "https://polymarket.com/event/will-aston-villa-finish-in-the-top-6-of-the-2026-27-english-premier-league-season"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-aston-villa-finish-in-the-top-
 ## Related Markets
 
 - [Kim Kardashian and Lewis Hamilton engaged in 2026?](/odds/kim-kardashian-and-lewis-hamilton-engaged-in-2026) — 2% YES
+- [Will Tyler Shough have 3,649.5+ passing yards in the 2026-27 NFL regular season?](/odds/will-tyler-shough-have-36495-passing-yards-in-the-2026-27-nfl-regular-season) — 76% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
-- [Will the Portland Trail Blazers be the 2027 NBA Western Conference Champion?](/odds/will-the-portland-trail-blazers-be-the-2027-nba-western-conference-champion) — 5% YES
 
 ## Frequently Asked Questions
 

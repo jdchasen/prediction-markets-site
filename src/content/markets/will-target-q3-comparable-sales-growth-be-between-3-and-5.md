@@ -3,7 +3,7 @@ title: "Will Target Q3 comparable sales growth be between 3% and 5%?"
 description: "Will Target Q3 comparable sales growth be between 3% and 5%? Odds: 61.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Target Q3 comparable sales growth be between 3% and 5%?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-14
 expiryDate: 2026-11-18
 tags: ["politics", "polymarket"]
