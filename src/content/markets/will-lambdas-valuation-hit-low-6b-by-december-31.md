@@ -1,14 +1,14 @@
 ---
 title: "Will Lambda's valuation hit (LOW) $6B by December 31?"
-description: "Will Lambda's valuation hit (LOW) $6B by December 31? Odds: 4.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Lambda's valuation hit (LOW) $6B by December 31? Odds: 6.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lambda's valuation hit (LOW) $6B by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-01-05
 tags: ["politics", "polymarket"]
-polymarketYes: 4.3
-polymarketNo: 95.7
+polymarketYes: 6.9
+polymarketNo: 93.2
 polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-lambdas-valuation-hit-low-6b-by-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-lambdas-valuation-hit-low-6b-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.3% | 95.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 6.9% | 93.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-lambdas-valuation-hit-low-6b-b
 
 ### What are the current odds for "Will Lambda's valuation hit (LOW) $6B by December 31?"?
 
-As of November 13, 2026, Polymarket prices YES at 4.3%.
+As of November 14, 2026, Polymarket prices YES at 6.9%.
 
 ### Where can I trade on this prediction market?
 

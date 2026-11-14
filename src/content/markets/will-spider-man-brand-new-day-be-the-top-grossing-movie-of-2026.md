@@ -4,12 +4,12 @@ description: "Will Spider-Man: Brand New Day be the top grossing movie of 2026? 
 marketQuestion: "Will Spider-Man: Brand New Day be the top grossing movie of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-01-08
 tags: ["politics", "polymarket"]
 polymarketYes: 88.5
 polymarketNo: 11.5
-polymarketVolume: 996476
+polymarketVolume: 996478
 polymarketUrl: "https://polymarket.com/event/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-spider-man-brand-new-day-be-th
 
 ### What are the current odds for "Will Spider-Man: Brand New Day be the top grossing movie of 2026?"?
 
-As of November 13, 2026, Polymarket prices YES at 88.5%.
+As of November 14, 2026, Polymarket prices YES at 88.5%.
 
 ### Where can I trade on this prediction market?
 

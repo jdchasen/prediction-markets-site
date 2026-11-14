@@ -4,7 +4,7 @@ description: "Will XRP reach $3.80 by December 31, 2026? Odds: 1.6% YES on Polym
 marketQuestion: "Will XRP reach $3.80 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.6
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-xrp-reach-3pt80-by-december-31
 
 ### What are the current odds for "Will XRP reach $3.80 by December 31, 2026?"?
 
-As of November 13, 2026, Polymarket prices YES at 1.6%.
+As of November 14, 2026, Polymarket prices YES at 1.6%.
 
 ### Where can I trade on this prediction market?
 

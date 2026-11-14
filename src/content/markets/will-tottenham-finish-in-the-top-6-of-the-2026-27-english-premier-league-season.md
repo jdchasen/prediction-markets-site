@@ -3,8 +3,8 @@ title: "Will Tottenham finish in the top 6 of the 2026-27 English Premier League
 description: "Will Tottenham finish in the top 6 of the 2026-27 English Premier League season? Odds: 38.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tottenham finish in the top 6 of the 2026-27 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-11-13
+status: "settled"
+lastUpdated: 2026-11-14
 expiryDate: 2027-06-14
 tags: ["polymarket", "sports"]
 polymarketYes: 38.0

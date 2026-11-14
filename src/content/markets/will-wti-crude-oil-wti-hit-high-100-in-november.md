@@ -3,8 +3,8 @@ title: "Will WTI Crude Oil (WTI) hit (HIGH) $100 in November?"
 description: "Will WTI Crude Oil (WTI) hit (HIGH) $100 in November? Odds: 25.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will WTI Crude Oil (WTI) hit (HIGH) $100 in November?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-13
+status: "settled"
+lastUpdated: 2026-11-14
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 25.5

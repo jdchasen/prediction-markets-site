@@ -4,7 +4,7 @@ description: "Will Luiz Inácio Lula da Silva be the next leader out before 2027
 marketQuestion: "Will Luiz Inácio Lula da Silva be the next leader out before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-luiz-inacio-lula-da-silva-be-t
 
 ### What are the current odds for "Will Luiz Inácio Lula da Silva be the next leader out before 2027?"?
 
-As of November 13, 2026, Polymarket prices YES at 0.4%.
+As of November 14, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Anthropic be the second-best AI lab at the end of November 2026?"
-description: "Will Anthropic be the second-best AI lab at the end of November 2026? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic be the second-best AI lab at the end of November 2026? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic be the second-best AI lab at the end of November 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 68.5
-polymarketNo: 31.5
+polymarketYes: 69.5
+polymarketNo: 30.5
 polymarketVolume: 9968
 polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-ai-lab-at-the-end-of-november-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 68.5% | 31.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.5% | 30.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-be-the-second-best-a
 
 ### What are the current odds for "Will Anthropic be the second-best AI lab at the end of November 2026?"?
 
-As of November 13, 2026, Polymarket prices YES at 68.5%.
+As of November 14, 2026, Polymarket prices YES at 69.5%.
 
 ### Where can I trade on this prediction market?
 

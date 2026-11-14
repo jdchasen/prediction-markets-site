@@ -1,15 +1,15 @@
 ---
 title: "Will Roma win the 2026-27 Serie A Championship?"
-description: "Will Roma win the 2026-27 Serie A Championship? Odds: 16.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Roma win the 2026-27 Serie A Championship? Odds: 16.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Roma win the 2026-27 Serie A Championship?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-05-30
 tags: ["politics", "polymarket"]
-polymarketYes: 16.4
-polymarketNo: 83.5
-polymarketVolume: 99415
+polymarketYes: 16.6
+polymarketNo: 83.4
+polymarketVolume: 99554
 polymarketUrl: "https://polymarket.com/event/will-roma-win-the-2026-27-serie-a-championship-20260701200118404"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-roma-win-the-2026-27-serie-a-c
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.4% | 83.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.6% | 83.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-roma-win-the-2026-27-serie-a-c
 
 ### What are the current odds for "Will Roma win the 2026-27 Serie A Championship?"?
 
-As of November 13, 2026, Polymarket prices YES at 16.4%.
+As of November 14, 2026, Polymarket prices YES at 16.6%.
 
 ### Where can I trade on this prediction market?
 

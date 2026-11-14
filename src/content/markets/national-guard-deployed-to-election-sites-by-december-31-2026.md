@@ -1,14 +1,14 @@
 ---
 title: "National Guard deployed to election sites by December 31, 2026?"
-description: "National Guard deployed to election sites by December 31, 2026? Odds: 2.9% YES on Polymarket. See live prices and trade this market."
+description: "National Guard deployed to election sites by December 31, 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "National Guard deployed to election sites by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-01-01
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 2.9
-polymarketNo: 97.0
+polymarketYes: 3.4
+polymarketNo: 96.6
 polymarketVolume: 9955
 polymarketUrl: "https://polymarket.com/event/national-guard-deployed-to-election-sites-by-december-31-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/national-guard-deployed-to-election
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.9% | 97.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/national-guard-deployed-to-election
 
 ### What are the current odds for "National Guard deployed to election sites by December 31, 2026?"?
 
-As of November 13, 2026, Polymarket prices YES at 2.9%.
+As of November 14, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

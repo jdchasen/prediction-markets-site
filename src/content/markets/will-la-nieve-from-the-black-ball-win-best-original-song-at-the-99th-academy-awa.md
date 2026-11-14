@@ -1,15 +1,15 @@
 ---
 title: "Will \"La Nieve\" from The Black Ball win Best Original Song at the 99th Academy Awards?"
-description: "Will \"La Nieve\" from The Black Ball win Best Original Song at the 99th Academy Awards? Odds: 64.0% YES on Polymarket. See live prices and trade this market."
+description: "Will \"La Nieve\" from The Black Ball win Best Original Song at the 99th Academy Awards? Odds: 64.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"La Nieve\" from The Black Ball win Best Original Song at the 99th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]
-polymarketYes: 64.0
-polymarketNo: 36.0
-polymarketVolume: 9931
+polymarketYes: 64.5
+polymarketNo: 35.5
+polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-la-nieve-from-the-black-ball-win-best-original-song-at-the-99th-academy-awards-20261013180153422"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-la-nieve-from-the-black-ball-w
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 64.0% | 36.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 64.5% | 35.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-la-nieve-from-the-black-ball-w
 
 ### What are the current odds for "Will "La Nieve" from The Black Ball win Best Original Song at the 99th Academy Awards?"?
 
-As of November 13, 2026, Polymarket prices YES at 64.0%.
+As of November 14, 2026, Polymarket prices YES at 64.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will the next Israeli government hold between 58 and 60 seats?"
-description: "Will the next Israeli government hold between 58 and 60 seats? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the next Israeli government hold between 58 and 60 seats? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Israeli government hold between 58 and 60 seats?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.5
-polymarketNo: 98.5
+polymarketYes: 0.8
+polymarketNo: 99.2
 polymarketVolume: 9995
 polymarketUrl: "https://polymarket.com/event/will-the-next-israeli-government-hold-58-60-seats"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-israeli-government-ho
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-israeli-government-ho
 
 ### What are the current odds for "Will the next Israeli government hold between 58 and 60 seats?"?
 
-As of November 13, 2026, Polymarket prices YES at 1.5%.
+As of November 14, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

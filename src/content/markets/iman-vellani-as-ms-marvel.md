@@ -4,7 +4,7 @@ description: "Iman Vellani as Ms. Marvel? Odds: 79.5% YES on Polymarket. See liv
 marketQuestion: "Iman Vellani as Ms. Marvel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 79.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/iman-vellani-as-ms-marvel"
 
 ### What are the current odds for "Iman Vellani as Ms. Marvel?"?
 
-As of November 13, 2026, Polymarket prices YES at 79.5%.
+As of November 14, 2026, Polymarket prices YES at 79.5%.
 
 ### Where can I trade on this prediction market?
 
