@@ -3,7 +3,7 @@ title: "Will Friedrich Merz be the next leader out before 2027?"
 description: "Will Friedrich Merz be the next leader out before 2027? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Friedrich Merz be the next leader out before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-15
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

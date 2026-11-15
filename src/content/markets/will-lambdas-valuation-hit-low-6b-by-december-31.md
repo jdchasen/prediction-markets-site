@@ -1,15 +1,15 @@
 ---
 title: "Will Lambda's valuation hit (LOW) $6B by December 31?"
-description: "Will Lambda's valuation hit (LOW) $6B by December 31? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Lambda's valuation hit (LOW) $6B by December 31? Odds: 5.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lambda's valuation hit (LOW) $6B by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-15
 expiryDate: 2027-01-05
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
-polymarketVolume: 9935
+polymarketYes: 5.4
+polymarketNo: 94.6
+polymarketVolume: 9963
 polymarketUrl: "https://polymarket.com/event/will-lambdas-valuation-hit-low-6b-by-december-31"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-lambdas-valuation-hit-low-6b-b
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.4% | 94.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 88% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Lambda's valuation hit (LOW) $6B by December 31?"?
 
-As of November 15, 2026, Polymarket prices YES at 2.8%.
+As of November 15, 2026, Polymarket prices YES at 5.4%.
 
 ### Where can I trade on this prediction market?
 

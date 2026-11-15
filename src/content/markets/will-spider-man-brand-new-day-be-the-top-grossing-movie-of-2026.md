@@ -9,7 +9,7 @@ expiryDate: 2027-01-08
 tags: ["politics", "polymarket"]
 polymarketYes: 88.5
 polymarketNo: 11.5
-polymarketVolume: 997858
+polymarketVolume: 997922
 polymarketUrl: "https://polymarket.com/event/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-spider-man-brand-new-day-be-th
 ## Related Markets
 
 - [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
+- [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will a Chinese company have one of the top 3 AI models by December 31?](/odds/will-a-chinese-company-have-one-of-the-top-3-ai-models-by-december-31) — 16% YES
 
 ## Frequently Asked Questions
 

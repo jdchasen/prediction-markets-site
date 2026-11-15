@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-la-nieve-from-the-black-ball-w
 
 ## Related Markets
 
-- [Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?](/odds/will-sam-rockwell-be-nominated-for-best-actor-at-the-99th-academy-awards) — 3% YES
+- [Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?](/odds/will-sam-rockwell-be-nominated-for-best-actor-at-the-99th-academy-awards) — 2% YES
 
 ## Frequently Asked Questions
 

@@ -9,7 +9,7 @@ expiryDate: 2027-01-10
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9803
+polymarketVolume: 9854
 polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-2026-be-between-1pt6-and-2pt0"
 ---
 
@@ -21,6 +21,7 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 
 ## Related Markets
 
+- [Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?](/odds/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-t) — 51% YES
 - [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 10% YES
 
 ## Frequently Asked Questions

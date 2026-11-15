@@ -3,7 +3,7 @@ title: "Will MrBeast's next video get at least 110 million views on week 1?"
 description: "Will MrBeast's next video get at least 110 million views on week 1? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will MrBeast's next video get at least 110 million views on week 1?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-15
 expiryDate: 2026-11-22
 tags: ["politics", "polymarket"]

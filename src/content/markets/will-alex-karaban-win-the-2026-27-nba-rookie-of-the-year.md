@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 ## Related Markets
 
 - [Kim Kardashian and Lewis Hamilton engaged in 2026?](/odds/kim-kardashian-and-lewis-hamilton-engaged-in-2026) — 2% YES
-- [Will Tyler Shough have 3,649.5+ passing yards in the 2026-27 NFL regular season?](/odds/will-tyler-shough-have-36495-passing-yards-in-the-2026-27-nfl-regular-season) — 76% YES
+- [Will Tyler Shough have 3,649.5+ passing yards in the 2026-27 NFL regular season?](/odds/will-tyler-shough-have-36495-passing-yards-in-the-2026-27-nfl-regular-season) — 61% YES
 - [Will Aston Villa finish in the top 6 of the 2026-27 English Premier League season?](/odds/will-aston-villa-finish-in-the-top-6-of-the-2026-27-english-premier-league-seaso) — 36% YES
 
 ## Frequently Asked Questions

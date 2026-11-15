@@ -8,8 +8,8 @@ lastUpdated: 2026-11-15
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.6
-polymarketVolume: 9992440
+polymarketNo: 99.7
+polymarketVolume: 9993600
 polymarketUrl: "https://polymarket.com/event/will-joe-kent-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-joe-kent-win-the-2028-republic
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10.0M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 88% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will a Chinese company have one of the top 3 AI models by December 31?](/odds/will-a-chinese-company-have-one-of-the-top-3-ai-models-by-december-31) — 16% YES
 
 ## Frequently Asked Questions
 
