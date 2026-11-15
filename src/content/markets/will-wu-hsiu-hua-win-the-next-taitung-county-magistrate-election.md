@@ -4,7 +4,7 @@ description: "Will Wu Hsiu-hua win the next Taitung County Magistrate election? 
 marketQuestion: "Will Wu Hsiu-hua win the next Taitung County Magistrate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2026-11-29
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 88.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-wu-hsiu-hua-win-the-next-taitu
 
 ### What are the current odds for "Will Wu Hsiu-hua win the next Taitung County Magistrate election?"?
 
-As of November 14, 2026, Polymarket prices YES at 88.5%.
+As of November 15, 2026, Polymarket prices YES at 88.5%.
 
 ### Where can I trade on this prediction market?
 

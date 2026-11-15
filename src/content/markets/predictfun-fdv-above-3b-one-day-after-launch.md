@@ -4,7 +4,7 @@ description: "Predict.fun FDV above $3B one day after launch? Odds: 3.0% YES on 
 marketQuestion: "Predict.fun FDV above $3B one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 3.0
@@ -21,14 +21,14 @@ polymarketUrl: "https://polymarket.com/event/predictfun-fdv-above-3b-one-day-aft
 
 ## Related Markets
 
-- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
+- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 9% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 10% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Predict.fun FDV above $3B one day after launch?"?
 
-As of November 14, 2026, Polymarket prices YES at 3.0%.
+As of November 15, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will Tyler Shough have 3,649.5+ passing yards in the 2026-27 NFL r
 marketQuestion: "Will Tyler Shough have 3,649.5+ passing yards in the 2026-27 NFL regular season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]
 polymarketYes: 75.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/tyler-shough-3649pt5-passing-yards-
 
 ### What are the current odds for "Will Tyler Shough have 3,649.5+ passing yards in the 2026-27 NFL regular season?"?
 
-As of November 14, 2026, Polymarket prices YES at 75.5%.
+As of November 15, 2026, Polymarket prices YES at 75.5%.
 
 ### Where can I trade on this prediction market?
 

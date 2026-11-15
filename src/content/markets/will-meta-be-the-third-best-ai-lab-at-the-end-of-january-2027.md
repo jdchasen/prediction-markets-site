@@ -3,8 +3,8 @@ title: "Will Meta be the third-best AI lab at the end of January 2027?"
 description: "Will Meta be the third-best AI lab at the end of January 2027? Odds: 42.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Meta be the third-best AI lab at the end of January 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-14
+status: "settled"
+lastUpdated: 2026-11-15
 expiryDate: 2027-02-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 42.0

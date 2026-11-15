@@ -3,8 +3,8 @@ title: "Will Duro win Worlds 2026 Finals MVP?"
 description: "Will Duro win Worlds 2026 Finals MVP? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Duro win Worlds 2026 Finals MVP?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-14
+status: "settled"
+lastUpdated: 2026-11-15
 expiryDate: 2026-11-29
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1

@@ -1,14 +1,14 @@
 ---
 title: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"
-description: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2027-01-21
 tags: ["entertainment", "polymarket"]
-polymarketYes: 2.5
-polymarketNo: 97.5
+polymarketYes: 3.4
+polymarketNo: 96.7
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-sam-rockwell-be-nominated-for-best-actor-at-the-99th-academy-awards"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-sam-rockwell-be-nominated-for-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-sam-rockwell-be-nominated-for-
 
 ### What are the current odds for "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"?
 
-As of November 14, 2026, Polymarket prices YES at 2.5%.
+As of November 15, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

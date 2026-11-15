@@ -3,8 +3,8 @@ title: "Will Trump and Xi hug at APEC?"
 description: "Will Trump and Xi hug at APEC? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump and Xi hug at APEC?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-14
+status: "settled"
+lastUpdated: 2026-11-15
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 2.5

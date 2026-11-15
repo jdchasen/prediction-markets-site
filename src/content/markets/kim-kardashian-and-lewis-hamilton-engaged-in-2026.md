@@ -4,7 +4,7 @@ description: "Kim Kardashian and Lewis Hamilton engaged in 2026? Odds: 1.8% YES 
 marketQuestion: "Kim Kardashian and Lewis Hamilton engaged in 2026?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2027-01-01
 tags: ["polymarket", "sports"]
 polymarketYes: 1.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/kim-kardashian-and-lewis-hamilton-e
 
 ### What are the current odds for "Kim Kardashian and Lewis Hamilton engaged in 2026?"?
 
-As of November 14, 2026, Polymarket prices YES at 1.8%.
+As of November 15, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

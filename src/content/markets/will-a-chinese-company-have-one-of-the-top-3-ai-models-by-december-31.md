@@ -4,12 +4,12 @@ description: "Will a Chinese company have one of the top 3 AI models by December
 marketQuestion: "Will a Chinese company have one of the top 3 AI models by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 16.0
 polymarketNo: 84.0
-polymarketVolume: 99881
+polymarketVolume: 99893
 polymarketUrl: "https://polymarket.com/event/will-a-chinese-company-have-one-of-the-top-3-ai-models-by-december-31"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-a-chinese-company-have-one-of-
 
 ### What are the current odds for "Will a Chinese company have one of the top 3 AI models by December 31?"?
 
-As of November 14, 2026, Polymarket prices YES at 16.0%.
+As of November 15, 2026, Polymarket prices YES at 16.0%.
 
 ### Where can I trade on this prediction market?
 

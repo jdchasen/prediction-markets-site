@@ -3,8 +3,8 @@ title: "Will XRP dip to $0.60 in November?"
 description: "Will XRP dip to $0.60 in November? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will XRP dip to $0.60 in November?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-14
+status: "settled"
+lastUpdated: 2026-11-15
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

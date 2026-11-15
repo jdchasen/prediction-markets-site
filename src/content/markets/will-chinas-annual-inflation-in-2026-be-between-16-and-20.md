@@ -4,7 +4,7 @@ description: "Will China's annual inflation in 2026 be between 1.6% and 2.0%? Od
 marketQuestion: "Will China's annual inflation in 2026 be between 1.6% and 2.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2027-01-10
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.9
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 
 ### What are the current odds for "Will China's annual inflation in 2026 be between 1.6% and 2.0%?"?
 
-As of November 14, 2026, Polymarket prices YES at 0.9%.
+As of November 15, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

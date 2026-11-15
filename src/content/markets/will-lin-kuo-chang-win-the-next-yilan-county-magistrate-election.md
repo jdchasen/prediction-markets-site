@@ -1,14 +1,14 @@
 ---
 title: "Will Lin Kuo-chang win the next Yilan County Magistrate election?"
-description: "Will Lin Kuo-chang win the next Yilan County Magistrate election? Odds: 85.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Lin Kuo-chang win the next Yilan County Magistrate election? Odds: 85.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lin Kuo-chang win the next Yilan County Magistrate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2026-11-29
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 85.5
-polymarketNo: 14.5
+polymarketYes: 85.0
+polymarketNo: 15.0
 polymarketVolume: 9998
 polymarketUrl: "https://polymarket.com/event/will-lin-kuo-chang-win-the-next-yilan-county-magistrate-election-20260813135716202"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-lin-kuo-chang-win-the-next-yil
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 85.5% | 14.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 85.0% | 15.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-lin-kuo-chang-win-the-next-yil
 
 ### What are the current odds for "Will Lin Kuo-chang win the next Yilan County Magistrate election?"?
 
-As of November 14, 2026, Polymarket prices YES at 85.5%.
+As of November 15, 2026, Polymarket prices YES at 85.0%.
 
 ### Where can I trade on this prediction market?
 

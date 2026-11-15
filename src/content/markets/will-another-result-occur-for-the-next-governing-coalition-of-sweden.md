@@ -4,7 +4,7 @@ description: "Will another result occur for the next governing coalition of Swed
 marketQuestion: "Will another result occur for the next governing coalition of Sweden?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-14
+lastUpdated: 2026-11-15
 expiryDate: 2027-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-another-result-occur-for-the-n
 
 ### What are the current odds for "Will another result occur for the next governing coalition of Sweden?"?
 
-As of November 14, 2026, Polymarket prices YES at 1.1%.
+As of November 15, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 
