@@ -4,12 +4,12 @@ description: "Will Bitcoin dip to $30,000 by December 31, 2026? Odds: 1.8% YES o
 marketQuestion: "Will Bitcoin dip to $30,000 by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2027-01-01
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 1.8
 polymarketNo: 98.2
-polymarketVolume: 994653
+polymarketVolume: 994661
 polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bitcoin-dip-to-30000-by-decemb
 
 ### What are the current odds for "Will Bitcoin dip to $30,000 by December 31, 2026?"?
 
-As of November 15, 2026, Polymarket prices YES at 1.8%.
+As of November 16, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

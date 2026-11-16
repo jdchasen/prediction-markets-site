@@ -3,8 +3,8 @@ title: "Will Apple be the second-largest company in the world by market cap on N
 description: "Will Apple be the second-largest company in the world by market cap on November 30, 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Apple be the second-largest company in the world by market cap on November 30, 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-11-15
+status: "settled"
+lastUpdated: 2026-11-16
 expiryDate: 2026-12-01
 tags: ["finance", "polymarket"]
 polymarketYes: 4.5

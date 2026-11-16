@@ -3,8 +3,8 @@ title: "Will another result occur for the next governing coalition of Sweden?"
 description: "Will another result occur for the next governing coalition of Sweden? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will another result occur for the next governing coalition of Sweden?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-15
+status: "settled"
+lastUpdated: 2026-11-16
 expiryDate: 2027-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.5

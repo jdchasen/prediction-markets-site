@@ -3,8 +3,8 @@ title: "Military action against King Khalid International Airport (RUH) by Novem
 description: "Military action against King Khalid International Airport (RUH) by November 30? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Military action against King Khalid International Airport (RUH) by November 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-15
+status: "settled"
+lastUpdated: 2026-11-16
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 26.5

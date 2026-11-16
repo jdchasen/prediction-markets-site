@@ -3,8 +3,8 @@ title: "National Guard deployed to election sites by December 31, 2026?"
 description: "National Guard deployed to election sites by December 31, 2026? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "National Guard deployed to election sites by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-15
+status: "settled"
+lastUpdated: 2026-11-16
 expiryDate: 2027-01-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.6

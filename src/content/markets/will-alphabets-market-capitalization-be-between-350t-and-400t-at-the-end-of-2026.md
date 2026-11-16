@@ -4,7 +4,7 @@ description: "Will Alphabet’s market capitalization be between $3.50T and $4.0
 marketQuestion: "Will Alphabet’s market capitalization be between $3.50T and $4.00T at the end of 2026?"
 category: "finance"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]
 polymarketYes: 41.0
@@ -22,13 +22,12 @@ polymarketUrl: "https://polymarket.com/event/will-alphabets-market-capitalizatio
 ## Related Markets
 
 - [Epic Games IPO before 2027?](/odds/epic-games-ipo-before-2027) — 2% YES
-- [Will Apple be the second-largest company in the world by market cap on November 30, 2026?](/odds/will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-november-) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Alphabet’s market capitalization be between $3.50T and $4.00T at the end of 2026?"?
 
-As of November 15, 2026, Polymarket prices YES at 41.0%.
+As of November 16, 2026, Polymarket prices YES at 41.0%.
 
 ### Where can I trade on this prediction market?
 

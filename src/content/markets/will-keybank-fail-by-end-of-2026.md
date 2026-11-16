@@ -4,7 +4,7 @@ description: "Will KeyBank fail by end of 2026? Odds: 1.9% YES on Polymarket. Se
 marketQuestion: "Will KeyBank fail by end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2027-05-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.9
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-keybank-fail-by-end-of-2026"
 
 ### What are the current odds for "Will KeyBank fail by end of 2026?"?
 
-As of November 15, 2026, Polymarket prices YES at 1.9%.
+As of November 16, 2026, Polymarket prices YES at 1.9%.
 
 ### Where can I trade on this prediction market?
 

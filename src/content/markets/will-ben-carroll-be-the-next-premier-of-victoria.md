@@ -1,14 +1,14 @@
 ---
 title: "Will Ben Carroll be the next Premier of Victoria?"
-description: "Will Ben Carroll be the next Premier of Victoria? Odds: 1.3% YES on Polymarket. See live prices and trade this market."
+description: "Will Ben Carroll be the next Premier of Victoria? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ben Carroll be the next Premier of Victoria?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2026-11-29
 tags: ["politics", "polymarket"]
-polymarketYes: 1.3
-polymarketNo: 98.7
+polymarketYes: 1.1
+polymarketNo: 98.9
 polymarketVolume: 9945
 polymarketUrl: "https://polymarket.com/event/will-ben-carroll-be-the-next-premier-of-victoria"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ben-carroll-be-the-next-premie
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.3% | 98.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.1% | 98.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ben-carroll-be-the-next-premie
 
 ### What are the current odds for "Will Ben Carroll be the next Premier of Victoria?"?
 
-As of November 15, 2026, Polymarket prices YES at 1.3%.
+As of November 16, 2026, Polymarket prices YES at 1.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will Rockstar release GTA VI on PC in March 2027 (ET)? Odds: 28.1%
 marketQuestion: "Will Rockstar release GTA VI on PC in March 2027 (ET)?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2027-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 28.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-rockstar-release-gta-vi-on-pc-
 
 ### What are the current odds for "Will Rockstar release GTA VI on PC in March 2027 (ET)?"?
 
-As of November 15, 2026, Polymarket prices YES at 28.1%.
+As of November 16, 2026, Polymarket prices YES at 28.1%.
 
 ### Where can I trade on this prediction market?
 

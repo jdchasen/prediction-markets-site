@@ -1,14 +1,14 @@
 ---
 title: "Will Netherlands win 2026-27 Nations League Group A2?"
-description: "Will Netherlands win 2026-27 Nations League Group A2? Odds: 82.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Netherlands win 2026-27 Nations League Group A2? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands win 2026-27 Nations League Group A2?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2026-12-02
 tags: ["ethereum", "politics", "polymarket"]
-polymarketYes: 82.0
-polymarketNo: 18.0
+polymarketYes: 81.5
+polymarketNo: 18.5
 polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-netherlands-win-2026-27-nations-league-group-a2"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-netherlands-win-2026-27-nation
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 82.0% | 18.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 81.5% | 18.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-netherlands-win-2026-27-nation
 
 ### What are the current odds for "Will Netherlands win 2026-27 Nations League Group A2?"?
 
-As of November 15, 2026, Polymarket prices YES at 82.0%.
+As of November 16, 2026, Polymarket prices YES at 81.5%.
 
 ### Where can I trade on this prediction market?
 

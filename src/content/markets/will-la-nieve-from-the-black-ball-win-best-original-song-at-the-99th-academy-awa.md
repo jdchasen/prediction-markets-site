@@ -3,8 +3,8 @@ title: "Will \"La Nieve\" from The Black Ball win Best Original Song at the 99th
 description: "Will \"La Nieve\" from The Black Ball win Best Original Song at the 99th Academy Awards? Odds: 68.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"La Nieve\" from The Black Ball win Best Original Song at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-11-15
+status: "settled"
+lastUpdated: 2026-11-16
 expiryDate: 2027-03-14
 tags: ["entertainment", "polymarket"]
 polymarketYes: 68.0

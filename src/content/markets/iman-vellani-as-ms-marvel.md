@@ -1,14 +1,14 @@
 ---
 title: "Iman Vellani as Ms. Marvel?"
-description: "Iman Vellani as Ms. Marvel? Odds: 80.0% YES on Polymarket. See live prices and trade this market."
+description: "Iman Vellani as Ms. Marvel? Odds: 79.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iman Vellani as Ms. Marvel?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
-polymarketYes: 80.0
-polymarketNo: 20.0
+polymarketYes: 79.5
+polymarketNo: 20.5
 polymarketVolume: 9942
 polymarketUrl: "https://polymarket.com/event/iman-vellani-as-ms-marvel"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/iman-vellani-as-ms-marvel"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 80.0% | 20.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 79.5% | 20.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/iman-vellani-as-ms-marvel"
 
 ### What are the current odds for "Iman Vellani as Ms. Marvel?"?
 
-As of November 15, 2026, Polymarket prices YES at 80.0%.
+As of November 16, 2026, Polymarket prices YES at 79.5%.
 
 ### Where can I trade on this prediction market?
 

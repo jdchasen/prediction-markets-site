@@ -1,15 +1,15 @@
 ---
 title: "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?"
-description: "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement? Odds: 51.0% YES on Polymarket. See li..."
+description: "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement? Odds: 52.0% YES on Polymarket. See li..."
 marketQuestion: "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-15
+lastUpdated: 2026-11-16
 expiryDate: 2026-12-09
 tags: ["economics", "interest-rates", "polymarket"]
-polymarketYes: 51.0
-polymarketNo: 49.0
-polymarketVolume: 97332
+polymarketYes: 52.0
+polymarketNo: 48.0
+polymarketVolume: 97489
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-december-interest-rate-announcement-20260908230600014"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-make-no-cha
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 51.0% | 49.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $97K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-canada-make-no-cha
 
 ### What are the current odds for "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?"?
 
-As of November 15, 2026, Polymarket prices YES at 51.0%.
+As of November 16, 2026, Polymarket prices YES at 52.0%.
 
 ### Where can I trade on this prediction market?
 
