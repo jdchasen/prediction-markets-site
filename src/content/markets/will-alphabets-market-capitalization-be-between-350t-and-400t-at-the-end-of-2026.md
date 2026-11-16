@@ -3,7 +3,7 @@ title: "Will Alphabet’s market capitalization be between $3.50T and $4.00T at 
 description: "Will Alphabet’s market capitalization be between $3.50T and $4.00T at the end of 2026? Odds: 41.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alphabet’s market capitalization be between $3.50T and $4.00T at the end of 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket"]

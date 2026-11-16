@@ -3,7 +3,7 @@ title: "Will Utah Utes Win the 2026 Big 12 Championship?"
 description: "Will Utah Utes Win the 2026 Big 12 Championship? Odds: 58.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Utah Utes Win the 2026 Big 12 Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2026-12-19
 tags: ["politics", "polymarket"]

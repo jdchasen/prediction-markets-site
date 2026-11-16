@@ -3,7 +3,7 @@ title: "Will LSU Tigers win the 2027 CFP National Championship?"
 description: "Will LSU Tigers win the 2027 CFP National Championship? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will LSU Tigers win the 2027 CFP National Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2027-01-26
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Teddy Riner win the 2027 French presidential election?"
 description: "Will Teddy Riner win the 2027 French presidential election? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Teddy Riner win the 2027 French presidential election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2027-04-19
 tags: ["elections", "politics", "polymarket"]

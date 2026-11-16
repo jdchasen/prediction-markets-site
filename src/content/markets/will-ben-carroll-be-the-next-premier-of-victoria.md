@@ -3,7 +3,7 @@ title: "Will Ben Carroll be the next Premier of Victoria?"
 description: "Will Ben Carroll be the next Premier of Victoria? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ben Carroll be the next Premier of Victoria?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2026-11-29
 tags: ["politics", "polymarket"]

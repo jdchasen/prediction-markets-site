@@ -3,7 +3,7 @@ title: "Will Claude Fable's output price be at or below $30 in 2026?"
 description: "Will Claude Fable's output price be at or below $30 in 2026? Odds: 12.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Claude Fable's output price be at or below $30 in 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

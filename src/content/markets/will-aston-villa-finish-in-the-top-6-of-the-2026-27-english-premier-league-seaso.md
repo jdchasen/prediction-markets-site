@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-aston-villa-finish-in-the-top-
 ## Related Markets
 
 - [Kim Kardashian and Lewis Hamilton engaged in 2026?](/odds/kim-kardashian-and-lewis-hamilton-engaged-in-2026) — 2% YES
-- [Will Tyler Shough have 3,649.5+ passing yards in the 2026-27 NFL regular season?](/odds/will-tyler-shough-have-36495-passing-yards-in-the-2026-27-nfl-regular-season) — 56% YES
+- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 34% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
 ## Frequently Asked Questions

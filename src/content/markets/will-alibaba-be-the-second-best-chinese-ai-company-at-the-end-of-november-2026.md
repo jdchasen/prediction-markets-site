@@ -3,7 +3,7 @@ title: "Will Alibaba be the second-best Chinese AI company at the end of Novembe
 description: "Will Alibaba be the second-best Chinese AI company at the end of November 2026? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alibaba be the second-best Chinese AI company at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

@@ -9,7 +9,7 @@ expiryDate: 2028-11-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9908612
+polymarketVolume: 9908960
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-r
 
 ## Related Markets
 
-- [Will Joe Kent win the 2028 Republican presidential nomination?](/odds/will-joe-kent-win-the-2028-republican-presidential-nomination) — 0% YES
-- [Will Spider-Man: Brand New Day be the top grossing movie of 2026?](/odds/will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026) — 88% YES
-- [Will Teddy Riner win the 2027 French presidential election?](/odds/will-teddy-riner-win-the-2027-french-presidential-election) — 2% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 11% YES
+- [Will Roma win the 2026-27 Serie A Championship?](/odds/will-roma-win-the-2026-27-serie-a-championship) — 16% YES
 
 ## Frequently Asked Questions
 

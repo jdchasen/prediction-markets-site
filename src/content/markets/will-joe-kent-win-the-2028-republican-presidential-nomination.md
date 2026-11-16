@@ -3,7 +3,7 @@ title: "Will Joe Kent win the 2028 Republican presidential nomination?"
 description: "Will Joe Kent win the 2028 Republican presidential nomination? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Joe Kent win the 2028 Republican presidential nomination?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket"]

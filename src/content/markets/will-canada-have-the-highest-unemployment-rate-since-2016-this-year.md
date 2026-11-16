@@ -1,14 +1,14 @@
 ---
 title: "Will Canada have the highest unemployment rate since 2016 this year?"
-description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 9.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 10.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada have the highest unemployment rate since 2016 this year?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-16
 expiryDate: 2027-02-16
 tags: ["economics", "polymarket"]
-polymarketYes: 9.8
-polymarketNo: 90.1
+polymarketYes: 10.0
+polymarketNo: 90.0
 polymarketVolume: 9834
 polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unemployment-rate-since-2016-this-year"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unempl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.8% | 90.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.0% | 90.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?](/odds/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-t) — 52% YES
 - [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada have the highest unemployment rate since 2016 this year?"?
 
-As of November 16, 2026, Polymarket prices YES at 9.8%.
+As of November 16, 2026, Polymarket prices YES at 10.0%.
 
 ### Where can I trade on this prediction market?
 

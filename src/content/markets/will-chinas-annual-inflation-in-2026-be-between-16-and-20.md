@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 
 ## Related Markets
 
-- [Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?](/odds/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-t) — 52% YES
 - [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 10% YES
 
 ## Frequently Asked Questions

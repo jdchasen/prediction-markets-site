@@ -3,7 +3,7 @@ title: "Will UMich Consumer Sentiment be between 49.0 and 51.9 in November?"
 description: "Will UMich Consumer Sentiment be between 49.0 and 51.9 in November? Odds: 53.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will UMich Consumer Sentiment be between 49.0 and 51.9 in November?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2026-11-20
 tags: ["politics", "polymarket"]

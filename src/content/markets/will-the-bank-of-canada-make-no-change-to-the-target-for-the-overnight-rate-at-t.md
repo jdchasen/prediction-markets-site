@@ -3,7 +3,7 @@ title: "Will the Bank of Canada make no change to the target for the overnight r
 description: "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement? Odds: 52.0% YES on Polymarket. See li..."
 marketQuestion: "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2026-12-09
 tags: ["economics", "interest-rates", "polymarket"]

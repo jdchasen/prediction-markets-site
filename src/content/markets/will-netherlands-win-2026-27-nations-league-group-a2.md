@@ -3,7 +3,7 @@ title: "Will Netherlands win 2026-27 Nations League Group A2?"
 description: "Will Netherlands win 2026-27 Nations League Group A2? Odds: 81.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Netherlands win 2026-27 Nations League Group A2?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-16
 expiryDate: 2026-12-02
 tags: ["ethereum", "politics", "polymarket"]
