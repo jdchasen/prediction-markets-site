@@ -4,7 +4,7 @@ description: "Will Aston Villa finish in the top 6 of the 2026-27 English Premie
 marketQuestion: "Will Aston Villa finish in the top 6 of the 2026-27 English Premier League season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-16
+lastUpdated: 2026-11-17
 expiryDate: 2027-06-14
 tags: ["polymarket", "sports"]
 polymarketYes: 36.5
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-aston-villa-finish-in-the-top-
 
 ## Related Markets
 
+- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 32% YES
 - [Kim Kardashian and Lewis Hamilton engaged in 2026?](/odds/kim-kardashian-and-lewis-hamilton-engaged-in-2026) — 2% YES
-- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 34% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Aston Villa finish in the top 6 of the 2026-27 English Premier League season?"?
 
-As of November 16, 2026, Polymarket prices YES at 36.5%.
+As of November 17, 2026, Polymarket prices YES at 36.5%.
 
 ### Where can I trade on this prediction market?
 

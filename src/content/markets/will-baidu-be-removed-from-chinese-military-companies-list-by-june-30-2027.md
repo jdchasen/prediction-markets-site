@@ -3,8 +3,8 @@ title: "Will Baidu be removed from Chinese Military Companies list by June 30, 2
 description: "Will Baidu be removed from Chinese Military Companies list by June 30, 2027? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baidu be removed from Chinese Military Companies list by June 30, 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-16
+status: "settled"
+lastUpdated: 2026-11-17
 expiryDate: 2027-07-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 12.0

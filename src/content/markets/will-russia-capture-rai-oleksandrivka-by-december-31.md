@@ -3,8 +3,8 @@ title: "Will Russia capture Rai-Oleksandrivka by December 31?"
 description: "Will Russia capture Rai-Oleksandrivka by December 31? Odds: 55.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia capture Rai-Oleksandrivka by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-16
+status: "settled"
+lastUpdated: 2026-11-17
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 55.0

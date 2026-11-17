@@ -1,14 +1,14 @@
 ---
 title: "Kim Kardashian and Lewis Hamilton engaged in 2026?"
-description: "Kim Kardashian and Lewis Hamilton engaged in 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Kim Kardashian and Lewis Hamilton engaged in 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kim Kardashian and Lewis Hamilton engaged in 2026?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-16
+lastUpdated: 2026-11-17
 expiryDate: 2027-01-01
 tags: ["polymarket", "sports"]
-polymarketYes: 1.7
-polymarketNo: 98.3
+polymarketYes: 1.5
+polymarketNo: 98.5
 polymarketVolume: 9986
 polymarketUrl: "https://polymarket.com/event/kim-kardashian-and-lewis-hamilton-engaged-in-2026-20260722161019929"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/kim-kardashian-and-lewis-hamilton-e
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.5% | 98.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 34% YES
+- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 32% YES
 - [Will Aston Villa finish in the top 6 of the 2026-27 English Premier League season?](/odds/will-aston-villa-finish-in-the-top-6-of-the-2026-27-english-premier-league-seaso) — 36% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/kim-kardashian-and-lewis-hamilton-e
 
 ### What are the current odds for "Kim Kardashian and Lewis Hamilton engaged in 2026?"?
 
-As of November 16, 2026, Polymarket prices YES at 1.7%.
+As of November 17, 2026, Polymarket prices YES at 1.5%.
 
 ### Where can I trade on this prediction market?
 

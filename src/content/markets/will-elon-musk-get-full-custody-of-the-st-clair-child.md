@@ -4,7 +4,7 @@ description: "Will Elon Musk get full custody of the St. Clair child? Odds: 3.2%
 marketQuestion: "Will Elon Musk get full custody of the St. Clair child?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-11-16
+lastUpdated: 2026-11-17
 expiryDate: 2027-01-01
 tags: ["ai", "polymarket", "tech"]
 polymarketYes: 3.2
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-get-full-custody-of-
 
 ### What are the current odds for "Will Elon Musk get full custody of the St. Clair child?"?
 
-As of November 16, 2026, Polymarket prices YES at 3.2%.
+As of November 17, 2026, Polymarket prices YES at 3.2%.
 
 ### Where can I trade on this prediction market?
 

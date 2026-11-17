@@ -3,8 +3,8 @@ title: "Will Claude go down 5-7 times in November 2026?"
 description: "Will Claude go down 5-7 times in November 2026? Odds: 17.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Claude go down 5-7 times in November 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-16
+status: "settled"
+lastUpdated: 2026-11-17
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 17.0

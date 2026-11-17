@@ -4,12 +4,12 @@ description: "Will the Fed decide differently in the next three decisions (Oct-D
 marketQuestion: "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-16
+lastUpdated: 2026-11-17
 expiryDate: 2027-01-27
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.5
 polymarketNo: 99.5
-polymarketVolume: 9925
+polymarketVolume: 9954
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-octdecjan-2026"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decide-differently-in-
 ## Related Markets
 
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
+- [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 11% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)?"?
 
-As of November 16, 2026, Polymarket prices YES at 0.5%.
+As of November 17, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 
