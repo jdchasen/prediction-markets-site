@@ -3,7 +3,7 @@ title: "Will 6 Jensen Huang affairs be reported by December 31?"
 description: "Will 6 Jensen Huang affairs be reported by December 31? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 6 Jensen Huang affairs be reported by December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-17
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]

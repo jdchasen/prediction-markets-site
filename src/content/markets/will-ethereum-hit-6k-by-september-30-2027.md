@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-6k-by-september-3
 
 ## Related Markets
 
-- [Will Bitcoin dip to $30,000 by December 31, 2026?](/odds/will-bitcoin-dip-to-30000-by-december-31-2026) — 2% YES
-- [Will Bitcoin reach $67,500 in November?](/odds/will-bitcoin-reach-67500-in-november) — 66% YES
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
 ## Frequently Asked Questions
 

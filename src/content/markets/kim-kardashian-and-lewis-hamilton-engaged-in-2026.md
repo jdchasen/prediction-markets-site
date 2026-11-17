@@ -3,7 +3,7 @@ title: "Kim Kardashian and Lewis Hamilton engaged in 2026?"
 description: "Kim Kardashian and Lewis Hamilton engaged in 2026? Odds: 1.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Kim Kardashian and Lewis Hamilton engaged in 2026?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-17
 expiryDate: 2027-01-01
 tags: ["polymarket", "sports"]

@@ -3,7 +3,7 @@ title: "Iman Vellani as Ms. Marvel?"
 description: "Iman Vellani as Ms. Marvel? Odds: 79.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Iman Vellani as Ms. Marvel?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-17
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]

@@ -1,14 +1,14 @@
 ---
 title: "Will Amcha Yisrael be in the next Israeli government?"
-description: "Will Amcha Yisrael be in the next Israeli government? Odds: 2.4% YES on Polymarket. See live prices and trade this market."
+description: "Will Amcha Yisrael be in the next Israeli government? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amcha Yisrael be in the next Israeli government?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-17
 expiryDate: 2027-06-30
 tags: ["politics", "polymarket"]
-polymarketYes: 2.4
-polymarketNo: 97.6
+polymarketYes: 2.5
+polymarketNo: 97.5
 polymarketVolume: 9909
 polymarketUrl: "https://polymarket.com/event/will-amcha-yisrael-be-in-the-next-israeli-government"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-amcha-yisrael-be-in-the-next-i
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.4% | 97.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 2.5% | 97.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
+- [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Amcha Yisrael be in the next Israeli government?"?
 
-As of November 17, 2026, Polymarket prices YES at 2.4%.
+As of November 17, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -9,7 +9,7 @@ expiryDate: 2028-11-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9908965
+polymarketVolume: 9909006
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-republican-presidential-nomination"
 ---
 

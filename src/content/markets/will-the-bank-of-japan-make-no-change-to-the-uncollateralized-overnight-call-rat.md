@@ -1,15 +1,15 @@
 ---
 title: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"
-description: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting? Odds: 81.0% YES on Polymarket. See live prices and ..."
+description: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting? Odds: 82.5% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-17
 expiryDate: 2027-01-22
 tags: ["economics", "polymarket"]
-polymarketYes: 81.0
-polymarketNo: 19.0
-polymarketVolume: 9807
+polymarketYes: 82.5
+polymarketNo: 17.5
+polymarketVolume: 9932
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rate-at-the-january-2027-meeting"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-chan
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 81.0% | 19.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 82.5% | 17.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-chan
 
 ### What are the current odds for "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"?
 
-As of November 17, 2026, Polymarket prices YES at 81.0%.
+As of November 17, 2026, Polymarket prices YES at 82.5%.
 
 ### Where can I trade on this prediction market?
 

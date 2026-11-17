@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 
 ## Related Markets
 
+- [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 82% YES
 - [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 10% YES
-- [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 81% YES
 
 ## Frequently Asked Questions
 

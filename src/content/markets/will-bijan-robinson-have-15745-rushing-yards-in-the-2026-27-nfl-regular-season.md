@@ -1,14 +1,14 @@
 ---
 title: "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?"
-description: "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season? Odds: 34.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?"
 category: "sports"
 status: "active"
 lastUpdated: 2026-11-17
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]
-polymarketYes: 32.0
-polymarketNo: 68.0
+polymarketYes: 34.5
+polymarketNo: 65.5
 polymarketVolume: 9987
 polymarketUrl: "https://polymarket.com/event/bijan-robinson-1574pt5-rushing-yards-2026-27"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/bijan-robinson-1574pt5-rushing-yard
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.0% | 68.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 34.5% | 65.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Kim Kardashian and Lewis Hamilton engaged in 2026?](/odds/kim-kardashian-and-lewis-hamilton-engaged-in-2026) — 2% YES
 - [Will Aston Villa finish in the top 6 of the 2026-27 English Premier League season?](/odds/will-aston-villa-finish-in-the-top-6-of-the-2026-27-english-premier-league-seaso) — 36% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
+- [Will the Portland Trail Blazers be the 2027 NBA Western Conference Champion?](/odds/will-the-portland-trail-blazers-be-the-2027-nba-western-conference-champion) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?"?
 
-As of November 17, 2026, Polymarket prices YES at 32.0%.
+As of November 17, 2026, Polymarket prices YES at 34.5%.
 
 ### Where can I trade on this prediction market?
 

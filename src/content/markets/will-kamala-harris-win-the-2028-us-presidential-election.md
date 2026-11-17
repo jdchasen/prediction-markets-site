@@ -1,15 +1,15 @@
 ---
 title: "Will Kamala Harris win the 2028 US Presidential Election?"
-description: "Will Kamala Harris win the 2028 US Presidential Election? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
+description: "Will Kamala Harris win the 2028 US Presidential Election? Odds: 3.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Kamala Harris win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-17
 expiryDate: 2028-11-08
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 3.1
-polymarketNo: 96.9
-polymarketVolume: 9908017
+polymarketYes: 3.0
+polymarketNo: 97.0
+polymarketVolume: 9910698
 polymarketUrl: "https://polymarket.com/event/will-kamala-harris-win-the-2028-us-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-kamala-harris-win-the-2028-us-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.1% | 96.9% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.0% | 97.0% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-kamala-harris-win-the-2028-us-
 
 ### What are the current odds for "Will Kamala Harris win the 2028 US Presidential Election?"?
 
-As of November 17, 2026, Polymarket prices YES at 3.1%.
+As of November 17, 2026, Polymarket prices YES at 3.0%.
 
 ### Where can I trade on this prediction market?
 

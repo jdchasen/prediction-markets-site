@@ -19,10 +19,6 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 |----------|-----|-----|--------|-------|
 | Polymarket | 1.7% | 98.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
-## Related Markets
-
-- [Will Microsoft be the largest company in the world by market cap on November 30, 2026?](/odds/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-november-30-) — 0% YES
-
 ## Frequently Asked Questions
 
 ### What are the current odds for "Epic Games IPO before 2027?"?

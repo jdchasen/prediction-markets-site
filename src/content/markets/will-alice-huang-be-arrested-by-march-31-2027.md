@@ -3,7 +3,7 @@ title: "Will Alice Huang be arrested by March 31, 2027?"
 description: "Will Alice Huang be arrested by March 31, 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alice Huang be arrested by March 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-17
 expiryDate: 2027-04-01
 tags: ["politics", "polymarket"]

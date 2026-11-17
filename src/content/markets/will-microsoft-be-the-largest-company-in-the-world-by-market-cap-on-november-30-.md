@@ -3,7 +3,7 @@ title: "Will Microsoft be the largest company in the world by market cap on Nove
 description: "Will Microsoft be the largest company in the world by market cap on November 30, 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft be the largest company in the world by market cap on November 30, 2026?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-17
 expiryDate: 2026-12-01
 tags: ["finance", "polymarket"]

@@ -3,7 +3,7 @@ title: "Spain General Election: SALF wins a seat?"
 description: "Spain General Election: SALF wins a seat? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Spain General Election: SALF wins a seat?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-17
 expiryDate: 2026-11-30
 tags: ["ai", "elections", "politics", "polymarket"]
