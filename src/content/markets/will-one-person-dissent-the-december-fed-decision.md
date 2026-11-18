@@ -3,7 +3,7 @@ title: "Will one person dissent the December Fed decision?"
 description: "Will one person dissent the December Fed decision? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will one person dissent the December Fed decision?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-18
 expiryDate: 2026-12-10
 tags: ["federal-reserve", "politics", "polymarket"]

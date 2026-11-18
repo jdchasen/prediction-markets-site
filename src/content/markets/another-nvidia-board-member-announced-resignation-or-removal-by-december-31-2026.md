@@ -3,7 +3,7 @@ title: "Another NVIDIA board member announced resignation or removal by December
 description: "Another NVIDIA board member announced resignation or removal by December 31, 2026? Odds: 19.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Another NVIDIA board member announced resignation or removal by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-18
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-aston-villa-finish-in-the-top-
 
 ## Related Markets
 
-- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 34% YES
+- [Will Adam Hamilton win the 2028 Democratic presidential nomination?](/odds/will-adam-hamilton-win-the-2028-democratic-presidential-nomination) — 0% YES
+- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 48% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
-- [Will the Portland Trail Blazers be the 2027 NBA Western Conference Champion?](/odds/will-the-portland-trail-blazers-be-the-2027-nba-western-conference-champion) — 5% YES
 
 ## Frequently Asked Questions
 

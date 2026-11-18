@@ -9,7 +9,7 @@ expiryDate: 2027-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.5
 polymarketNo: 97.5
-polymarketVolume: 9909
+polymarketVolume: 9913
 polymarketUrl: "https://polymarket.com/event/will-amcha-yisrael-be-in-the-next-israeli-government"
 ---
 

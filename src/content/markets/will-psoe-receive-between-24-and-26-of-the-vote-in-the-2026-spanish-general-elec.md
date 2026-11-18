@@ -3,7 +3,7 @@ title: "Will PSOE receive between 24% and 26% of the vote in the 2026 Spanish ge
 description: "Will PSOE receive between 24% and 26% of the vote in the 2026 Spanish general election? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PSOE receive between 24% and 26% of the vote in the 2026 Spanish general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-18
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]

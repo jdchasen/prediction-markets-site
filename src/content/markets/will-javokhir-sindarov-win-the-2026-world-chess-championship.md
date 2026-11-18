@@ -3,7 +3,7 @@ title: "Will Javokhir Sindarov win the 2026 World Chess Championship?"
 description: "Will Javokhir Sindarov win the 2026 World Chess Championship? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Javokhir Sindarov win the 2026 World Chess Championship?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-18
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Shinshu Brave Warriors vs. Ibaraki Robots"
 description: "Shinshu Brave Warriors vs. Ibaraki Robots Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Shinshu Brave Warriors vs. Ibaraki Robots"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-18
 expiryDate: 2026-11-22
 tags: ["politics", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards
 description: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Sam Rockwell be nominated for Best Actor at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-18
 expiryDate: 2027-01-21
 tags: ["entertainment", "polymarket"]

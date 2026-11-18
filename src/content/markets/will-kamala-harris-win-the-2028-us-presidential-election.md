@@ -9,7 +9,7 @@ expiryDate: 2028-11-08
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 9923405
+polymarketVolume: 9928477
 polymarketUrl: "https://polymarket.com/event/will-kamala-harris-win-the-2028-us-presidential-election"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-kamala-harris-win-the-2028-us-
 
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
 - [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 4% YES
-- [Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?](/odds/will-an-international-court-find-israel-or-its-leaders-guilty-of-genocide-by-dec) — 11% YES
+- [Will Abigail Spanberger win the 2028 US Presidential Election?](/odds/will-abigail-spanberger-win-the-2028-us-presidential-election) — 0% YES
 
 ## Frequently Asked Questions
 

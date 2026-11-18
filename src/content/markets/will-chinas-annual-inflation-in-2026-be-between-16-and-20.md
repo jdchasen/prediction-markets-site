@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 
 ## Related Markets
 
+- [Will the Fed increase interest rates by 25 bps after the December 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting) — 92% YES
+- [Will 4 Fed rate hikes happen in 2026?](/odds/will-4-fed-rate-hikes-happen-in-2026) — 0% YES
 - [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 84% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 11% YES
 
 ## Frequently Asked Questions
 
