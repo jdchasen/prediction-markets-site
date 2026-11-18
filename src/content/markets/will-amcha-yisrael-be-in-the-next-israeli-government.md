@@ -4,7 +4,7 @@ description: "Will Amcha Yisrael be in the next Israeli government? Odds: 2.5% Y
 marketQuestion: "Will Amcha Yisrael be in the next Israeli government?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-17
+lastUpdated: 2026-11-18
 expiryDate: 2027-06-30
 tags: ["politics", "polymarket"]
 polymarketYes: 2.5
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-amcha-yisrael-be-in-the-next-i
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Amcha Yisrael be in the next Israeli government?"?
 
-As of November 17, 2026, Polymarket prices YES at 2.5%.
+As of November 18, 2026, Polymarket prices YES at 2.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,12 +4,12 @@ description: "Will Javokhir Sindarov win the 2026 World Chess Championship? Odds
 marketQuestion: "Will Javokhir Sindarov win the 2026 World Chess Championship?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-17
+lastUpdated: 2026-11-18
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 76.5
 polymarketNo: 23.5
-polymarketVolume: 99428
+polymarketVolume: 99553
 polymarketUrl: "https://polymarket.com/event/will-javokhir-sindarov-win-the-2026-world-chess-championship"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-javokhir-sindarov-win-the-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 76.5% | 23.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 76.5% | 23.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Javokhir Sindarov win the 2026 World Chess Championship?"?
 
-As of November 17, 2026, Polymarket prices YES at 76.5%.
+As of November 18, 2026, Polymarket prices YES at 76.5%.
 
 ### Where can I trade on this prediction market?
 

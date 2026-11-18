@@ -4,7 +4,7 @@ description: "Will Ethereum hit $6k by September 30, 2027? Odds: 8.5% YES on Pol
 marketQuestion: "Will Ethereum hit $6k by September 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-17
+lastUpdated: 2026-11-18
 expiryDate: 2027-10-01
 tags: ["crypto", "ethereum", "polymarket"]
 polymarketYes: 8.5
@@ -23,12 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-6k-by-september-3
 
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
+- [Will Bitcoin reach $76,000 November 16-22?](/odds/will-bitcoin-reach-76000-november-16-22) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Ethereum hit $6k by September 30, 2027?"?
 
-As of November 17, 2026, Polymarket prices YES at 8.5%.
+As of November 18, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 
