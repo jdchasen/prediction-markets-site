@@ -1,14 +1,14 @@
 ---
 title: "Epic Games IPO before 2027?"
-description: "Epic Games IPO before 2027? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
+description: "Epic Games IPO before 2027? Odds: 1.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Epic Games IPO before 2027?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["finance", "polymarket"]
-polymarketYes: 1.7
-polymarketNo: 98.3
+polymarketYes: 1.6
+polymarketNo: 98.4
 polymarketVolume: 99862
 polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 ---
@@ -17,18 +17,17 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.7% | 98.3% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.6% | 98.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Anthropic not IPO by December 31, 2027?](/odds/will-anthropic-not-ipo-by-december-31-2027) — 0% YES
-- [Anthropic IPO closing market cap above $1.5T?](/odds/anthropic-ipo-closing-market-cap-above-15t) — 16% YES
+- [Will Alphabet’s market capitalization be less than $3.50T at the end of 2026?](/odds/will-alphabets-market-capitalization-be-less-than-350t-at-the-end-of-2026) — 55% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Epic Games IPO before 2027?"?
 
-As of November 19, 2026, Polymarket prices YES at 1.7%.
+As of November 19, 2026, Polymarket prices YES at 1.6%.
 
 ### Where can I trade on this prediction market?
 

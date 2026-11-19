@@ -8,8 +8,8 @@ lastUpdated: 2026-11-19
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.9
-polymarketNo: 99.2
-polymarketVolume: 9910673
+polymarketNo: 99.1
+polymarketVolume: 9918290
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-r
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.9% | 99.2% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.9% | 99.1% | $9.9M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 

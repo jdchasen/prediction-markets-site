@@ -1,15 +1,15 @@
 ---
 title: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"
-description: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting? Odds: 83.5% YES on Polymarket. See live prices and ..."
+description: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting? Odds: 83.0% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-22
 tags: ["economics", "polymarket"]
-polymarketYes: 83.5
-polymarketNo: 16.5
-polymarketVolume: 9932
+polymarketYes: 83.0
+polymarketNo: 17.0
+polymarketVolume: 9935
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rate-at-the-january-2027-meeting"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-chan
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 83.5% | 16.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 83.0% | 17.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will 4 Fed rate hikes happen in 2026?](/odds/will-4-fed-rate-hikes-happen-in-2026) — 0% YES
 - [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 11% YES
+- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"?
 
-As of November 19, 2026, Polymarket prices YES at 83.5%.
+As of November 19, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 

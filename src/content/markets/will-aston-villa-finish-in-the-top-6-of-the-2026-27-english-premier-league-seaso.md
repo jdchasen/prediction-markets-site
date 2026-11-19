@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-aston-villa-finish-in-the-top-
 
 ## Related Markets
 
-- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 48% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
+- [Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?](/odds/will-jaxon-smith-njigba-win-the-2026-nfl-offensive-player-of-the-year-award-for-) — 35% YES
 
 ## Frequently Asked Questions
 

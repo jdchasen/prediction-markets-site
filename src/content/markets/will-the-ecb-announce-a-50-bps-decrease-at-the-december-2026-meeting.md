@@ -9,7 +9,7 @@ expiryDate: 2026-12-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9795
+polymarketVolume: 9810
 polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-50-bps-decrease-at-the-december-2026-meeting"
 ---
 

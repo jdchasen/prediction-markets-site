@@ -3,7 +3,7 @@ title: "Will Control Resonant win Game of the Year at the 2026 Game Awards?"
 description: "Will Control Resonant win Game of the Year at the 2026 Game Awards? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Control Resonant win Game of the Year at the 2026 Game Awards?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

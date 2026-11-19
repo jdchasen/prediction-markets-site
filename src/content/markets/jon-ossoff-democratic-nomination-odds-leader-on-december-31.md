@@ -3,7 +3,7 @@ title: "Jon Ossoff Democratic nomination odds leader on December 31?"
 description: "Jon Ossoff Democratic nomination odds leader on December 31? Odds: 83.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Jon Ossoff Democratic nomination odds leader on December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

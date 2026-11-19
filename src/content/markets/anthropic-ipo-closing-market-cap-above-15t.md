@@ -3,7 +3,7 @@ title: "Anthropic IPO closing market cap above $1.5T?"
 description: "Anthropic IPO closing market cap above $1.5T? Odds: 16.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Anthropic IPO closing market cap above $1.5T?"
 category: "finance"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2028-01-01
 tags: ["finance", "polymarket"]

@@ -3,7 +3,7 @@ title: "Will the Bank of Brazil make no change to the target for the Selic rate 
 description: "Will the Bank of Brazil make no change to the target for the Selic rate at the January meeting? Odds: 62.5% YES on Polymarket. See live prices and trade this..."
 marketQuestion: "Will the Bank of Brazil make no change to the target for the Selic rate at the January meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-27
 tags: ["politics", "polymarket"]

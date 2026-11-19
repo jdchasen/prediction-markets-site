@@ -21,8 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 
 ## Related Markets
 
-- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 48% YES
 - [Will Aston Villa finish in the top 6 of the 2026-27 English Premier League season?](/odds/will-aston-villa-finish-in-the-top-6-of-the-2026-27-english-premier-league-seaso) — 36% YES
+- [Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?](/odds/will-jaxon-smith-njigba-win-the-2026-nfl-offensive-player-of-the-year-award-for-) — 35% YES
 
 ## Frequently Asked Questions
 

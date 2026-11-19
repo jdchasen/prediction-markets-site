@@ -3,7 +3,7 @@ title: "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regul
 description: "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season? Odds: 48.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]

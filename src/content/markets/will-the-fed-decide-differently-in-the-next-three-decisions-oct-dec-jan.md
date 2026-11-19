@@ -3,7 +3,7 @@ title: "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan
 description: "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)? Odds: 0.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-27
 tags: ["federal-reserve", "politics", "polymarket"]

@@ -1,14 +1,14 @@
 ---
 title: "Will Israel annex any territory by December 31?"
-description: "Will Israel annex any territory by December 31? Odds: 2.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Israel annex any territory by December 31? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Israel annex any territory by December 31?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.8
-polymarketNo: 97.2
+polymarketYes: 3.4
+polymarketNo: 96.6
 polymarketVolume: 99202
 polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-december-31-348"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.8% | 97.2% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-
 
 ### What are the current odds for "Will Israel annex any territory by December 31?"?
 
-As of November 19, 2026, Polymarket prices YES at 2.8%.
+As of November 19, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

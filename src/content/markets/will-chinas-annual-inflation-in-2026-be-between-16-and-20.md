@@ -9,7 +9,7 @@ expiryDate: 2027-01-10
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9854
+polymarketVolume: 9857
 polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-2026-be-between-1pt6-and-2pt0"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 ## Related Markets
 
 - [Will 4 Fed rate hikes happen in 2026?](/odds/will-4-fed-rate-hikes-happen-in-2026) — 0% YES
-- [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 84% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 11% YES
+- [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 83% YES
+- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 9% YES
 
 ## Frequently Asked Questions
 

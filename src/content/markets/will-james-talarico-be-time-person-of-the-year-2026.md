@@ -3,7 +3,7 @@ title: "Will James Talarico be TIME Person of the Year 2026?"
 description: "Will James Talarico be TIME Person of the Year 2026? Odds: 24.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will James Talarico be TIME Person of the Year 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

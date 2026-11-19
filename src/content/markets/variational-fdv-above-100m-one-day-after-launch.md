@@ -1,15 +1,15 @@
 ---
 title: "Variational FDV above $100M one day after launch?"
-description: "Variational FDV above $100M one day after launch? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
+description: "Variational FDV above $100M one day after launch? Odds: 97.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Variational FDV above $100M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-19
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 99494
+polymarketYes: 97.2
+polymarketNo: 2.8
+polymarketVolume: 99558
 polymarketUrl: "https://polymarket.com/event/variational-fdv-above-100m-one-day-after-launch-519"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-100m-one-day-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.4% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 97.2% | 2.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-100m-one-day-
 
 ### What are the current odds for "Variational FDV above $100M one day after launch?"?
 
-As of November 19, 2026, Polymarket prices YES at 97.7%.
+As of November 19, 2026, Polymarket prices YES at 97.2%.
 
 ### Where can I trade on this prediction market?
 

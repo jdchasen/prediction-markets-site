@@ -1,15 +1,15 @@
 ---
 title: "Will Teddy Riner be on the ballot for the 2027 French presidential election?"
-description: "Will Teddy Riner be on the ballot for the 2027 French presidential election? Odds: 32.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Teddy Riner be on the ballot for the 2027 French presidential election? Odds: 31.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Teddy Riner be on the ballot for the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-19
 expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 32.2
-polymarketNo: 67.8
-polymarketVolume: 99449
+polymarketYes: 31.2
+polymarketNo: 68.8
+polymarketVolume: 99600
 polymarketUrl: "https://polymarket.com/event/will-teddy-riner-be-on-the-ballot-for-the-2027-french-presidential-election"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-teddy-riner-be-on-the-ballot-f
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 32.2% | 67.8% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 31.2% | 68.8% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-teddy-riner-be-on-the-ballot-f
 
 ### What are the current odds for "Will Teddy Riner be on the ballot for the 2027 French presidential election?"?
 
-As of November 19, 2026, Polymarket prices YES at 32.2%.
+As of November 19, 2026, Polymarket prices YES at 31.2%.
 
 ### Where can I trade on this prediction market?
 

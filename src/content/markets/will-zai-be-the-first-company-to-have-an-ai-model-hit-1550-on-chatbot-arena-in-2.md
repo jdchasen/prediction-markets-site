@@ -3,7 +3,7 @@ title: "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot A
 description: "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot Arena in 2026? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"
 category: "politics"
-status: "settled"
+status: "active"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-zai-be-the-first-company-to-ha
 
 ### What are the current odds for "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?"?
 
-As of November 18, 2026, Polymarket prices YES at 0.1%.
+As of November 19, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

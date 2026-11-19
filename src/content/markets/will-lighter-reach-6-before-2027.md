@@ -9,7 +9,7 @@ expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 7.0
 polymarketNo: 93.0
-polymarketVolume: 99653
+polymarketVolume: 99673
 polymarketUrl: "https://polymarket.com/event/will-lighter-reach-6-before-2027"
 ---
 

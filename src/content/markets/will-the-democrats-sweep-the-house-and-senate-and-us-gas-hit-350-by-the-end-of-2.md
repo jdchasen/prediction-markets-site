@@ -3,7 +3,7 @@ title: "Will the Democrats sweep the House and Senate and US gas hit $3.50 by th
 description: "Will the Democrats sweep the House and Senate and US gas hit $3.50 by the end of 2026? Odds: 29.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats sweep the House and Senate and US gas hit $3.50 by the end of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
