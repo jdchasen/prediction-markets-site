@@ -1,14 +1,14 @@
 ---
 title: "Will Silver (XAGUSD) hit (HIGH) $56 in November?"
-description: "Will Silver (XAGUSD) hit (HIGH) $56 in November? Odds: 3.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Silver (XAGUSD) hit (HIGH) $56 in November? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Silver (XAGUSD) hit (HIGH) $56 in November?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
-polymarketYes: 3.6
-polymarketNo: 96.4
+polymarketYes: 3.5
+polymarketNo: 96.5
 polymarketVolume: 9923
 polymarketUrl: "https://polymarket.com/event/will-xagusd-reach-56-in-november-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-xagusd-reach-56-in-november-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.6% | 96.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-xagusd-reach-56-in-november-20
 
 ### What are the current odds for "Will Silver (XAGUSD) hit (HIGH) $56 in November?"?
 
-As of November 18, 2026, Polymarket prices YES at 3.6%.
+As of November 19, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

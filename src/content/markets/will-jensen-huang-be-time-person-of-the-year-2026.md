@@ -1,14 +1,14 @@
 ---
 title: "Will Jensen Huang be TIME Person of the Year 2026?"
-description: "Will Jensen Huang be TIME Person of the Year 2026? Odds: 4.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Jensen Huang be TIME Person of the Year 2026? Odds: 5.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jensen Huang be TIME Person of the Year 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 4.8
-polymarketNo: 95.2
+polymarketYes: 5.1
+polymarketNo: 94.8
 polymarketVolume: 9991
 polymarketUrl: "https://polymarket.com/event/will-jensen-huang-be-time-person-of-the-year-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-jensen-huang-be-time-person-of
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.8% | 95.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.1% | 94.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-jensen-huang-be-time-person-of
 
 ### What are the current odds for "Will Jensen Huang be TIME Person of the Year 2026?"?
 
-As of November 18, 2026, Polymarket prices YES at 4.8%.
+As of November 19, 2026, Polymarket prices YES at 5.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Lighter reach $6 before 2027?"
-description: "Will Lighter reach $6 before 2027? Odds: 9.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Lighter reach $6 before 2027? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Lighter reach $6 before 2027?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 9.0
-polymarketNo: 91.0
+polymarketYes: 7.0
+polymarketNo: 93.0
 polymarketVolume: 99653
 polymarketUrl: "https://polymarket.com/event/will-lighter-reach-6-before-2027"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-lighter-reach-6-before-2027"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.0% | 91.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 7.0% | 93.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-lighter-reach-6-before-2027"
 
 ### What are the current odds for "Will Lighter reach $6 before 2027?"?
 
-As of November 18, 2026, Polymarket prices YES at 9.0%.
+As of November 19, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 

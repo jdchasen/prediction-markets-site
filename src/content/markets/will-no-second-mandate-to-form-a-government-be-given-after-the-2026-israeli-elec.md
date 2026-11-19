@@ -3,8 +3,8 @@ title: "Will no second mandate to form a government be given after the 2026 Isra
 description: "Will no second mandate to form a government be given after the 2026 Israeli election? Odds: 47.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no second mandate to form a government be given after the 2026 Israeli election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-18
+status: "settled"
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 47.5

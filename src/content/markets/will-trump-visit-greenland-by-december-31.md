@@ -3,8 +3,8 @@ title: "Will Trump visit Greenland by December 31?"
 description: "Will Trump visit Greenland by December 31? Odds: 1.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump visit Greenland by December 31?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-18
+status: "settled"
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 1.1

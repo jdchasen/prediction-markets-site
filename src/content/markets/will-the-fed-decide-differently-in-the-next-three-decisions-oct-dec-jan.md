@@ -4,7 +4,7 @@ description: "Will the Fed decide differently in the next three decisions (Oct-D
 marketQuestion: "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-27
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decide-differently-in-
 
 ### What are the current odds for "Will the Fed decide differently in the next three decisions (Oct-Dec-Jan)?"?
 
-As of November 18, 2026, Polymarket prices YES at 0.5%.
+As of November 19, 2026, Polymarket prices YES at 0.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will the Democrats sweep the House and Senate and US gas hit $3.50 by the end of 2026?"
-description: "Will the Democrats sweep the House and Senate and US gas hit $3.50 by the end of 2026? Odds: 33.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the Democrats sweep the House and Senate and US gas hit $3.50 by the end of 2026? Odds: 29.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Democrats sweep the House and Senate and US gas hit $3.50 by the end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 33.4
-polymarketNo: 66.6
+polymarketYes: 29.2
+polymarketNo: 70.8
 polymarketVolume: 9925
 polymarketUrl: "https://polymarket.com/event/gas-hits-3pt50-dollars-by-end-of-2026-dem-sweep-yes"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/gas-hits-3pt50-dollars-by-end-of-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.4% | 66.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 29.2% | 70.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/gas-hits-3pt50-dollars-by-end-of-20
 
 ### What are the current odds for "Will the Democrats sweep the House and Senate and US gas hit $3.50 by the end of 2026?"?
 
-As of November 18, 2026, Polymarket prices YES at 33.4%.
+As of November 19, 2026, Polymarket prices YES at 29.2%.
 
 ### Where can I trade on this prediction market?
 

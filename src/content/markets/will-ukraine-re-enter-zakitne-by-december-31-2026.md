@@ -3,8 +3,8 @@ title: "Will Ukraine re-enter Zakitne by December 31, 2026?"
 description: "Will Ukraine re-enter Zakitne by December 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ukraine re-enter Zakitne by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-18
+status: "settled"
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 16.5

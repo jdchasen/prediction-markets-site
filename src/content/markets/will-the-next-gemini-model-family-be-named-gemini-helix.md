@@ -3,8 +3,8 @@ title: "Will the next Gemini model family be named Gemini Helix?"
 description: "Will the next Gemini model family be named Gemini Helix? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next Gemini model family be named Gemini Helix?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-18
+status: "settled"
+lastUpdated: 2026-11-19
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

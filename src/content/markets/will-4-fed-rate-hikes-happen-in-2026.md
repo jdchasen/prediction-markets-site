@@ -4,7 +4,7 @@ description: "Will 4 Fed rate hikes happen in 2026? Odds: 0.1% YES on Polymarket
 marketQuestion: "Will 4 Fed rate hikes happen in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "polymarket"]
 polymarketYes: 0.1
@@ -21,15 +21,15 @@ polymarketUrl: "https://polymarket.com/event/will-4-fed-rate-hikes-happen-in-202
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 25 bps after the December 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting) — 92% YES
 - [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 84% YES
 - [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
+- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 11% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will 4 Fed rate hikes happen in 2026?"?
 
-As of November 18, 2026, Polymarket prices YES at 0.1%.
+As of November 19, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

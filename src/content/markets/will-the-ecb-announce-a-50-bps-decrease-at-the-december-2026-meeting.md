@@ -4,7 +4,7 @@ description: "Will the ECB announce a 50+ bps decrease at the December 2026 meet
 marketQuestion: "Will the ECB announce a 50+ bps decrease at the December 2026 meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2026-12-17
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-announce-a-50-bps-decr
 
 ### What are the current odds for "Will the ECB announce a 50+ bps decrease at the December 2026 meeting?"?
 
-As of November 18, 2026, Polymarket prices YES at 0.2%.
+As of November 19, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

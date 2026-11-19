@@ -3,8 +3,8 @@ title: "Will Adam Hamilton win the 2028 Democratic presidential nomination?"
 description: "Will Adam Hamilton win the 2028 Democratic presidential nomination? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adam Hamilton win the 2028 Democratic presidential nomination?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-11-18
+status: "settled"
+lastUpdated: 2026-11-19
 expiryDate: 2028-11-07
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1

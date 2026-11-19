@@ -4,7 +4,7 @@ description: "Probable FDV above $50M one day after launch? Odds: 8.5% YES on Po
 marketQuestion: "Probable FDV above $50M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 8.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/probable-fdv-above-50m-one-day-afte
 
 ### What are the current odds for "Probable FDV above $50M one day after launch?"?
 
-As of November 18, 2026, Polymarket prices YES at 8.5%.
+As of November 19, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

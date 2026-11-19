@@ -1,14 +1,14 @@
 ---
 title: "Will Canada have the highest unemployment rate since 2016 this year?"
-description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 9.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 10.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada have the highest unemployment rate since 2016 this year?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-18
+lastUpdated: 2026-11-19
 expiryDate: 2027-02-16
 tags: ["economics", "polymarket"]
-polymarketYes: 9.6
-polymarketNo: 90.4
+polymarketYes: 10.9
+polymarketNo: 89.1
 polymarketVolume: 9834
 polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unemployment-rate-since-2016-this-year"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unempl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.6% | 90.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 10.9% | 89.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will the Fed increase interest rates by 25 bps after the December 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting) — 92% YES
 - [Will 4 Fed rate hikes happen in 2026?](/odds/will-4-fed-rate-hikes-happen-in-2026) — 0% YES
 - [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 84% YES
+- [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada have the highest unemployment rate since 2016 this year?"?
 
-As of November 18, 2026, Polymarket prices YES at 9.6%.
+As of November 19, 2026, Polymarket prices YES at 10.9%.
 
 ### Where can I trade on this prediction market?
 
