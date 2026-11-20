@@ -3,8 +3,8 @@ title: "Will \"Avengers: Doomsday\" Opening Weekend Box Office be at least 400m?
 description: "Will \"Avengers: Doomsday\" Opening Weekend Box Office be at least 400m? Odds: 71.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Avengers: Doomsday\" Opening Weekend Box Office be at least 400m?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-19
+status: "settled"
+lastUpdated: 2026-11-20
 expiryDate: 2026-12-20
 tags: ["politics", "polymarket"]
 polymarketYes: 71.5

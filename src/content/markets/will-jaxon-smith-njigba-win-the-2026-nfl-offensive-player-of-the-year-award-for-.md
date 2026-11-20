@@ -1,15 +1,15 @@
 ---
 title: "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?"
-description: "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season? Odds: 35.0% YES on Polymarket. See live prices and tr..."
+description: "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season? Odds: 36.0% YES on Polymarket. See live prices and tr..."
 marketQuestion: "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-19
+lastUpdated: 2026-11-20
 expiryDate: 2027-03-01
 tags: ["polymarket", "sports"]
-polymarketYes: 35.0
-polymarketNo: 65.0
-polymarketVolume: 9919
+polymarketYes: 36.0
+polymarketNo: 64.0
+polymarketVolume: 9987
 polymarketUrl: "https://polymarket.com/event/will-jaxon-smith-njigba-win-the-2026-nfl-offensive-player-of-the-year-award-for-the-2026-27-nfl-season-20260716005216294"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-jaxon-smith-njigba-win-the-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 35.0% | 65.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 36.0% | 64.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -28,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-jaxon-smith-njigba-win-the-202
 
 ### What are the current odds for "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?"?
 
-As of November 19, 2026, Polymarket prices YES at 35.0%.
+As of November 20, 2026, Polymarket prices YES at 36.0%.
 
 ### Where can I trade on this prediction market?
 
