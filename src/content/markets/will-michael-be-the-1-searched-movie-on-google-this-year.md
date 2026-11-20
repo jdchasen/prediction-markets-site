@@ -9,7 +9,7 @@ expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.1
 polymarketNo: 96.9
-polymarketVolume: 9962
+polymarketVolume: 9972
 polymarketUrl: "https://polymarket.com/event/will-michael-be-the-1-searched-movie-on-google-this-year-20260730181459213"
 ---
 

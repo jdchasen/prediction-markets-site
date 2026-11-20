@@ -3,7 +3,7 @@ title: "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish
 description: "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election? Odds: 43.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-20
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]

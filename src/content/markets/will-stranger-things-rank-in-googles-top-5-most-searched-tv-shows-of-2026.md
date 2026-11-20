@@ -3,7 +3,7 @@ title: "Will Stranger Things rank in Google’s Top 5 Most Searched TV Shows of 
 description: "Will Stranger Things rank in Google’s Top 5 Most Searched TV Shows of 2026? Odds: 37.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Stranger Things rank in Google’s Top 5 Most Searched TV Shows of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-20
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

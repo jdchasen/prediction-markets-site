@@ -1,13 +1,13 @@
 ---
 title: "Will Canada have the highest unemployment rate since 2016 this year?"
-description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 8.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada have the highest unemployment rate since 2016 this year?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-20
 expiryDate: 2027-02-16
 tags: ["economics", "polymarket"]
-polymarketYes: 8.8
+polymarketYes: 8.9
 polymarketNo: 91.1
 polymarketVolume: 9834
 polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unemployment-rate-since-2016-this-year"
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unempl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.9% | 91.1% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unempl
 
 ### What are the current odds for "Will Canada have the highest unemployment rate since 2016 this year?"?
 
-As of November 20, 2026, Polymarket prices YES at 8.8%.
+As of November 20, 2026, Polymarket prices YES at 8.9%.
 
 ### Where can I trade on this prediction market?
 

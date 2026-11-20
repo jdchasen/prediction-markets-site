@@ -3,7 +3,7 @@ title: "Will the Bank of Russia make no change to the key rate at the March meet
 description: "Will the Bank of Russia make no change to the key rate at the March meeting? Odds: 76.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Bank of Russia make no change to the key rate at the March meeting?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-20
 expiryDate: 2027-03-19
 tags: ["politics", "polymarket"]

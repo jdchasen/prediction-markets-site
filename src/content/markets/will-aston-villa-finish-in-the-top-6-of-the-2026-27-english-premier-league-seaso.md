@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-aston-villa-finish-in-the-top-
 
 ## Related Markets
 
-- [Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?](/odds/will-jaxon-smith-njigba-win-the-2026-nfl-offensive-player-of-the-year-award-for-) — 36% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
 ## Frequently Asked Questions

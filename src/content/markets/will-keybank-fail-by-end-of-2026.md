@@ -9,7 +9,7 @@ expiryDate: 2027-05-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 1.9
 polymarketNo: 98.0
-polymarketVolume: 9956
+polymarketVolume: 9957
 polymarketUrl: "https://polymarket.com/event/will-keybank-fail-by-end-of-2026"
 ---
 

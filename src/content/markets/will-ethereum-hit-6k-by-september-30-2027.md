@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-6k-by-september-3
 
 ## Related Markets
 
-- [Will Bitcoin dip to $57,500 in November?](/odds/will-bitcoin-dip-to-57500-in-november) — 39% YES
-- [Variational FDV above $100M one day after launch?](/odds/variational-fdv-above-100m-one-day-after-launch) — 97% YES
+- [Variational FDV above $100M one day after launch?](/odds/variational-fdv-above-100m-one-day-after-launch) — 98% YES
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
 ## Frequently Asked Questions
 

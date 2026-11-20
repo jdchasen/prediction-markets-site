@@ -3,7 +3,7 @@ title: "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year aw
 description: "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season? Odds: 36.0% YES on Polymarket. See live prices and tr..."
 marketQuestion: "Will Jaxon Smith-Njigba win the 2026 NFL Offensive Player of the Year award for the 2026-27 NFL season?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-20
 expiryDate: 2027-03-01
 tags: ["polymarket", "sports"]

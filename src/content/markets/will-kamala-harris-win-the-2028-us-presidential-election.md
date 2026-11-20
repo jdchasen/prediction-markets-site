@@ -9,7 +9,7 @@ expiryDate: 2028-11-08
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 3.0
 polymarketNo: 97.0
-polymarketVolume: 9934450
+polymarketVolume: 9941470
 polymarketUrl: "https://polymarket.com/event/will-kamala-harris-win-the-2028-us-presidential-election"
 ---
 

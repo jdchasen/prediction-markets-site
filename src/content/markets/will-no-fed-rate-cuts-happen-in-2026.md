@@ -1,15 +1,15 @@
 ---
 title: "Will no Fed rate cuts happen in 2026?"
-description: "Will no Fed rate cuts happen in 2026? Odds: 98.2% YES on Polymarket. See live prices and trade this market."
+description: "Will no Fed rate cuts happen in 2026? Odds: 98.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will no Fed rate cuts happen in 2026?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-20
 expiryDate: 2027-01-01
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 98.2
-polymarketNo: 1.8
-polymarketVolume: 9737206
+polymarketYes: 98.5
+polymarketNo: 1.6
+polymarketVolume: 9755390
 polymarketUrl: "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 98.2% | 1.8% | $9.7M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.5% | 1.6% | $9.8M | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-202
 
 ### What are the current odds for "Will no Fed rate cuts happen in 2026?"?
 
-As of November 20, 2026, Polymarket prices YES at 98.2%.
+As of November 20, 2026, Polymarket prices YES at 98.5%.
 
 ### Where can I trade on this prediction market?
 

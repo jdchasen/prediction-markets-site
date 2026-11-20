@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 
 ## Related Markets
 
-- [Will Alphabet’s market capitalization be less than $3.50T at the end of 2026?](/odds/will-alphabets-market-capitalization-be-less-than-350t-at-the-end-of-2026) — 47% YES
 - [Will Nvidia’s market capitalization be between $6.00T and $6.50T at the end of 2026?](/odds/will-nvidias-market-capitalization-be-between-600t-and-650t-at-the-end-of-2026) — 0% YES
 
 ## Frequently Asked Questions
