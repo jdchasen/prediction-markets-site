@@ -1,15 +1,15 @@
 ---
 title: "Variational FDV above $100M one day after launch?"
-description: "Variational FDV above $100M one day after launch? Odds: 97.7% YES on Polymarket. See live prices and trade this market."
+description: "Variational FDV above $100M one day after launch? Odds: 98.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Variational FDV above $100M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-21
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 97.7
-polymarketNo: 2.4
-polymarketVolume: 99717
+polymarketYes: 98.3
+polymarketNo: 1.7
+polymarketVolume: 99820
 polymarketUrl: "https://polymarket.com/event/variational-fdv-above-100m-one-day-after-launch-519"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-100m-one-day-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 97.7% | 2.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 98.3% | 1.7% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Ethereum dip to $1,400 in November?](/odds/will-ethereum-dip-to-1400-in-november) — 23% YES
-- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
+- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 11% YES
 - [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 8% YES
+- [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Variational FDV above $100M one day after launch?"?
 
-As of November 21, 2026, Polymarket prices YES at 97.7%.
+As of November 21, 2026, Polymarket prices YES at 98.3%.
 
 ### Where can I trade on this prediction market?
 

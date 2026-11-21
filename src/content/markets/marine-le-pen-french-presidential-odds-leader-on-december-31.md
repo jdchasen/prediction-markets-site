@@ -3,7 +3,7 @@ title: "Marine Le Pen French presidential odds leader on December 31?"
 description: "Marine Le Pen French presidential odds leader on December 31? Odds: 95.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Marine Le Pen French presidential odds leader on December 31?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

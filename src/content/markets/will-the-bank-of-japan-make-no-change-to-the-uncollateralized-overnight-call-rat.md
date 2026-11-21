@@ -9,7 +9,7 @@ expiryDate: 2027-01-22
 tags: ["economics", "polymarket"]
 polymarketYes: 83.0
 polymarketNo: 17.0
-polymarketVolume: 9935
+polymarketVolume: 9996
 polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rate-at-the-january-2027-meeting"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-chan
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 9% YES
+- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 8% YES
+- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 40% YES
 
 ## Frequently Asked Questions
 

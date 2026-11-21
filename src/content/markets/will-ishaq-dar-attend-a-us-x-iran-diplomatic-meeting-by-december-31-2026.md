@@ -3,7 +3,7 @@ title: "Will Ishaq Dar attend a US x Iran diplomatic meeting by December 31, 202
 description: "Will Ishaq Dar attend a US x Iran diplomatic meeting by December 31, 2026? Odds: 7.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ishaq Dar attend a US x Iran diplomatic meeting by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

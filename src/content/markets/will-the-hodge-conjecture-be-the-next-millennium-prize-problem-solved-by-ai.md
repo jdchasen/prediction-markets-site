@@ -3,7 +3,7 @@ title: "Will the Hodge Conjecture be the next Millennium Prize Problem solved by
 description: "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI? Odds: 7.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Hodge Conjecture be the next Millennium Prize Problem solved by AI?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-21
 expiryDate: 2028-01-01
 tags: ["ai", "politics", "polymarket"]

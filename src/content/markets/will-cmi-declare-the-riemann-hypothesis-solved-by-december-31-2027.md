@@ -3,7 +3,7 @@ title: "Will CMI declare the Riemann Hypothesis solved by December 31, 2027?"
 description: "Will CMI declare the Riemann Hypothesis solved by December 31, 2027? Odds: 10.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will CMI declare the Riemann Hypothesis solved by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-21
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]

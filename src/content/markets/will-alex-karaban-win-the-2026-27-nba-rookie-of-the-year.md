@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 |----------|-----|-----|--------|-------|
 | Polymarket | 0.1% | 100.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award for the 2026-27 NFL season?](/odds/will-arvell-reese-win-the-2026-nfl-defensive-rookie-of-the-year-award-for-the-20) — 55% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Alex Karaban win the 2026-27 NBA Rookie of the Year?"?

@@ -3,7 +3,7 @@ title: "Will Ethereum dip to $1,400 in November?"
 description: "Will Ethereum dip to $1,400 in November? Odds: 22.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum dip to $1,400 in November?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-21
 expiryDate: 2026-12-01
 tags: ["crypto", "ethereum", "polymarket"]
