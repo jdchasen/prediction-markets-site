@@ -1,14 +1,14 @@
 ---
 title: "Marine Le Pen French presidential odds leader on December 31?"
-description: "Marine Le Pen French presidential odds leader on December 31? Odds: 95.8% YES on Polymarket. See live prices and trade this market."
+description: "Marine Le Pen French presidential odds leader on December 31? Odds: 95.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Marine Le Pen French presidential odds leader on December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-20
+lastUpdated: 2026-11-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 95.8
-polymarketNo: 4.2
+polymarketYes: 95.7
+polymarketNo: 4.3
 polymarketVolume: 9936
 polymarketUrl: "https://polymarket.com/event/marine-le-pen-french-presidential-odds-leader-on-december-31"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/marine-le-pen-french-presidential-o
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 95.8% | 4.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.7% | 4.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/marine-le-pen-french-presidential-o
 
 ### What are the current odds for "Marine Le Pen French presidential odds leader on December 31?"?
 
-As of November 20, 2026, Polymarket prices YES at 95.8%.
+As of November 21, 2026, Polymarket prices YES at 95.7%.
 
 ### Where can I trade on this prediction market?
 

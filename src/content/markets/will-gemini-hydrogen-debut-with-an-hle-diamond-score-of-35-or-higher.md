@@ -3,8 +3,8 @@ title: "Will Gemini Hydrogen debut with an HLE-Diamond score of 35% or higher?"
 description: "Will Gemini Hydrogen debut with an HLE-Diamond score of 35% or higher? Odds: 68.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Gemini Hydrogen debut with an HLE-Diamond score of 35% or higher?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-20
+status: "settled"
+lastUpdated: 2026-11-21
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 68.5

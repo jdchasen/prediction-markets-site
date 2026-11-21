@@ -4,11 +4,11 @@ description: "Will Yu Shu-chen win the next Hualien County Magistrate election? 
 marketQuestion: "Will Yu Shu-chen win the next Hualien County Magistrate election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-20
+lastUpdated: 2026-11-21
 expiryDate: 2026-11-29
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 94.0
-polymarketNo: 5.9
+polymarketNo: 6.0
 polymarketVolume: 9936
 polymarketUrl: "https://polymarket.com/event/will-yu-shu-chen-win-the-next-hualien-county-magistrate-election-202608131357161201"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-yu-shu-chen-win-the-next-huali
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 94.0% | 5.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 94.0% | 6.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-yu-shu-chen-win-the-next-huali
 
 ### What are the current odds for "Will Yu Shu-chen win the next Hualien County Magistrate election?"?
 
-As of November 20, 2026, Polymarket prices YES at 94.0%.
+As of November 21, 2026, Polymarket prices YES at 94.0%.
 
 ### Where can I trade on this prediction market?
 

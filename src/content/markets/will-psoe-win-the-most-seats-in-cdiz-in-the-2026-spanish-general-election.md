@@ -3,8 +3,8 @@ title: "Will PSOE win the most seats in Cádiz in the 2026 Spanish general elect
 description: "Will PSOE win the most seats in Cádiz in the 2026 Spanish general election? Odds: 21.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PSOE win the most seats in Cádiz in the 2026 Spanish general election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-20
+status: "settled"
+lastUpdated: 2026-11-21
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 21.0

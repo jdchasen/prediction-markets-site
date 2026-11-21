@@ -3,8 +3,8 @@ title: "Will \"GTA VI\" have a Metascore of at least 98?"
 description: "Will \"GTA VI\" have a Metascore of at least 98? Odds: 98.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"GTA VI\" have a Metascore of at least 98?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-20
+status: "settled"
+lastUpdated: 2026-11-21
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 98.2

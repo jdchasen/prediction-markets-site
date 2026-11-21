@@ -3,8 +3,8 @@ title: "Will J.D. Vance announce a presidential run by June 30, 2027?"
 description: "Will J.D. Vance announce a presidential run by June 30, 2027? Odds: 43.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will J.D. Vance announce a presidential run by June 30, 2027?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-20
+status: "settled"
+lastUpdated: 2026-11-21
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 43.5

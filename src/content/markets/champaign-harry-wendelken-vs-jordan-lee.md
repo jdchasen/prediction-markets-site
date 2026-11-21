@@ -3,8 +3,8 @@ title: "Champaign: Harry Wendelken vs Jordan Lee"
 description: "Champaign: Harry Wendelken vs Jordan Lee Odds: 45.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Champaign: Harry Wendelken vs Jordan Lee"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-20
+status: "settled"
+lastUpdated: 2026-11-21
 expiryDate: 2026-11-27
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 45.5
