@@ -4,7 +4,7 @@ description: "Printr FDV above $800M one day after launch? Odds: 8.8% YES on Pol
 marketQuestion: "Printr FDV above $800M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-21
+lastUpdated: 2026-11-22
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 8.8
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 ## Related Markets
 
 - [Variational FDV above $100M one day after launch?](/odds/variational-fdv-above-100m-one-day-after-launch) — 98% YES
-- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 11% YES
+- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 12% YES
 - [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 8% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Printr FDV above $800M one day after launch?"?
 
-As of November 21, 2026, Polymarket prices YES at 8.8%.
+As of November 22, 2026, Polymarket prices YES at 8.8%.
 
 ### Where can I trade on this prediction market?
 

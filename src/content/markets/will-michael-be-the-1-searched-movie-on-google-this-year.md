@@ -3,8 +3,8 @@ title: "Will Michael be the #1 searched movie on Google this year?"
 description: "Will Michael be the #1 searched movie on Google this year? Odds: 3.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Michael be the #1 searched movie on Google this year?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-21
+status: "settled"
+lastUpdated: 2026-11-22
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 3.1

@@ -4,7 +4,7 @@ description: "Variational FDV above $100M one day after launch? Odds: 98.3% YES 
 marketQuestion: "Variational FDV above $100M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-21
+lastUpdated: 2026-11-22
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 98.3
@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-100m-one-day-
 
 ## Related Markets
 
-- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 11% YES
+- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 12% YES
 - [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 8% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/variational-fdv-above-100m-one-day-
 
 ### What are the current odds for "Variational FDV above $100M one day after launch?"?
 
-As of November 21, 2026, Polymarket prices YES at 98.3%.
+As of November 22, 2026, Polymarket prices YES at 98.3%.
 
 ### Where can I trade on this prediction market?
 

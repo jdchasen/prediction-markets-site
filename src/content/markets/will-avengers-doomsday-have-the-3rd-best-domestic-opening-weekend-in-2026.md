@@ -4,12 +4,12 @@ description: "Will Avengers: Doomsday have the 3rd best domestic opening weekend
 marketQuestion: "Will Avengers: Doomsday have the 3rd best domestic opening weekend in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-21
+lastUpdated: 2026-11-22
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
 polymarketNo: 99.4
-polymarketVolume: 9932
+polymarketVolume: 9946
 polymarketUrl: "https://polymarket.com/event/will-avengers-doomsday-have-the-3rd-best-domestic-opening-weekend-in-2026-20260722232204882"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-avengers-doomsday-have-the-3rd
 
 ### What are the current odds for "Will Avengers: Doomsday have the 3rd best domestic opening weekend in 2026?"?
 
-As of November 21, 2026, Polymarket prices YES at 0.6%.
+As of November 22, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

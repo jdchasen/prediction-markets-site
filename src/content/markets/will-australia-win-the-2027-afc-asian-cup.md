@@ -1,14 +1,14 @@
 ---
 title: "Will Australia win the 2027 AFC Asian Cup?"
-description: "Will Australia win the 2027 AFC Asian Cup? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Australia win the 2027 AFC Asian Cup? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Australia win the 2027 AFC Asian Cup?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-21
+lastUpdated: 2026-11-22
 expiryDate: 2027-02-06
 tags: ["politics", "polymarket"]
-polymarketYes: 3.5
-polymarketNo: 96.5
+polymarketYes: 3.3
+polymarketNo: 96.7
 polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/will-australia-win-the-2027-afc-asian-cup"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-australia-win-the-2027-afc-asi
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.5% | 96.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.3% | 96.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-australia-win-the-2027-afc-asi
 
 ### What are the current odds for "Will Australia win the 2027 AFC Asian Cup?"?
 
-As of November 21, 2026, Polymarket prices YES at 3.5%.
+As of November 22, 2026, Polymarket prices YES at 3.3%.
 
 ### Where can I trade on this prediction market?
 

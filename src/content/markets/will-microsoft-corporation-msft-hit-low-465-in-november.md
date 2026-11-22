@@ -1,14 +1,14 @@
 ---
 title: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"
-description: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November? Odds: 45.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November? Odds: 50.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-21
+lastUpdated: 2026-11-22
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
-polymarketYes: 45.5
-polymarketNo: 54.5
+polymarketYes: 50.0
+polymarketNo: 50.0
 polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-465-in-november-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-465-in-november-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 45.5% | 54.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 50.0% | 50.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-465-in-november-20
 
 ### What are the current odds for "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"?
 
-As of November 21, 2026, Polymarket prices YES at 45.5%.
+As of November 22, 2026, Polymarket prices YES at 50.0%.
 
 ### Where can I trade on this prediction market?
 

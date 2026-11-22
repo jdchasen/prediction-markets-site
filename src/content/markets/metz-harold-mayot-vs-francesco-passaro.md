@@ -3,8 +3,8 @@ title: "Metz: Harold Mayot vs Francesco Passaro"
 description: "Metz: Harold Mayot vs Francesco Passaro Odds: 23.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Metz: Harold Mayot vs Francesco Passaro"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-21
+status: "settled"
+lastUpdated: 2026-11-22
 expiryDate: 2026-11-28
 tags: ["politics", "polymarket"]
 polymarketYes: 23.5
