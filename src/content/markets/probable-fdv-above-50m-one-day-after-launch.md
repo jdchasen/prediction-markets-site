@@ -1,14 +1,14 @@
 ---
 title: "Probable FDV above $50M one day after launch?"
-description: "Probable FDV above $50M one day after launch? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Probable FDV above $50M one day after launch? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Probable FDV above $50M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-22
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
+polymarketYes: 11.0
+polymarketNo: 89.0
 polymarketVolume: 99586
 polymarketUrl: "https://polymarket.com/event/probable-fdv-above-50m-one-day-after-launch"
 ---
@@ -17,11 +17,10 @@ polymarketUrl: "https://polymarket.com/event/probable-fdv-above-50m-one-day-afte
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 11.0% | 89.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Variational FDV above $100M one day after launch?](/odds/variational-fdv-above-100m-one-day-after-launch) — 98% YES
 - [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 8% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
@@ -29,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/probable-fdv-above-50m-one-day-afte
 
 ### What are the current odds for "Probable FDV above $50M one day after launch?"?
 
-As of November 22, 2026, Polymarket prices YES at 11.5%.
+As of November 22, 2026, Polymarket prices YES at 11.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Trump be impeached by December 31, 2027?"
 description: "Will Trump be impeached by December 31, 2027? Odds: 59.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Trump be impeached by December 31, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-22
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket", "trump"]

@@ -3,7 +3,7 @@ title: "Will Amcha Yisrael be in the next Israeli government?"
 description: "Will Amcha Yisrael be in the next Israeli government? Odds: 2.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Amcha Yisrael be in the next Israeli government?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-22
 expiryDate: 2027-06-30
 tags: ["politics", "polymarket"]

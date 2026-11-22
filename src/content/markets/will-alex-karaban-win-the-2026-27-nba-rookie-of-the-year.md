@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 
 ## Related Markets
 
-- [Will the Florida Panthers make the 2026-27 NHL Playoffs?](/odds/will-the-florida-panthers-make-the-2026-27-nhl-playoffs) — 74% YES
-- [Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award for the 2026-27 NFL season?](/odds/will-arvell-reese-win-the-2026-nfl-defensive-rookie-of-the-year-award-for-the-20) — 56% YES
+- [Will Adam Hamilton win the 2028 Democratic presidential nomination?](/odds/will-adam-hamilton-win-the-2028-democratic-presidential-nomination) — 0% YES
+- [Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award for the 2026-27 NFL season?](/odds/will-arvell-reese-win-the-2026-nfl-defensive-rookie-of-the-year-award-for-the-20) — 55% YES
+- [Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?](/odds/will-josh-downs-have-1000-receiving-yards-in-the-2026-27-nfl-regular-season) — 7% YES
 
 ## Frequently Asked Questions
 

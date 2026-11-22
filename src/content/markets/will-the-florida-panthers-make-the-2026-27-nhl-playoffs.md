@@ -3,7 +3,7 @@ title: "Will the Florida Panthers make the 2026-27 NHL Playoffs?"
 description: "Will the Florida Panthers make the 2026-27 NHL Playoffs? Odds: 74.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Florida Panthers make the 2026-27 NHL Playoffs?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-22
 expiryDate: 2027-04-16
 tags: ["polymarket", "sports"]

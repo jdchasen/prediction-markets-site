@@ -3,13 +3,13 @@ title: "Will Adam Hamilton win the 2028 Democratic presidential nomination?"
 description: "Will Adam Hamilton win the 2028 Democratic presidential nomination? Odds: 0.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Adam Hamilton win the 2028 Democratic presidential nomination?"
 category: "sports"
-status: "settled"
-lastUpdated: 2026-11-19
+status: "active"
+lastUpdated: 2026-11-22
 expiryDate: 2028-11-07
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
 polymarketNo: 100.0
-polymarketVolume: 990322
+polymarketVolume: 992322
 polymarketUrl: "https://polymarket.com/event/will-adam-hamilton-win-the-2028-democratic-presidential-nomination"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-adam-hamilton-win-the-2028-dem
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.1% | 100.0% | $990K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.1% | 100.0% | $992K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Will Bijan Robinson have 1,574.5+ rushing yards in the 2026-27 NFL regular season?](/odds/will-bijan-robinson-have-15745-rushing-yards-in-the-2026-27-nfl-regular-season) — 48% YES
-- [Will Aston Villa finish in the top 6 of the 2026-27 English Premier League season?](/odds/will-aston-villa-finish-in-the-top-6-of-the-2026-27-english-premier-league-seaso) — 36% YES
+- [Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award for the 2026-27 NFL season?](/odds/will-arvell-reese-win-the-2026-nfl-defensive-rookie-of-the-year-award-for-the-20) — 55% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
+- [Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?](/odds/will-josh-downs-have-1000-receiving-yards-in-the-2026-27-nfl-regular-season) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Adam Hamilton win the 2028 Democratic presidential nomination?"?
 
-As of November 18, 2026, Polymarket prices YES at 0.1%.
+As of November 22, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

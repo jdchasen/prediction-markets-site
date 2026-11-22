@@ -3,7 +3,7 @@ title: "Will Australia win the 2027 AFC Asian Cup?"
 description: "Will Australia win the 2027 AFC Asian Cup? Odds: 3.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Australia win the 2027 AFC Asian Cup?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-22
 expiryDate: 2027-02-06
 tags: ["politics", "polymarket"]

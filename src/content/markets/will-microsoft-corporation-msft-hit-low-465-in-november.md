@@ -1,14 +1,14 @@
 ---
 title: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"
-description: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November? Odds: 50.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November? Odds: 52.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-22
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
-polymarketYes: 50.0
-polymarketNo: 50.0
+polymarketYes: 52.0
+polymarketNo: 48.0
 polymarketVolume: 9919
 polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-465-in-november-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-msft-dip-to-465-in-november-20
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 50.0% | 50.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 52.0% | 48.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 4% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"?
 
-As of November 22, 2026, Polymarket prices YES at 50.0%.
+As of November 22, 2026, Polymarket prices YES at 52.0%.
 
 ### Where can I trade on this prediction market?
 
