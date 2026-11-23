@@ -1,14 +1,14 @@
 ---
 title: "Will Anthropic have the best Code Arena | WebDev AI at the end of December 2026?"
-description: "Will Anthropic have the best Code Arena | WebDev AI at the end of December 2026? Odds: 78.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic have the best Code Arena | WebDev AI at the end of December 2026? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best Code Arena | WebDev AI at the end of December 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 78.5
-polymarketNo: 21.5
+polymarketYes: 78.0
+polymarketNo: 22.0
 polymarketVolume: 9907
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-code-arena-webdev-ai-at-the-end-of-december-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-code-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 78.5% | 21.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 78.0% | 22.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-code-a
 
 ### What are the current odds for "Will Anthropic have the best Code Arena | WebDev AI at the end of December 2026?"?
 
-As of November 22, 2026, Polymarket prices YES at 78.5%.
+As of November 23, 2026, Polymarket prices YES at 78.0%.
 
 ### Where can I trade on this prediction market?
 

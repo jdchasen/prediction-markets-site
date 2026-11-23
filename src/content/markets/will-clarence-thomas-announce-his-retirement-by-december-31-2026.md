@@ -4,7 +4,7 @@ description: "Will Clarence Thomas announce his retirement by December 31, 2026?
 marketQuestion: "Will Clarence Thomas announce his retirement by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 2.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-clarence-thomas-announce-his-r
 
 ### What are the current odds for "Will Clarence Thomas announce his retirement by December 31, 2026?"?
 
-As of November 22, 2026, Polymarket prices YES at 2.1%.
+As of November 23, 2026, Polymarket prices YES at 2.1%.
 
 ### Where can I trade on this prediction market?
 

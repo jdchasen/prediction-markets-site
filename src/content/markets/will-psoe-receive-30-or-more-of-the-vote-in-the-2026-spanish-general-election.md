@@ -3,8 +3,8 @@ title: "Will PSOE receive 30% or more of the vote in the 2026 Spanish general el
 description: "Will PSOE receive 30% or more of the vote in the 2026 Spanish general election? Odds: 34.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PSOE receive 30% or more of the vote in the 2026 Spanish general election?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-22
+status: "settled"
+lastUpdated: 2026-11-23
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 34.0

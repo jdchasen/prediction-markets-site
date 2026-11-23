@@ -4,7 +4,7 @@ description: "Will exactly 6 tropical cyclones make landfall in China during 202
 marketQuestion: "Will exactly 6 tropical cyclones make landfall in China during 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2027-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-exactly-6-typhoons-make-landfa
 
 ### What are the current odds for "Will exactly 6 tropical cyclones make landfall in China during 2026?"?
 
-As of November 22, 2026, Polymarket prices YES at 0.8%.
+As of November 23, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

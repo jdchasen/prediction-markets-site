@@ -1,14 +1,14 @@
 ---
 title: "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026?"
-description: "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026? Odds: 18.6% YES on Polymarket. See live prices and trade this market."
+description: "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026? Odds: 18.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 18.6
-polymarketNo: 81.4
+polymarketYes: 18.8
+polymarketNo: 81.2
 polymarketVolume: 9985
 polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-november-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-code-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 18.6% | 81.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.8% | 81.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-google-be-the-third-best-code-
 
 ### What are the current odds for "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026?"?
 
-As of November 22, 2026, Polymarket prices YES at 18.6%.
+As of November 23, 2026, Polymarket prices YES at 18.8%.
 
 ### Where can I trade on this prediction market?
 

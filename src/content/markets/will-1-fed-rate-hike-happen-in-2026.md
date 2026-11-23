@@ -1,15 +1,15 @@
 ---
 title: "Will 1 Fed rate hike happen in 2026?"
-description: "Will 1 Fed rate hike happen in 2026? Odds: 7.0% YES on Polymarket. See live prices and trade this market."
+description: "Will 1 Fed rate hike happen in 2026? Odds: 5.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will 1 Fed rate hike happen in 2026?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2026-12-31
 tags: ["economics", "federal-reserve", "polymarket"]
-polymarketYes: 7.0
-polymarketNo: 93.0
-polymarketVolume: 997193
+polymarketYes: 5.9
+polymarketNo: 94.2
+polymarketVolume: 998262
 polymarketUrl: "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 7.0% | 93.0% | $997K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 5.9% | 94.2% | $998K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 41% YES
+- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 42% YES
 - [Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?](/odds/will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rat) — 83% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will 1 Fed rate hike happen in 2026?"?
 
-As of November 22, 2026, Polymarket prices YES at 7.0%.
+As of November 23, 2026, Polymarket prices YES at 5.9%.
 
 ### Where can I trade on this prediction market?
 

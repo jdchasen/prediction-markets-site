@@ -4,7 +4,7 @@ description: "Will the Bank of Japan make no change to the uncollateralized over
 marketQuestion: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2027-01-22
 tags: ["economics", "polymarket"]
 polymarketYes: 83.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-the-bank-of-japan-make-no-chan
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 7% YES
-- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 41% YES
+- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 6% YES
+- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 42% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"?
 
-As of November 22, 2026, Polymarket prices YES at 83.0%.
+As of November 23, 2026, Polymarket prices YES at 83.0%.
 
 ### Where can I trade on this prediction market?
 

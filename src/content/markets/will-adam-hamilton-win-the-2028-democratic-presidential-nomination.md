@@ -4,7 +4,7 @@ description: "Will Adam Hamilton win the 2028 Democratic presidential nomination
 marketQuestion: "Will Adam Hamilton win the 2028 Democratic presidential nomination?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2028-11-07
 tags: ["polymarket", "sports"]
 polymarketYes: 0.1
@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-adam-hamilton-win-the-2028-dem
 
 ## Related Markets
 
-- [Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award for the 2026-27 NFL season?](/odds/will-arvell-reese-win-the-2026-nfl-defensive-rookie-of-the-year-award-for-the-20) — 55% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 - [Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?](/odds/will-josh-downs-have-1000-receiving-yards-in-the-2026-27-nfl-regular-season) — 7% YES
 
@@ -29,7 +28,7 @@ polymarketUrl: "https://polymarket.com/event/will-adam-hamilton-win-the-2028-dem
 
 ### What are the current odds for "Will Adam Hamilton win the 2028 Democratic presidential nomination?"?
 
-As of November 22, 2026, Polymarket prices YES at 0.1%.
+As of November 23, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

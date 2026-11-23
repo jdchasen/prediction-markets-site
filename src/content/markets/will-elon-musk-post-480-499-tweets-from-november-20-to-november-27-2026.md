@@ -3,8 +3,8 @@ title: "Will Elon Musk post 480-499 tweets from November 20 to November 27, 2026
 description: "Will Elon Musk post 480-499 tweets from November 20 to November 27, 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Elon Musk post 480-499 tweets from November 20 to November 27, 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-11-22
+status: "settled"
+lastUpdated: 2026-11-23
 expiryDate: 2026-11-27
 tags: ["polymarket", "tech"]
 polymarketYes: 0.3

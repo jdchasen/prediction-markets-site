@@ -3,8 +3,8 @@ title: "Will Jensen Huang found a new company next?"
 description: "Will Jensen Huang found a new company next? Odds: 26.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jensen Huang found a new company next?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-22
+status: "settled"
+lastUpdated: 2026-11-23
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 26.5

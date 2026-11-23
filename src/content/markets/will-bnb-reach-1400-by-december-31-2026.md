@@ -4,7 +4,7 @@ description: "Will BNB reach $1400 by December 31, 2026? Odds: 1.8% YES on Polym
 marketQuestion: "Will BNB reach $1400 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1400-by-december-31-
 
 ### What are the current odds for "Will BNB reach $1400 by December 31, 2026?"?
 
-As of November 22, 2026, Polymarket prices YES at 1.8%.
+As of November 23, 2026, Polymarket prices YES at 1.8%.
 
 ### Where can I trade on this prediction market?
 

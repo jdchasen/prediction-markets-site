@@ -4,7 +4,7 @@ description: "Will Abigail Spanberger win the 2028 US Presidential Election? Odd
 marketQuestion: "Will Abigail Spanberger win the 2028 US Presidential Election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-22
+lastUpdated: 2026-11-23
 expiryDate: 2028-11-08
 tags: ["ai", "elections", "politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-abigail-spanberger-win-the-202
 
 ### What are the current odds for "Will Abigail Spanberger win the 2028 US Presidential Election?"?
 
-As of November 22, 2026, Polymarket prices YES at 0.1%.
+As of November 23, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

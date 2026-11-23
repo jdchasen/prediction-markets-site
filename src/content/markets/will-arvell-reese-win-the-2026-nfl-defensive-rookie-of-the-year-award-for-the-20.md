@@ -3,8 +3,8 @@ title: "Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award fo
 description: "Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award for the 2026-27 NFL season? Odds: 54.6% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will Arvell Reese win the 2026 NFL Defensive Rookie of the Year award for the 2026-27 NFL season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-11-22
+status: "settled"
+lastUpdated: 2026-11-23
 expiryDate: 2027-03-01
 tags: ["polymarket", "sports"]
 polymarketYes: 54.6
