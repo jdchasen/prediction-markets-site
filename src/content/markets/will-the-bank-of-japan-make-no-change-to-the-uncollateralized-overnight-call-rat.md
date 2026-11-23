@@ -3,7 +3,7 @@ title: "Will the Bank of Japan make no change to the uncollateralized overnight 
 description: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting? Odds: 83.0% YES on Polymarket. See live prices and ..."
 marketQuestion: "Will the Bank of Japan make no change to the uncollateralized overnight call rate at the January meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2027-01-22
 tags: ["economics", "polymarket"]

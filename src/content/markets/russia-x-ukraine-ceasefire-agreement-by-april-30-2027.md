@@ -3,7 +3,7 @@ title: "Russia x Ukraine ceasefire agreement by April 30, 2027?"
 description: "Russia x Ukraine ceasefire agreement by April 30, 2027? Odds: 41.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Russia x Ukraine ceasefire agreement by April 30, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2027-05-01
 tags: ["ai", "politics", "polymarket"]

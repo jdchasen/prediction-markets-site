@@ -21,6 +21,7 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-meets-with-putin-by-decem
 
 ## Related Markets
 
+- [Will Elon Musk post 1000+ tweets in November 2026?](/odds/will-elon-musk-post-1000-tweets-in-november-2026) — 100% YES
 - [Will Elon Musk get full custody of the St. Clair child?](/odds/will-elon-musk-get-full-custody-of-the-st-clair-child) — 2% YES
 
 ## Frequently Asked Questions

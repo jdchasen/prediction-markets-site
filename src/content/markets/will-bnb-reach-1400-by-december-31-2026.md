@@ -1,14 +1,14 @@
 ---
 title: "Will BNB reach $1400 by December 31, 2026?"
-description: "Will BNB reach $1400 by December 31, 2026? Odds: 1.8% YES on Polymarket. See live prices and trade this market."
+description: "Will BNB reach $1400 by December 31, 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will BNB reach $1400 by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 1.8
-polymarketNo: 98.2
+polymarketYes: 1.7
+polymarketNo: 98.3
 polymarketVolume: 9934
 polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1400-by-december-31-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-bnb-reach-1400-by-december-31-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 1.8% | 98.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.3% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 7% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will BNB reach $1400 by December 31, 2026?"?
 
-As of November 23, 2026, Polymarket prices YES at 1.8%.
+As of November 23, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

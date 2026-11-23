@@ -3,7 +3,7 @@ title: "Will the next US-Iran senior diplomatic meeting take place in Pakistan b
 description: "Will the next US-Iran senior diplomatic meeting take place in Pakistan by December 31, 2026? Odds: 1.9% YES on Polymarket. See live prices and trade this mar..."
 marketQuestion: "Will the next US-Iran senior diplomatic meeting take place in Pakistan by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

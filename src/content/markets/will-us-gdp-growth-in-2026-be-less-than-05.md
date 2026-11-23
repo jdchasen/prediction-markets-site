@@ -9,7 +9,7 @@ expiryDate: 2027-01-29
 tags: ["economics", "polymarket"]
 polymarketYes: 0.2
 polymarketNo: 99.8
-polymarketVolume: 9720
+polymarketVolume: 9725
 polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-less-than-0pt5"
 ---
 
@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-less-
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 6% YES
-- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 42% YES
+- [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
+- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 8% YES
 
 ## Frequently Asked Questions
 

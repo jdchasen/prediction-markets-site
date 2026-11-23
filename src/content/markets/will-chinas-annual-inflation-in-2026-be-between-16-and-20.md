@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will 1 Fed rate hike happen in 2026?](/odds/will-1-fed-rate-hike-happen-in-2026) — 6% YES
-- [Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?](/odds/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-) — 42% YES
+- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 8% YES
+- [Will the 2-year Treasury yield hit 5.20% before 2027?](/odds/will-the-2-year-treasury-yield-hit-520-before-2027) — 12% YES
 
 ## Frequently Asked Questions
 

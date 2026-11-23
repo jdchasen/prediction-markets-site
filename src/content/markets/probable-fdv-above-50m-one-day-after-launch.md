@@ -9,7 +9,7 @@ expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 11.0
 polymarketNo: 89.0
-polymarketVolume: 99586
+polymarketVolume: 99591
 polymarketUrl: "https://polymarket.com/event/probable-fdv-above-50m-one-day-after-launch"
 ---
 
@@ -21,8 +21,9 @@ polymarketUrl: "https://polymarket.com/event/probable-fdv-above-50m-one-day-afte
 
 ## Related Markets
 
-- [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 8% YES
+- [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 10% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
+- [Ethereal FDV above $500M one day after launch?](/odds/ethereal-fdv-above-500m-one-day-after-launch) — 15% YES
 
 ## Frequently Asked Questions
 

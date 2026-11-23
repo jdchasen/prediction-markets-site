@@ -3,7 +3,7 @@ title: "Will Google be the third-best Code Arena | WebDev AI lab at the end of N
 description: "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026? Odds: 18.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

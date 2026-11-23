@@ -3,7 +3,7 @@ title: "Will Real Madrid finish first in UCL league phase?"
 description: "Will Real Madrid finish first in UCL league phase? Odds: 26.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Real Madrid finish first in UCL league phase?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]

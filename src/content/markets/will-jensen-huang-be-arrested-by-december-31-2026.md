@@ -3,7 +3,7 @@ title: "Will Jensen Huang be arrested by December 31, 2026?"
 description: "Will Jensen Huang be arrested by December 31, 2026? Odds: 2.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jensen Huang be arrested by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

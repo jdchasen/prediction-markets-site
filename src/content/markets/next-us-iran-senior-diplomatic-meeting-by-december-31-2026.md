@@ -3,7 +3,7 @@ title: "Next US-Iran senior diplomatic meeting by December 31, 2026?"
 description: "Next US-Iran senior diplomatic meeting by December 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Next US-Iran senior diplomatic meeting by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

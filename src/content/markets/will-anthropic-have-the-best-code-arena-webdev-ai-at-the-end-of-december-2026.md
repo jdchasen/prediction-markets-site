@@ -3,7 +3,7 @@ title: "Will Anthropic have the best Code Arena | WebDev AI at the end of Decemb
 description: "Will Anthropic have the best Code Arena | WebDev AI at the end of December 2026? Odds: 78.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best Code Arena | WebDev AI at the end of December 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-23
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
