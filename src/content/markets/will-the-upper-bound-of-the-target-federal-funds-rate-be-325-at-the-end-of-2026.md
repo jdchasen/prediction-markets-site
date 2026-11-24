@@ -4,12 +4,12 @@ description: "Will the upper bound of the target federal funds rate be 3.25% at 
 marketQuestion: "Will the upper bound of the target federal funds rate be 3.25% at the end of 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-23
+lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 99512
+polymarketVolume: 99527
 polymarketUrl: "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-3pt25-at-the-end-of-2026-282"
 ---
 
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-the-upper-bound-of-the-target-
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 7% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the upper bound of the target federal funds rate be 3.25% at the end of 2026?"?
 
-As of November 23, 2026, Polymarket prices YES at 0.1%.
+As of November 24, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

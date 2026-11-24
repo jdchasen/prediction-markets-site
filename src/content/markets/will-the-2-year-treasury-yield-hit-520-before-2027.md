@@ -1,15 +1,15 @@
 ---
 title: "Will the 2-year Treasury yield hit 5.20% before 2027?"
-description: "Will the 2-year Treasury yield hit 5.20% before 2027? Odds: 12.3% YES on Polymarket. See live prices and trade this market."
+description: "Will the 2-year Treasury yield hit 5.20% before 2027? Odds: 13.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 2-year Treasury yield hit 5.20% before 2027?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-23
+lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["economics", "polymarket"]
-polymarketYes: 12.3
-polymarketNo: 87.7
-polymarketVolume: 9838
+polymarketYes: 13.4
+polymarketNo: 86.6
+polymarketVolume: 9905
 polymarketUrl: "https://polymarket.com/event/will-the-2-year-treasury-yield-hit-5pt20-before-2027"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-2-year-treasury-yield-hit-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.3% | 87.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.4% | 86.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-2-year-treasury-yield-hit-
 
 ### What are the current odds for "Will the 2-year Treasury yield hit 5.20% before 2027?"?
 
-As of November 23, 2026, Polymarket prices YES at 12.3%.
+As of November 24, 2026, Polymarket prices YES at 13.4%.
 
 ### Where can I trade on this prediction market?
 

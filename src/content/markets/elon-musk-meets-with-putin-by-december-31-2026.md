@@ -3,8 +3,8 @@ title: "Elon Musk meets with Putin by December 31, 2026?"
 description: "Elon Musk meets with Putin by December 31, 2026? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Elon Musk meets with Putin by December 31, 2026?"
 category: "tech"
-status: "active"
-lastUpdated: 2026-11-23
+status: "settled"
+lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["polymarket", "tech"]
 polymarketYes: 3.5

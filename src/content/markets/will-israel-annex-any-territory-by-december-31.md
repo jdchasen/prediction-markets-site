@@ -4,7 +4,7 @@ description: "Will Israel annex any territory by December 31? Odds: 3.5% YES on 
 marketQuestion: "Will Israel annex any territory by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-23
+lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 3.5
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-israel-annex-any-territory-by-
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 7% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Israel annex any territory by December 31?"?
 
-As of November 23, 2026, Polymarket prices YES at 3.5%.
+As of November 24, 2026, Polymarket prices YES at 3.5%.
 
 ### Where can I trade on this prediction market?
 

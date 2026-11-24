@@ -3,8 +3,8 @@ title: "Will the Fed hike-pause-hike in the next three decisions (Dec-Jan-Mar)?"
 description: "Will the Fed hike-pause-hike in the next three decisions (Dec-Jan-Mar)? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed hike-pause-hike in the next three decisions (Dec-Jan-Mar)?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-23
+status: "settled"
+lastUpdated: 2026-11-24
 expiryDate: 2027-03-17
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 22.0

@@ -3,8 +3,8 @@ title: "Will Tottenham finish in the top 4 of the 2026-27 English Premier League
 description: "Will Tottenham finish in the top 4 of the 2026-27 English Premier League season? Odds: 23.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tottenham finish in the top 4 of the 2026-27 English Premier League season?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-11-23
+status: "settled"
+lastUpdated: 2026-11-24
 expiryDate: 2027-05-30
 tags: ["polymarket", "sports"]
 polymarketYes: 23.9

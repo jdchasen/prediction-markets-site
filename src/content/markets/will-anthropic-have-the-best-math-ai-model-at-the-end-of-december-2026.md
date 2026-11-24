@@ -1,14 +1,14 @@
 ---
 title: "Will Anthropic have the best Math AI model at the end of December 2026?"
-description: "Will Anthropic have the best Math AI model at the end of December 2026? Odds: 22.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Anthropic have the best Math AI model at the end of December 2026? Odds: 23.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Anthropic have the best Math AI model at the end of December 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-23
+lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 22.5
-polymarketNo: 77.5
+polymarketYes: 23.0
+polymarketNo: 77.0
 polymarketVolume: 9958
 polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-math-ai-model-at-the-end-of-december-2026"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-anthropic-have-the-best-math-a
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 22.5% | 77.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 23.0% | 77.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 7% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Anthropic have the best Math AI model at the end of December 2026?"?
 
-As of November 23, 2026, Polymarket prices YES at 22.5%.
+As of November 24, 2026, Polymarket prices YES at 23.0%.
 
 ### Where can I trade on this prediction market?
 

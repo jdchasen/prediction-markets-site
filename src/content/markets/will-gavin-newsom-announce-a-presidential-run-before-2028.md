@@ -4,7 +4,7 @@ description: "Will Gavin Newsom announce a Presidential run before 2028? Odds: 7
 marketQuestion: "Will Gavin Newsom announce a Presidential run before 2028?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-23
+lastUpdated: 2026-11-24
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 79.0
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-gavin-newsom-announce-a-presid
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 7% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Gavin Newsom announce a Presidential run before 2028?"?
 
-As of November 23, 2026, Polymarket prices YES at 79.0%.
+As of November 24, 2026, Polymarket prices YES at 79.0%.
 
 ### Where can I trade on this prediction market?
 

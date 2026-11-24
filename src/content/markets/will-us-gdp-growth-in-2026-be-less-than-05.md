@@ -4,7 +4,7 @@ description: "Will US GDP growth in 2026 be less than 0.5%? Odds: 0.2% YES on Po
 marketQuestion: "Will US GDP growth in 2026 be less than 0.5%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-23
+lastUpdated: 2026-11-24
 expiryDate: 2027-01-29
 tags: ["economics", "polymarket"]
 polymarketYes: 0.2
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-less-
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
 - [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 8% YES
+- [Will the 2-year Treasury yield hit 5.20% before 2027?](/odds/will-the-2-year-treasury-yield-hit-520-before-2027) — 13% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will US GDP growth in 2026 be less than 0.5%?"?
 
-As of November 23, 2026, Polymarket prices YES at 0.2%.
+As of November 24, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 
