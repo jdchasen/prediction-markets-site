@@ -1,15 +1,15 @@
 ---
 title: "Will S&P 500 (SPX) hit $6,200 (LOW) in December?"
-description: "Will S&P 500 (SPX) hit $6,200 (LOW) in December? Odds: 13.7% YES on Polymarket. See live prices and trade this market."
+description: "Will S&P 500 (SPX) hit $6,200 (LOW) in December? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $6,200 (LOW) in December?"
 category: "finance"
 status: "active"
 lastUpdated: 2026-11-24
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]
-polymarketYes: 13.7
-polymarketNo: 86.4
-polymarketVolume: 99953
+polymarketYes: 14.9
+polymarketNo: 85.1
+polymarketVolume: 99981
 polymarketUrl: "https://polymarket.com/event/spx-hit-6200-low-dec-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/spx-hit-6200-low-dec-2026"
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.7% | 86.4% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 14.9% | 85.1% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/spx-hit-6200-low-dec-2026"
 
 ### What are the current odds for "Will S&P 500 (SPX) hit $6,200 (LOW) in December?"?
 
-As of November 24, 2026, Polymarket prices YES at 13.7%.
+As of November 24, 2026, Polymarket prices YES at 14.9%.
 
 ### Where can I trade on this prediction market?
 

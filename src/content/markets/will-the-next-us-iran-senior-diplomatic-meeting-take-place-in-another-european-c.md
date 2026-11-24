@@ -3,7 +3,7 @@ title: "Will the next US-Iran senior diplomatic meeting take place in another Eu
 description: "Will the next US-Iran senior diplomatic meeting take place in another European country by December 31, 2026? Odds: 1.1% YES on Polymarket. See live prices an..."
 marketQuestion: "Will the next US-Iran senior diplomatic meeting take place in another European country by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

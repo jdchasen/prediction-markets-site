@@ -1,14 +1,14 @@
 ---
 title: "Ethereal FDV above $500M one day after launch?"
-description: "Ethereal FDV above $500M one day after launch? Odds: 15.1% YES on Polymarket. See live prices and trade this market."
+description: "Ethereal FDV above $500M one day after launch? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ethereal FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-24
 expiryDate: 2028-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 15.1
-polymarketNo: 84.9
+polymarketYes: 13.6
+polymarketNo: 86.4
 polymarketVolume: 9923
 polymarketUrl: "https://polymarket.com/event/ethereal-fdv-above-500m-one-day-after-launch-597-871"
 ---
@@ -17,11 +17,11 @@ polymarketUrl: "https://polymarket.com/event/ethereal-fdv-above-500m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.1% | 84.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.6% | 86.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 12% YES
+- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 - [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 10% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ethereal-fdv-above-500m-one-day-aft
 
 ### What are the current odds for "Ethereal FDV above $500M one day after launch?"?
 
-As of November 24, 2026, Polymarket prices YES at 15.1%.
+As of November 24, 2026, Polymarket prices YES at 13.6%.
 
 ### Where can I trade on this prediction market?
 

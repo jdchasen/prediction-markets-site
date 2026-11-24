@@ -1,14 +1,14 @@
 ---
 title: "Printr FDV above $800M one day after launch?"
-description: "Printr FDV above $800M one day after launch? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Printr FDV above $800M one day after launch? Odds: 9.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Printr FDV above $800M one day after launch?"
 category: "crypto"
 status: "active"
 lastUpdated: 2026-11-24
 expiryDate: 2028-01-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.2
+polymarketYes: 9.2
+polymarketNo: 90.8
 polymarketVolume: 9950
 polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after-launch"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 9.2% | 90.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
-- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 12% YES
+- [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 - [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 10% YES
-- [Ethereal FDV above $500M one day after launch?](/odds/ethereal-fdv-above-500m-one-day-after-launch) — 15% YES
+- [Ethereal FDV above $500M one day after launch?](/odds/ethereal-fdv-above-500m-one-day-after-launch) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Printr FDV above $800M one day after launch?"?
 
-As of November 24, 2026, Polymarket prices YES at 8.8%.
+As of November 24, 2026, Polymarket prices YES at 9.2%.
 
 ### Where can I trade on this prediction market?
 

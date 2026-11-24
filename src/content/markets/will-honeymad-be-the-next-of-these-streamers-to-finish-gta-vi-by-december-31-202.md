@@ -3,7 +3,7 @@ title: "Will HoneyMad be the next of these streamers to finish GTA VI by Decembe
 description: "Will HoneyMad be the next of these streamers to finish GTA VI by December 31, 2026? Odds: 100.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will HoneyMad be the next of these streamers to finish GTA VI by December 31, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

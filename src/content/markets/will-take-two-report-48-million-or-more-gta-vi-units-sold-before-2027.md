@@ -3,7 +3,7 @@ title: "Will Take-Two report 48 million or more GTA VI units sold before 2027?"
 description: "Will Take-Two report 48 million or more GTA VI units sold before 2027? Odds: 55.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Take-Two report 48 million or more GTA VI units sold before 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]

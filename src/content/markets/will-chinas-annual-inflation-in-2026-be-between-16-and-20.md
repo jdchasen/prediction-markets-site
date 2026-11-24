@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 
 ## Related Markets
 
+- [Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting) — 2% YES
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will the 2-year Treasury yield hit 5.20% before 2027?](/odds/will-the-2-year-treasury-yield-hit-520-before-2027) — 13% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 8% YES
+- [Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-january-2027-meeting) — 1% YES
 
 ## Frequently Asked Questions
 

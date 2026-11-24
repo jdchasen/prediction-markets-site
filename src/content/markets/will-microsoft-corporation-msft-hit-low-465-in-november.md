@@ -3,7 +3,7 @@ title: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"
 description: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November? Odds: 32.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-24
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]

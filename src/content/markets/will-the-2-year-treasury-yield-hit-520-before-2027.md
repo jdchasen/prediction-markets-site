@@ -1,14 +1,14 @@
 ---
 title: "Will the 2-year Treasury yield hit 5.20% before 2027?"
-description: "Will the 2-year Treasury yield hit 5.20% before 2027? Odds: 13.4% YES on Polymarket. See live prices and trade this market."
+description: "Will the 2-year Treasury yield hit 5.20% before 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 2-year Treasury yield hit 5.20% before 2027?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-24
 expiryDate: 2027-01-01
 tags: ["economics", "polymarket"]
-polymarketYes: 13.4
-polymarketNo: 86.6
+polymarketYes: 12.5
+polymarketNo: 87.5
 polymarketVolume: 9905
 polymarketUrl: "https://polymarket.com/event/will-the-2-year-treasury-yield-hit-5pt20-before-2027"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-the-2-year-treasury-yield-hit-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.4% | 86.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
+- [Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?](/odds/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting) — 2% YES
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
-- [Will Canada have the highest unemployment rate since 2016 this year?](/odds/will-canada-have-the-highest-unemployment-rate-since-2016-this-year) — 8% YES
+- [Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-january-2027-meeting) — 1% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will the 2-year Treasury yield hit 5.20% before 2027?"?
 
-As of November 24, 2026, Polymarket prices YES at 13.4%.
+As of November 24, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

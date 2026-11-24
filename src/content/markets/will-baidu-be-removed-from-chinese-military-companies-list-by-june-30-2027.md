@@ -1,14 +1,14 @@
 ---
 title: "Will Baidu be removed from Chinese Military Companies list by June 30, 2027?"
-description: "Will Baidu be removed from Chinese Military Companies list by June 30, 2027? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Baidu be removed from Chinese Military Companies list by June 30, 2027? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Baidu be removed from Chinese Military Companies list by June 30, 2027?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-24
 expiryDate: 2027-07-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 12.0
-polymarketNo: 88.0
+polymarketYes: 12.5
+polymarketNo: 87.5
 polymarketVolume: 99030
 polymarketUrl: "https://polymarket.com/event/will-baidu-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230558"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-baidu-be-removed-from-chinese-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 12.0% | 88.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-baidu-be-removed-from-chinese-
 
 ### What are the current odds for "Will Baidu be removed from Chinese Military Companies list by June 30, 2027?"?
 
-As of November 24, 2026, Polymarket prices YES at 12.0%.
+As of November 24, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

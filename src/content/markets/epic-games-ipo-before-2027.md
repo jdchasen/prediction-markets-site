@@ -21,7 +21,7 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 
 ## Related Markets
 
-- [Will S&P 500 (SPX) hit $6,200 (LOW) in December?](/odds/will-sp-500-spx-hit-6200-low-in-december) — 14% YES
+- [Will S&P 500 (SPX) hit $6,200 (LOW) in December?](/odds/will-sp-500-spx-hit-6200-low-in-december) — 15% YES
 
 ## Frequently Asked Questions
 

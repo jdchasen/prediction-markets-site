@@ -3,7 +3,7 @@ title: "Will Hyperliquid hit $100 by September 30, 2027?"
 description: "Will Hyperliquid hit $100 by September 30, 2027? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Hyperliquid hit $100 by September 30, 2027?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-24
 expiryDate: 2027-10-01
 tags: ["politics", "polymarket"]
