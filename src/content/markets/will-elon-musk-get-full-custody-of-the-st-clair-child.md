@@ -21,7 +21,6 @@ polymarketUrl: "https://polymarket.com/event/will-elon-musk-get-full-custody-of-
 
 ## Related Markets
 
-- [Will Elon Musk post 1000+ tweets in November 2026?](/odds/will-elon-musk-post-1000-tweets-in-november-2026) — 100% YES
 - [Will Elon Musk post 60-79 tweets from November 24 to December 1, 2026?](/odds/will-elon-musk-post-60-79-tweets-from-november-24-to-december-1-2026) — 0% YES
 
 ## Frequently Asked Questions

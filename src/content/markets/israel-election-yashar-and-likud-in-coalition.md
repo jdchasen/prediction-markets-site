@@ -1,15 +1,15 @@
 ---
 title: "Israel Election: Yashar and Likud in coalition?"
-description: "Israel Election: Yashar and Likud in coalition? Odds: 24.0% YES on Polymarket. See live prices and trade this market."
+description: "Israel Election: Yashar and Likud in coalition? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel Election: Yashar and Likud in coalition?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-25
 expiryDate: 2028-01-01
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 24.0
-polymarketNo: 76.0
-polymarketVolume: 9944
+polymarketYes: 18.0
+polymarketNo: 82.0
+polymarketVolume: 9967
 polymarketUrl: "https://polymarket.com/event/israel-election-yashar-and-likud-in-coalition"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/israel-election-yashar-and-likud-in
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 24.0% | 76.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.0% | 82.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/israel-election-yashar-and-likud-in
 
 ### What are the current odds for "Israel Election: Yashar and Likud in coalition?"?
 
-As of November 25, 2026, Polymarket prices YES at 24.0%.
+As of November 25, 2026, Polymarket prices YES at 18.0%.
 
 ### Where can I trade on this prediction market?
 

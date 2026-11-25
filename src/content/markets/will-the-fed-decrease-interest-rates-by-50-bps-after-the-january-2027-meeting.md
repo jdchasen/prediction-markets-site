@@ -3,7 +3,7 @@ title: "Will the Fed decrease interest rates by 50+ bps after the January 2027 m
 description: "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2027-01-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]

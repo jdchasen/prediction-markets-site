@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 - [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 10% YES
-- [Ethereal FDV above $500M one day after launch?](/odds/ethereal-fdv-above-500m-one-day-after-launch) — 13% YES
+- [Will Bitcoin reach $74,000 November 23-29?](/odds/will-bitcoin-reach-74000-november-23-29) — 0% YES
 
 ## Frequently Asked Questions
 

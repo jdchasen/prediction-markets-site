@@ -3,7 +3,7 @@ title: "Will Vox win the third-most seats in the 2026 Spanish general election?"
 description: "Will Vox win the third-most seats in the 2026 Spanish general election? Odds: 98.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Vox win the third-most seats in the 2026 Spanish general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]

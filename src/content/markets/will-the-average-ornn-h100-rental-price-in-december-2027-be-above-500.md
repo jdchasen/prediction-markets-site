@@ -1,14 +1,14 @@
 ---
 title: "Will the average Ornn H100 rental price in December 2027 be above $5.00?"
-description: "Will the average Ornn H100 rental price in December 2027 be above $5.00? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
+description: "Will the average Ornn H100 rental price in December 2027 be above $5.00? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the average Ornn H100 rental price in December 2027 be above $5.00?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-25
 expiryDate: 2028-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 15.5
-polymarketNo: 84.5
+polymarketYes: 16.5
+polymarketNo: 83.5
 polymarketVolume: 9958
 polymarketUrl: "https://polymarket.com/event/h100-average-rental-price-in-december-2027-above-5pt00"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/h100-average-rental-price-in-decemb
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 15.5% | 84.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 16.5% | 83.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/h100-average-rental-price-in-decemb
 
 ### What are the current odds for "Will the average Ornn H100 rental price in December 2027 be above $5.00?"?
 
-As of November 25, 2026, Polymarket prices YES at 15.5%.
+As of November 25, 2026, Polymarket prices YES at 16.5%.
 
 ### Where can I trade on this prediction market?
 

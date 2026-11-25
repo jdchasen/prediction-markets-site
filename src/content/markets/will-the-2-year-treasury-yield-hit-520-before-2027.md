@@ -3,7 +3,7 @@ title: "Will the 2-year Treasury yield hit 5.20% before 2027?"
 description: "Will the 2-year Treasury yield hit 5.20% before 2027? Odds: 12.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the 2-year Treasury yield hit 5.20% before 2027?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2027-01-01
 tags: ["economics", "polymarket"]

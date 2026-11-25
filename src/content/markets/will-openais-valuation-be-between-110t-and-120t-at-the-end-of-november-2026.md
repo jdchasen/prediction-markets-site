@@ -3,7 +3,7 @@ title: "Will OpenAI’s valuation be between $1.10T and $1.20T at the end of Nov
 description: "Will OpenAI’s valuation be between $1.10T and $1.20T at the end of November 2026? Odds: 39.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI’s valuation be between $1.10T and $1.20T at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2026-11-30
 tags: ["ai", "politics", "polymarket"]

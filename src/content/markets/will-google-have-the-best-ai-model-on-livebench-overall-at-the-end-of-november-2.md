@@ -3,7 +3,7 @@ title: "Will Google have the best AI model on LiveBench (Overall) at the end of 
 description: "Will Google have the best AI model on LiveBench (Overall) at the end of November 2026? Odds: 95.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Google have the best AI model on LiveBench (Overall) at the end of November 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]

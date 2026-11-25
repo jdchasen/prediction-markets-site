@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-ethereum-hit-6k-by-september-3
 
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 - [Printr FDV above $800M one day after launch?](/odds/printr-fdv-above-800m-one-day-after-launch) — 9% YES
-- [Ethereal FDV above $500M one day after launch?](/odds/ethereal-fdv-above-500m-one-day-after-launch) — 13% YES
+- [Will Bitcoin reach $74,000 November 23-29?](/odds/will-bitcoin-reach-74000-november-23-29) — 0% YES
 
 ## Frequently Asked Questions
 

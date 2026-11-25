@@ -3,7 +3,7 @@ title: "Will the Pittsburgh Steelers make the 2027 NFL Playoffs?"
 description: "Will the Pittsburgh Steelers make the 2027 NFL Playoffs? Odds: 59.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Pittsburgh Steelers make the 2027 NFL Playoffs?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2027-01-05
 tags: ["polymarket", "sports"]

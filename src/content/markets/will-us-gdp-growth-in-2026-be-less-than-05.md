@@ -3,7 +3,7 @@ title: "Will US GDP growth in 2026 be less than 0.5%?"
 description: "Will US GDP growth in 2026 be less than 0.5%? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will US GDP growth in 2026 be less than 0.5%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2027-01-29
 tags: ["economics", "polymarket"]

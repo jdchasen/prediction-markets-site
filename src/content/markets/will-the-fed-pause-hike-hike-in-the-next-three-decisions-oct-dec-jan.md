@@ -3,7 +3,7 @@ title: "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?"
 description: "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)? Odds: 53.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-25
 expiryDate: 2027-01-27
 tags: ["federal-reserve", "politics", "polymarket"]
