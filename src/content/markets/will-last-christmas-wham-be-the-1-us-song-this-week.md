@@ -3,8 +3,8 @@ title: "Will \"Last Christmas - Wham!\" be the #1 US song this week?"
 description: "Will \"Last Christmas - Wham!\" be the #1 US song this week? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"Last Christmas - Wham!\" be the #1 US song this week?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-24
+status: "settled"
+lastUpdated: 2026-11-25
 expiryDate: 2026-11-27
 tags: ["politics", "polymarket"]
 polymarketYes: 0.7

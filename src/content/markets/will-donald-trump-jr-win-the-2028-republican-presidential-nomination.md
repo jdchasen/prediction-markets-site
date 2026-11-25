@@ -4,12 +4,12 @@ description: "Will Donald Trump Jr. win the 2028 Republican presidential nominat
 marketQuestion: "Will Donald Trump Jr. win the 2028 Republican presidential nomination?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2028-11-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9933959
+polymarketVolume: 9935059
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-r
 
 ### What are the current odds for "Will Donald Trump Jr. win the 2028 Republican presidential nomination?"?
 
-As of November 24, 2026, Polymarket prices YES at 0.9%.
+As of November 25, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 

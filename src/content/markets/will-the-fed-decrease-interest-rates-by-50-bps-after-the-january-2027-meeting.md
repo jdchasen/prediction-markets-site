@@ -1,15 +1,15 @@
 ---
 title: "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?"
-description: "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting? Odds: 0.7% YES on Polymarket. See live prices and trade this market."
+description: "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting? Odds: 0.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-01-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
-polymarketYes: 0.7
-polymarketNo: 99.4
-polymarketVolume: 979031
+polymarketYes: 0.8
+polymarketNo: 99.2
+polymarketVolume: 981540
 polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-january-2027-meeting-20260729233815503"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.7% | 99.4% | $979K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.8% | 99.2% | $982K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-decrease-interest-rate
 
 ### What are the current odds for "Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?"?
 
-As of November 24, 2026, Polymarket prices YES at 0.7%.
+As of November 25, 2026, Polymarket prices YES at 0.8%.
 
 ### Where can I trade on this prediction market?
 

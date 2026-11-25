@@ -1,15 +1,15 @@
 ---
 title: "Will Ursula von der Leyen visit Ukraine by December 31, 2026?"
-description: "Will Ursula von der Leyen visit Ukraine by December 31, 2026? Odds: 16.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Ursula von der Leyen visit Ukraine by December 31, 2026? Odds: 18.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ursula von der Leyen visit Ukraine by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 16.5
-polymarketNo: 83.5
-polymarketVolume: 99443
+polymarketYes: 18.5
+polymarketNo: 81.5
+polymarketVolume: 99918
 polymarketUrl: "https://polymarket.com/event/will-ursula-von-der-leyen-visit-ukraine-by-december-31-2026-20260729210126046"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ursula-von-der-leyen-visit-ukr
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 16.5% | 83.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 18.5% | 81.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ursula-von-der-leyen-visit-ukr
 
 ### What are the current odds for "Will Ursula von der Leyen visit Ukraine by December 31, 2026?"?
 
-As of November 24, 2026, Polymarket prices YES at 16.5%.
+As of November 25, 2026, Polymarket prices YES at 18.5%.
 
 ### Where can I trade on this prediction market?
 

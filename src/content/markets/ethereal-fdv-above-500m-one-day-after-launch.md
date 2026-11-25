@@ -1,14 +1,14 @@
 ---
 title: "Ethereal FDV above $500M one day after launch?"
-description: "Ethereal FDV above $500M one day after launch? Odds: 13.6% YES on Polymarket. See live prices and trade this market."
+description: "Ethereal FDV above $500M one day after launch? Odds: 13.1% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Ethereal FDV above $500M one day after launch?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2028-01-01
 tags: ["crypto", "ethereum", "polymarket"]
-polymarketYes: 13.6
-polymarketNo: 86.4
+polymarketYes: 13.1
+polymarketNo: 86.9
 polymarketVolume: 9923
 polymarketUrl: "https://polymarket.com/event/ethereal-fdv-above-500m-one-day-after-launch-597-871"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/ethereal-fdv-above-500m-one-day-aft
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.6% | 86.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 13.1% | 86.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/ethereal-fdv-above-500m-one-day-aft
 
 ### What are the current odds for "Ethereal FDV above $500M one day after launch?"?
 
-As of November 24, 2026, Polymarket prices YES at 13.6%.
+As of November 25, 2026, Polymarket prices YES at 13.1%.
 
 ### Where can I trade on this prediction market?
 

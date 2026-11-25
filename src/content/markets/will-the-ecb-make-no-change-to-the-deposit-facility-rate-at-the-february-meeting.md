@@ -4,7 +4,7 @@ description: "Will the ECB make no change to the deposit facility rate at the Fe
 marketQuestion: "Will the ECB make no change to the deposit facility rate at the February meeting?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-02-04
 tags: ["politics", "polymarket"]
 polymarketYes: 82.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-ecb-make-no-change-to-the-
 
 ### What are the current odds for "Will the ECB make no change to the deposit facility rate at the February meeting?"?
 
-As of November 24, 2026, Polymarket prices YES at 82.5%.
+As of November 25, 2026, Polymarket prices YES at 82.5%.
 
 ### Where can I trade on this prediction market?
 

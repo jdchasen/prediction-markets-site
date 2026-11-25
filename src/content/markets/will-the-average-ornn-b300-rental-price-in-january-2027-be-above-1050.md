@@ -4,7 +4,7 @@ description: "Will the average Ornn B300 rental price in January 2027 be above $
 marketQuestion: "Will the average Ornn B300 rental price in January 2027 be above $10.50?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-02-01
 tags: ["politics", "polymarket"]
 polymarketYes: 67.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/b300-average-rental-price-in-januar
 
 ### What are the current odds for "Will the average Ornn B300 rental price in January 2027 be above $10.50?"?
 
-As of November 24, 2026, Polymarket prices YES at 67.5%.
+As of November 25, 2026, Polymarket prices YES at 67.5%.
 
 ### Where can I trade on this prediction market?
 

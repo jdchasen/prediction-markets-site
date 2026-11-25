@@ -4,7 +4,7 @@ description: "Will Elon Musk post 1000+ tweets in November 2026? Odds: 99.8% YES
 marketQuestion: "Will Elon Musk post 1000+ tweets in November 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2026-12-01
 tags: ["polymarket", "tech"]
 polymarketYes: 99.8
@@ -21,13 +21,14 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-november-2026-1
 
 ## Related Markets
 
+- [Will Elon Musk post 60-79 tweets from November 24 to December 1, 2026?](/odds/will-elon-musk-post-60-79-tweets-from-november-24-to-december-1-2026) — 0% YES
 - [Will Elon Musk get full custody of the St. Clair child?](/odds/will-elon-musk-get-full-custody-of-the-st-clair-child) — 2% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Elon Musk post 1000+ tweets in November 2026?"?
 
-As of November 24, 2026, Polymarket prices YES at 99.8%.
+As of November 25, 2026, Polymarket prices YES at 99.8%.
 
 ### Where can I trade on this prediction market?
 

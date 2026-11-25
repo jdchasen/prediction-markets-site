@@ -3,8 +3,8 @@ title: "Florianopolis: Wilson Leite vs Javier Barranco Cosano"
 description: "Florianopolis: Wilson Leite vs Javier Barranco Cosano Odds: 1.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Florianopolis: Wilson Leite vs Javier Barranco Cosano"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-24
+status: "settled"
+lastUpdated: 2026-11-25
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.8

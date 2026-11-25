@@ -4,7 +4,7 @@ description: "Will GTE launch a token by June 30, 2027? Odds: 28.0% YES on Polym
 marketQuestion: "Will GTE launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 28.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-gte-launch-a-token-by-june-30-
 
 ### What are the current odds for "Will GTE launch a token by June 30, 2027?"?
 
-As of November 24, 2026, Polymarket prices YES at 28.0%.
+As of November 25, 2026, Polymarket prices YES at 28.0%.
 
 ### Where can I trade on this prediction market?
 

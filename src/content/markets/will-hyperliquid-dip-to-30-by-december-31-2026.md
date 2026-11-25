@@ -4,7 +4,7 @@ description: "Will Hyperliquid dip to $30 by December 31, 2026? Odds: 5.8% YES o
 marketQuestion: "Will Hyperliquid dip to $30 by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 5.8
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-hyperliquid-dip-to-30-by-decem
 
 ### What are the current odds for "Will Hyperliquid dip to $30 by December 31, 2026?"?
 
-As of November 24, 2026, Polymarket prices YES at 5.8%.
+As of November 25, 2026, Polymarket prices YES at 5.8%.
 
 ### Where can I trade on this prediction market?
 

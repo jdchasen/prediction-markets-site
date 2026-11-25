@@ -4,7 +4,7 @@ description: "Will the next US-Iran senior diplomatic meeting take place in Ital
 marketQuestion: "Will the next US-Iran senior diplomatic meeting take place in Italy by December 31, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ### What are the current odds for "Will the next US-Iran senior diplomatic meeting take place in Italy by December 31, 2026?"?
 
-As of November 24, 2026, Polymarket prices YES at 0.1%.
+As of November 25, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?"
-description: "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season? Odds: 44.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]
-polymarketYes: 44.5
-polymarketNo: 55.5
+polymarketYes: 40.5
+polymarketNo: 59.5
 polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/josh-downs-1000-receiving-yards-2026-27"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/josh-downs-1000-receiving-yards-202
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 44.5% | 55.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.5% | 59.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Adam Hamilton win the 2028 Democratic presidential nomination?](/odds/will-adam-hamilton-win-the-2028-democratic-presidential-nomination) — 0% YES
-- [Will the Pittsburgh Steelers make the 2027 NFL Playoffs?](/odds/will-the-pittsburgh-steelers-make-the-2027-nfl-playoffs) — 58% YES
+- [Will the Pittsburgh Steelers make the 2027 NFL Playoffs?](/odds/will-the-pittsburgh-steelers-make-the-2027-nfl-playoffs) — 59% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?"?
 
-As of November 24, 2026, Polymarket prices YES at 44.5%.
+As of November 25, 2026, Polymarket prices YES at 40.5%.
 
 ### Where can I trade on this prediction market?
 

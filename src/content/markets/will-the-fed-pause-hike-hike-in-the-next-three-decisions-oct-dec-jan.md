@@ -4,11 +4,11 @@ description: "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-
 marketQuestion: "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-24
+lastUpdated: 2026-11-25
 expiryDate: 2027-01-27
 tags: ["federal-reserve", "politics", "polymarket"]
 polymarketYes: 53.0
-polymarketNo: 47.0
+polymarketNo: 46.9
 polymarketVolume: 99200
 polymarketUrl: "https://polymarket.com/event/will-the-fed-pausehikehike-in-the-next-three-decisions-octdecjan"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-pausehikehike-in-the-n
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 53.0% | 47.0% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 53.0% | 46.9% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-fed-pausehikehike-in-the-n
 
 ### What are the current odds for "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?"?
 
-As of November 24, 2026, Polymarket prices YES at 53.0%.
+As of November 25, 2026, Polymarket prices YES at 53.0%.
 
 ### Where can I trade on this prediction market?
 

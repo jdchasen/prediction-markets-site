@@ -3,8 +3,8 @@ title: "Will S&P 500 (SPX) hit $6,200 (LOW) in December?"
 description: "Will S&P 500 (SPX) hit $6,200 (LOW) in December? Odds: 14.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will S&P 500 (SPX) hit $6,200 (LOW) in December?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-11-24
+status: "settled"
+lastUpdated: 2026-11-25
 expiryDate: 2026-12-31
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 14.9

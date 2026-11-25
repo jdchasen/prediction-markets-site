@@ -3,8 +3,8 @@ title: "Will \"The Debut\" be nominated for Best Casting at the 99th Academy Awa
 description: "Will \"The Debut\" be nominated for Best Casting at the 99th Academy Awards? Odds: 57.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will \"The Debut\" be nominated for Best Casting at the 99th Academy Awards?"
 category: "entertainment"
-status: "active"
-lastUpdated: 2026-11-24
+status: "settled"
+lastUpdated: 2026-11-25
 expiryDate: 2027-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 57.5
