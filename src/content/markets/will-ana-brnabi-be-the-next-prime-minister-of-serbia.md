@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-ana-brnabic-be-the-next-prime-
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 

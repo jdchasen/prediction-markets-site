@@ -21,9 +21,8 @@ polymarketUrl: "https://polymarket.com/event/will-adam-hamilton-win-the-2028-dem
 
 ## Related Markets
 
-- [Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?](/odds/will-josh-downs-have-1000-receiving-yards-in-the-2026-27-nfl-regular-season) — 40% YES
+- [Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?](/odds/will-josh-downs-have-1000-receiving-yards-in-the-2026-27-nfl-regular-season) — 10% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
-- [Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most rushing touchdowns?](/odds/will-jahmyr-gibbs-finish-the-2026-27-nfl-regular-season-with-the-most-rushing-to) — 70% YES
 
 ## Frequently Asked Questions
 

@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-argentinas-annual-inflation-in
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
+- [Will the November 2026 unemployment rate be 4.1%?](/odds/will-the-november-2026-unemployment-rate-be-41) — 38% YES
 - [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
-- [Will Canada’s November 2026 unemployment rate be 6.7%?](/odds/will-canadas-november-2026-unemployment-rate-be-67) — 20% YES
 
 ## Frequently Asked Questions
 

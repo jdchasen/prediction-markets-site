@@ -3,7 +3,7 @@ title: "Will PSOE win the second-most seats in the 2026 Spanish general election
 description: "Will PSOE win the second-most seats in the 2026 Spanish general election? Odds: 73.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will PSOE win the second-most seats in the 2026 Spanish general election?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-26
 expiryDate: 2026-11-30
 tags: ["elections", "politics", "polymarket"]

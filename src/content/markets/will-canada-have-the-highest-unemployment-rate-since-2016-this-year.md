@@ -1,14 +1,14 @@
 ---
 title: "Will Canada have the highest unemployment rate since 2016 this year?"
-description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 8.8% YES on Polymarket. See live prices and trade this market."
+description: "Will Canada have the highest unemployment rate since 2016 this year? Odds: 8.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada have the highest unemployment rate since 2016 this year?"
 category: "economics"
 status: "active"
 lastUpdated: 2026-11-26
 expiryDate: 2027-02-16
 tags: ["economics", "polymarket"]
-polymarketYes: 8.8
-polymarketNo: 91.2
+polymarketYes: 8.3
+polymarketNo: 91.6
 polymarketVolume: 9841
 polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unemployment-rate-since-2016-this-year"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-canada-have-the-highest-unempl
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.8% | 91.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.3% | 91.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
+- [Will the November 2026 unemployment rate be 4.1%?](/odds/will-the-november-2026-unemployment-rate-be-41) — 38% YES
 - [Will China's annual inflation in 2026 be between 1.6% and 2.0%?](/odds/will-chinas-annual-inflation-in-2026-be-between-16-and-20) — 1% YES
-- [Will Canada’s November 2026 unemployment rate be 6.7%?](/odds/will-canadas-november-2026-unemployment-rate-be-67) — 20% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Canada have the highest unemployment rate since 2016 this year?"?
 
-As of November 26, 2026, Polymarket prices YES at 8.8%.
+As of November 26, 2026, Polymarket prices YES at 8.3%.
 
 ### Where can I trade on this prediction market?
 

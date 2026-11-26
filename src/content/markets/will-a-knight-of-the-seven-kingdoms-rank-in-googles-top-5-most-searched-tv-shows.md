@@ -3,7 +3,7 @@ title: "Will A Knight of the Seven Kingdoms rank in Google’s Top 5 Most Search
 description: "Will A Knight of the Seven Kingdoms rank in Google’s Top 5 Most Searched TV Shows of 2026? Odds: 44.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will A Knight of the Seven Kingdoms rank in Google’s Top 5 Most Searched TV Shows of 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]

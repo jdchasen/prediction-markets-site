@@ -1,15 +1,15 @@
 ---
 title: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?"
-description: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-26
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 4.5
-polymarketNo: 95.5
-polymarketVolume: 9897
+polymarketYes: 3.2
+polymarketNo: 96.8
+polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/will-frank-ocean-have-a-1-song-on-the-billboard-hot-100-in-2026-969-225"
 ---
 
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-frank-ocean-have-a-1-song-on-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.5% | 95.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.2% | 96.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?"?
 
-As of November 26, 2026, Polymarket prices YES at 4.5%.
+As of November 26, 2026, Polymarket prices YES at 3.2%.
 
 ### Where can I trade on this prediction market?
 

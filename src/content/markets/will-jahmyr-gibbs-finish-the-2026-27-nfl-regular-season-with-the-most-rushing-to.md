@@ -3,7 +3,7 @@ title: "Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most ru
 description: "Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most rushing touchdowns? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most rushing touchdowns?"
 category: "sports"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-26
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]

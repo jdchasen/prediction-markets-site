@@ -9,7 +9,7 @@ expiryDate: 2028-11-08
 tags: ["politics", "polymarket", "trump"]
 polymarketYes: 0.9
 polymarketNo: 99.1
-polymarketVolume: 9935208
+polymarketVolume: 9937583
 polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-republican-presidential-nomination"
 ---
 
@@ -22,7 +22,7 @@ polymarketUrl: "https://polymarket.com/event/will-donald-trump-jr-win-the-2028-r
 ## Related Markets
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 - [Will Abigail Spanberger win the 2028 US Presidential Election?](/odds/will-abigail-spanberger-win-the-2028-us-presidential-election) — 0% YES
 
 ## Frequently Asked Questions

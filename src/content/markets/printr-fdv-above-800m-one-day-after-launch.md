@@ -22,8 +22,8 @@ polymarketUrl: "https://polymarket.com/event/printr-fdv-above-800m-one-day-after
 ## Related Markets
 
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
-- [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 10% YES
-- [Ethereal FDV above $500M one day after launch?](/odds/ethereal-fdv-above-500m-one-day-after-launch) — 13% YES
+- [Will Tabi launch a token by December 31, 2026?](/odds/will-tabi-launch-a-token-by-december-31-2026) — 8% YES
+- [Will Betmoar launch a token by March 31, 2027?](/odds/will-betmoar-launch-a-token-by-march-31-2027) — 14% YES
 
 ## Frequently Asked Questions
 

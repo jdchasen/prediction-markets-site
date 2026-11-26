@@ -3,7 +3,7 @@ title: "Will Donald Trump post 60-79 Truth Social posts from November 24 to Dece
 description: "Will Donald Trump post 60-79 Truth Social posts from November 24 to December 1, 2026? Odds: 22.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Donald Trump post 60-79 Truth Social posts from November 24 to December 1, 2026?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-26
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket", "trump"]

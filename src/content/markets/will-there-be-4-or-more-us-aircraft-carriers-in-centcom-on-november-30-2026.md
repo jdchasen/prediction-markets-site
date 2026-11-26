@@ -9,7 +9,7 @@ expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9977
+polymarketVolume: 9992
 polymarketUrl: "https://polymarket.com/event/will-there-be-4-or-more-us-aircraft-carriers-in-centcom-on-november-30-2026"
 ---
 
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-4-or-more-us-aircraft
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 6% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
 
 ## Frequently Asked Questions
 
