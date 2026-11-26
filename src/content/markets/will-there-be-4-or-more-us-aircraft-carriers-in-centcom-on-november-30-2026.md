@@ -4,12 +4,12 @@ description: "Will there be 4 or more US aircraft carriers in CENTCOM on Novembe
 marketQuestion: "Will there be 4 or more US aircraft carriers in CENTCOM on November 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-25
+lastUpdated: 2026-11-26
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 0.1
 polymarketNo: 99.9
-polymarketVolume: 9934
+polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-there-be-4-or-more-us-aircraft-carriers-in-centcom-on-november-30-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-there-be-4-or-more-us-aircraft
 
 ### What are the current odds for "Will there be 4 or more US aircraft carriers in CENTCOM on November 30, 2026?"?
 
-As of November 25, 2026, Polymarket prices YES at 0.1%.
+As of November 26, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

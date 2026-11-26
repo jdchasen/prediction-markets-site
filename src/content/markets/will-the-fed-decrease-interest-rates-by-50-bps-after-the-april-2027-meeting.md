@@ -3,8 +3,8 @@ title: "Will the Fed decrease interest rates by 50+ bps after the April 2027 mee
 description: "Will the Fed decrease interest rates by 50+ bps after the April 2027 meeting? Odds: 1.9% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Fed decrease interest rates by 50+ bps after the April 2027 meeting?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-11-25
+status: "settled"
+lastUpdated: 2026-11-26
 expiryDate: 2027-04-28
 tags: ["economics", "federal-reserve", "interest-rates", "polymarket"]
 polymarketYes: 1.9

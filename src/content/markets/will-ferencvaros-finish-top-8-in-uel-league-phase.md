@@ -3,8 +3,8 @@ title: "Will Ferencvaros finish top 8 in UEL league phase?"
 description: "Will Ferencvaros finish top 8 in UEL league phase? Odds: 73.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ferencvaros finish top 8 in UEL league phase?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-25
+status: "settled"
+lastUpdated: 2026-11-26
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 73.5

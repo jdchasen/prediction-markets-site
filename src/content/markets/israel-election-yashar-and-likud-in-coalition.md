@@ -3,8 +3,8 @@ title: "Israel Election: Yashar and Likud in coalition?"
 description: "Israel Election: Yashar and Likud in coalition? Odds: 18.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Israel Election: Yashar and Likud in coalition?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-25
+status: "settled"
+lastUpdated: 2026-11-26
 expiryDate: 2028-01-01
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 18.0

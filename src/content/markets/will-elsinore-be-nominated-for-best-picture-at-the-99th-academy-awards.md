@@ -4,7 +4,7 @@ description: "Will \"Elsinore\" be nominated for Best Picture at the 99th Academ
 marketQuestion: "Will \"Elsinore\" be nominated for Best Picture at the 99th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-11-25
+lastUpdated: 2026-11-26
 expiryDate: 2027-03-15
 tags: ["entertainment", "polymarket"]
 polymarketYes: 32.5
@@ -23,7 +23,7 @@ polymarketUrl: "https://polymarket.com/event/will-elsinore-be-nominated-for-best
 
 ### What are the current odds for "Will "Elsinore" be nominated for Best Picture at the 99th Academy Awards?"?
 
-As of November 25, 2026, Polymarket prices YES at 32.5%.
+As of November 26, 2026, Polymarket prices YES at 32.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will Elon Musk post 60-79 tweets from November 24 to December 1, 2
 marketQuestion: "Will Elon Musk post 60-79 tweets from November 24 to December 1, 2026?"
 category: "tech"
 status: "active"
-lastUpdated: 2026-11-25
+lastUpdated: 2026-11-26
 expiryDate: 2026-12-01
 tags: ["polymarket", "tech"]
 polymarketYes: 0.1
@@ -27,7 +27,7 @@ polymarketUrl: "https://polymarket.com/event/elon-musk-of-tweets-november-24-dec
 
 ### What are the current odds for "Will Elon Musk post 60-79 tweets from November 24 to December 1, 2026?"?
 
-As of November 25, 2026, Polymarket prices YES at 0.1%.
+As of November 26, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

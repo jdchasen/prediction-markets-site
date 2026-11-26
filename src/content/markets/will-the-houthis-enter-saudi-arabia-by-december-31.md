@@ -1,15 +1,15 @@
 ---
 title: "Will the Houthis enter Saudi Arabia by December 31?"
-description: "Will the Houthis enter Saudi Arabia by December 31? Odds: 11.0% YES on Polymarket. See live prices and trade this market."
+description: "Will the Houthis enter Saudi Arabia by December 31? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the Houthis enter Saudi Arabia by December 31?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-25
+lastUpdated: 2026-11-26
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 11.0
-polymarketNo: 89.0
-polymarketVolume: 99686
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 99982
 polymarketUrl: "https://polymarket.com/event/will-the-houthis-enter-saudi-arabia-by-december-31"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-houthis-enter-saudi-arabia
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.0% | 89.0% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-houthis-enter-saudi-arabia
 
 ### What are the current odds for "Will the Houthis enter Saudi Arabia by December 31?"?
 
-As of November 25, 2026, Polymarket prices YES at 11.0%.
+As of November 26, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

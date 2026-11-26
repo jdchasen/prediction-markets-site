@@ -1,14 +1,14 @@
 ---
 title: "Conservatives flip Liberals for Canada Seats Polls in 2026?"
-description: "Conservatives flip Liberals for Canada Seats Polls in 2026? Odds: 4.0% YES on Polymarket. See live prices and trade this market."
+description: "Conservatives flip Liberals for Canada Seats Polls in 2026? Odds: 3.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Conservatives flip Liberals for Canada Seats Polls in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-25
+lastUpdated: 2026-11-26
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 4.0
-polymarketNo: 96.0
+polymarketYes: 3.8
+polymarketNo: 96.2
 polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/conservatives-flip-liberals-for-canada-seats-polls-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/conservatives-flip-liberals-for-can
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 4.0% | 96.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.8% | 96.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/conservatives-flip-liberals-for-can
 
 ### What are the current odds for "Conservatives flip Liberals for Canada Seats Polls in 2026?"?
 
-As of November 25, 2026, Polymarket prices YES at 4.0%.
+As of November 26, 2026, Polymarket prices YES at 3.8%.
 
 ### Where can I trade on this prediction market?
 

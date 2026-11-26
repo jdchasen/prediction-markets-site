@@ -3,8 +3,8 @@ title: "Will Bitcoin reach $74,000 November 23-29?"
 description: "Will Bitcoin reach $74,000 November 23-29? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Bitcoin reach $74,000 November 23-29?"
 category: "crypto"
-status: "active"
-lastUpdated: 2026-11-25
+status: "settled"
+lastUpdated: 2026-11-26
 expiryDate: 2026-11-30
 tags: ["bitcoin", "crypto", "polymarket"]
 polymarketYes: 0.4

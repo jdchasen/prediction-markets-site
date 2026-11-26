@@ -4,12 +4,12 @@ description: "Will China's annual inflation in 2026 be between 1.6% and 2.0%? Od
 marketQuestion: "Will China's annual inflation in 2026 be between 1.6% and 2.0%?"
 category: "economics"
 status: "active"
-lastUpdated: 2026-11-25
+lastUpdated: 2026-11-26
 expiryDate: 2027-01-10
 tags: ["economics", "polymarket", "sports"]
 polymarketYes: 0.9
 polymarketNo: 99.2
-polymarketVolume: 9917
+polymarketVolume: 9925
 polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-2026-be-between-1pt6-and-2pt0"
 ---
 
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/will-chinas-annual-inflation-in-202
 ## Related Markets
 
 - [Will no Fed rate cuts happen in 2026?](/odds/will-no-fed-rate-cuts-happen-in-2026) — 98% YES
-- [Will the Fed decrease interest rates by 50+ bps after the April 2027 meeting?](/odds/will-the-fed-decrease-interest-rates-by-50-bps-after-the-april-2027-meeting) — 2% YES
-- [Will Canada’s November 2026 unemployment rate be 6.7%?](/odds/will-canadas-november-2026-unemployment-rate-be-67) — 19% YES
+- [Will Canada’s November 2026 unemployment rate be 6.7%?](/odds/will-canadas-november-2026-unemployment-rate-be-67) — 20% YES
+- [Will the November 2026 unemployment rate be 4.1%?](/odds/will-the-november-2026-unemployment-rate-be-41) — 42% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will China's annual inflation in 2026 be between 1.6% and 2.0%?"?
 
-As of November 25, 2026, Polymarket prices YES at 0.9%.
+As of November 26, 2026, Polymarket prices YES at 0.9%.
 
 ### Where can I trade on this prediction market?
 
