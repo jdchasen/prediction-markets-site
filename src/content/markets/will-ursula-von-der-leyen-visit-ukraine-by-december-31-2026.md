@@ -3,8 +3,8 @@ title: "Will Ursula von der Leyen visit Ukraine by December 31, 2026?"
 description: "Will Ursula von der Leyen visit Ukraine by December 31, 2026? Odds: 15.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ursula von der Leyen visit Ukraine by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-26
+status: "settled"
+lastUpdated: 2026-11-27
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 15.5

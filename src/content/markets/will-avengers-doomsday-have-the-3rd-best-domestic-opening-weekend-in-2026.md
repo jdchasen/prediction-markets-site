@@ -4,7 +4,7 @@ description: "Will Avengers: Doomsday have the 3rd best domestic opening weekend
 marketQuestion: "Will Avengers: Doomsday have the 3rd best domestic opening weekend in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-26
+lastUpdated: 2026-11-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.6
@@ -23,13 +23,13 @@ polymarketUrl: "https://polymarket.com/event/will-avengers-doomsday-have-the-3rd
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Avengers: Doomsday have the 3rd best domestic opening weekend in 2026?"?
 
-As of November 26, 2026, Polymarket prices YES at 0.6%.
+As of November 27, 2026, Polymarket prices YES at 0.6%.
 
 ### Where can I trade on this prediction market?
 

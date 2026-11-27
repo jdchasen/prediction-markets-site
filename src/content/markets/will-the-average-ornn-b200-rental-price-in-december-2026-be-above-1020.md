@@ -3,8 +3,8 @@ title: "Will the average Ornn B200 rental price in December 2026 be above $10.20
 description: "Will the average Ornn B200 rental price in December 2026 be above $10.20? Odds: 17.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the average Ornn B200 rental price in December 2026 be above $10.20?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-26
+status: "settled"
+lastUpdated: 2026-11-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 17.5

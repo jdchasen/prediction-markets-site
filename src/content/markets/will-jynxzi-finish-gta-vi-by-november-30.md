@@ -3,8 +3,8 @@ title: "Will Jynxzi finish GTA VI by November 30?"
 description: "Will Jynxzi finish GTA VI by November 30? Odds: 4.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Jynxzi finish GTA VI by November 30?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-26
+status: "settled"
+lastUpdated: 2026-11-27
 expiryDate: 2026-12-01
 tags: ["politics", "polymarket"]
 polymarketYes: 4.5

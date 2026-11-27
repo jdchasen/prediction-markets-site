@@ -3,8 +3,8 @@ title: "Will the average Ornn H100 rental price in March 2027 be above $2.60?"
 description: "Will the average Ornn H100 rental price in March 2027 be above $2.60? Odds: 70.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the average Ornn H100 rental price in March 2027 be above $2.60?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-26
+status: "settled"
+lastUpdated: 2026-11-27
 expiryDate: 2027-04-01
 tags: ["politics", "polymarket"]
 polymarketYes: 70.5

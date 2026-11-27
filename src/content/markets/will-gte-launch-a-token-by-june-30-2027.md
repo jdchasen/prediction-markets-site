@@ -1,14 +1,14 @@
 ---
 title: "Will GTE launch a token by June 30, 2027?"
-description: "Will GTE launch a token by June 30, 2027? Odds: 28.0% YES on Polymarket. See live prices and trade this market."
+description: "Will GTE launch a token by June 30, 2027? Odds: 57.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will GTE launch a token by June 30, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-26
+lastUpdated: 2026-11-27
 expiryDate: 2027-07-01
 tags: ["crypto", "polymarket"]
-polymarketYes: 28.0
-polymarketNo: 72.0
+polymarketYes: 57.0
+polymarketNo: 43.0
 polymarketVolume: 9920
 polymarketUrl: "https://polymarket.com/event/will-gte-launch-a-token-by-june-30-2027"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-gte-launch-a-token-by-june-30-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 28.0% | 72.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 57.0% | 43.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
-- [Will Tabi launch a token by December 31, 2026?](/odds/will-tabi-launch-a-token-by-december-31-2026) — 8% YES
+- [Will Tabi launch a token by December 31, 2026?](/odds/will-tabi-launch-a-token-by-december-31-2026) — 7% YES
 - [Will Betmoar launch a token by March 31, 2027?](/odds/will-betmoar-launch-a-token-by-march-31-2027) — 14% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will GTE launch a token by June 30, 2027?"?
 
-As of November 26, 2026, Polymarket prices YES at 28.0%.
+As of November 27, 2026, Polymarket prices YES at 57.0%.
 
 ### Where can I trade on this prediction market?
 

@@ -1,14 +1,14 @@
 ---
 title: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election?"
-description: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election? Odds: 9.6% YES on Polymarket. See live prices and trade th..."
+description: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election? Odds: 8.1% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-26
+lastUpdated: 2026-11-27
 expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 9.6
-polymarketNo: 90.4
+polymarketYes: 8.1
+polymarketNo: 91.9
 polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/will-david-lisnard-win-the-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
 ---
@@ -17,19 +17,19 @@ polymarketUrl: "https://polymarket.com/event/will-david-lisnard-win-the-most-vot
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 9.6% | 90.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.1% | 91.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
 - [Will Kamala Harris win the 2028 US Presidential Election?](/odds/will-kamala-harris-win-the-2028-us-presidential-election) — 3% YES
 - [Will Donald Trump Jr. win the 2028 Republican presidential nomination?](/odds/will-donald-trump-jr-win-the-2028-republican-presidential-nomination) — 1% YES
-- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 5% YES
+- [Will Lovable be acquired before 2027?](/odds/will-lovable-be-acquired-before-2027) — 4% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will David Lisnard win the most votes in the first round of the 2027 French presidential election?"?
 
-As of November 26, 2026, Polymarket prices YES at 9.6%.
+As of November 27, 2026, Polymarket prices YES at 8.1%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Will Alex Pereira be the UFC Heavyweight Champion on December 31, 2026?"
 description: "Will Alex Pereira be the UFC Heavyweight Champion on December 31, 2026? Odds: 0.3% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Alex Pereira be the UFC Heavyweight Champion on December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-26
+status: "settled"
+lastUpdated: 2026-11-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
 polymarketYes: 0.3
