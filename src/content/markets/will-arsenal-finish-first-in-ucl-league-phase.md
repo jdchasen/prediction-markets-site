@@ -9,7 +9,7 @@ expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 3.4
 polymarketNo: 96.7
-polymarketVolume: 9905
+polymarketVolume: 9926
 polymarketUrl: "https://polymarket.com/event/will-arsenal-finish-first-in-the-2026-27-ucl-league-phase"
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: "Will the next US-Iran senior diplomatic meeting take place in Austria by December 31, 2026?"
-description: "Will the next US-Iran senior diplomatic meeting take place in Austria by December 31, 2026? Odds: 2.2% YES on Polymarket. See live prices and trade this market."
+description: "Will the next US-Iran senior diplomatic meeting take place in Austria by December 31, 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next US-Iran senior diplomatic meeting take place in Austria by December 31, 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 2.2
-polymarketNo: 97.8
-polymarketVolume: 9901
+polymarketYes: 1.7
+polymarketNo: 98.4
+polymarketVolume: 9958
 polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-meeting-be-in-austria-by-september-30-2026-20260622185050769-copy"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 2.2% | 97.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 1.7% | 98.4% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-diplomatic-us-iran-me
 
 ### What are the current odds for "Will the next US-Iran senior diplomatic meeting take place in Austria by December 31, 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 2.2%.
+As of November 27, 2026, Polymarket prices YES at 1.7%.
 
 ### Where can I trade on this prediction market?
 

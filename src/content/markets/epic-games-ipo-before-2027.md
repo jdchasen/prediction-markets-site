@@ -19,6 +19,10 @@ polymarketUrl: "https://polymarket.com/event/epic-games-ipo-before-2027"
 |----------|-----|-----|--------|-------|
 | Polymarket | 1.5% | 98.6% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
+## Related Markets
+
+- [Moody's or S&P downgrades France by November 30, 2026?](/odds/moodys-or-sp-downgrades-france-by-november-30-2026) — 8% YES
+
 ## Frequently Asked Questions
 
 ### What are the current odds for "Epic Games IPO before 2027?"?

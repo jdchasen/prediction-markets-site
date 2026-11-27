@@ -3,7 +3,7 @@ title: "Will Argentina’s annual inflation in 2026 be between 35% and 39.9%?"
 description: "Will Argentina’s annual inflation in 2026 be between 35% and 39.9%? Odds: 3.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Argentina’s annual inflation in 2026 be between 35% and 39.9%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-27
 expiryDate: 2027-01-11
 tags: ["economics", "polymarket", "sports"]

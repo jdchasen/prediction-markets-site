@@ -1,14 +1,14 @@
 ---
 title: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election?"
-description: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election? Odds: 8.1% YES on Polymarket. See live prices and trade th..."
+description: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election? Odds: 8.5% YES on Polymarket. See live prices and trade th..."
 marketQuestion: "Will David Lisnard win the most votes in the first round of the 2027 French presidential election?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-27
 expiryDate: 2027-04-18
 tags: ["elections", "politics", "polymarket"]
-polymarketYes: 8.1
-polymarketNo: 91.9
+polymarketYes: 8.5
+polymarketNo: 91.5
 polymarketVolume: 9962
 polymarketUrl: "https://polymarket.com/event/will-david-lisnard-win-the-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-david-lisnard-win-the-most-vot
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 8.1% | 91.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 8.5% | 91.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-david-lisnard-win-the-most-vot
 
 ### What are the current odds for "Will David Lisnard win the most votes in the first round of the 2027 French presidential election?"?
 
-As of November 27, 2026, Polymarket prices YES at 8.1%.
+As of November 27, 2026, Polymarket prices YES at 8.5%.
 
 ### Where can I trade on this prediction market?
 

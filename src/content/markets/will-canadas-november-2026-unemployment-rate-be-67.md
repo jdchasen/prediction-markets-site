@@ -3,7 +3,7 @@ title: "Will Canada’s November 2026 unemployment rate be 6.7%?"
 description: "Will Canada’s November 2026 unemployment rate be 6.7%? Odds: 21.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Canada’s November 2026 unemployment rate be 6.7%?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-27
 expiryDate: 2026-12-04
 tags: ["economics", "polymarket"]

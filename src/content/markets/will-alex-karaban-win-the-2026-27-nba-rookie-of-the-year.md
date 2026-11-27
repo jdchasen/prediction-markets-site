@@ -22,7 +22,8 @@ polymarketUrl: "https://polymarket.com/event/will-alex-karaban-win-the-2026-27-n
 ## Related Markets
 
 - [Will Adam Hamilton win the 2028 Democratic presidential nomination?](/odds/will-adam-hamilton-win-the-2028-democratic-presidential-nomination) — 0% YES
-- [Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?](/odds/will-josh-downs-have-1000-receiving-yards-in-the-2026-27-nfl-regular-season) — 10% YES
+- [Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?](/odds/will-josh-downs-have-1000-receiving-yards-in-the-2026-27-nfl-regular-season) — 8% YES
+- [Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League?](/odds/will-vfb-stuttgart-qualify-for-the-2027-28-uefa-champions-league) — 42% YES
 
 ## Frequently Asked Questions
 

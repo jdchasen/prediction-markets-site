@@ -3,7 +3,7 @@ title: "Will Ethereum hit $6k by September 30, 2027?"
 description: "Will Ethereum hit $6k by September 30, 2027? Odds: 9.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Ethereum hit $6k by September 30, 2027?"
 category: "crypto"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-27
 expiryDate: 2027-10-01
 tags: ["crypto", "ethereum", "polymarket"]

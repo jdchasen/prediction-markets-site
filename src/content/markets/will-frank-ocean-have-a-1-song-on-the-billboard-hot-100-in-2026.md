@@ -1,14 +1,14 @@
 ---
 title: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?"
-description: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026? Odds: 3.2% YES on Polymarket. See live prices and trade this market."
+description: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026? Odds: 3.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-27
 expiryDate: 2026-12-31
 tags: ["politics", "polymarket"]
-polymarketYes: 3.2
-polymarketNo: 96.8
+polymarketYes: 3.4
+polymarketNo: 96.6
 polymarketVolume: 9917
 polymarketUrl: "https://polymarket.com/event/will-frank-ocean-have-a-1-song-on-the-billboard-hot-100-in-2026-969-225"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-frank-ocean-have-a-1-song-on-t
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 3.2% | 96.8% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 3.4% | 96.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-frank-ocean-have-a-1-song-on-t
 
 ### What are the current odds for "Will Frank Ocean have a #1 song on the Billboard Hot 100 in 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 3.2%.
+As of November 27, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

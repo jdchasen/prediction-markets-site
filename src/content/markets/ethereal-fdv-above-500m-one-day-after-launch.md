@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/ethereal-fdv-above-500m-one-day-aft
 
 ## Related Markets
 
+- [Will Cash Cat be the first to hit a $1B FDV?](/odds/will-cash-cat-be-the-first-to-hit-a-1b-fdv) — 1% YES
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 - [Will Tabi launch a token by December 31, 2026?](/odds/will-tabi-launch-a-token-by-december-31-2026) — 7% YES
-- [Will Betmoar launch a token by March 31, 2027?](/odds/will-betmoar-launch-a-token-by-march-31-2027) — 14% YES
 
 ## Frequently Asked Questions
 

@@ -1,14 +1,14 @@
 ---
 title: "Will AI solve Beal's conjecture in 2026?"
-description: "Will AI solve Beal's conjecture in 2026? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
+description: "Will AI solve Beal's conjecture in 2026? Odds: 12.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will AI solve Beal's conjecture in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-27
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 13.5
-polymarketNo: 86.6
+polymarketYes: 12.8
+polymarketNo: 87.2
 polymarketVolume: 9977
 polymarketUrl: "https://polymarket.com/event/will-ai-solve-beals-conjecture-in-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ai-solve-beals-conjecture-in-2
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 13.5% | 86.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.8% | 87.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ai-solve-beals-conjecture-in-2
 
 ### What are the current odds for "Will AI solve Beal's conjecture in 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 13.5%.
+As of November 27, 2026, Polymarket prices YES at 12.8%.
 
 ### Where can I trade on this prediction market?
 

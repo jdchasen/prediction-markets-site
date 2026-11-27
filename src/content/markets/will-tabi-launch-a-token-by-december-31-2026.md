@@ -21,9 +21,9 @@ polymarketUrl: "https://polymarket.com/event/will-tabi-launch-a-token-by-decembe
 
 ## Related Markets
 
+- [Will Cash Cat be the first to hit a $1B FDV?](/odds/will-cash-cat-be-the-first-to-hit-a-1b-fdv) — 1% YES
 - [Probable FDV above $50M one day after launch?](/odds/probable-fdv-above-50m-one-day-after-launch) — 10% YES
 - [Will Betmoar launch a token by March 31, 2027?](/odds/will-betmoar-launch-a-token-by-march-31-2027) — 14% YES
-- [Will Ethereum hit $6k by September 30, 2027?](/odds/will-ethereum-hit-6k-by-september-30-2027) — 10% YES
 
 ## Frequently Asked Questions
 

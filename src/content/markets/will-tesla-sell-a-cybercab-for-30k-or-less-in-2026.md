@@ -1,15 +1,15 @@
 ---
 title: "Will Tesla sell a Cybercab for 30k or less in 2026?"
-description: "Will Tesla sell a Cybercab for 30k or less in 2026? Odds: 72.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Tesla sell a Cybercab for 30k or less in 2026? Odds: 69.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Tesla sell a Cybercab for 30k or less in 2026?"
 category: "politics"
 status: "active"
 lastUpdated: 2026-11-27
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 72.5
-polymarketNo: 27.5
-polymarketVolume: 99018
+polymarketYes: 69.5
+polymarketNo: 30.5
+polymarketVolume: 99704
 polymarketUrl: "https://polymarket.com/event/will-tesla-sell-a-cybercab-for-30k-or-less-in-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-tesla-sell-a-cybercab-for-30k-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 72.5% | 27.5% | $99K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 69.5% | 30.5% | $100K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-tesla-sell-a-cybercab-for-30k-
 
 ### What are the current odds for "Will Tesla sell a Cybercab for 30k or less in 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 72.5%.
+As of November 27, 2026, Polymarket prices YES at 69.5%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,7 +3,7 @@ title: "Will Radovan Višković be the next Chairman of the Council of Ministers
 description: "Will Radovan Višković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina? Odds: 0.7% YES on Polymarket. See live prices and trade thi..."
 marketQuestion: "Will Radovan Višković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?"
 category: "politics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-27
 expiryDate: 2028-08-01
 tags: ["ai", "politics", "polymarket"]

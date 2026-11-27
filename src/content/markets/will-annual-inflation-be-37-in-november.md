@@ -3,7 +3,7 @@ title: "Will annual inflation be 3.7% in November?"
 description: "Will annual inflation be 3.7% in November? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will annual inflation be 3.7% in November?"
 category: "economics"
-status: "active"
+status: "settled"
 lastUpdated: 2026-11-27
 expiryDate: 2026-12-10
 tags: ["economics", "polymarket", "sports"]
