@@ -3,8 +3,8 @@ title: "Will George Russell win the 2026 F1 Qatar Grand Prix?"
 description: "Will George Russell win the 2026 F1 Qatar Grand Prix? Odds: 13.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will George Russell win the 2026 F1 Qatar Grand Prix?"
 category: "sports"
-status: "active"
-lastUpdated: 2026-11-27
+status: "settled"
+lastUpdated: 2026-11-28
 expiryDate: 2026-12-06
 tags: ["polymarket", "sports"]
 polymarketYes: 13.5

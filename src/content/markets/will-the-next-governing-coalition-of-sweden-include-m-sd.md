@@ -3,8 +3,8 @@ title: "Will the next governing coalition of Sweden include M + SD?"
 description: "Will the next governing coalition of Sweden include M + SD? Odds: 0.4% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next governing coalition of Sweden include M + SD?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-27
+status: "settled"
+lastUpdated: 2026-11-28
 expiryDate: 2027-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4

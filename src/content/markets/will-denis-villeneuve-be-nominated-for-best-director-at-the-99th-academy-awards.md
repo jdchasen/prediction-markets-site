@@ -1,14 +1,14 @@
 ---
 title: "Will Denis Villeneuve be nominated for Best Director at the 99th Academy Awards?"
-description: "Will Denis Villeneuve be nominated for Best Director at the 99th Academy Awards? Odds: 66.0% YES on Polymarket. See live prices and trade this market."
+description: "Will Denis Villeneuve be nominated for Best Director at the 99th Academy Awards? Odds: 66.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Denis Villeneuve be nominated for Best Director at the 99th Academy Awards?"
 category: "entertainment"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-03-15
 tags: ["entertainment", "polymarket"]
-polymarketYes: 66.0
-polymarketNo: 34.0
+polymarketYes: 66.5
+polymarketNo: 33.5
 polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-denis-villeneuve-be-nominated-for-best-director-at-the-99th-academy-awards-20261013180153422"
 ---
@@ -17,13 +17,13 @@ polymarketUrl: "https://polymarket.com/event/will-denis-villeneuve-be-nominated-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 66.0% | 34.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 66.5% | 33.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Denis Villeneuve be nominated for Best Director at the 99th Academy Awards?"?
 
-As of November 27, 2026, Polymarket prices YES at 66.0%.
+As of November 28, 2026, Polymarket prices YES at 66.5%.
 
 ### Where can I trade on this prediction market?
 

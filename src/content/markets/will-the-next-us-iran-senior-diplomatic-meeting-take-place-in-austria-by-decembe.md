@@ -3,8 +3,8 @@ title: "Will the next US-Iran senior diplomatic meeting take place in Austria by
 description: "Will the next US-Iran senior diplomatic meeting take place in Austria by December 31, 2026? Odds: 1.7% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will the next US-Iran senior diplomatic meeting take place in Austria by December 31, 2026?"
 category: "politics"
-status: "active"
-lastUpdated: 2026-11-27
+status: "settled"
+lastUpdated: 2026-11-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
 polymarketYes: 1.7

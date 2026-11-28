@@ -4,7 +4,7 @@ description: "Will Beauty And A Beat – Justin Bieber & Nicki Minaj be the #2 s
 marketQuestion: "Will Beauty And A Beat – Justin Bieber & Nicki Minaj be the #2 song for 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-02-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.2
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-beauty-and-a-beat-justin-biebe
 
 ### What are the current odds for "Will Beauty And A Beat – Justin Bieber & Nicki Minaj be the #2 song for 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 0.2%.
+As of November 28, 2026, Polymarket prices YES at 0.2%.
 
 ### Where can I trade on this prediction market?
 

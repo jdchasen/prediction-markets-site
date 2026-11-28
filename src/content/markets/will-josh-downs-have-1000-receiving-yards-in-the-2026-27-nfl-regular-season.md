@@ -4,7 +4,7 @@ description: "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL reg
 marketQuestion: "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-01-27
 tags: ["polymarket", "sports"]
 polymarketYes: 8.0
@@ -22,14 +22,14 @@ polymarketUrl: "https://polymarket.com/event/josh-downs-1000-receiving-yards-202
 ## Related Markets
 
 - [Will Adam Hamilton win the 2028 Democratic presidential nomination?](/odds/will-adam-hamilton-win-the-2028-democratic-presidential-nomination) — 0% YES
-- [Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League?](/odds/will-vfb-stuttgart-qualify-for-the-2027-28-uefa-champions-league) — 42% YES
+- [Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League?](/odds/will-vfb-stuttgart-qualify-for-the-2027-28-uefa-champions-league) — 40% YES
 - [Will Alex Karaban win the 2026-27 NBA Rookie of the Year?](/odds/will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year) — 0% YES
 
 ## Frequently Asked Questions
 
 ### What are the current odds for "Will Josh Downs have 1,000+ receiving yards in the 2026-27 NFL regular season?"?
 
-As of November 27, 2026, Polymarket prices YES at 8.0%.
+As of November 28, 2026, Polymarket prices YES at 8.0%.
 
 ### Where can I trade on this prediction market?
 

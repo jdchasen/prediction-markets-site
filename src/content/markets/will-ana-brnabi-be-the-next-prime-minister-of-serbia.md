@@ -4,7 +4,7 @@ description: "Will Ana Brnabić be the next Prime Minister of Serbia? Odds: 0.1%
 marketQuestion: "Will Ana Brnabić be the next Prime Minister of Serbia?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2028-07-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ana-brnabic-be-the-next-prime-
 
 ### What are the current odds for "Will Ana Brnabić be the next Prime Minister of Serbia?"?
 
-As of November 27, 2026, Polymarket prices YES at 0.1%.
+As of November 28, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

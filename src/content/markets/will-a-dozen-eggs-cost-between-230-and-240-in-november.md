@@ -1,15 +1,15 @@
 ---
 title: "Will a dozen eggs cost between $2.30 and $2.40 in November?"
-description: "Will a dozen eggs cost between $2.30 and $2.40 in November? Odds: 47.0% YES on Polymarket. See live prices and trade this market."
+description: "Will a dozen eggs cost between $2.30 and $2.40 in November? Odds: 46.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will a dozen eggs cost between $2.30 and $2.40 in November?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2026-12-11
 tags: ["politics", "polymarket"]
-polymarketYes: 47.0
-polymarketNo: 53.0
-polymarketVolume: 9968
+polymarketYes: 46.0
+polymarketNo: 54.0
+polymarketVolume: 9975
 polymarketUrl: "https://polymarket.com/event/will-a-dozen-eggs-cost-between-2pt30-and-2pt40-in-november-2026"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-a-dozen-eggs-cost-between-2pt3
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 47.0% | 53.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 46.0% | 54.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-a-dozen-eggs-cost-between-2pt3
 
 ### What are the current odds for "Will a dozen eggs cost between $2.30 and $2.40 in November?"?
 
-As of November 27, 2026, Polymarket prices YES at 47.0%.
+As of November 28, 2026, Polymarket prices YES at 46.0%.
 
 ### Where can I trade on this prediction market?
 

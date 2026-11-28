@@ -4,7 +4,7 @@ description: "Will Cash Cat be the first to hit a $1B FDV? Odds: 1.3% YES on Pol
 marketQuestion: "Will Cash Cat be the first to hit a $1B FDV?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2026-12-26
 tags: ["crypto", "polymarket"]
 polymarketYes: 1.3
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-cash-cat-be-the-first-to-hit-a
 
 ### What are the current odds for "Will Cash Cat be the first to hit a $1B FDV?"?
 
-As of November 27, 2026, Polymarket prices YES at 1.3%.
+As of November 28, 2026, Polymarket prices YES at 1.3%.
 
 ### Where can I trade on this prediction market?
 

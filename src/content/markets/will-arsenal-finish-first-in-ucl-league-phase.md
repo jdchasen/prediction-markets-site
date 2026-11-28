@@ -4,7 +4,7 @@ description: "Will Arsenal finish first in UCL league phase? Odds: 3.4% YES on P
 marketQuestion: "Will Arsenal finish first in UCL league phase?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-02-28
 tags: ["politics", "polymarket"]
 polymarketYes: 3.4
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-arsenal-finish-first-in-the-20
 
 ### What are the current odds for "Will Arsenal finish first in UCL league phase?"?
 
-As of November 27, 2026, Polymarket prices YES at 3.4%.
+As of November 28, 2026, Polymarket prices YES at 3.4%.
 
 ### Where can I trade on this prediction market?
 

@@ -4,7 +4,7 @@ description: "Will Betmoar launch a token by March 31, 2027? Odds: 14.0% YES on 
 marketQuestion: "Will Betmoar launch a token by March 31, 2027?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-04-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 14.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-betmoar-launch-a-token-by-marc
 
 ### What are the current odds for "Will Betmoar launch a token by March 31, 2027?"?
 
-As of November 27, 2026, Polymarket prices YES at 14.0%.
+As of November 28, 2026, Polymarket prices YES at 14.0%.
 
 ### Where can I trade on this prediction market?
 

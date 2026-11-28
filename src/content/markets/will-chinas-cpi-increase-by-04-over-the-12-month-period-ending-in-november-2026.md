@@ -3,8 +3,8 @@ title: "Will China’s CPI increase by ≤0.4% over the 12 month period ending i
 description: "Will China’s CPI increase by ≤0.4% over the 12 month period ending in November 2026? Odds: 48.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will China’s CPI increase by ≤0.4% over the 12 month period ending in November 2026?"
 category: "economics"
-status: "active"
-lastUpdated: 2026-11-27
+status: "settled"
+lastUpdated: 2026-11-28
 expiryDate: 2026-12-09
 tags: ["economics", "polymarket"]
 polymarketYes: 48.5

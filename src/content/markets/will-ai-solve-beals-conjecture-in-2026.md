@@ -4,12 +4,12 @@ description: "Will AI solve Beal's conjecture in 2026? Odds: 12.8% YES on Polyma
 marketQuestion: "Will AI solve Beal's conjecture in 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-01-01
 tags: ["ai", "politics", "polymarket"]
 polymarketYes: 12.8
 polymarketNo: 87.2
-polymarketVolume: 9977
+polymarketVolume: 9978
 polymarketUrl: "https://polymarket.com/event/will-ai-solve-beals-conjecture-in-2026"
 ---
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ai-solve-beals-conjecture-in-2
 
 ### What are the current odds for "Will AI solve Beal's conjecture in 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 12.8%.
+As of November 28, 2026, Polymarket prices YES at 12.8%.
 
 ### Where can I trade on this prediction market?
 

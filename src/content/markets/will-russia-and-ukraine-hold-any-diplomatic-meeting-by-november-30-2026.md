@@ -1,15 +1,15 @@
 ---
 title: "Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026?"
-description: "Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026? Odds: 11.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026? Odds: 12.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 11.5
-polymarketNo: 88.5
-polymarketVolume: 9912
+polymarketYes: 12.5
+polymarketNo: 87.5
+polymarketVolume: 9944
 polymarketUrl: "https://polymarket.com/event/will-russia-and-ukraine-hold-any-diplomatic-meeting-by-november-30-2026-20261111"
 ---
 
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-and-ukraine-hold-any-di
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 11.5% | 88.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 12.5% | 87.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-russia-and-ukraine-hold-any-di
 
 ### What are the current odds for "Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 11.5%.
+As of November 28, 2026, Polymarket prices YES at 12.5%.
 
 ### Where can I trade on this prediction market?
 

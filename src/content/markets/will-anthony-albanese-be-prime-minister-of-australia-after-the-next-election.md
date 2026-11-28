@@ -4,7 +4,7 @@ description: "Will Anthony Albanese be Prime Minister of Australia after the nex
 marketQuestion: "Will Anthony Albanese be Prime Minister of Australia after the next election?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2028-09-24
 tags: ["elections", "politics", "polymarket"]
 polymarketYes: 37.5
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-anthony-albanese-be-prime-mini
 
 ### What are the current odds for "Will Anthony Albanese be Prime Minister of Australia after the next election?"?
 
-As of November 27, 2026, Polymarket prices YES at 37.5%.
+As of November 28, 2026, Polymarket prices YES at 37.5%.
 
 ### Where can I trade on this prediction market?
 

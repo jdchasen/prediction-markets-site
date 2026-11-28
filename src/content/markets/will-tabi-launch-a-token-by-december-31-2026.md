@@ -4,7 +4,7 @@ description: "Will Tabi launch a token by December 31, 2026? Odds: 7.0% YES on P
 marketQuestion: "Will Tabi launch a token by December 31, 2026?"
 category: "crypto"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-01-01
 tags: ["crypto", "polymarket"]
 polymarketYes: 7.0
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-tabi-launch-a-token-by-decembe
 
 ### What are the current odds for "Will Tabi launch a token by December 31, 2026?"?
 
-As of November 27, 2026, Polymarket prices YES at 7.0%.
+As of November 28, 2026, Polymarket prices YES at 7.0%.
 
 ### Where can I trade on this prediction market?
 

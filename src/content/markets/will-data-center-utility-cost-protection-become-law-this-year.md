@@ -1,14 +1,14 @@
 ---
 title: "Will Data center utility cost protection become law this year?"
-description: "Will Data center utility cost protection become law this year? Odds: 33.5% YES on Polymarket. See live prices and trade this market."
+description: "Will Data center utility cost protection become law this year? Odds: 33.0% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will Data center utility cost protection become law this year?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-01-01
 tags: ["politics", "polymarket"]
-polymarketYes: 33.5
-polymarketNo: 66.5
+polymarketYes: 33.0
+polymarketNo: 67.0
 polymarketVolume: 9964
 polymarketUrl: "https://polymarket.com/event/will-data-center-utility-cost-protection-become-law-this-year"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-data-center-utility-cost-prote
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 33.5% | 66.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 33.0% | 67.0% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-data-center-utility-cost-prote
 
 ### What are the current odds for "Will Data center utility cost protection become law this year?"?
 
-As of November 27, 2026, Polymarket prices YES at 33.5%.
+As of November 28, 2026, Polymarket prices YES at 33.0%.
 
 ### Where can I trade on this prediction market?
 

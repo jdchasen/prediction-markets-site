@@ -1,14 +1,14 @@
 ---
 title: "Will OpenAI have the second highest private market valuation at the end of November?"
-description: "Will OpenAI have the second highest private market valuation at the end of November? Odds: 96.2% YES on Polymarket. See live prices and trade this market."
+description: "Will OpenAI have the second highest private market valuation at the end of November? Odds: 95.8% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will OpenAI have the second highest private market valuation at the end of November?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2026-12-01
 tags: ["ai", "politics", "polymarket"]
-polymarketYes: 96.2
-polymarketNo: 3.9
+polymarketYes: 95.8
+polymarketNo: 4.2
 polymarketVolume: 9988
 polymarketUrl: "https://polymarket.com/event/will-openai-have-the-second-highest-private-market-valuation-on-november-30-2026"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-openai-have-the-second-highest
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 96.2% | 3.9% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 95.8% | 4.2% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-openai-have-the-second-highest
 
 ### What are the current odds for "Will OpenAI have the second highest private market valuation at the end of November?"?
 
-As of November 27, 2026, Polymarket prices YES at 96.2%.
+As of November 28, 2026, Polymarket prices YES at 95.8%.
 
 ### Where can I trade on this prediction market?
 

@@ -3,8 +3,8 @@ title: "Moody's or S&P downgrades France by November 30, 2026?"
 description: "Moody's or S&P downgrades France by November 30, 2026? Odds: 8.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Moody's or S&P downgrades France by November 30, 2026?"
 category: "finance"
-status: "active"
-lastUpdated: 2026-11-27
+status: "settled"
+lastUpdated: 2026-11-28
 expiryDate: 2026-12-01
 tags: ["finance", "polymarket", "stocks"]
 polymarketYes: 8.5

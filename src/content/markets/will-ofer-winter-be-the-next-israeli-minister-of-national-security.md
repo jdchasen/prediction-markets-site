@@ -4,11 +4,11 @@ description: "Will Ofer Winter be the next Israeli Minister of National Security
 marketQuestion: "Will Ofer Winter be the next Israeli Minister of National Security?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-03-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.4
-polymarketNo: 99.6
+polymarketNo: 99.7
 polymarketVolume: 9970
 polymarketUrl: "https://polymarket.com/event/will-ofer-winter-be-the-next-israeli-minister-of-national-security"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-ofer-winter-be-the-next-israel
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 0.4% | 99.6% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 0.4% | 99.7% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-ofer-winter-be-the-next-israel
 
 ### What are the current odds for "Will Ofer Winter be the next Israeli Minister of National Security?"?
 
-As of November 27, 2026, Polymarket prices YES at 0.4%.
+As of November 28, 2026, Polymarket prices YES at 0.4%.
 
 ### Where can I trade on this prediction market?
 

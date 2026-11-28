@@ -4,7 +4,7 @@ description: "Will the next governing coalition of Sweden include S + MP + C + L
 marketQuestion: "Will the next governing coalition of Sweden include S + MP + C + L?"
 category: "politics"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-08-01
 tags: ["politics", "polymarket"]
 polymarketYes: 0.1
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-the-next-governing-coalition-o
 
 ### What are the current odds for "Will the next governing coalition of Sweden include S + MP + C + L?"?
 
-As of November 27, 2026, Polymarket prices YES at 0.1%.
+As of November 28, 2026, Polymarket prices YES at 0.1%.
 
 ### Where can I trade on this prediction market?
 

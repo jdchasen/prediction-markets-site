@@ -1,14 +1,14 @@
 ---
 title: "Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League?"
-description: "Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League? Odds: 42.5% YES on Polymarket. See live prices and trade this market."
+description: "Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League? Odds: 40.5% YES on Polymarket. See live prices and trade this market."
 marketQuestion: "Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League?"
 category: "sports"
 status: "active"
-lastUpdated: 2026-11-27
+lastUpdated: 2026-11-28
 expiryDate: 2027-09-01
 tags: ["polymarket", "sports"]
-polymarketYes: 42.5
-polymarketNo: 57.5
+polymarketYes: 40.5
+polymarketNo: 59.5
 polymarketVolume: 9976
 polymarketUrl: "https://polymarket.com/event/will-vfb-stuttgart-qualify-for-the-2027-28-uefa-champions-league"
 ---
@@ -17,7 +17,7 @@ polymarketUrl: "https://polymarket.com/event/will-vfb-stuttgart-qualify-for-the-
 
 | Platform | Yes | No | Volume | Trade |
 |----------|-----|-----|--------|-------|
-| Polymarket | 42.5% | 57.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
+| Polymarket | 40.5% | 59.5% | $10K | [Trade on Polymarket](https://polymarket.us/1762?utm_source=masterpredictionmarkets&utm_medium=odds-page&utm_campaign=signup) |
 
 ## Related Markets
 
@@ -29,7 +29,7 @@ polymarketUrl: "https://polymarket.com/event/will-vfb-stuttgart-qualify-for-the-
 
 ### What are the current odds for "Will VfB Stuttgart qualify for the 2027-28 UEFA Champions League?"?
 
-As of November 27, 2026, Polymarket prices YES at 42.5%.
+As of November 28, 2026, Polymarket prices YES at 40.5%.
 
 ### Where can I trade on this prediction market?
 
